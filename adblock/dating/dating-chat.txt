@@ -1,0 +1,74 @@
+! Title: EZOBLOCKER Dating, chat rooms and random video chat
+! Domains: 68 | Updated: 2026-10-05
+! Homepage: https://github.com/MerasusDev/ezoblocker.app
+! Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/dating/dating-chat.txt
+! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
+! App: https://ezoblocker.app
+||askalemi.net^
+||azarlive.com^
+||badoo.com^
+||bazoocam.live^
+||bazoocam.love^
+||bazoocam.org^
+||blindid.app^
+|chat.mynet.bz^
+||chatalya.com^
+||chatdate.app^
+||chathub.tv^
+||chatroulette.com^
+||chaturro.com^
+||coomeet.chat^
+||dostyeri.org^
+||elitask.com^
+||eniyichat.com^
+||esohbet.net^
+||faceflow.com^
+||gelchat.net^
+||geveze.org^
+||gevezeyeri.com^
+||kalbiminsesi.net^
+||kolaychat.org^
+||lavinsta.com^
+||meetme.com^
+||mircalem.net^
+||mircalem.org^
+||mirctr.net^
+||mobilsobe.com^
+||muhabbetiniz.net^
+||omegla.chat^
+||omegle.chat^
+||omegle.com^
+||omegleweb.com^
+||omegleweb.io^
+||ometv.chat^
+||omezy.io^
+||rakipsizsohbet.net^
+||seslichat.com^
+||seslidunya.com^
+||sesliortam.net^
+||sesliserce.com^
+||seslitube.com^
+||seslivatan.com^
+||sevgichat.com^
+||siyahinci.net^
+||skout.com^
+|sohbet.mobildetek.com^
+||sohbetbahane.net^
+||sohbetcan.com^
+||sohbetcenneti.org^
+||sohbetche.net^
+||sohbetci.com^
+||sohbetimsen.net^
+||sohbetsev.net^
+||sohbetyeri.com.tr^
+||sohbetyeri.net^
+||tamsohbet.com^
+||tinder.com^
+||trmirc.net^
+||turkchat.tc^
+||turkishchat.net^
+||turksohbet.chat^
+||turksohbet.net^
+||turkusohbet.com^
+||turkyeri.net^
+|zap.struckd.com^

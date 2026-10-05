@@ -1,0 +1,27 @@
+# Title: EZOBLOCKER Piracy, illegal sports streams
+# Domains: 21 | Updated: 2026-10-05
+# Homepage: https://github.com/MerasusDev/ezoblocker.app
+# Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/piracy/piracy-sports.txt
+# License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
+# App: https://ezoblocker.app
+0.0.0.0 canlimacizlet.altervista.org
+0.0.0.0 jestyayin.org
+0.0.0.0 justintv.co
+0.0.0.0 justintvizle735.top
+0.0.0.0 justintvizlesene.com
+0.0.0.0 justintvlink.altervista.org
+0.0.0.0 justintvmgturkiye.vip
+0.0.0.0 justintvturkiyehd.co
+0.0.0.0 justintvturkiyesh.vip
+0.0.0.0 netspor.co
+0.0.0.0 selcuksportshd.is
+0.0.0.0 taraftarium24-aslan5.com
+0.0.0.0 taraftarium24-live3.com
+0.0.0.0 taraftarium24-patron.com
+0.0.0.0 taraftarium24-ps3.com
+0.0.0.0 taraftarium24-zeustv18.live
+0.0.0.0 taraftarium24-zeustv95.live
+0.0.0.0 taraftarium24.sx
+0.0.0.0 taraftarium24bjk20.com
+0.0.0.0 taraftarium24soturkiye.org
+0.0.0.0 taraftarium24turkiyetv.net

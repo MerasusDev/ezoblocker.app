@@ -1,0 +1,12 @@
+# Title: EZOBLOCKER Gambling, South Africa (za)
+# Domains: 6 | Updated: 2026-10-05
+# Homepage: https://github.com/MerasusDev/ezoblocker.app
+# Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/domains/gambling/countries/za.txt
+# License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
+# App: https://ezoblocker.app
+10bet.se
+apexbets.co.za
+betway.co.bw
+playabets.co.ke
+readysetbet.co.za
+sunbet.co.bw

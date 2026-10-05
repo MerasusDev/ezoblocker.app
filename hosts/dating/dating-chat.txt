@@ -1,0 +1,74 @@
+# Title: EZOBLOCKER Dating, chat rooms and random video chat
+# Domains: 68 | Updated: 2026-10-05
+# Homepage: https://github.com/MerasusDev/ezoblocker.app
+# Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/dating/dating-chat.txt
+# License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
+# App: https://ezoblocker.app
+0.0.0.0 askalemi.net
+0.0.0.0 azarlive.com
+0.0.0.0 badoo.com
+0.0.0.0 bazoocam.live
+0.0.0.0 bazoocam.love
+0.0.0.0 bazoocam.org
+0.0.0.0 blindid.app
+0.0.0.0 chat.mynet.bz
+0.0.0.0 chatalya.com
+0.0.0.0 chatdate.app
+0.0.0.0 chathub.tv
+0.0.0.0 chatroulette.com
+0.0.0.0 chaturro.com
+0.0.0.0 coomeet.chat
+0.0.0.0 dostyeri.org
+0.0.0.0 elitask.com
+0.0.0.0 eniyichat.com
+0.0.0.0 esohbet.net
+0.0.0.0 faceflow.com
+0.0.0.0 gelchat.net
+0.0.0.0 geveze.org
+0.0.0.0 gevezeyeri.com
+0.0.0.0 kalbiminsesi.net
+0.0.0.0 kolaychat.org
+0.0.0.0 lavinsta.com
+0.0.0.0 meetme.com
+0.0.0.0 mircalem.net
+0.0.0.0 mircalem.org
+0.0.0.0 mirctr.net
+0.0.0.0 mobilsobe.com
+0.0.0.0 muhabbetiniz.net
+0.0.0.0 omegla.chat
+0.0.0.0 omegle.chat
+0.0.0.0 omegle.com
+0.0.0.0 omegleweb.com
+0.0.0.0 omegleweb.io
+0.0.0.0 ometv.chat
+0.0.0.0 omezy.io
+0.0.0.0 rakipsizsohbet.net
+0.0.0.0 seslichat.com
+0.0.0.0 seslidunya.com
+0.0.0.0 sesliortam.net
+0.0.0.0 sesliserce.com
+0.0.0.0 seslitube.com
+0.0.0.0 seslivatan.com
+0.0.0.0 sevgichat.com
+0.0.0.0 siyahinci.net
+0.0.0.0 skout.com
+0.0.0.0 sohbet.mobildetek.com
+0.0.0.0 sohbetbahane.net
+0.0.0.0 sohbetcan.com
+0.0.0.0 sohbetcenneti.org
+0.0.0.0 sohbetche.net
+0.0.0.0 sohbetci.com
+0.0.0.0 sohbetimsen.net
+0.0.0.0 sohbetsev.net
+0.0.0.0 sohbetyeri.com.tr
+0.0.0.0 sohbetyeri.net
+0.0.0.0 tamsohbet.com
+0.0.0.0 tinder.com
+0.0.0.0 trmirc.net
+0.0.0.0 turkchat.tc
+0.0.0.0 turkishchat.net
+0.0.0.0 turksohbet.chat
+0.0.0.0 turksohbet.net
+0.0.0.0 turkusohbet.com
+0.0.0.0 turkyeri.net
+0.0.0.0 zap.struckd.com

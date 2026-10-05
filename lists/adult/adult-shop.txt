@@ -1,0 +1,52 @@
+# Title: EZOBLOCKER Adult, adult shops
+# Domains: 46 | Updated: 2026-10-05
+# Homepage: https://github.com/MerasusDev/ezoblocker.app
+# Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/lists/adult/adult-shop.txt
+# License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
+# App: https://ezoblocker.app
+*.112sexshop.com
+*.adamandeva.shop
+*.agorshop.com
+*.albonishop.com
+*.ankarasexshop.net
+*.antalyasexshop.com
+*.armonishop.com
+*.bitkiselshop.com.tr
+*.dame.com
+*.easytoys.uk
+*.eromega.com
+*.erotikmagazam.com
+*.erotikshop.com.tr
+*.erox.com.tr
+*.honeybirdette.com
+*.hulyahalat.com
+*.istanbulseksshop.com
+*.jokershop.com.tr
+*.kirmizicadde.com
+*.kissers.com.tr
+*.linfini.co
+*.lovelysins.com
+*.loversstores.com
+*.lucky-bull.hr
+*.mahremdukkani.com
+*.markamama.com.tr
+*.noktashop.com.tr
+*.papyonshop.com
+*.pendikseksshop.com
+*.positive-vibrations.hr
+*.pureloveshop.com.tr
+*.romp.toys
+*.saklikeyf.com
+*.saklimarket.com
+*.seksshop.com.tr
+*.senserotikshop.com
+*.sexshopankara.com
+*.sexshopist.com
+*.sexwell.bg
+*.shibariturk.com
+*.spicerack.market
+*.taksimsexshop.com
+*.tayf.ist
+*.violetboutique.net
+*.wetforher.com
+*.yasakelmam.com

@@ -1,0 +1,67 @@
+! Title: EZOBLOCKER Gambling, International (intl)
+! Domains: 61 | Updated: 2026-10-05
+! Homepage: https://github.com/MerasusDev/ezoblocker.app
+! Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/gambling/countries/intl.txt
+! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
+! App: https://ezoblocker.app
+||10bet.se^
+||1xbet.rs^
+||22bet.co.tz^
+||22bet.co.zm^
+||22bet.ug^
+||888sport.ro^
+||afropari.ng^
+||avabetegypt.com^
+||baji.live^
+||bcgame.mx^
+||bcgamebet.ng^
+||betano.be^
+||betinia.ro^
+||betsafe.ee^
+||betsson.cm^
+||betsson.dk^
+||betting.co.mw^
+||betting.co.zm^
+||betting.co.zw^
+||betway.co.bw^
+||betwinner.co.tz^
+||bkolimp.kg^
+||bongobongo.co.tz^
+||bongobongo.co.zm^
+||casumo.es^
+||codere.pa^
+||comeon.pl^
+||cwinz.com^
+||daznbet.es^
+||football.com^
+||helabet.co.tz^
+||helabet.ng^
+||helabetke.com^
+||lottoland.mx^
+||marathonbet.dk^
+||matchbook.mx^
+||meridianbet.ba^
+||meridianbet.be^
+||meridianbet.com.cy^
+||meridianbet.me^
+||meridianbet.ng^
+||minibet.games^
+||mojabet.co.zm^
+||mojabet.ng^
+||mrbit.ba^
+||netbet.gr^
+||netbet.it^
+||novibet.fi^
+||novibet.it^
+||olimpkz.com^
+||optibet.ee^
+||paripesa.co.zm^
+||pokerstars.se^
+||sportium.com.co^
+||sportybet.co.cm^
+||tonybet.lv^
+||virginbet.co.za^
+||williamhill.us^
+||winmasters.com.cy^
+||zeturf.be^
+||zeturf.nl^
