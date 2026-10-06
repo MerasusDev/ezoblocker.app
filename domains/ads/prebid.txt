@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Ads, ad exchange endpoints from Prebid.js / Prebid Server adapters
-# Domains: 293 | Updated: 2026-10-05
+# Domains: 292 | Updated: 2026-10-06
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/domains/ads/prebid.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -234,7 +234,6 @@ s-bid.rmp.rakuten.com
 s.oa.opera.com
 s2s.sportslocalmedia.com
 service.gnetrtb.com
-sf16-static.i18n-pglstatp.com
 srv.adklip.net
 srv.kntxy.com
 ssp-cookie.logan.ai

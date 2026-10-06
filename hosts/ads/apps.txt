@@ -1,0 +1,15 @@
+# Title: EZOBLOCKER Ads, apps
+# Domains: 9 | Updated: 2026-10-06
+# Homepage: https://github.com/MerasusDev/ezoblocker.app
+# Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/ads/apps.txt
+# License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
+# App: https://ezoblocker.app
+0.0.0.0 acquire.unity3dusercontent.com
+0.0.0.0 adsurge.com
+0.0.0.0 audiomob.io
+0.0.0.0 bucoup.com
+0.0.0.0 googletagservices.com
+0.0.0.0 i18n-pglstatp.com
+0.0.0.0 nefta.app
+0.0.0.0 p16-ttam-va.ibyteimg.com
+0.0.0.0 voodoo-adn.com

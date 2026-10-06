@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Ads
-! Domains: 294 | Updated: 2026-10-05
+! Domains: 302 | Updated: 2026-10-06
 ! Homepage: https://github.com/MerasusDev/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/ads/all.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -7,6 +7,7 @@
 |a.videoreach.com^
 |abs.cookieless-proxistore.com^
 |acd.op.hicloud.com^
+||acquire.unity3dusercontent.com^
 |ad.adopx.net^
 |ad.invamia.com^
 |ad.suimad.com^
@@ -43,6 +44,7 @@
 |ads.nuba.io^
 |ads.theagenticx.ai^
 |ads.thenexusengine.com^
+||adsurge.com^
 |adx-sg.billowlink.com^
 |alchemyx.live^
 |alchemyx.online^
@@ -59,6 +61,7 @@
 |artechnology-prebid.attekmi.co^
 |auction.adpearl.io^
 |auction.bidespresso.com^
+||audiomob.io^
 |backend.pubrise.ai^
 |balancer.lmgssp.com^
 |balancer.mediayo.ai^
@@ -81,6 +84,7 @@
 |bids.ws^
 |bidsmind.pbsadverxo.com^
 |bn.bidfuse.com^
+||bucoup.com^
 |capi.connatix.com^
 |cdn.bmcdn7.com^
 |cdn.dxkulture.com^
@@ -130,6 +134,7 @@
 |ghb.pgamssp.com^
 |go.mediagotechnology.com^
 |goldplayer.prod.gbadtech.io^
+||googletagservices.com^
 |gum.aidemsrv.com^
 |harrenmedia.pbsadverxo.com^
 |hb.appush.com^
@@ -141,6 +146,7 @@
 |hb.stngo.com^
 |hb.sweetgum.io^
 |hmidssp.com^
+||i18n-pglstatp.com^
 |jambojar-apac-prebid.attekmi.co^
 |jambojar-prebid.attekmi.co^
 |jdpmedia-prebid.attekmi.co^
@@ -154,11 +160,13 @@
 |markapp-apac-prebid.attekmi.co^
 |markapp-prebid.attekmi.co^
 |matching.kubient.net^
+||nefta.app^
 |nexbid.uk^
 |nxs.infy.tv^
 |o.clickiocdn.com^
 |ortb.richaudience.com^
 |ortb2.pubstar-ad.com^
+|p16-ttam-va.ibyteimg.com^
 |panxo-sys.com^
 |pb.anyrtb.com^
 |pb.optimizerx.com^
@@ -235,7 +243,6 @@
 |s.oa.opera.com^
 |s2s.sportslocalmedia.com^
 |service.gnetrtb.com^
-|sf16-static.i18n-pglstatp.com^
 |srv.adklip.net^
 |srv.kntxy.com^
 |ssp-cookie.logan.ai^
@@ -291,6 +298,7 @@
 |usync.rocketlab.ai^
 |usync.smxconv.com^
 |v.ex.co^
+||voodoo-adn.com^
 |vpb-server.jwplayer.com^
 |web-rtb.anyrtb.com^
 |web.hb.ad.cpe.dotomi.com^

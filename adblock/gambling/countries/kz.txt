@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Gambling, KZ (kz)
-! Domains: 2 | Updated: 2026-10-05
+! Domains: 2 | Updated: 2026-10-06
 ! Homepage: https://github.com/MerasusDev/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/gambling/countries/kz.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.

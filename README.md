@@ -6,7 +6,7 @@
 
 [Website](https://ezoblocker.app) · [Google Play](https://play.google.com/store/apps/details?id=com.mrs.blckr) · [App Store](https://apps.apple.com/app/id6816853206) (coming soon)
 
-`1,025` domains · updated 2026-10-05 · refreshed every 6 hours
+`1,039` domains · updated 2026-10-06 · refreshed every 6 hours
 
 </div>
 
@@ -30,8 +30,8 @@ We pay for the search and model APIs ourselves and give the result away. 💚
 | Category | What's inside | Domains | Download |
 |---|---|---:|---|
 | 🛡️ **Security** | Phishing, scams, fake government and bank pages, malware. | 🚧 | first own finds are on the way |
-| 👣 **Trackers** | Analytics and tracking endpoints, SDK telemetry. | 🚧 | first own finds are on the way |
-| 📢 **Ads** | Ad servers, ad exchanges and bidders. | 294 | [wildcard](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/lists/ads/all.txt) · [adblock](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/ads/all.txt) · [hosts](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/ads/all.txt) · [domains](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/domains/ads/all.txt) |
+| 👣 **Trackers** | Analytics and tracking endpoints, SDK telemetry. | 6 | [wildcard](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/lists/trackers/all.txt) · [adblock](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/trackers/all.txt) · [hosts](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/trackers/all.txt) · [domains](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/domains/trackers/all.txt) |
+| 📢 **Ads** | Ad servers, ad exchanges and bidders. | 302 | [wildcard](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/lists/ads/all.txt) · [adblock](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/ads/all.txt) · [hosts](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/ads/all.txt) · [domains](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/domains/ads/all.txt) |
 | 🎰 **Gambling** | Betting and casino sites, their mirror domains. | 183 | [wildcard](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/lists/gambling/all.txt) · [adblock](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/gambling/all.txt) · [hosts](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/gambling/all.txt) · [domains](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/domains/gambling/all.txt) |
 | 🔞 **Adult** | Adult content and adult shops. | 168 | [wildcard](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/lists/adult/all.txt) · [adblock](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/adult/all.txt) · [hosts](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/adult/all.txt) · [domains](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/domains/adult/all.txt) |
 | 💬 **Social media** | Social networks and their media hosts. | 148 | [wildcard](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/lists/social/all.txt) · [adblock](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/social/all.txt) · [hosts](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/social/all.txt) · [domains](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/domains/social/all.txt) |
@@ -41,9 +41,14 @@ We pay for the search and model APIs ourselves and give the result away. 💚
 
 ### By country and sub-list
 
+**👣 Trackers**
+
+- apps: 6 · [adblock](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/trackers/apps.txt) · [hosts](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/trackers/apps.txt) · [domains](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/domains/trackers/apps.txt)
+
 **📢 Ads**
 
-- ad exchange endpoints from Prebid.js / Prebid Server adapters: 293 · [adblock](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/ads/prebid.txt) · [hosts](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/ads/prebid.txt) · [domains](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/domains/ads/prebid.txt)
+- ad exchange endpoints from Prebid.js / Prebid Server adapters: 292 · [adblock](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/ads/prebid.txt) · [hosts](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/ads/prebid.txt) · [domains](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/domains/ads/prebid.txt)
+- apps: 9 · [adblock](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/ads/apps.txt) · [hosts](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/ads/apps.txt) · [domains](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/domains/ads/apps.txt)
 
 **🎰 Gambling**
 

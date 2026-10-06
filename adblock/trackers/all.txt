@@ -1,7 +1,12 @@
 ! Title: EZOBLOCKER Trackers
-! Domains: 0 | Updated: 2026-10-05
+! Domains: 6 | Updated: 2026-10-06
 ! Homepage: https://github.com/MerasusDev/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/trackers/all.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 ! App: https://ezoblocker.app
-
+|cdp.cloud.unity3d.com^
+|collect.saas.castbox.fm^
+|config.uca.cloud.unity3d.com^
+|e5log1.fineboost.com^
+|e5log1.topgoe.com^
+|engagements.appsflyer.com^
