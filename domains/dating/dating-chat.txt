@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Dating, chat rooms and random video chat
-# Domains: 68 | Updated: 2026-10-06
+# Domains: 71 | Updated: 2026-10-06
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/domains/dating/dating-chat.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -10,6 +10,7 @@ badoo.com
 bazoocam.live
 bazoocam.love
 bazoocam.org
+bazoocam.social
 blindid.app
 chat.mynet.bz
 chatalya.com
@@ -26,6 +27,7 @@ faceflow.com
 gelchat.net
 geveze.org
 gevezeyeri.com
+indiapostgdsonline.cept.gov.in
 kalbiminsesi.net
 kolaychat.org
 lavinsta.com
@@ -66,6 +68,7 @@ tamsohbet.com
 tinder.com
 trmirc.net
 turkchat.tc
+turkchatfm.com
 turkishchat.net
 turksohbet.chat
 turksohbet.net

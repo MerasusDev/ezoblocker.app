@@ -1,21 +1,26 @@
 # Title: EZOBLOCKER Gambling, International (intl)
-# Domains: 61 | Updated: 2026-10-06
+# Domains: 78 | Updated: 2026-10-06
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/gambling/countries/intl.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
 0.0.0.0 10bet.se
+0.0.0.0 1st.game
 0.0.0.0 1xbet.rs
 0.0.0.0 22bet.co.tz
 0.0.0.0 22bet.co.zm
 0.0.0.0 22bet.ug
+0.0.0.0 7777.md
 0.0.0.0 888sport.ro
 0.0.0.0 afropari.ng
 0.0.0.0 avabetegypt.com
 0.0.0.0 baji.live
 0.0.0.0 bcgame.mx
 0.0.0.0 bcgamebet.ng
+0.0.0.0 betandyouafrica.com
 0.0.0.0 betano.be
+0.0.0.0 betgol.pe
+0.0.0.0 bethard.es
 0.0.0.0 betinia.ro
 0.0.0.0 betsafe.ee
 0.0.0.0 betsson.cm
@@ -28,12 +33,17 @@
 0.0.0.0 bkolimp.kg
 0.0.0.0 bongobongo.co.tz
 0.0.0.0 bongobongo.co.zm
+0.0.0.0 campobet.dk
 0.0.0.0 casumo.es
 0.0.0.0 codere.pa
 0.0.0.0 comeon.pl
 0.0.0.0 cwinz.com
+0.0.0.0 dafabet.es
 0.0.0.0 daznbet.es
+0.0.0.0 expekt.dk
+0.0.0.0 firstbet.co.za
 0.0.0.0 football.com
+0.0.0.0 gsb.co.tz
 0.0.0.0 helabet.co.tz
 0.0.0.0 helabet.ng
 0.0.0.0 helabetke.com
@@ -49,17 +59,24 @@
 0.0.0.0 mojabet.co.zm
 0.0.0.0 mojabet.ng
 0.0.0.0 mrbit.ba
+0.0.0.0 mybc.game
 0.0.0.0 netbet.gr
 0.0.0.0 netbet.it
 0.0.0.0 novibet.fi
 0.0.0.0 novibet.it
 0.0.0.0 olimpkz.com
 0.0.0.0 optibet.ee
+0.0.0.0 paf.lv
+0.0.0.0 parimatch.com.cy
 0.0.0.0 paripesa.co.zm
 0.0.0.0 pokerstars.se
+0.0.0.0 scooore.be
+0.0.0.0 speedybet.es
 0.0.0.0 sportium.com.co
 0.0.0.0 sportybet.co.cm
+0.0.0.0 spreadex.dk
 0.0.0.0 tonybet.lv
+0.0.0.0 ubet.kz
 0.0.0.0 virginbet.co.za
 0.0.0.0 williamhill.us
 0.0.0.0 winmasters.com.cy

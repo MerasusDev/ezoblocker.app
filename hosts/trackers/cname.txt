@@ -1,0 +1,30 @@
+# Title: EZOBLOCKER Trackers, cname
+# Domains: 24 | Updated: 2026-10-06
+# Homepage: https://github.com/MerasusDev/ezoblocker.app
+# Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/trackers/cname.txt
+# License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
+# App: https://ezoblocker.app
+0.0.0.0 1p-data.co
+0.0.0.0 at-o.net
+0.0.0.0 attntags.com
+0.0.0.0 custom.plausible.io
+0.0.0.0 customer.etracker.com
+0.0.0.0 dataunlocker.com
+0.0.0.0 dnsdelegation.io
+0.0.0.0 e.truedata.co
+0.0.0.0 edgetag.io
+0.0.0.0 emtag.net
+0.0.0.0 goatcounter.com
+0.0.0.0 iocnt.net
+0.0.0.0 kib.hu
+0.0.0.0 mr-in.com
+0.0.0.0 oghub.io
+0.0.0.0 pl02.prolitteris.2cnt.net
+0.0.0.0 sc.omtrdc.net
+0.0.0.0 stape.io
+0.0.0.0 stape.net
+0.0.0.0 tagcommander.com
+0.0.0.0 utiq-aws.net
+0.0.0.0 webtrekk.net
+0.0.0.0 wizaly.com
+0.0.0.0 xray-superpixel.com

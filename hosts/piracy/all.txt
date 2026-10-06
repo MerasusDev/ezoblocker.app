@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy
-# Domains: 80 | Updated: 2026-10-06
+# Domains: 89 | Updated: 2026-10-06
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/piracy/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -15,8 +15,8 @@
 0.0.0.0 dizigom.cv
 0.0.0.0 dizigom.icu
 0.0.0.0 dizigom.li
+0.0.0.0 diziizle.click
 0.0.0.0 dizilab.to
-0.0.0.0 dizipal2224.com
 0.0.0.0 dizipal3061.live
 0.0.0.0 diziyou.info
 0.0.0.0 diziyou.one
@@ -25,6 +25,7 @@
 0.0.0.0 filmdozu.com
 0.0.0.0 filmekseni.vip
 0.0.0.0 filmiwebteizle.blogspot.com
+0.0.0.0 filmizledim.com
 0.0.0.0 filmmakinesi.to
 0.0.0.0 fullfilmizle.fit
 0.0.0.0 fullfilmizlesene.org
@@ -36,15 +37,19 @@
 0.0.0.0 fullprogramlarindir.cc
 0.0.0.0 fullprogramlarindir.net
 0.0.0.0 fullprogramlarindir.tr
+0.0.0.0 google-play.en.softmany.com
 0.0.0.0 happymod.to
 0.0.0.0 hdfilm-izle.website.org
 0.0.0.0 hdfilmcehennemi.nl
 0.0.0.0 hdfilmcehennemi.one
+0.0.0.0 hdfilmcehennemi4.co
 0.0.0.0 hdfilmizle.live
 0.0.0.0 hdfilmizle.to
+0.0.0.0 hdfilmizlede.org
 0.0.0.0 hdfilmizlesende.com
 0.0.0.0 hdfilmizlesene.to
 0.0.0.0 jestyayin.org
+0.0.0.0 jestyayingiris11.xyz
 0.0.0.0 jetfilmizle.now
 0.0.0.0 justintv.co
 0.0.0.0 justintvizle735.top
@@ -54,6 +59,7 @@
 0.0.0.0 justintvturkiyehd.co
 0.0.0.0 justintvturkiyesh.vip
 0.0.0.0 latestmodapks.com
+0.0.0.0 minidiziizle.com
 0.0.0.0 mp3indirdur.com.tr
 0.0.0.0 mp3indirdur.pro
 0.0.0.0 netspor.co
@@ -62,9 +68,11 @@
 0.0.0.0 oyunindir.vip
 0.0.0.0 pdfkitapkurdu.blogspot.com
 0.0.0.0 pdfkitapoku.org
+0.0.0.0 plusfilmizle.com
 0.0.0.0 selcuksportshd.is
 0.0.0.0 sinemafilmizle.com.tr
 0.0.0.0 sonhdfilm.net
+0.0.0.0 superfilmizle.org
 0.0.0.0 taraftarium24-aslan5.com
 0.0.0.0 taraftarium24-live3.com
 0.0.0.0 taraftarium24-patron.com
@@ -79,6 +87,7 @@
 0.0.0.0 torrentoyunindir.co
 0.0.0.0 trdiziizle.tv
 0.0.0.0 ufilmizle.com
+0.0.0.0 ultra-realistic-mod.apk.cafe
 0.0.0.0 webteizle.buzz
 0.0.0.0 webteizle.info
 0.0.0.0 webteizle3.xyz

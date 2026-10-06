@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling, Türkiye (tr)
-# Domains: 106 | Updated: 2026-10-06
+# Domains: 131 | Updated: 2026-10-06
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/lists/gambling/countries/tr.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -10,6 +10,7 @@
 *.3064marsbahis.com
 *.37betmatik.com
 *.41betmatik.com
+*.933hilbet.com
 *.affiliatesbetpas.com
 *.anadolucasino.blog
 *.anadolucasinoblog2.com
@@ -29,6 +30,7 @@
 *.bethousegiris.com
 *.bethouseguncel.com
 *.betist2116.com
+*.betist2117.com
 *.betkom.net
 *.betkom533.com
 *.betkom929.com
@@ -43,9 +45,14 @@
 *.betturkey.ws
 *.betturkeygir.com
 *.betwoongiris.org
+*.bonussokagi.com
+*.c.casino
 *.casinomaxigir1.com
 *.celtabet.com.tr
 *.cevdet9.live
+cse.vu.edu.bd
+*.dodoref7.com
+*.dpselectricalmkltd.co.uk
 *.elexbet20.com
 *.galabet-giris-adresi.xyz
 *.grandpashabet-logins.vip
@@ -54,21 +61,34 @@
 *.iddaa.com
 *.jetbahis.co
 *.jojobetresmigiris-adres.com
+*.kodikosbonus.com
 *.kumarbazsitesi.com
+legacy.dillonheraldonline.com
 *.lordcasino.com.tr
 *.lordcasino.org
+m.north.maxilashboston.com
+m.wi.borderlandsbrewing.com
 *.maltcasino.cc
-*.marsbahiscasinoburada.com
+*.marsbahis-nico.vip
+*.marsbahis01.com
 *.matadorbet.com
 *.matadorbet.net
 *.maxwin.cx
 *.maxwin.gen.tr
 *.meritking-gercekgiris.com
 *.meritking.news
+*.meritkingnet.com
+misje.diecezja.pl
+*.mobilbahisdestek1.com
+*.mojobet795.com
 *.mostbet-resmi.co.com
+*.nakitbahis.cam
+*.nakitbahis.com
+*.nakitbahisgiris.wiki
 *.onwin.com
 *.oonwin.com
 *.padisah.best
+*.padisah.pro
 *.padisah.site
 *.padisahbet-lisans.vip
 *.padisahbet-logins.vip
@@ -80,19 +100,23 @@
 *.pusulabet1129.com
 *.pusulabet5015.com
 *.pusulabet5016.com
+*.pusulabet5017.com
 *.ramadabetgir.com
-*.restbet-bahissitesi.vip
 *.restbetgirisi.click
-*.restbetyeniadresi.com
 *.rex-bet.name
 *.rexbet.link
 *.sekabet.guru
+*.sezonbahis446.com
+*.sezonbahis447.com
+*.shipstampsociety.com
+*.sonbahis724.com
 superbahis.guncel-giris.org
 *.superbahisyeniadresleri.com
 *.superbetin.ws
 *.superbetin2151.com
 *.superbetingiris724.co
 *.superbetinyenigiris.co
+*.tempobetde.com
 *.trbet282.com
 *.trbet599.com
 *.trbet860.com
@@ -110,3 +134,4 @@ superbahis.guncel-giris.org
 *.verabet.com
 vipre.pohado.top
 *.wonderscope.com
+ws.christostogo.com

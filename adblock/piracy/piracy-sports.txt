@@ -1,11 +1,12 @@
 ! Title: EZOBLOCKER Piracy, illegal sports streams
-! Domains: 21 | Updated: 2026-10-06
+! Domains: 22 | Updated: 2026-10-06
 ! Homepage: https://github.com/MerasusDev/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/piracy/piracy-sports.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 ! App: https://ezoblocker.app
 ||canlimacizlet.altervista.org^
 ||jestyayin.org^
+||jestyayingiris11.xyz^
 ||justintv.co^
 ||justintvizle735.top^
 ||justintvizlesene.com^

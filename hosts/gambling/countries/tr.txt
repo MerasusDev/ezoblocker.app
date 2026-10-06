@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling, Türkiye (tr)
-# Domains: 106 | Updated: 2026-10-06
+# Domains: 131 | Updated: 2026-10-06
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/gambling/countries/tr.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -10,6 +10,7 @@
 0.0.0.0 3064marsbahis.com
 0.0.0.0 37betmatik.com
 0.0.0.0 41betmatik.com
+0.0.0.0 933hilbet.com
 0.0.0.0 affiliatesbetpas.com
 0.0.0.0 anadolucasino.blog
 0.0.0.0 anadolucasinoblog2.com
@@ -29,6 +30,7 @@
 0.0.0.0 bethousegiris.com
 0.0.0.0 bethouseguncel.com
 0.0.0.0 betist2116.com
+0.0.0.0 betist2117.com
 0.0.0.0 betkom.net
 0.0.0.0 betkom533.com
 0.0.0.0 betkom929.com
@@ -43,9 +45,14 @@
 0.0.0.0 betturkey.ws
 0.0.0.0 betturkeygir.com
 0.0.0.0 betwoongiris.org
+0.0.0.0 bonussokagi.com
+0.0.0.0 c.casino
 0.0.0.0 casinomaxigir1.com
 0.0.0.0 celtabet.com.tr
 0.0.0.0 cevdet9.live
+0.0.0.0 cse.vu.edu.bd
+0.0.0.0 dodoref7.com
+0.0.0.0 dpselectricalmkltd.co.uk
 0.0.0.0 elexbet20.com
 0.0.0.0 galabet-giris-adresi.xyz
 0.0.0.0 grandpashabet-logins.vip
@@ -54,21 +61,34 @@
 0.0.0.0 iddaa.com
 0.0.0.0 jetbahis.co
 0.0.0.0 jojobetresmigiris-adres.com
+0.0.0.0 kodikosbonus.com
 0.0.0.0 kumarbazsitesi.com
+0.0.0.0 legacy.dillonheraldonline.com
 0.0.0.0 lordcasino.com.tr
 0.0.0.0 lordcasino.org
+0.0.0.0 m.north.maxilashboston.com
+0.0.0.0 m.wi.borderlandsbrewing.com
 0.0.0.0 maltcasino.cc
-0.0.0.0 marsbahiscasinoburada.com
+0.0.0.0 marsbahis-nico.vip
+0.0.0.0 marsbahis01.com
 0.0.0.0 matadorbet.com
 0.0.0.0 matadorbet.net
 0.0.0.0 maxwin.cx
 0.0.0.0 maxwin.gen.tr
 0.0.0.0 meritking-gercekgiris.com
 0.0.0.0 meritking.news
+0.0.0.0 meritkingnet.com
+0.0.0.0 misje.diecezja.pl
+0.0.0.0 mobilbahisdestek1.com
+0.0.0.0 mojobet795.com
 0.0.0.0 mostbet-resmi.co.com
+0.0.0.0 nakitbahis.cam
+0.0.0.0 nakitbahis.com
+0.0.0.0 nakitbahisgiris.wiki
 0.0.0.0 onwin.com
 0.0.0.0 oonwin.com
 0.0.0.0 padisah.best
+0.0.0.0 padisah.pro
 0.0.0.0 padisah.site
 0.0.0.0 padisahbet-lisans.vip
 0.0.0.0 padisahbet-logins.vip
@@ -80,19 +100,23 @@
 0.0.0.0 pusulabet1129.com
 0.0.0.0 pusulabet5015.com
 0.0.0.0 pusulabet5016.com
+0.0.0.0 pusulabet5017.com
 0.0.0.0 ramadabetgir.com
-0.0.0.0 restbet-bahissitesi.vip
 0.0.0.0 restbetgirisi.click
-0.0.0.0 restbetyeniadresi.com
 0.0.0.0 rex-bet.name
 0.0.0.0 rexbet.link
 0.0.0.0 sekabet.guru
+0.0.0.0 sezonbahis446.com
+0.0.0.0 sezonbahis447.com
+0.0.0.0 shipstampsociety.com
+0.0.0.0 sonbahis724.com
 0.0.0.0 superbahis.guncel-giris.org
 0.0.0.0 superbahisyeniadresleri.com
 0.0.0.0 superbetin.ws
 0.0.0.0 superbetin2151.com
 0.0.0.0 superbetingiris724.co
 0.0.0.0 superbetinyenigiris.co
+0.0.0.0 tempobetde.com
 0.0.0.0 trbet282.com
 0.0.0.0 trbet599.com
 0.0.0.0 trbet860.com
@@ -110,3 +134,4 @@
 0.0.0.0 verabet.com
 0.0.0.0 vipre.pohado.top
 0.0.0.0 wonderscope.com
+0.0.0.0 ws.christostogo.com

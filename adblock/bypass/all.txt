@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Bypass
-! Domains: 10 | Updated: 2026-10-06
+! Domains: 27 | Updated: 2026-10-06
 ! Homepage: https://github.com/MerasusDev/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/bypass/all.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -7,10 +7,27 @@
 ||ctunnel.com^
 ||dtunnel.net^
 ||expressrefer.com^
+||free-proxy-list.net^
+||freeproxy.win^
 ||k-tunnel.net^
 ||ktunneli.com^
+||proxycoupons.com^
 ||proxynet.io^
 ||proxyscrape.com^
+||shield-way.com^
 ||smartproxy.ai^
+||smartproxy.cn^
+||smartproxy.es^
+||smartproxy.fr^
+||smartproxy.id^
+||smartproxy.it^
+||smartproxy.jp^
+||smartproxy.kr^
+||smartproxy.ma^
+||smartproxy.ru^
+||smartproxy.se^
+||smartproxy.tw^
+||smartproxy.vn^
 ||unblock-websites.com^
+||unblockyoutube.video^
 ||yasaksiteleregiris.org^

@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Ads
-# Domains: 302 | Updated: 2026-10-06
+# Domains: 306 | Updated: 2026-10-06
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/ads/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -19,7 +19,6 @@
 0.0.0.0 adlywise-prebid.attekmi.co
 0.0.0.0 adm.vidyome.com
 0.0.0.0 adn-srv.reckoner-api.com
-0.0.0.0 adn.pilotx.tv
 0.0.0.0 adnex-prebid.attekmi.co
 0.0.0.0 adport.pbsadverxo.com
 0.0.0.0 ads-flipp.com
@@ -45,6 +44,7 @@
 0.0.0.0 ads.theagenticx.ai
 0.0.0.0 ads.thenexusengine.com
 0.0.0.0 adsurge.com
+0.0.0.0 adveradvertismentthebest.com
 0.0.0.0 adx-sg.billowlink.com
 0.0.0.0 alchemyx.live
 0.0.0.0 alchemyx.online
@@ -94,6 +94,7 @@
 0.0.0.0 cds.connatix.com
 0.0.0.0 cittamatra.com
 0.0.0.0 cm.anyrtb.com
+0.0.0.0 config.ssp.taxssp.com
 0.0.0.0 content.adswag.ai
 0.0.0.0 cookie.lmgssp.com
 0.0.0.0 cs.152media-ssp.com
@@ -117,6 +118,8 @@
 0.0.0.0 eu1.oraki.io
 0.0.0.0 eu2.adnetwork.agency
 0.0.0.0 ev.adswag.ai
+0.0.0.0 event-eu.ssp.taxssp.com
+0.0.0.0 event.ssp.taxssp.com
 0.0.0.0 exchange.adtonos.com
 0.0.0.0 exchange.alkimi-onboarding.com
 0.0.0.0 exchange.programmaticx.ai
@@ -160,6 +163,7 @@
 0.0.0.0 markapp-apac-prebid.attekmi.co
 0.0.0.0 markapp-prebid.attekmi.co
 0.0.0.0 matching.kubient.net
+0.0.0.0 mraid.bigo.sg
 0.0.0.0 nefta.app
 0.0.0.0 nexbid.uk
 0.0.0.0 nxs.infy.tv

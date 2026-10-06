@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Ads
-# Domains: 302 | Updated: 2026-10-06
+# Domains: 306 | Updated: 2026-10-06
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/domains/ads/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -19,7 +19,6 @@ adinify-prebid.attekmi.co
 adlywise-prebid.attekmi.co
 adm.vidyome.com
 adn-srv.reckoner-api.com
-adn.pilotx.tv
 adnex-prebid.attekmi.co
 adport.pbsadverxo.com
 ads-flipp.com
@@ -45,6 +44,7 @@ ads.nuba.io
 ads.theagenticx.ai
 ads.thenexusengine.com
 adsurge.com
+adveradvertismentthebest.com
 adx-sg.billowlink.com
 alchemyx.live
 alchemyx.online
@@ -94,6 +94,7 @@ cdn3.richaudience.com
 cds.connatix.com
 cittamatra.com
 cm.anyrtb.com
+config.ssp.taxssp.com
 content.adswag.ai
 cookie.lmgssp.com
 cs.152media-ssp.com
@@ -117,6 +118,8 @@ eu.a.viddea.com
 eu1.oraki.io
 eu2.adnetwork.agency
 ev.adswag.ai
+event-eu.ssp.taxssp.com
+event.ssp.taxssp.com
 exchange.adtonos.com
 exchange.alkimi-onboarding.com
 exchange.programmaticx.ai
@@ -160,6 +163,7 @@ lunamedia.bid
 markapp-apac-prebid.attekmi.co
 markapp-prebid.attekmi.co
 matching.kubient.net
+mraid.bigo.sg
 nefta.app
 nexbid.uk
 nxs.infy.tv

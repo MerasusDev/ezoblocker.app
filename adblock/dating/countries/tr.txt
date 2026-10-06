@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Dating, Türkiye (tr)
-! Domains: 108 | Updated: 2026-10-06
+! Domains: 112 | Updated: 2026-10-06
 ! Homepage: https://github.com/MerasusDev/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/dating/countries/tr.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -12,6 +12,7 @@
 ||bazoocam.live^
 ||bazoocam.love^
 ||bazoocam.org^
+||bazoocam.social^
 ||blindid.app^
 ||bumble.com^
 ||bumble.com.tr^
@@ -50,6 +51,7 @@
 ||gevezeyeri.com^
 ||gleeden.com^
 ||gonuldensevenler.com^
+|indiapostgdsonline.cept.gov.in^
 ||kalbiminsesi.net^
 ||kolaychat.org^
 ||lavinsta.com^
@@ -103,8 +105,10 @@
 ||tamsohbet.net^
 ||tamsohbet.tr^
 ||tinder.com^
+||tinderprofile.ai^
 ||trmirc.net^
 ||turkchat.tc^
+||turkchatfm.com^
 ||turkirc.com^
 ||turkishchat.net^
 ||turksohbet.chat^

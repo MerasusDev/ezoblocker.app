@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Bypass
-# Domains: 10 | Updated: 2026-10-06
+# Domains: 27 | Updated: 2026-10-06
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/bypass/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -7,10 +7,27 @@
 0.0.0.0 ctunnel.com
 0.0.0.0 dtunnel.net
 0.0.0.0 expressrefer.com
+0.0.0.0 free-proxy-list.net
+0.0.0.0 freeproxy.win
 0.0.0.0 k-tunnel.net
 0.0.0.0 ktunneli.com
+0.0.0.0 proxycoupons.com
 0.0.0.0 proxynet.io
 0.0.0.0 proxyscrape.com
+0.0.0.0 shield-way.com
 0.0.0.0 smartproxy.ai
+0.0.0.0 smartproxy.cn
+0.0.0.0 smartproxy.es
+0.0.0.0 smartproxy.fr
+0.0.0.0 smartproxy.id
+0.0.0.0 smartproxy.it
+0.0.0.0 smartproxy.jp
+0.0.0.0 smartproxy.kr
+0.0.0.0 smartproxy.ma
+0.0.0.0 smartproxy.ru
+0.0.0.0 smartproxy.se
+0.0.0.0 smartproxy.tw
+0.0.0.0 smartproxy.vn
 0.0.0.0 unblock-websites.com
+0.0.0.0 unblockyoutube.video
 0.0.0.0 yasaksiteleregiris.org

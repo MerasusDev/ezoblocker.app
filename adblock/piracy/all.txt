@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Piracy
-! Domains: 80 | Updated: 2026-10-06
+! Domains: 89 | Updated: 2026-10-06
 ! Homepage: https://github.com/MerasusDev/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/piracy/all.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -15,8 +15,8 @@
 ||dizigom.cv^
 ||dizigom.icu^
 ||dizigom.li^
+||diziizle.click^
 ||dizilab.to^
-||dizipal2224.com^
 ||dizipal3061.live^
 ||diziyou.info^
 ||diziyou.one^
@@ -25,6 +25,7 @@
 ||filmdozu.com^
 ||filmekseni.vip^
 ||filmiwebteizle.blogspot.com^
+||filmizledim.com^
 ||filmmakinesi.to^
 ||fullfilmizle.fit^
 ||fullfilmizlesene.org^
@@ -36,15 +37,19 @@
 ||fullprogramlarindir.cc^
 ||fullprogramlarindir.net^
 ||fullprogramlarindir.tr^
+|google-play.en.softmany.com^
 ||happymod.to^
 |hdfilm-izle.website.org^
 ||hdfilmcehennemi.nl^
 ||hdfilmcehennemi.one^
+||hdfilmcehennemi4.co^
 ||hdfilmizle.live^
 ||hdfilmizle.to^
+||hdfilmizlede.org^
 ||hdfilmizlesende.com^
 ||hdfilmizlesene.to^
 ||jestyayin.org^
+||jestyayingiris11.xyz^
 ||jetfilmizle.now^
 ||justintv.co^
 ||justintvizle735.top^
@@ -54,6 +59,7 @@
 ||justintvturkiyehd.co^
 ||justintvturkiyesh.vip^
 ||latestmodapks.com^
+||minidiziizle.com^
 ||mp3indirdur.com.tr^
 ||mp3indirdur.pro^
 ||netspor.co^
@@ -62,9 +68,11 @@
 ||oyunindir.vip^
 ||pdfkitapkurdu.blogspot.com^
 ||pdfkitapoku.org^
+||plusfilmizle.com^
 ||selcuksportshd.is^
 ||sinemafilmizle.com.tr^
 ||sonhdfilm.net^
+||superfilmizle.org^
 ||taraftarium24-aslan5.com^
 ||taraftarium24-live3.com^
 ||taraftarium24-patron.com^
@@ -79,6 +87,7 @@
 ||torrentoyunindir.co^
 ||trdiziizle.tv^
 ||ufilmizle.com^
+|ultra-realistic-mod.apk.cafe^
 ||webteizle.buzz^
 ||webteizle.info^
 ||webteizle3.xyz^

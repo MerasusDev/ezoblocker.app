@@ -1,0 +1,8 @@
+# Title: EZOBLOCKER Gambling, Romania (ro)
+# Domains: 2 | Updated: 2026-10-06
+# Homepage: https://github.com/MerasusDev/ezoblocker.app
+# Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/gambling/countries/ro.txt
+# License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
+# App: https://ezoblocker.app
+0.0.0.0 stanleybet.be
+0.0.0.0 stanleybet.com.cy

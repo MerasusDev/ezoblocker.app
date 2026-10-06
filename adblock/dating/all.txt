@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Dating
-! Domains: 142 | Updated: 2026-10-06
+! Domains: 146 | Updated: 2026-10-06
 ! Homepage: https://github.com/MerasusDev/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/dating/all.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -14,6 +14,7 @@
 ||bazoocam.live^
 ||bazoocam.love^
 ||bazoocam.org^
+||bazoocam.social^
 ||blackpeoplemeet.com^
 ||blindid.app^
 ||bumble.com^
@@ -65,6 +66,7 @@
 ||her.app^
 ||hily.com^
 ||hinge.co^
+|indiapostgdsonline.cept.gov.in^
 ||jackd.com^
 ||jdate.com^
 ||kalbiminsesi.net^
@@ -134,8 +136,10 @@
 ||tamsohbet.tr^
 ||tantan.com^
 ||tinder.com^
+||tinderprofile.ai^
 ||trmirc.net^
 ||turkchat.tc^
+||turkchatfm.com^
 ||turkirc.com^
 ||turkishchat.net^
 ||turksohbet.chat^
