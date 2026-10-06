@@ -1,14 +1,24 @@
 ! Title: EZOBLOCKER Trackers
-! Domains: 33 | Updated: 2026-10-06
+! Domains: 66 | Updated: 2026-10-06
 ! Homepage: https://github.com/MerasusDev/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/trackers/all.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 ! App: https://ezoblocker.app
 ||1p-data.co^
+||207.net^
+||250analytics.com^
+||advalo.in^
+||askorigin.com^
 ||at-o.net^
 ||attntags.com^
 |attribution.costcenter.net^
+||birch.click^
+||birch.events^
+||birch.host^
+||birchub.us^
+||capisearchlaboratory.com^
 |cdp.cloud.unity3d.com^
+||cerebro.services^
 |collect.saas.castbox.fm^
 |config.uca.cloud.unity3d.com^
 ||custom.plausible.io^
@@ -21,19 +31,42 @@
 ||edgetag.io^
 ||emtag.net^
 |engagements.appsflyer.com^
+||everestengagement.com^
 ||goatcounter.com^
+||hitbox.com^
 ||iocnt.net^
 ||kib.hu^
 ||mr-in.com^
 ||oghub.io^
+||pixelfly.io^
 ||pl02.prolitteris.2cnt.net^
 |prodregistryv2.org^
+||quarx.uk^
+||sanoma-sst.fi^
 ||sc.omtrdc.net^
+||sgtm.space^
+||simpleanalytics.com^
+||simpleanalyticsexternal.com^
+||soureicdn.com^
+||sstsimprosys.com^
+||stape.at^
+||stape.gl^
 ||stape.io^
 ||stape.net^
+||stape.pro^
+||tacoda.net^
 ||tagcommander.com^
+||taggrs.cloud^
+||tagmanagerserverside.it^
+||trackgo.io^
 |tracking-useast.tmbid.com^
+||tracklabs.com.br^
+||trytagging.com^
+||usehardal.com^
+||usercentrics-sst.io^
 ||utiq-aws.net^
 ||webtrekk.net^
 ||wizaly.com^
+||wizaly.net^
 ||xray-superpixel.com^
+||zdbb.net^

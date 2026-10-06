@@ -1,12 +1,22 @@
 # Title: EZOBLOCKER Trackers, cname
-# Domains: 24 | Updated: 2026-10-06
+# Domains: 57 | Updated: 2026-10-06
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/trackers/cname.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
 0.0.0.0 1p-data.co
+0.0.0.0 207.net
+0.0.0.0 250analytics.com
+0.0.0.0 advalo.in
+0.0.0.0 askorigin.com
 0.0.0.0 at-o.net
 0.0.0.0 attntags.com
+0.0.0.0 birch.click
+0.0.0.0 birch.events
+0.0.0.0 birch.host
+0.0.0.0 birchub.us
+0.0.0.0 capisearchlaboratory.com
+0.0.0.0 cerebro.services
 0.0.0.0 custom.plausible.io
 0.0.0.0 customer.etracker.com
 0.0.0.0 dataunlocker.com
@@ -14,17 +24,40 @@
 0.0.0.0 e.truedata.co
 0.0.0.0 edgetag.io
 0.0.0.0 emtag.net
+0.0.0.0 everestengagement.com
 0.0.0.0 goatcounter.com
+0.0.0.0 hitbox.com
 0.0.0.0 iocnt.net
 0.0.0.0 kib.hu
 0.0.0.0 mr-in.com
 0.0.0.0 oghub.io
+0.0.0.0 pixelfly.io
 0.0.0.0 pl02.prolitteris.2cnt.net
+0.0.0.0 quarx.uk
+0.0.0.0 sanoma-sst.fi
 0.0.0.0 sc.omtrdc.net
+0.0.0.0 sgtm.space
+0.0.0.0 simpleanalytics.com
+0.0.0.0 simpleanalyticsexternal.com
+0.0.0.0 soureicdn.com
+0.0.0.0 sstsimprosys.com
+0.0.0.0 stape.at
+0.0.0.0 stape.gl
 0.0.0.0 stape.io
 0.0.0.0 stape.net
+0.0.0.0 stape.pro
+0.0.0.0 tacoda.net
 0.0.0.0 tagcommander.com
+0.0.0.0 taggrs.cloud
+0.0.0.0 tagmanagerserverside.it
+0.0.0.0 trackgo.io
+0.0.0.0 tracklabs.com.br
+0.0.0.0 trytagging.com
+0.0.0.0 usehardal.com
+0.0.0.0 usercentrics-sst.io
 0.0.0.0 utiq-aws.net
 0.0.0.0 webtrekk.net
 0.0.0.0 wizaly.com
+0.0.0.0 wizaly.net
 0.0.0.0 xray-superpixel.com
+0.0.0.0 zdbb.net
