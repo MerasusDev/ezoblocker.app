@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, Türkiye (tr)
-# Domains: 231 | Updated: 2026-10-07
+# Domains: 232 | Updated: 2026-10-07
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/adult/countries/tr.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -54,6 +54,7 @@
 0.0.0.0 colakyapitrabzon.com
 0.0.0.0 coltpod.com
 0.0.0.0 dame.com
+0.0.0.0 denizliescortnews.com
 0.0.0.0 denizlipen.com
 0.0.0.0 dialogistanbul.com
 0.0.0.0 discreetlife.ca
@@ -72,7 +73,6 @@
 0.0.0.0 erotikfim.com
 0.0.0.0 erotikhott.com
 0.0.0.0 erotikjam.com
-0.0.0.0 erotikle3.lat
 0.0.0.0 erotikmagazam.com
 0.0.0.0 erotikshop.com.tr
 0.0.0.0 erotikshopankara.org
@@ -87,6 +87,7 @@
 0.0.0.0 escortsdates.com
 0.0.0.0 escortsecret.com
 0.0.0.0 escortsultanbeyli.com
+0.0.0.0 escortws.com
 0.0.0.0 esenyurtcicekevi.com
 0.0.0.0 esenyurtrehber.com
 0.0.0.0 europescortguide.com

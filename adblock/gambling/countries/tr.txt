@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Gambling, Türkiye (tr)
-! Domains: 131 | Updated: 2026-10-07
+! Domains: 128 | Updated: 2026-10-07
 ! Homepage: https://github.com/MerasusDev/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/gambling/countries/tr.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -35,7 +35,6 @@
 ||betkom533.com^
 ||betkom929.com^
 ||betmatikguncel.lol^
-||betpass.casino^
 ||betsat-guncel-tr.com^
 ||betsatgiris1.com^
 ||betsmovegiris.co^
@@ -60,7 +59,6 @@
 ||holiganbetapp.com^
 ||iddaa.com^
 ||jetbahis.co^
-||jojobetresmigiris-adres.com^
 ||kodikosbonus.com^
 ||kumarbazsitesi.com^
 |legacy.dillonheraldonline.com^
@@ -102,7 +100,6 @@
 ||pusulabet5016.com^
 ||pusulabet5017.com^
 ||ramadabetgir.com^
-||restbetgirisi.click^
 ||rex-bet.name^
 ||rexbet.link^
 ||sekabet.guru^

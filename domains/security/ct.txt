@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Security, ct
-# Domains: 10,974 | Updated: 2026-10-07
+# Domains: 10,976 | Updated: 2026-10-07
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/domains/security/ct.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -229,7 +229,6 @@ account.bdonline.shop
 account.bys-insta-store-51814.com
 account.bys-insta-store-58094.com
 account.ccustoms.shop
-account.com-microsoft-onedrive.ca
 account.com-microsoftonline-ondrive.ca
 account.deutsche-whiskys.shop
 account.deutsche-zentral-akademie.com
@@ -607,6 +606,7 @@ alahli-ria-hyundai.ph
 alert-americanexpress-domain.ph
 alert-cl-whatapp.hl.cn
 alert-icloud.us.com
+alerta-appleid.info
 alertaciudadanatultitlan.mx
 alerts.online.chaseonlinealerts.theuba.com.br
 alibaba.oresundbron.com
@@ -3102,6 +3102,7 @@ go-live-wallet.pages.dev
 go-official-coinbase-wallet-extension.pages.dev
 google-account-verification.pages.dev
 google-isupport.info
+google-k12-alert.com
 google-security-verification.pages.dev
 google-sign-in.pages.dev
 google-support-verifyhelp.ph
@@ -6988,6 +6989,7 @@ nid-naver-mail-nidlogin-login1-zrobumlomnaqsywxegtxcrbv.pages.dev
 ningbankverify-service.com.ph
 ninja-slushi-recovery.pages.dev
 ninjavan-compte-microsoftteams.ph
+ninjavan-logi.top
 nintendo-confirmation-tesla.ph
 nintendo-cz-viilc.icu
 nintendo-kasikornbank.ph
@@ -7610,6 +7612,7 @@ retail-trezorr-helps.pages.dev
 review-kucion-secure.pages.dev
 review-tracking-support-office.pages.dev
 revolut-web-verify.ph
+revolutsupport.net
 revolutsupport.pages.dev
 reward-harian-jago.pages.dev
 ribuan-hadiah-kraken188net-956.pages.dev
@@ -8679,7 +8682,6 @@ starting-vertex-wallet-free.pages.dev
 starts-en-ledgecom-auths.pages.dev
 startup-ruhbinhood-access-en-logiin.pages.dev
 statement-viewonce-givesusquotes-sharepoint.pages.dev
-static-login.com-microsoft-onedrive.ca
 static-login.com-microsoftonline-ondrive.ca
 statusbestellung--kleinanzeigen.rest
 stax-live-wallet.pages.dev
@@ -9239,7 +9241,6 @@ support-openseaa.pages.dev
 support-opnsea-en.pages.dev
 support-opnsea-help.pages.dev
 support-opnsea-info.pages.dev
-support-pago-netflix.com
 support-pancakeswap.pages.dev
 support-robinhood-cdnn.pages.dev
 support-robinhood-logi.pages.dev
@@ -9373,6 +9374,7 @@ support-welcome-kraken-doc.pages.dev
 support-x-upholld-eng.pages.dev
 support.amzaon.workers.dev
 support.broadview-engie.com
+support.grab-cash-now.com
 support.llydsbank.com
 support.nbg.wirth.digital
 support.pbm-paymaya-com.workers.dev

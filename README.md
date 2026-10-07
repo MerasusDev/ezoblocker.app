@@ -6,7 +6,7 @@
 
 [Website](https://ezoblocker.app) · [Google Play](https://play.google.com/store/apps/details?id=com.mrs.blckr) · [App Store](https://apps.apple.com/app/id6816853206) (coming soon)
 
-`194,613` domains · updated 2026-10-07 · refreshed every 6 hours
+`194,056` domains · updated 2026-10-07 · refreshed every 6 hours
 
 </div>
 
@@ -29,21 +29,21 @@ We pay for the search and model APIs ourselves and give the result away. 💚
 
 | Category | What's inside | Domains | Download |
 |---|---|---:|---|
-| 🛡️ **Security** | Phishing, scams, fake government and bank pages, malware. | 10,974 | [wildcard](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/lists/security/all.txt) · [adblock](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/security/all.txt) · [hosts](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/security/all.txt) · [domains](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/domains/security/all.txt) |
+| 🛡️ **Security** | Phishing, scams, fake government and bank pages, malware. | 10,976 | [wildcard](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/lists/security/all.txt) · [adblock](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/security/all.txt) · [hosts](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/security/all.txt) · [domains](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/domains/security/all.txt) |
 | 👣 **Trackers** | Analytics and tracking endpoints, SDK telemetry. | 142 | [wildcard](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/lists/trackers/all.txt) · [adblock](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/trackers/all.txt) · [hosts](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/trackers/all.txt) · [domains](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/domains/trackers/all.txt) |
 | 📢 **Ads** | Ad servers, ad exchanges and bidders. | 314 | [wildcard](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/lists/ads/all.txt) · [adblock](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/ads/all.txt) · [hosts](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/ads/all.txt) · [domains](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/domains/ads/all.txt) |
-| 🎰 **Gambling** | Betting and casino sites, their mirror domains. | 182,542 | [wildcard](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/lists/gambling/all.txt) · [adblock](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/gambling/all.txt) · [hosts](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/gambling/all.txt) · [domains](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/domains/gambling/all.txt) |
-| 🔞 **Adult** | Adult content and adult shops. | 231 | [wildcard](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/lists/adult/all.txt) · [adblock](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/adult/all.txt) · [hosts](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/adult/all.txt) · [domains](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/domains/adult/all.txt) |
+| 🎰 **Gambling** | Betting and casino sites, their mirror domains. | 181,983 | [wildcard](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/lists/gambling/all.txt) · [adblock](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/gambling/all.txt) · [hosts](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/gambling/all.txt) · [domains](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/domains/gambling/all.txt) |
+| 🔞 **Adult** | Adult content and adult shops. | 232 | [wildcard](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/lists/adult/all.txt) · [adblock](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/adult/all.txt) · [hosts](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/adult/all.txt) · [domains](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/domains/adult/all.txt) |
 | 💬 **Social media** | Social networks and their media hosts. | 148 | [wildcard](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/lists/social/all.txt) · [adblock](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/social/all.txt) · [hosts](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/social/all.txt) · [domains](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/domains/social/all.txt) |
 | 🚪 **Bypass** | VPN, proxy and DNS services used to get around filters. | 27 | [wildcard](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/lists/bypass/all.txt) · [adblock](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/bypass/all.txt) · [hosts](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/bypass/all.txt) · [domains](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/domains/bypass/all.txt) |
-| 🏴‍☠️ **Piracy** | Pirate streaming, illegal sports streams, warez. | 89 | [wildcard](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/lists/piracy/all.txt) · [adblock](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/piracy/all.txt) · [hosts](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/piracy/all.txt) · [domains](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/domains/piracy/all.txt) |
+| 🏴‍☠️ **Piracy** | Pirate streaming, illegal sports streams, warez. | 88 | [wildcard](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/lists/piracy/all.txt) · [adblock](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/piracy/all.txt) · [hosts](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/piracy/all.txt) · [domains](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/domains/piracy/all.txt) |
 | 💘 **Dating** | Dating apps, random video chat and chat rooms. | 146 | [wildcard](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/lists/dating/all.txt) · [adblock](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/dating/all.txt) · [hosts](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/dating/all.txt) · [domains](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/domains/dating/all.txt) |
 
 ### By country and sub-list
 
 **🛡️ Security**
 
-- ct: 10,974 · [adblock](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/security/ct.txt) · [hosts](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/security/ct.txt) · [domains](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/domains/security/ct.txt)
+- ct: 10,976 · [adblock](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/security/ct.txt) · [hosts](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/security/ct.txt) · [domains](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/domains/security/ct.txt)
 
 **👣 Trackers**
 
@@ -57,7 +57,7 @@ We pay for the search and model APIs ourselves and give the result away. 💚
 
 **🎰 Gambling**
 
-- Türkiye (tr): 131 · [adblock](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/gambling/countries/tr.txt) · [hosts](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/gambling/countries/tr.txt) · [domains](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/domains/gambling/countries/tr.txt)
+- Türkiye (tr): 128 · [adblock](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/gambling/countries/tr.txt) · [hosts](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/gambling/countries/tr.txt) · [domains](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/domains/gambling/countries/tr.txt)
 - International (intl): 78 · [adblock](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/gambling/countries/intl.txt) · [hosts](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/gambling/countries/intl.txt) · [domains](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/domains/gambling/countries/intl.txt)
 - South Africa (za): 9 · [adblock](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/gambling/countries/za.txt) · [hosts](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/gambling/countries/za.txt) · [domains](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/domains/gambling/countries/za.txt)
 - Mexico (mx): 5 · [adblock](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/gambling/countries/mx.txt) · [hosts](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/gambling/countries/mx.txt) · [domains](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/domains/gambling/countries/mx.txt)
@@ -92,11 +92,11 @@ We pay for the search and model APIs ourselves and give the result away. 💚
 - PA (pa): 1 · [adblock](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/gambling/countries/pa.txt) · [hosts](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/gambling/countries/pa.txt) · [domains](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/domains/gambling/countries/pa.txt)
 - United States (us): 1 · [adblock](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/gambling/countries/us.txt) · [hosts](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/gambling/countries/us.txt) · [domains](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/domains/gambling/countries/us.txt)
 - ZM (zm): 1 · [adblock](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/gambling/countries/zm.txt) · [hosts](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/gambling/countries/zm.txt) · [domains](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/domains/gambling/countries/zm.txt)
-- ct: 182,299 · [adblock](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/gambling/ct.txt) · [hosts](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/gambling/ct.txt) · [domains](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/domains/gambling/ct.txt)
+- ct: 181,743 · [adblock](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/gambling/ct.txt) · [hosts](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/gambling/ct.txt) · [domains](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/domains/gambling/ct.txt)
 
 **🔞 Adult**
 
-- Türkiye (tr): 231 · [adblock](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/adult/countries/tr.txt) · [hosts](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/adult/countries/tr.txt) · [domains](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/domains/adult/countries/tr.txt)
+- Türkiye (tr): 232 · [adblock](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/adult/countries/tr.txt) · [hosts](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/adult/countries/tr.txt) · [domains](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/domains/adult/countries/tr.txt)
 - adult shops: 53 · [adblock](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/adult/adult-shop.txt) · [hosts](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/adult/adult-shop.txt) · [domains](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/domains/adult/adult-shop.txt)
 
 **🚪 Bypass**
@@ -105,7 +105,7 @@ We pay for the search and model APIs ourselves and give the result away. 💚
 
 **🏴‍☠️ Piracy**
 
-- Türkiye (tr): 89 · [adblock](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/piracy/countries/tr.txt) · [hosts](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/piracy/countries/tr.txt) · [domains](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/domains/piracy/countries/tr.txt)
+- Türkiye (tr): 88 · [adblock](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/piracy/countries/tr.txt) · [hosts](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/piracy/countries/tr.txt) · [domains](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/domains/piracy/countries/tr.txt)
 - illegal sports streams: 22 · [adblock](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/piracy/piracy-sports.txt) · [hosts](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/piracy/piracy-sports.txt) · [domains](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/domains/piracy/piracy-sports.txt)
 
 **💘 Dating**

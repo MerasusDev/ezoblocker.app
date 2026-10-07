@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult
-# Domains: 231 | Updated: 2026-10-07
+# Domains: 232 | Updated: 2026-10-07
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/lists/adult/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -54,6 +54,7 @@
 *.colakyapitrabzon.com
 *.coltpod.com
 *.dame.com
+*.denizliescortnews.com
 *.denizlipen.com
 *.dialogistanbul.com
 *.discreetlife.ca
@@ -72,7 +73,6 @@
 *.erotikfim.com
 *.erotikhott.com
 *.erotikjam.com
-*.erotikle3.lat
 *.erotikmagazam.com
 *.erotikshop.com.tr
 *.erotikshopankara.org
@@ -87,6 +87,7 @@
 *.escortsdates.com
 *.escortsecret.com
 *.escortsultanbeyli.com
+*.escortws.com
 *.esenyurtcicekevi.com
 *.esenyurtrehber.com
 *.europescortguide.com
