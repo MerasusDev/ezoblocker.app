@@ -6,7 +6,7 @@
 
 [Website](https://ezoblocker.app) · [Google Play](https://play.google.com/store/apps/details?id=com.mrs.blckr) · [App Store](https://apps.apple.com/app/id6816853206) (coming soon)
 
-`8,628` domains · updated 2026-10-06 · refreshed every 6 hours
+`8,668` domains · updated 2026-10-07 · refreshed every 6 hours
 
 </div>
 
@@ -30,7 +30,7 @@ We pay for the search and model APIs ourselves and give the result away. 💚
 | Category | What's inside | Domains | Download |
 |---|---|---:|---|
 | 🛡️ **Security** | Phishing, scams, fake government and bank pages, malware. | 7,372 | [wildcard](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/lists/security/all.txt) · [adblock](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/security/all.txt) · [hosts](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/security/all.txt) · [domains](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/domains/security/all.txt) |
-| 👣 **Trackers** | Analytics and tracking endpoints, SDK telemetry. | 66 | [wildcard](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/lists/trackers/all.txt) · [adblock](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/trackers/all.txt) · [hosts](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/trackers/all.txt) · [domains](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/domains/trackers/all.txt) |
+| 👣 **Trackers** | Analytics and tracking endpoints, SDK telemetry. | 106 | [wildcard](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/lists/trackers/all.txt) · [adblock](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/trackers/all.txt) · [hosts](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/trackers/all.txt) · [domains](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/domains/trackers/all.txt) |
 | 📢 **Ads** | Ad servers, ad exchanges and bidders. | 306 | [wildcard](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/lists/ads/all.txt) · [adblock](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/ads/all.txt) · [hosts](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/ads/all.txt) · [domains](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/domains/ads/all.txt) |
 | 🎰 **Gambling** | Betting and casino sites, their mirror domains. | 243 | [wildcard](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/lists/gambling/all.txt) · [adblock](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/gambling/all.txt) · [hosts](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/gambling/all.txt) · [domains](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/domains/gambling/all.txt) |
 | 🔞 **Adult** | Adult content and adult shops. | 231 | [wildcard](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/lists/adult/all.txt) · [adblock](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/adult/all.txt) · [hosts](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/adult/all.txt) · [domains](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/domains/adult/all.txt) |
@@ -47,7 +47,7 @@ We pay for the search and model APIs ourselves and give the result away. 💚
 
 **👣 Trackers**
 
-- cname: 57 · [adblock](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/trackers/cname.txt) · [hosts](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/trackers/cname.txt) · [domains](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/domains/trackers/cname.txt)
+- cname: 97 · [adblock](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/trackers/cname.txt) · [hosts](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/trackers/cname.txt) · [domains](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/domains/trackers/cname.txt)
 - apps: 9 · [adblock](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/trackers/apps.txt) · [hosts](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/trackers/apps.txt) · [domains](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/domains/trackers/apps.txt)
 
 **📢 Ads**
