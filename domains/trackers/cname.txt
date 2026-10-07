@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Trackers, cname
-# Domains: 97 | Updated: 2026-10-07
+# Domains: 129 | Updated: 2026-10-07
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/domains/trackers/cname.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -7,17 +7,28 @@
 1p-data.co
 207.net
 250analytics.com
+activitystream.com
 advalo.in
+alma-domain.oursprivacy.com
 analytics.usehardal.com
 app-whitelabel.usermaven.com
 at-o.net
 attntags.com
+autonomi-track.com
+avp-aiello-eye-institute-domain.oursprivacy.com
+avp-barnet-dulaney-perkins-domain.oursprivacy.com
+avp-southwest-eye-institute-domain.oursprivacy.com
+avp-southwestern-eye-center-domain.oursprivacy.com
+avp-vantage-eye-care-domain.oursprivacy.com
+avp-wellishabrams-com-domain.oursprivacy.com
+avp-west-texas-eye-associates-domain.oursprivacy.com
 birch.asia
 birch.click
 birch.events
 birch.host
 birchub.events
 birchub.us
+brello-domain.oursprivacy.com
 capig.taggrs.cloud
 capig.usehardal.com
 capisearchlaboratory.com
@@ -32,8 +43,10 @@ cname.jitsu.com
 cname.trackgo.io
 cname.truemetrics.eu
 connect.bonicbd.com
+corewell-health-domain.oursprivacy.com
 custom.plausible.io
 customer.etracker.com
+data.tagual.com
 dnsdelegation.io
 e.truedata.co
 edgetag.io
@@ -44,6 +57,7 @@ everestengagement.com
 external.simpleanalytics.com
 fallback.capiplatform.com
 flow.askorigin.com
+forwarder.requestmetrics.com
 gateway.tracklabs.com.br
 getclicky.com
 goatcounter.com
@@ -59,6 +73,8 @@ mtra.in
 mytrackgo.com
 oghub.io
 out.seline.com
+package.leadjourney.io
+phoenix-childrens-domain.oursprivacy.com
 pl02.prolitteris.2cnt.net
 redirect271.tagcommander.com
 redirect341.tagcommander.com
@@ -72,20 +88,36 @@ redirect522.tagcommander.com
 redirect523.tagcommander.com
 redirect621.tagcommander.com
 redirect891.tagcommander.com
+sage-dental.oursprivacy.com
 sanoma-sst.fi
+savvytrack.nl
 sc.omtrdc.net
+sgtm-13449c-77.woolytrack.org
+sgtm-b6fa72-4.woolytrack.org
+sgtm-czdpyf-yv.woolytrack.org
+sgtm-ilovethedress.woolytrack.org
+sgtm-ixzz0u-43.woolytrack.org
+sgtm-rp-imaging.woolytrack.org
+sgtm-vxb-ball-bearings.woolytrack.org
+sgtm-xcnyxh-rb.woolytrack.org
 sgtm.nextanalytica.io
 simpleanalyticsexternal.com
 smartproxy.dataunlocker.com
 soureicdn.com
 sstsimprosys.com
+st-tammany-health-domain.oursprivacy.com
 stape.at
 stape.cc
+stape.co
 stape.de
+stape.do
 stape.gl
+stape.id
 stape.io
+stape.ma
 stape.net
 stape.nz
+stape.pm
 stape.pro
 t.servero.io
 tacoda.net

@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Trackers, cname
-# Domains: 97 | Updated: 2026-10-07
+# Domains: 129 | Updated: 2026-10-07
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/trackers/cname.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -7,17 +7,28 @@
 0.0.0.0 1p-data.co
 0.0.0.0 207.net
 0.0.0.0 250analytics.com
+0.0.0.0 activitystream.com
 0.0.0.0 advalo.in
+0.0.0.0 alma-domain.oursprivacy.com
 0.0.0.0 analytics.usehardal.com
 0.0.0.0 app-whitelabel.usermaven.com
 0.0.0.0 at-o.net
 0.0.0.0 attntags.com
+0.0.0.0 autonomi-track.com
+0.0.0.0 avp-aiello-eye-institute-domain.oursprivacy.com
+0.0.0.0 avp-barnet-dulaney-perkins-domain.oursprivacy.com
+0.0.0.0 avp-southwest-eye-institute-domain.oursprivacy.com
+0.0.0.0 avp-southwestern-eye-center-domain.oursprivacy.com
+0.0.0.0 avp-vantage-eye-care-domain.oursprivacy.com
+0.0.0.0 avp-wellishabrams-com-domain.oursprivacy.com
+0.0.0.0 avp-west-texas-eye-associates-domain.oursprivacy.com
 0.0.0.0 birch.asia
 0.0.0.0 birch.click
 0.0.0.0 birch.events
 0.0.0.0 birch.host
 0.0.0.0 birchub.events
 0.0.0.0 birchub.us
+0.0.0.0 brello-domain.oursprivacy.com
 0.0.0.0 capig.taggrs.cloud
 0.0.0.0 capig.usehardal.com
 0.0.0.0 capisearchlaboratory.com
@@ -32,8 +43,10 @@
 0.0.0.0 cname.trackgo.io
 0.0.0.0 cname.truemetrics.eu
 0.0.0.0 connect.bonicbd.com
+0.0.0.0 corewell-health-domain.oursprivacy.com
 0.0.0.0 custom.plausible.io
 0.0.0.0 customer.etracker.com
+0.0.0.0 data.tagual.com
 0.0.0.0 dnsdelegation.io
 0.0.0.0 e.truedata.co
 0.0.0.0 edgetag.io
@@ -44,6 +57,7 @@
 0.0.0.0 external.simpleanalytics.com
 0.0.0.0 fallback.capiplatform.com
 0.0.0.0 flow.askorigin.com
+0.0.0.0 forwarder.requestmetrics.com
 0.0.0.0 gateway.tracklabs.com.br
 0.0.0.0 getclicky.com
 0.0.0.0 goatcounter.com
@@ -59,6 +73,8 @@
 0.0.0.0 mytrackgo.com
 0.0.0.0 oghub.io
 0.0.0.0 out.seline.com
+0.0.0.0 package.leadjourney.io
+0.0.0.0 phoenix-childrens-domain.oursprivacy.com
 0.0.0.0 pl02.prolitteris.2cnt.net
 0.0.0.0 redirect271.tagcommander.com
 0.0.0.0 redirect341.tagcommander.com
@@ -72,20 +88,36 @@
 0.0.0.0 redirect523.tagcommander.com
 0.0.0.0 redirect621.tagcommander.com
 0.0.0.0 redirect891.tagcommander.com
+0.0.0.0 sage-dental.oursprivacy.com
 0.0.0.0 sanoma-sst.fi
+0.0.0.0 savvytrack.nl
 0.0.0.0 sc.omtrdc.net
+0.0.0.0 sgtm-13449c-77.woolytrack.org
+0.0.0.0 sgtm-b6fa72-4.woolytrack.org
+0.0.0.0 sgtm-czdpyf-yv.woolytrack.org
+0.0.0.0 sgtm-ilovethedress.woolytrack.org
+0.0.0.0 sgtm-ixzz0u-43.woolytrack.org
+0.0.0.0 sgtm-rp-imaging.woolytrack.org
+0.0.0.0 sgtm-vxb-ball-bearings.woolytrack.org
+0.0.0.0 sgtm-xcnyxh-rb.woolytrack.org
 0.0.0.0 sgtm.nextanalytica.io
 0.0.0.0 simpleanalyticsexternal.com
 0.0.0.0 smartproxy.dataunlocker.com
 0.0.0.0 soureicdn.com
 0.0.0.0 sstsimprosys.com
+0.0.0.0 st-tammany-health-domain.oursprivacy.com
 0.0.0.0 stape.at
 0.0.0.0 stape.cc
+0.0.0.0 stape.co
 0.0.0.0 stape.de
+0.0.0.0 stape.do
 0.0.0.0 stape.gl
+0.0.0.0 stape.id
 0.0.0.0 stape.io
+0.0.0.0 stape.ma
 0.0.0.0 stape.net
 0.0.0.0 stape.nz
+0.0.0.0 stape.pm
 0.0.0.0 stape.pro
 0.0.0.0 t.servero.io
 0.0.0.0 tacoda.net

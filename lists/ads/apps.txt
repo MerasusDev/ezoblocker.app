@@ -1,20 +1,28 @@
 # Title: EZOBLOCKER Ads, apps
-# Domains: 14 | Updated: 2026-10-07
+# Domains: 22 | Updated: 2026-10-07
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/lists/ads/apps.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
 *.acquire.unity3dusercontent.com
+ads-api-svr.6677g.com
 *.adsurge.com
 *.adveradvertismentthebest.com
 *.audiomob.io
+auth.ssp.taxssp.com
+banner.dsp.bmncbtech.com
+betbqj.donlgx.net
+betdgh.donlgx.net
 *.bucoup.com
 config.ssp.taxssp.com
 event-eu.ssp.taxssp.com
 event.ssp.taxssp.com
 *.googletagservices.com
 *.i18n-pglstatp.com
+moloco.rtb.crushblocks.com
 mraid.bigo.sg
 *.nefta.app
 p16-ttam-va.ibyteimg.com
+ra.ctech.works
+us-east-1.ingaa.xyz
 *.voodoo-adn.com

@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Ads
-# Domains: 306 | Updated: 2026-10-07
+# Domains: 314 | Updated: 2026-10-07
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/lists/ads/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -21,6 +21,7 @@ adm.vidyome.com
 adn-srv.reckoner-api.com
 adnex-prebid.attekmi.co
 adport.pbsadverxo.com
+ads-api-svr.6677g.com
 ads-flipp.com
 ads-pbs.adops.streamvisionmedia.com
 ads-pbs.ads-altstarmedia.com
@@ -62,11 +63,15 @@ artechnology-prebid.attekmi.co
 auction.adpearl.io
 auction.bidespresso.com
 *.audiomob.io
+auth.ssp.taxssp.com
 backend.pubrise.ai
 balancer.lmgssp.com
 balancer.mediayo.ai
+banner.dsp.bmncbtech.com
 bapi.userreport.com
 be-agent.teqblaze.io
+betbqj.donlgx.net
+betdgh.donlgx.net
 bid.adswag.ai
 bid.asterio.ai
 bid.bedigitech.com
@@ -163,6 +168,7 @@ lunamedia.bid
 markapp-apac-prebid.attekmi.co
 markapp-prebid.attekmi.co
 matching.kubient.net
+moloco.rtb.crushblocks.com
 mraid.bigo.sg
 *.nefta.app
 nexbid.uk
@@ -220,6 +226,7 @@ prebidjs-sync-us1.sonar-ads.com
 privacy.copper6.com
 pubsmart-prebid.attekmi.co
 px-us-e.floxis.tech
+ra.ctech.works
 radiantfusion-prebid.attekmi.co
 region.rubiconproject.com
 revphpe.djaxbidder.com
@@ -291,6 +298,7 @@ track.kntxy.com
 traffic1.rocketlab.ai
 tredio-prebid.attekmi.co
 umframe.optinadserving.com
+us-east-1.ingaa.xyz
 us-east-ep.engagemedia.tv
 us-east.progrtb.com
 us.a.viddea.com
