@@ -57,7 +57,7 @@ We pay for the search and model APIs ourselves and give the result away. 💚
 
 **🎰 Gambling**
 
-- Türkiye (tr): 248 · [adblock](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/gambling/countries/tr.txt) · [hosts](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/gambling/countries/tr.txt) · [domains](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/domains/gambling/countries/tr.txt)
+- Türkiye (tr): 164 · [adblock](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/gambling/countries/tr.txt) · [hosts](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/gambling/countries/tr.txt) · [domains](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/domains/gambling/countries/tr.txt)
 - International (intl): 78 · [adblock](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/gambling/countries/intl.txt) · [hosts](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/gambling/countries/intl.txt) · [domains](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/domains/gambling/countries/intl.txt)
 - South Africa (za): 9 · [adblock](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/gambling/countries/za.txt) · [hosts](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/gambling/countries/za.txt) · [domains](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/domains/gambling/countries/za.txt)
 - Mexico (mx): 5 · [adblock](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/gambling/countries/mx.txt) · [hosts](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/gambling/countries/mx.txt) · [domains](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/domains/gambling/countries/mx.txt)
@@ -96,23 +96,24 @@ We pay for the search and model APIs ourselves and give the result away. 💚
 
 **🔞 Adult**
 
-- Türkiye (tr): 236 · [adblock](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/adult/countries/tr.txt) · [hosts](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/adult/countries/tr.txt) · [domains](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/domains/adult/countries/tr.txt)
+- Türkiye (tr): 166 · [adblock](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/adult/countries/tr.txt) · [hosts](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/adult/countries/tr.txt) · [domains](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/domains/adult/countries/tr.txt)
+- South Africa (za): 2 · [adblock](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/adult/countries/za.txt) · [hosts](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/adult/countries/za.txt) · [domains](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/domains/adult/countries/za.txt)
 - adult shops: 53 · [adblock](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/adult/adult-shop.txt) · [hosts](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/adult/adult-shop.txt) · [domains](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/domains/adult/adult-shop.txt)
 - ct: 25 · [adblock](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/adult/ct.txt) · [hosts](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/adult/ct.txt) · [domains](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/domains/adult/ct.txt)
 
 **🚪 Bypass**
 
-- Türkiye (tr): 30 · [adblock](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/bypass/countries/tr.txt) · [hosts](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/bypass/countries/tr.txt) · [domains](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/domains/bypass/countries/tr.txt)
+- Türkiye (tr): 10 · [adblock](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/bypass/countries/tr.txt) · [hosts](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/bypass/countries/tr.txt) · [domains](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/domains/bypass/countries/tr.txt)
 
 **🏴‍☠️ Piracy**
 
-- Türkiye (tr): 88 · [adblock](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/piracy/countries/tr.txt) · [hosts](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/piracy/countries/tr.txt) · [domains](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/domains/piracy/countries/tr.txt)
+- Türkiye (tr): 87 · [adblock](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/piracy/countries/tr.txt) · [hosts](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/piracy/countries/tr.txt) · [domains](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/domains/piracy/countries/tr.txt)
 - illegal sports streams: 22 · [adblock](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/piracy/piracy-sports.txt) · [hosts](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/piracy/piracy-sports.txt) · [domains](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/domains/piracy/piracy-sports.txt)
 - ct: 18 · [adblock](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/piracy/ct.txt) · [hosts](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/piracy/ct.txt) · [domains](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/domains/piracy/ct.txt)
 
 **💘 Dating**
 
-- Türkiye (tr): 210 · [adblock](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/dating/countries/tr.txt) · [hosts](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/dating/countries/tr.txt) · [domains](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/domains/dating/countries/tr.txt)
+- Türkiye (tr): 111 · [adblock](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/dating/countries/tr.txt) · [hosts](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/dating/countries/tr.txt) · [domains](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/domains/dating/countries/tr.txt)
 - chat rooms and random video chat: 114 · [adblock](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/dating/dating-chat.txt) · [hosts](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/dating/dating-chat.txt) · [domains](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/domains/dating/dating-chat.txt)
 - ct: 7 · [adblock](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/dating/ct.txt) · [hosts](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/dating/ct.txt) · [domains](https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/domains/dating/ct.txt)
 

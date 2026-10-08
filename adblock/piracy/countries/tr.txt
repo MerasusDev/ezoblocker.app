@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Piracy, Türkiye (tr)
-! Domains: 88 | Updated: 2026-10-08
+! Domains: 87 | Updated: 2026-10-08
 ! Homepage: https://github.com/MerasusDev/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/piracy/countries/tr.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -48,7 +48,6 @@
 ||hdfilmizlesende.com^
 ||hdfilmizlesene.to^
 ||jestyayin.org^
-||jestyayingiris11.xyz^
 ||jetfilmizle.now^
 ||justintv.co^
 ||justintvizle735.top^
