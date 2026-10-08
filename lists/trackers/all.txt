@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Trackers
-# Domains: 142 | Updated: 2026-10-08
+# Domains: 159 | Updated: 2026-10-08
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/lists/trackers/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -7,6 +7,7 @@
 *.1p-data.co
 *.207.net
 *.250analytics.com
+a.engageminds.ai
 *.activitystream.com
 *.advalo.in
 *.alma-domain.oursprivacy.com
@@ -31,9 +32,11 @@ attribution.costcenter.net
 *.birchub.us
 *.brello-domain.oursprivacy.com
 buusjcvujpo-pwt.donlgx.net
+*.capig.datah04.com
 *.capig.taggrs.cloud
 *.capig.usehardal.com
 *.capisearchlaboratory.com
+cdn-settings.af-sdk.net
 cdp.cloud.unity3d.com
 *.cerebro.services
 *.cm4l4nnzk0007nbvfvact8d7p-signal.usehardal.com
@@ -48,6 +51,7 @@ cdp.cloud.unity3d.com
 collect.saas.castbox.fm
 config.uca.cloud.unity3d.com
 *.connect.bonicbd.com
+conversions.af-sdk.net
 *.corewell-health-domain.oursprivacy.com
 *.custom.plausible.io
 *.customer.etracker.com
@@ -68,15 +72,20 @@ engagements.appsflyer.com
 *.forwarder.requestmetrics.com
 fwfou.donlgx.net
 *.gateway.tracklabs.com.br
+gator.uba.ap-southeast-1.volces.com
+gcdsdk.af-sdk.net
 *.getclicky.com
 *.goatcounter.com
 *.gtm.quarx.uk
 hb-fwfou.donlgx.net
 *.hitbox.com
 *.hosting.jitsu.com
+inapps.af-sdk.net
 *.iocnt.net
+jajsy.pareci.net
 *.jtracs.com
 *.kib.hu
+launches.af-sdk.net
 *.madgicx.ai
 *.mr-in.com
 *.mtra.in
@@ -85,6 +94,7 @@ hb-fwfou.donlgx.net
 *.out.seline.com
 *.package.leadjourney.io
 *.phoenix-childrens-domain.oursprivacy.com
+pia.af-sdk.net
 *.pl02.prolitteris.2cnt.net
 prodregistryv2.org
 *.redirect271.tagcommander.com
@@ -103,6 +113,7 @@ prodregistryv2.org
 *.sanoma-sst.fi
 *.savvytrack.nl
 *.sc.omtrdc.net
+sdkconfig.thinkingltv.com
 *.sgtm-13449c-77.woolytrack.org
 *.sgtm-b6fa72-4.woolytrack.org
 *.sgtm-czdpyf-yv.woolytrack.org
@@ -111,27 +122,33 @@ prodregistryv2.org
 *.sgtm-rp-imaging.woolytrack.org
 *.sgtm-vxb-ball-bearings.woolytrack.org
 *.sgtm-xcnyxh-rb.woolytrack.org
+*.sgtm.by
 *.sgtm.nextanalytica.io
 *.simpleanalyticsexternal.com
 *.smartproxy.dataunlocker.com
 *.soureicdn.com
 *.sstsimprosys.com
 *.st-tammany-health-domain.oursprivacy.com
+*.stape.ai
 *.stape.at
 *.stape.cc
+*.stape.cloud
 *.stape.co
 *.stape.de
 *.stape.do
 *.stape.gl
 *.stape.id
+*.stape.im
 *.stape.io
 *.stape.ma
 *.stape.net
 *.stape.nz
 *.stape.pm
 *.stape.pro
+*.stape.vip
 *.t.servero.io
 *.tacoda.net
+*.tcservercontainers.com
 *.track.pixelfly.io
 *.track.trackcombo.com
 tracking-useast.tmbid.com

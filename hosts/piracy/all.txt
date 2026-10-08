@@ -1,11 +1,21 @@
 # Title: EZOBLOCKER Piracy
-# Domains: 88 | Updated: 2026-10-08
+# Domains: 106 | Updated: 2026-10-08
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/piracy/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
 0.0.0.0 apkdayi.com
 0.0.0.0 canlimacizlet.altervista.org
+0.0.0.0 cinecalidad-p9qc.pages.dev
+0.0.0.0 cpasbientv.cv
+0.0.0.0 cuevana-2y9h.pages.dev
+0.0.0.0 cuevana-gx65.pages.dev
+0.0.0.0 cuevana3-1g9s.pages.dev
+0.0.0.0 cuevana3-9ns.pages.dev
+0.0.0.0 cuevana3-i8my.pages.dev
+0.0.0.0 cuevana3-s2o.pages.dev
+0.0.0.0 cuevana3-yscy.pages.dev
+0.0.0.0 cuevana8.li
 0.0.0.0 ddizibox.com
 0.0.0.0 diziasya.com
 0.0.0.0 dizibox.com.tr
@@ -26,6 +36,7 @@
 0.0.0.0 filmiwebteizle.blogspot.com
 0.0.0.0 filmizledim.com
 0.0.0.0 filmmakinesi.to
+0.0.0.0 fmovies.supplies
 0.0.0.0 fullfilmizle.fit
 0.0.0.0 fullfilmizlesene.org
 0.0.0.0 fullhdfilmizlesene.co
@@ -57,6 +68,7 @@
 0.0.0.0 justintvmgturkiye.vip
 0.0.0.0 justintvturkiyehd.co
 0.0.0.0 justintvturkiyesh.vip
+0.0.0.0 kuttymovies.ai.in
 0.0.0.0 latestmodapks.com
 0.0.0.0 minidiziizle.com
 0.0.0.0 mp3indirdur.com.tr
@@ -67,9 +79,13 @@
 0.0.0.0 oyunindir.vip
 0.0.0.0 pdfkitapkurdu.blogspot.com
 0.0.0.0 pdfkitapoku.org
+0.0.0.0 pelisflix-4sp8.pages.dev
 0.0.0.0 plusfilmizle.com
 0.0.0.0 selcuksportshd.is
 0.0.0.0 sinemafilmizle.com.tr
+0.0.0.0 socolive123.tv
+0.0.0.0 socolivezl.cc
+0.0.0.0 solarmovie-official.site
 0.0.0.0 sonhdfilm.net
 0.0.0.0 superfilmizle.org
 0.0.0.0 taraftarium24-aslan5.com
@@ -82,11 +98,13 @@
 0.0.0.0 taraftarium24bjk20.com
 0.0.0.0 taraftarium24soturkiye.org
 0.0.0.0 taraftarium24turkiyetv.net
+0.0.0.0 themoviesflix.dev
 0.0.0.0 torrentdevi.org
 0.0.0.0 torrentoyunindir.co
 0.0.0.0 trdiziizle.tv
 0.0.0.0 ufilmizle.com
 0.0.0.0 ultra-realistic-mod.apk.cafe
+0.0.0.0 watchseries-3q89.pages.dev
 0.0.0.0 webteizle.buzz
 0.0.0.0 webteizle.info
 0.0.0.0 webteizle3.xyz

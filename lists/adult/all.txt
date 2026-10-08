@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult
-# Domains: 234 | Updated: 2026-10-08
+# Domains: 261 | Updated: 2026-10-08
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/lists/adult/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -11,9 +11,11 @@
 *.adulttoybox.biz
 *.aduzav.com
 *.agorshop.com
+*.aisexygirls.ca
 *.alanyaa.com
 *.alanyaredescot.vip
 *.albonishop.com
+*.alte-schlampen-gratis-porno-reifen-frauen.pages.dev
 *.altyzhub30.site
 *.amlaks5.shop
 *.ampforxbon.com
@@ -38,11 +40,14 @@
 *.beylikduzuescort.com
 *.bidforthis.com
 *.bitkiselshop.com.tr
+*.bloominonlyfans.com
 *.bodrum-modern.com
 *.bodrumangels.com
 *.bodrumescorttr.com
 *.bodrumhavadis.com
 *.bodrumtimesgirls.com
+*.bokepindo.lat
+*.bokepindo.tokyo
 *.canlisexsohbethatti.net
 *.cinsel.chat
 *.cinselmobilsohbet.com
@@ -67,6 +72,7 @@
 *.doescorts.com
 *.easytoys.uk
 *.elitescorthatun.com
+*.eromanga-wktk.pages.dev
 *.eromega.com
 *.erotikfilmizle18.cc
 *.erotikfilmler6.club
@@ -77,6 +83,8 @@
 *.erotikmagazam.com
 *.erotikshop.com.tr
 *.erotikshopankara.org
+*.erotische-malbuecher.de
+*.erotischechats.com
 *.erox.com.tr
 *.escburda.com
 *.escortbursam.com
@@ -97,16 +105,22 @@ fantastik-seks-hikayeleri-6.yeahh.com
 *.fethiyeescorts1.site
 *.filmkuzusu.vip
 *.filmporno5.com
+*.freesexvedioes.com
+*.gamerotika.de
 *.gaysohbet.life
 *.gaziantepbayanescort.com
 *.gaziantepbayanlar.com
 *.gratispornofilms.be
+*.hanimeone.lat
 *.hdabla.one
+*.heiliaobox.cc
+*.heiliaoqr.cc
 *.hentaiadam.com
 *.honeybirdette.com
 *.hulyahalat.com
 *.igume.com
 *.imeldax31.cfd
+*.indianfemdom.com
 *.iposvnn.com
 *.istanbul-escorts.info
 *.istanbul12.com
@@ -162,15 +176,19 @@ mobil.yalovapusula.com
 *.mombm.org
 *.mozaka.com
 *.nazira1.wtf
+*.nichehentaiplace.com
 *.noktashop.com.tr
+*.nuttenkartei.de
 *.o-diaries.com
 onlineedistrict.amtron.in
+*.orient-herrin-kader.de
 *.papelerias.com.es
 *.papimlor.site
 *.papyonshop.com
 *.paraescorts.com
 *.pendikseksshop.com
 *.pornflix.to
+*.porno.chat
 *.porno80cd.site
 *.porno80zr.org
 *.porno900.click
@@ -191,13 +209,17 @@ onlineedistrict.amtron.in
 *.senserotikshop.com
 *.sergi-pro99.site
 *.sertturkceseks.cyou
+*.sexfilmleriizlevip.com
+*.sexhatti.com.tr
 *.sexhatti.me
 *.sexhattiniz.com
 *.sexshopankara.com
 *.sexshopist.com
 *.sexsohbet.site
+*.sextoyvancouver.com
 *.sexwell.bg
 *.shibariturk.com
+*.shooting-erotique.com
 *.sisliescort.site
 *.sisliescort0312.uno
 *.sislioto.com
@@ -205,9 +227,12 @@ onlineedistrict.amtron.in
 *.sohbethattikizlari.net
 *.sohbethattiturkiye.net
 *.spicerack.market
+*.strapony.cz
 *.studescort.com
 *.taksimsexshop.com
+*.tantra-massage-osnabrck-gay-treff-berlin.pages.dev
 *.tayf.ist
+*.telefondasexhatti.com
 *.terbiyesizzler.com
 *.theeskisehir.com
 *.themajor.online
@@ -231,8 +256,10 @@ onlineedistrict.amtron.in
 *.viperotikfilm2.skin
 *.viperotikfilm3.skin
 *.vipsa.com
+*.vivonlyfans.com
 *.wetforher.com
 wvw.betim-guncelgiris.live
+*.xhamster2.in
 *.xxxhindi.shop
 *.yasakelmam.com
 *.yetiskin.org

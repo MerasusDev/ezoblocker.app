@@ -1,19 +1,29 @@
 # Title: EZOBLOCKER Trackers, apps
-# Domains: 13 | Updated: 2026-10-08
+# Domains: 23 | Updated: 2026-10-08
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/domains/trackers/apps.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
+a.engageminds.ai
 attribution.costcenter.net
 buusjcvujpo-pwt.donlgx.net
+cdn-settings.af-sdk.net
 cdp.cloud.unity3d.com
 collect.saas.castbox.fm
 config.uca.cloud.unity3d.com
+conversions.af-sdk.net
 e5log1.fineboost.com
 e5log1.topgoe.com
 engagements.appsflyer.com
 fwfou.donlgx.net
+gator.uba.ap-southeast-1.volces.com
+gcdsdk.af-sdk.net
 hb-fwfou.donlgx.net
+inapps.af-sdk.net
+jajsy.pareci.net
+launches.af-sdk.net
+pia.af-sdk.net
 prodregistryv2.org
+sdkconfig.thinkingltv.com
 tracking-useast.tmbid.com
 whos.amung.us

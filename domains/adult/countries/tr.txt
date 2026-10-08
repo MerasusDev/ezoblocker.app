@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, Türkiye (tr)
-# Domains: 234 | Updated: 2026-10-08
+# Domains: 236 | Updated: 2026-10-08
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/domains/adult/countries/tr.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -191,6 +191,7 @@ seksshop.com.tr
 senserotikshop.com
 sergi-pro99.site
 sertturkceseks.cyou
+sexhatti.com.tr
 sexhatti.me
 sexhattiniz.com
 sexshopankara.com
@@ -208,6 +209,7 @@ spicerack.market
 studescort.com
 taksimsexshop.com
 tayf.ist
+telefondasexhatti.com
 terbiyesizzler.com
 theeskisehir.com
 themajor.online

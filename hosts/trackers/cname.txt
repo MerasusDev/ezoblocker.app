@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Trackers, cname
-# Domains: 129 | Updated: 2026-10-08
+# Domains: 136 | Updated: 2026-10-08
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/trackers/cname.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -29,6 +29,7 @@
 0.0.0.0 birchub.events
 0.0.0.0 birchub.us
 0.0.0.0 brello-domain.oursprivacy.com
+0.0.0.0 capig.datah04.com
 0.0.0.0 capig.taggrs.cloud
 0.0.0.0 capig.usehardal.com
 0.0.0.0 capisearchlaboratory.com
@@ -100,27 +101,33 @@
 0.0.0.0 sgtm-rp-imaging.woolytrack.org
 0.0.0.0 sgtm-vxb-ball-bearings.woolytrack.org
 0.0.0.0 sgtm-xcnyxh-rb.woolytrack.org
+0.0.0.0 sgtm.by
 0.0.0.0 sgtm.nextanalytica.io
 0.0.0.0 simpleanalyticsexternal.com
 0.0.0.0 smartproxy.dataunlocker.com
 0.0.0.0 soureicdn.com
 0.0.0.0 sstsimprosys.com
 0.0.0.0 st-tammany-health-domain.oursprivacy.com
+0.0.0.0 stape.ai
 0.0.0.0 stape.at
 0.0.0.0 stape.cc
+0.0.0.0 stape.cloud
 0.0.0.0 stape.co
 0.0.0.0 stape.de
 0.0.0.0 stape.do
 0.0.0.0 stape.gl
 0.0.0.0 stape.id
+0.0.0.0 stape.im
 0.0.0.0 stape.io
 0.0.0.0 stape.ma
 0.0.0.0 stape.net
 0.0.0.0 stape.nz
 0.0.0.0 stape.pm
 0.0.0.0 stape.pro
+0.0.0.0 stape.vip
 0.0.0.0 t.servero.io
 0.0.0.0 tacoda.net
+0.0.0.0 tcservercontainers.com
 0.0.0.0 track.pixelfly.io
 0.0.0.0 track.trackcombo.com
 0.0.0.0 trytagging.com

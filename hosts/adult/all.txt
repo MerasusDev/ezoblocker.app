@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult
-# Domains: 234 | Updated: 2026-10-08
+# Domains: 261 | Updated: 2026-10-08
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/adult/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -11,9 +11,11 @@
 0.0.0.0 adulttoybox.biz
 0.0.0.0 aduzav.com
 0.0.0.0 agorshop.com
+0.0.0.0 aisexygirls.ca
 0.0.0.0 alanyaa.com
 0.0.0.0 alanyaredescot.vip
 0.0.0.0 albonishop.com
+0.0.0.0 alte-schlampen-gratis-porno-reifen-frauen.pages.dev
 0.0.0.0 altyzhub30.site
 0.0.0.0 amlaks5.shop
 0.0.0.0 ampforxbon.com
@@ -38,11 +40,14 @@
 0.0.0.0 beylikduzuescort.com
 0.0.0.0 bidforthis.com
 0.0.0.0 bitkiselshop.com.tr
+0.0.0.0 bloominonlyfans.com
 0.0.0.0 bodrum-modern.com
 0.0.0.0 bodrumangels.com
 0.0.0.0 bodrumescorttr.com
 0.0.0.0 bodrumhavadis.com
 0.0.0.0 bodrumtimesgirls.com
+0.0.0.0 bokepindo.lat
+0.0.0.0 bokepindo.tokyo
 0.0.0.0 canlisexsohbethatti.net
 0.0.0.0 cinsel.chat
 0.0.0.0 cinselmobilsohbet.com
@@ -67,6 +72,7 @@
 0.0.0.0 doescorts.com
 0.0.0.0 easytoys.uk
 0.0.0.0 elitescorthatun.com
+0.0.0.0 eromanga-wktk.pages.dev
 0.0.0.0 eromega.com
 0.0.0.0 erotikfilmizle18.cc
 0.0.0.0 erotikfilmler6.club
@@ -77,6 +83,8 @@
 0.0.0.0 erotikmagazam.com
 0.0.0.0 erotikshop.com.tr
 0.0.0.0 erotikshopankara.org
+0.0.0.0 erotische-malbuecher.de
+0.0.0.0 erotischechats.com
 0.0.0.0 erox.com.tr
 0.0.0.0 escburda.com
 0.0.0.0 escortbursam.com
@@ -97,16 +105,22 @@
 0.0.0.0 fethiyeescorts1.site
 0.0.0.0 filmkuzusu.vip
 0.0.0.0 filmporno5.com
+0.0.0.0 freesexvedioes.com
+0.0.0.0 gamerotika.de
 0.0.0.0 gaysohbet.life
 0.0.0.0 gaziantepbayanescort.com
 0.0.0.0 gaziantepbayanlar.com
 0.0.0.0 gratispornofilms.be
+0.0.0.0 hanimeone.lat
 0.0.0.0 hdabla.one
+0.0.0.0 heiliaobox.cc
+0.0.0.0 heiliaoqr.cc
 0.0.0.0 hentaiadam.com
 0.0.0.0 honeybirdette.com
 0.0.0.0 hulyahalat.com
 0.0.0.0 igume.com
 0.0.0.0 imeldax31.cfd
+0.0.0.0 indianfemdom.com
 0.0.0.0 iposvnn.com
 0.0.0.0 istanbul-escorts.info
 0.0.0.0 istanbul12.com
@@ -162,15 +176,19 @@
 0.0.0.0 mombm.org
 0.0.0.0 mozaka.com
 0.0.0.0 nazira1.wtf
+0.0.0.0 nichehentaiplace.com
 0.0.0.0 noktashop.com.tr
+0.0.0.0 nuttenkartei.de
 0.0.0.0 o-diaries.com
 0.0.0.0 onlineedistrict.amtron.in
+0.0.0.0 orient-herrin-kader.de
 0.0.0.0 papelerias.com.es
 0.0.0.0 papimlor.site
 0.0.0.0 papyonshop.com
 0.0.0.0 paraescorts.com
 0.0.0.0 pendikseksshop.com
 0.0.0.0 pornflix.to
+0.0.0.0 porno.chat
 0.0.0.0 porno80cd.site
 0.0.0.0 porno80zr.org
 0.0.0.0 porno900.click
@@ -191,13 +209,17 @@
 0.0.0.0 senserotikshop.com
 0.0.0.0 sergi-pro99.site
 0.0.0.0 sertturkceseks.cyou
+0.0.0.0 sexfilmleriizlevip.com
+0.0.0.0 sexhatti.com.tr
 0.0.0.0 sexhatti.me
 0.0.0.0 sexhattiniz.com
 0.0.0.0 sexshopankara.com
 0.0.0.0 sexshopist.com
 0.0.0.0 sexsohbet.site
+0.0.0.0 sextoyvancouver.com
 0.0.0.0 sexwell.bg
 0.0.0.0 shibariturk.com
+0.0.0.0 shooting-erotique.com
 0.0.0.0 sisliescort.site
 0.0.0.0 sisliescort0312.uno
 0.0.0.0 sislioto.com
@@ -205,9 +227,12 @@
 0.0.0.0 sohbethattikizlari.net
 0.0.0.0 sohbethattiturkiye.net
 0.0.0.0 spicerack.market
+0.0.0.0 strapony.cz
 0.0.0.0 studescort.com
 0.0.0.0 taksimsexshop.com
+0.0.0.0 tantra-massage-osnabrck-gay-treff-berlin.pages.dev
 0.0.0.0 tayf.ist
+0.0.0.0 telefondasexhatti.com
 0.0.0.0 terbiyesizzler.com
 0.0.0.0 theeskisehir.com
 0.0.0.0 themajor.online
@@ -231,8 +256,10 @@
 0.0.0.0 viperotikfilm2.skin
 0.0.0.0 viperotikfilm3.skin
 0.0.0.0 vipsa.com
+0.0.0.0 vivonlyfans.com
 0.0.0.0 wetforher.com
 0.0.0.0 wvw.betim-guncelgiris.live
+0.0.0.0 xhamster2.in
 0.0.0.0 xxxhindi.shop
 0.0.0.0 yasakelmam.com
 0.0.0.0 yetiskin.org

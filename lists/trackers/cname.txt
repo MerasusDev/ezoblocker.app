@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Trackers, cname
-# Domains: 129 | Updated: 2026-10-08
+# Domains: 136 | Updated: 2026-10-08
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/lists/trackers/cname.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -29,6 +29,7 @@
 *.birchub.events
 *.birchub.us
 *.brello-domain.oursprivacy.com
+*.capig.datah04.com
 *.capig.taggrs.cloud
 *.capig.usehardal.com
 *.capisearchlaboratory.com
@@ -100,27 +101,33 @@
 *.sgtm-rp-imaging.woolytrack.org
 *.sgtm-vxb-ball-bearings.woolytrack.org
 *.sgtm-xcnyxh-rb.woolytrack.org
+*.sgtm.by
 *.sgtm.nextanalytica.io
 *.simpleanalyticsexternal.com
 *.smartproxy.dataunlocker.com
 *.soureicdn.com
 *.sstsimprosys.com
 *.st-tammany-health-domain.oursprivacy.com
+*.stape.ai
 *.stape.at
 *.stape.cc
+*.stape.cloud
 *.stape.co
 *.stape.de
 *.stape.do
 *.stape.gl
 *.stape.id
+*.stape.im
 *.stape.io
 *.stape.ma
 *.stape.net
 *.stape.nz
 *.stape.pm
 *.stape.pro
+*.stape.vip
 *.t.servero.io
 *.tacoda.net
+*.tcservercontainers.com
 *.track.pixelfly.io
 *.track.trackcombo.com
 *.trytagging.com

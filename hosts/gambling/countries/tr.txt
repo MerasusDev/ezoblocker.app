@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling, Türkiye (tr)
-# Domains: 212 | Updated: 2026-10-08
+# Domains: 211 | Updated: 2026-10-08
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/gambling/countries/tr.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -171,7 +171,6 @@
 0.0.0.0 rrkftau.cfd
 0.0.0.0 saha-bet.org
 0.0.0.0 sahabet.com
-0.0.0.0 sahabetmobile.com
 0.0.0.0 sdsautoandtire.com
 0.0.0.0 sekabet.guru
 0.0.0.0 senkazan1.pro

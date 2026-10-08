@@ -1,10 +1,11 @@
 # Title: EZOBLOCKER Ads
-# Domains: 314 | Updated: 2026-10-08
+# Domains: 322 | Updated: 2026-10-08
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/lists/ads/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
 a.videoreach.com
+aa.unioneeu.com
 abs.cookieless-proxistore.com
 acd.op.hicloud.com
 *.acquire.unity3dusercontent.com
@@ -54,6 +55,7 @@ amp.smrtconnect.com
 an.cmertv.com
 analytics.haloads.io
 anzu-prebid.attekmi.co
+api.aiadsapp.net
 api.condorx.io
 api.engerio.sk
 api.hb.ad.cpe.dotomi.com
@@ -101,6 +103,7 @@ cittamatra.com
 cm.anyrtb.com
 config.ssp.taxssp.com
 content.adswag.ai
+content.offerwall.unity3d.com
 cookie.lmgssp.com
 cs.152media-ssp.com
 cs.axis-marketplace.com
@@ -132,8 +135,11 @@ exchange.tagoras.io
 featuretv.bid
 felixads-prebid.attekmi.co
 ferio.bid
+fixfun.pareci.net
+fixhkl.pareci.net
 fran.frvr.com
 g.ezoic.net
+gateway-b.offerwall.unity3d.com
 gbid.mediagotechnology.com
 ghb.app.copper6.com
 ghb.bidder.jmgads.com
@@ -198,6 +204,7 @@ pbs.mobkoi.com
 pbs.prebid-ownadx.com
 pbs.prebrid.tv
 pbsadverxo.com
+pitk.unioneeu.com
 player-cdn.beachfrontmedia.com
 player.adswag.ai
 prebid-apac.attekmi.co
@@ -253,6 +260,7 @@ rtbinsight.ru
 s-bid.rmp.rakuten.com
 s.oa.opera.com
 s2s.sportslocalmedia.com
+sdk-orchestrator.tapresearch.com
 service.gnetrtb.com
 srv.adklip.net
 srv.kntxy.com

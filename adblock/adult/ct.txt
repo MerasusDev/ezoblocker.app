@@ -1,0 +1,31 @@
+! Title: EZOBLOCKER Adult, ct
+! Domains: 25 | Updated: 2026-10-08
+! Homepage: https://github.com/MerasusDev/ezoblocker.app
+! Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/adult/ct.txt
+! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
+! App: https://ezoblocker.app
+||aisexygirls.ca^
+||alte-schlampen-gratis-porno-reifen-frauen.pages.dev^
+||bloominonlyfans.com^
+||bokepindo.lat^
+||bokepindo.tokyo^
+||eromanga-wktk.pages.dev^
+||erotische-malbuecher.de^
+||erotischechats.com^
+||freesexvedioes.com^
+||gamerotika.de^
+||hanimeone.lat^
+||heiliaobox.cc^
+||heiliaoqr.cc^
+||indianfemdom.com^
+||nichehentaiplace.com^
+||nuttenkartei.de^
+||orient-herrin-kader.de^
+||porno.chat^
+||sexfilmleriizlevip.com^
+||sextoyvancouver.com^
+||shooting-erotique.com^
+||strapony.cz^
+||tantra-massage-osnabrck-gay-treff-berlin.pages.dev^
+||vivonlyfans.com^
+||xhamster2.in^

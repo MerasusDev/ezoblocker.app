@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Dating
-# Domains: 222 | Updated: 2026-10-08
+# Domains: 229 | Updated: 2026-10-08
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/dating/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -14,6 +14,7 @@
 0.0.0.0 badoo.com
 0.0.0.0 badoo.com.tr
 0.0.0.0 badoocdn.com
+0.0.0.0 bakirkoyeskort.website
 0.0.0.0 bazoocam.live
 0.0.0.0 bazoocam.love
 0.0.0.0 bazoocam.org
@@ -53,6 +54,7 @@
 0.0.0.0 coomeet.chat
 0.0.0.0 coomeet.com
 0.0.0.0 cupidmedia.com
+0.0.0.0 dogging-bh.top
 0.0.0.0 dominicancupid.com
 0.0.0.0 dostyeri.org
 0.0.0.0 ecift.com
@@ -65,6 +67,7 @@
 0.0.0.0 elitesingles.com
 0.0.0.0 elitislamievlilik.com
 0.0.0.0 eniyichat.com
+0.0.0.0 escortigramreviews.com
 0.0.0.0 esohbet.net
 0.0.0.0 esohbet.net.tr
 0.0.0.0 esohbet.org
@@ -77,6 +80,7 @@
 0.0.0.0 evliliksayfasi.com
 0.0.0.0 evliliksayfasi.net
 0.0.0.0 faceflow.com
+0.0.0.0 faridabadcallgirl.com
 0.0.0.0 farmersonly.com
 0.0.0.0 feeld.co
 0.0.0.0 freecam.chat
@@ -99,6 +103,7 @@
 0.0.0.0 hiperalem.com
 0.0.0.0 hongkongcupid.com
 0.0.0.0 hossohbet.com
+0.0.0.0 hotgirlsescortsmallorca.com
 0.0.0.0 indiancupid.com
 0.0.0.0 indiapostgdsonline.cept.gov.in
 0.0.0.0 indonesiancupid.com
@@ -174,6 +179,7 @@
 0.0.0.0 silversingles.com
 0.0.0.0 singaporelovelinks.com
 0.0.0.0 siyahinci.net
+0.0.0.0 skipthegames-usorg.pages.dev
 0.0.0.0 skout.com
 0.0.0.0 sohbet.mobildetek.com
 0.0.0.0 sohbet.vip
@@ -192,6 +198,7 @@
 0.0.0.0 sohbetyeri.com.tr
 0.0.0.0 sohbetyeri.net
 0.0.0.0 southafricancupid.com
+0.0.0.0 special-room-sexdatexx.pages.dev
 0.0.0.0 supermekan.com
 0.0.0.0 tagged.com
 0.0.0.0 taimi.com

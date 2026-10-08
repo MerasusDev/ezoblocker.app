@@ -1,13 +1,15 @@
 # Title: EZOBLOCKER Ads, apps
-# Domains: 22 | Updated: 2026-10-08
+# Domains: 30 | Updated: 2026-10-08
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/ads/apps.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
+0.0.0.0 aa.unioneeu.com
 0.0.0.0 acquire.unity3dusercontent.com
 0.0.0.0 ads-api-svr.6677g.com
 0.0.0.0 adsurge.com
 0.0.0.0 adveradvertismentthebest.com
+0.0.0.0 api.aiadsapp.net
 0.0.0.0 audiomob.io
 0.0.0.0 auth.ssp.taxssp.com
 0.0.0.0 banner.dsp.bmncbtech.com
@@ -15,14 +17,20 @@
 0.0.0.0 betdgh.donlgx.net
 0.0.0.0 bucoup.com
 0.0.0.0 config.ssp.taxssp.com
+0.0.0.0 content.offerwall.unity3d.com
 0.0.0.0 event-eu.ssp.taxssp.com
 0.0.0.0 event.ssp.taxssp.com
+0.0.0.0 fixfun.pareci.net
+0.0.0.0 fixhkl.pareci.net
+0.0.0.0 gateway-b.offerwall.unity3d.com
 0.0.0.0 googletagservices.com
 0.0.0.0 i18n-pglstatp.com
 0.0.0.0 moloco.rtb.crushblocks.com
 0.0.0.0 mraid.bigo.sg
 0.0.0.0 nefta.app
 0.0.0.0 p16-ttam-va.ibyteimg.com
+0.0.0.0 pitk.unioneeu.com
 0.0.0.0 ra.ctech.works
+0.0.0.0 sdk-orchestrator.tapresearch.com
 0.0.0.0 us-east-1.ingaa.xyz
 0.0.0.0 voodoo-adn.com

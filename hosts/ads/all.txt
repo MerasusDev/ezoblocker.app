@@ -1,10 +1,11 @@
 # Title: EZOBLOCKER Ads
-# Domains: 314 | Updated: 2026-10-08
+# Domains: 322 | Updated: 2026-10-08
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/ads/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
 0.0.0.0 a.videoreach.com
+0.0.0.0 aa.unioneeu.com
 0.0.0.0 abs.cookieless-proxistore.com
 0.0.0.0 acd.op.hicloud.com
 0.0.0.0 acquire.unity3dusercontent.com
@@ -54,6 +55,7 @@
 0.0.0.0 an.cmertv.com
 0.0.0.0 analytics.haloads.io
 0.0.0.0 anzu-prebid.attekmi.co
+0.0.0.0 api.aiadsapp.net
 0.0.0.0 api.condorx.io
 0.0.0.0 api.engerio.sk
 0.0.0.0 api.hb.ad.cpe.dotomi.com
@@ -101,6 +103,7 @@
 0.0.0.0 cm.anyrtb.com
 0.0.0.0 config.ssp.taxssp.com
 0.0.0.0 content.adswag.ai
+0.0.0.0 content.offerwall.unity3d.com
 0.0.0.0 cookie.lmgssp.com
 0.0.0.0 cs.152media-ssp.com
 0.0.0.0 cs.axis-marketplace.com
@@ -132,8 +135,11 @@
 0.0.0.0 featuretv.bid
 0.0.0.0 felixads-prebid.attekmi.co
 0.0.0.0 ferio.bid
+0.0.0.0 fixfun.pareci.net
+0.0.0.0 fixhkl.pareci.net
 0.0.0.0 fran.frvr.com
 0.0.0.0 g.ezoic.net
+0.0.0.0 gateway-b.offerwall.unity3d.com
 0.0.0.0 gbid.mediagotechnology.com
 0.0.0.0 ghb.app.copper6.com
 0.0.0.0 ghb.bidder.jmgads.com
@@ -198,6 +204,7 @@
 0.0.0.0 pbs.prebid-ownadx.com
 0.0.0.0 pbs.prebrid.tv
 0.0.0.0 pbsadverxo.com
+0.0.0.0 pitk.unioneeu.com
 0.0.0.0 player-cdn.beachfrontmedia.com
 0.0.0.0 player.adswag.ai
 0.0.0.0 prebid-apac.attekmi.co
@@ -253,6 +260,7 @@
 0.0.0.0 s-bid.rmp.rakuten.com
 0.0.0.0 s.oa.opera.com
 0.0.0.0 s2s.sportslocalmedia.com
+0.0.0.0 sdk-orchestrator.tapresearch.com
 0.0.0.0 service.gnetrtb.com
 0.0.0.0 srv.adklip.net
 0.0.0.0 srv.kntxy.com

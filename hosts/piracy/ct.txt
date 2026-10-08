@@ -1,0 +1,24 @@
+# Title: EZOBLOCKER Piracy, ct
+# Domains: 18 | Updated: 2026-10-08
+# Homepage: https://github.com/MerasusDev/ezoblocker.app
+# Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/piracy/ct.txt
+# License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
+# App: https://ezoblocker.app
+0.0.0.0 cinecalidad-p9qc.pages.dev
+0.0.0.0 cpasbientv.cv
+0.0.0.0 cuevana-2y9h.pages.dev
+0.0.0.0 cuevana-gx65.pages.dev
+0.0.0.0 cuevana3-1g9s.pages.dev
+0.0.0.0 cuevana3-9ns.pages.dev
+0.0.0.0 cuevana3-i8my.pages.dev
+0.0.0.0 cuevana3-s2o.pages.dev
+0.0.0.0 cuevana3-yscy.pages.dev
+0.0.0.0 cuevana8.li
+0.0.0.0 fmovies.supplies
+0.0.0.0 kuttymovies.ai.in
+0.0.0.0 pelisflix-4sp8.pages.dev
+0.0.0.0 socolive123.tv
+0.0.0.0 socolivezl.cc
+0.0.0.0 solarmovie-official.site
+0.0.0.0 themoviesflix.dev
+0.0.0.0 watchseries-3q89.pages.dev
