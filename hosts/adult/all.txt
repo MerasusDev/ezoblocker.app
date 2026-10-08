@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult
-# Domains: 232 | Updated: 2026-10-07
+# Domains: 234 | Updated: 2026-10-08
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/adult/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -62,6 +62,7 @@
 0.0.0.0 diyarbakirescorts.org
 0.0.0.0 doeda.baby
 0.0.0.0 doeda3.baby
+0.0.0.0 doeda4.baby
 0.0.0.0 doedahd.com
 0.0.0.0 doescorts.com
 0.0.0.0 easytoys.uk
@@ -188,6 +189,7 @@
 0.0.0.0 sekshatti.com.tr
 0.0.0.0 seksshop.com.tr
 0.0.0.0 senserotikshop.com
+0.0.0.0 sergi-pro99.site
 0.0.0.0 sertturkceseks.cyou
 0.0.0.0 sexhatti.me
 0.0.0.0 sexhattiniz.com

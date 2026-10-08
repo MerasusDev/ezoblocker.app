@@ -1,11 +1,14 @@
 # Title: EZOBLOCKER Bypass, Türkiye (tr)
-# Domains: 27 | Updated: 2026-10-07
+# Domains: 30 | Updated: 2026-10-08
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/lists/bypass/countries/tr.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
+*.browsec.cx
+*.browsecvps.org
 *.ctunnel.com
 *.dtunnel.net
+*.express-vpn.app
 *.expressrefer.com
 *.free-proxy-list.net
 *.freeproxy.win

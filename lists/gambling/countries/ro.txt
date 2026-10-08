@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling, Romania (ro)
-# Domains: 2 | Updated: 2026-10-07
+# Domains: 2 | Updated: 2026-10-08
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/lists/gambling/countries/ro.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.

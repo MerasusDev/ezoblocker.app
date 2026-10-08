@@ -1,11 +1,14 @@
 # Title: EZOBLOCKER Bypass
-# Domains: 27 | Updated: 2026-10-07
+# Domains: 30 | Updated: 2026-10-08
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/bypass/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
+0.0.0.0 browsec.cx
+0.0.0.0 browsecvps.org
 0.0.0.0 ctunnel.com
 0.0.0.0 dtunnel.net
+0.0.0.0 express-vpn.app
 0.0.0.0 expressrefer.com
 0.0.0.0 free-proxy-list.net
 0.0.0.0 freeproxy.win
