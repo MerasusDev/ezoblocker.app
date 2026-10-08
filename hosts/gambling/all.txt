@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling
-# Domains: 196,661 | Updated: 2026-10-08
+# Domains: 196,698 | Updated: 2026-10-08
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/gambling/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -929,6 +929,7 @@
 0.0.0.0 1420bets10.com
 0.0.0.0 1421bets10.com
 0.0.0.0 1422bets10.com
+0.0.0.0 1425betvole.com
 0.0.0.0 142bets10.com
 0.0.0.0 1439queenbet.com
 0.0.0.0 143bets10.com
@@ -2212,6 +2213,7 @@
 0.0.0.0 1xbetlogin.online
 0.0.0.0 1xbetlogin.win
 0.0.0.0 1xbetloginbet.com
+0.0.0.0 1xbetm.info
 0.0.0.0 1xbetmobi.id
 0.0.0.0 1xbetmobi.im
 0.0.0.0 1xbetmobicash.com
@@ -8742,6 +8744,7 @@
 0.0.0.0 87559885.com
 0.0.0.0 875bets10.com
 0.0.0.0 876bets10.com
+0.0.0.0 876betticket.com
 0.0.0.0 877bedcasino.com
 0.0.0.0 877betsport.com
 0.0.0.0 877gamebet.com
@@ -16471,8 +16474,10 @@
 0.0.0.0 atlasbetbahis.com
 0.0.0.0 atlasbetcasino.de
 0.0.0.0 atlasbetgir.pages.dev
+0.0.0.0 atlasbetguncel.com
 0.0.0.0 atlasbetguncel.link
 0.0.0.0 atlasbetgunceladresi.com
+0.0.0.0 atlasbetmobil.com
 0.0.0.0 atlasbets.ca
 0.0.0.0 atlasbets.org
 0.0.0.0 atlasbetz.com
@@ -16541,6 +16546,7 @@
 0.0.0.0 atomic-slot-lab-stavki-4r6.pages.dev
 0.0.0.0 atomic-slot-lab-stavki.pages.dev
 0.0.0.0 atomic-slot-lab-stoixima.pages.dev
+0.0.0.0 atomspor.com
 0.0.0.0 atrishch-servis.cz
 0.0.0.0 atsupercasino.net
 0.0.0.0 atta4dgacor.com
@@ -18356,6 +18362,7 @@
 0.0.0.0 bahis1000tr.com
 0.0.0.0 bahis28.org
 0.0.0.0 bahisabiguncelgirisi.com
+0.0.0.0 bahisbilgileri.net
 0.0.0.0 bahisbonusu.com
 0.0.0.0 bahiscasino-gir.pages.dev
 0.0.0.0 bahiscasino-giris2025.com
@@ -18389,6 +18396,8 @@
 0.0.0.0 bahisfaircasino.com
 0.0.0.0 bahismorecasino.com
 0.0.0.0 bahisnowgunceladres.com
+0.0.0.0 bahispiri.com
+0.0.0.0 bahisportali24.com
 0.0.0.0 bahissiteleri.biz
 0.0.0.0 bahissiteleri.com.co
 0.0.0.0 bahissiteleri.org.uk
@@ -20533,6 +20542,7 @@
 0.0.0.0 becasinoonline.de
 0.0.0.0 becasinooria.com
 0.0.0.0 becleanbewell.com
+0.0.0.0 bedavabahistr.org
 0.0.0.0 bedavaspin.com
 0.0.0.0 bedctcasino.com
 0.0.0.0 bedst-casinoer-go.fun
@@ -23059,6 +23069,7 @@
 0.0.0.0 betasus.vin
 0.0.0.0 betasus.wine
 0.0.0.0 betasus1852.com
+0.0.0.0 betasuscanli.com
 0.0.0.0 betasusgirs.vip
 0.0.0.0 betasushizligiris.com
 0.0.0.0 betasusresmigiris.icu
@@ -23147,6 +23158,7 @@
 0.0.0.0 betbona-casino.pt
 0.0.0.0 betbonacasino-online.com
 0.0.0.0 betbonacasino-org.pages.dev
+0.0.0.0 betboo387.com
 0.0.0.0 betboocasino.de
 0.0.0.0 betboocasinogiris7.com
 0.0.0.0 betboom-5.com
@@ -23327,6 +23339,7 @@
 0.0.0.0 betcio1444.com
 0.0.0.0 betcio1445.com
 0.0.0.0 betcio1533.com
+0.0.0.0 betcio1547.com
 0.0.0.0 betcio1957.com
 0.0.0.0 betcio46.pages.dev
 0.0.0.0 betcioadresi.com
@@ -24484,6 +24497,8 @@
 0.0.0.0 betist2121.com
 0.0.0.0 betist2122.com
 0.0.0.0 betist2123.com
+0.0.0.0 betist2124.com
+0.0.0.0 betist2125.com
 0.0.0.0 betista-bonos-espana.com
 0.0.0.0 betista-casino-uk.com
 0.0.0.0 betista-casino.com.de
@@ -26120,6 +26135,7 @@
 0.0.0.0 betpas-resmigiris.icu
 0.0.0.0 betpas.bar
 0.0.0.0 betpas.cash
+0.0.0.0 betpas.com
 0.0.0.0 betpas.forum
 0.0.0.0 betpas.me
 0.0.0.0 betpas.pages.dev
@@ -28035,6 +28051,7 @@
 0.0.0.0 betturkeyegiris.org
 0.0.0.0 betturkeygir.com
 0.0.0.0 betturkeygir.org
+0.0.0.0 betturkeygiris.org
 0.0.0.0 betturkeygiris1.com
 0.0.0.0 betturkeygirisg.vip
 0.0.0.0 betturkeygirisz.vip
@@ -28667,6 +28684,7 @@
 0.0.0.0 betwoon.link
 0.0.0.0 betwoon.me
 0.0.0.0 betwoon.run
+0.0.0.0 betwoon1225.com
 0.0.0.0 betwoongiris.org
 0.0.0.0 betwoongiris.pro
 0.0.0.0 betwoongirisi.gen.tr
@@ -32163,6 +32181,7 @@
 0.0.0.0 bonusblitzcasino.com
 0.0.0.0 bonusblitzcasino1.ca
 0.0.0.0 bonusblitzcasinok.com
+0.0.0.0 bonusbookk.com
 0.0.0.0 bonusbuyslotsonline.com
 0.0.0.0 bonuscashcasinos.com
 0.0.0.0 bonuscasino-x.icu
@@ -63707,6 +63726,7 @@
 0.0.0.0 cratosroyalbet.link
 0.0.0.0 cratosroyalbet.win
 0.0.0.0 cratosroyalbet1504.com
+0.0.0.0 cratosroyalbet1505.com
 0.0.0.0 cratosroyalbet2026.help
 0.0.0.0 cratosroyalbetguncelgiris.com
 0.0.0.0 cratosroyalbetx17.pages.dev
@@ -67460,6 +67480,7 @@
 0.0.0.0 dimessportsbook.com
 0.0.0.0 dinacasinon.com
 0.0.0.0 dinamobet-casino.de.com
+0.0.0.0 dinamobet1236.com
 0.0.0.0 dinamobetcasino.de
 0.0.0.0 dinamobt-girisimiz.cfd
 0.0.0.0 dinamohizligiris.com
@@ -70727,6 +70748,7 @@
 0.0.0.0 elexbetgirisadresi.com
 0.0.0.0 elexbetguncelgiris.com
 0.0.0.0 elexbetguncelgiris.link
+0.0.0.0 elexbetpro.com
 0.0.0.0 elexbettv213.com
 0.0.0.0 elexbettv215.com
 0.0.0.0 elexbetw.com
@@ -70746,6 +70768,7 @@
 0.0.0.0 elit-casino.com.ro
 0.0.0.0 elit-casino.ro
 0.0.0.0 elit-casinotop.pages.dev
+0.0.0.0 elitbahisci.com
 0.0.0.0 elitbet-casino-com-94.pages.dev
 0.0.0.0 elitbet-casino.de
 0.0.0.0 elitcasino-4k8.pages.dev
@@ -111284,6 +111307,7 @@
 0.0.0.0 mcasino.co
 0.0.0.0 mcasino.dk
 0.0.0.0 mcasino.top
+0.0.0.0 mcasino100.com
 0.0.0.0 mcasinonow.com
 0.0.0.0 mcasinosupport.com
 0.0.0.0 mccasino.app
@@ -111818,6 +111842,7 @@
 0.0.0.0 megaparibet.bid
 0.0.0.0 megaparibet.co.ke
 0.0.0.0 megaparibet.co.za
+0.0.0.0 megaparibet.com
 0.0.0.0 megaparibet.in
 0.0.0.0 megaparibet.net
 0.0.0.0 megaparicasino-be.eu.com
@@ -114134,6 +114159,7 @@
 0.0.0.0 meritcasino.net
 0.0.0.0 meritcasino.pl
 0.0.0.0 meritcasinogiris.net
+0.0.0.0 meritcasinos.com
 0.0.0.0 meritking-gercekgiris.com
 0.0.0.0 meritking.news
 0.0.0.0 meritkingnet.com
@@ -120556,6 +120582,7 @@
 0.0.0.0 mu99casinobet.com
 0.0.0.0 mu9casinobet.com
 0.0.0.0 mu9funbet.com
+0.0.0.0 mubahisa.com
 0.0.0.0 mucasino.net
 0.0.0.0 much-better-casinos.com
 0.0.0.0 muchbetter-casino.ca
@@ -131320,6 +131347,7 @@
 0.0.0.0 ovocasino.org
 0.0.0.0 ovocasino.ro
 0.0.0.0 ovototo-togel-gacor.pages.dev
+0.0.0.0 owgir.cc
 0.0.0.0 owlgamescasino.de
 0.0.0.0 own777casino.com.br
 0.0.0.0 ownacasino.org
@@ -140434,6 +140462,7 @@
 0.0.0.0 popularsonlinecasino.com
 0.0.0.0 popularwinbet.com
 0.0.0.0 popularwinshark.com
+0.0.0.0 populerbahisler1.org
 0.0.0.0 populercasinolar.com
 0.0.0.0 popwbcasino.com.br
 0.0.0.0 porn300.pages.dev
@@ -144419,6 +144448,7 @@
 0.0.0.0 rakooscasino.com
 0.0.0.0 rama-casino-canada.com
 0.0.0.0 ramadabet-canli-casino-top.pages.dev
+0.0.0.0 ramadabet559.com
 0.0.0.0 ramadabetgir.com
 0.0.0.0 ramadaplaza-casino.com
 0.0.0.0 ramalantototogel-info-06082026.pages.dev
@@ -145768,9 +145798,11 @@
 0.0.0.0 restbet-oyun-dunyasi-top.pages.dev
 0.0.0.0 restbet-vip-adres-top.pages.dev
 0.0.0.0 restbet-vip-kazanclar-top.pages.dev
+0.0.0.0 restbet.com
 0.0.0.0 restbet.top
 0.0.0.0 restbetgiris2026.com
 0.0.0.0 restbetgiris724.com
+0.0.0.0 restbetgirisi.xn--c-fka
 0.0.0.0 restbetguncellgiris.icu
 0.0.0.0 restbetpage.com
 0.0.0.0 restbetpalinggacordeh.pages.dev
@@ -170090,6 +170122,7 @@
 0.0.0.0 superacephp.com
 0.0.0.0 superbabynurseries.com
 0.0.0.0 superbahis.guncel-giris.org
+0.0.0.0 superbahis1275.com
 0.0.0.0 superbahiscasino.co.uk
 0.0.0.0 superbahisyeniadresleri.com
 0.0.0.0 superbcasino-uk.com
@@ -173725,6 +173758,7 @@
 0.0.0.0 tipobet.live
 0.0.0.0 tipobet.pl
 0.0.0.0 tipobet.ro
+0.0.0.0 tipobet.wiki
 0.0.0.0 tipobet3.com
 0.0.0.0 tipobet365giris2026.com
 0.0.0.0 tipobetadres.net
@@ -173760,6 +173794,7 @@
 0.0.0.0 tipobetoriginal.it.com
 0.0.0.0 tipobetplus.it.com
 0.0.0.0 tipobetpro.it.com
+0.0.0.0 tipobetr.org
 0.0.0.0 tipobets.it.com
 0.0.0.0 tipobetsgiris.com
 0.0.0.0 tipobetson.it.com
@@ -178989,6 +179024,7 @@
 0.0.0.0 usbbetcasino.com.br
 0.0.0.0 usbbetway.com
 0.0.0.0 usbest-casino.com
+0.0.0.0 usbestcasino.org
 0.0.0.0 usbetcasinobet.com
 0.0.0.0 usbetting24.com
 0.0.0.0 usbitcoincasino.hu.net
@@ -195239,6 +195275,7 @@
 0.0.0.0 zbahisgirisadres.com
 0.0.0.0 zbahisgirisadresim.com
 0.0.0.0 zbahisguncelgirisi.com
+0.0.0.0 zbahisz.com
 0.0.0.0 zbet168slot.biz
 0.0.0.0 zbet68zbet.com
 0.0.0.0 zbet88casinobet.com

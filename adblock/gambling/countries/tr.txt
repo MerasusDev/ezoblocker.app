@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Gambling, Türkiye (tr)
-! Domains: 211 | Updated: 2026-10-08
+! Domains: 248 | Updated: 2026-10-08
 ! Homepage: https://github.com/MerasusDev/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/gambling/countries/tr.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -7,10 +7,13 @@
 ||10036bets10.com^
 ||10037bets10.com^
 ||1334bets10.com^
+||1425betvole.com^
+||1xbetm.info^
 ||205betmatik.com^
 ||3064marsbahis.com^
 ||37betmatik.com^
 ||41betmatik.com^
+||876betticket.com^
 ||933hilbet.com^
 ||affiliatesbetpas.com^
 ||anadolucasino.blog^
@@ -20,15 +23,25 @@
 ||atlasbet889.com^
 ||atlasbet892.com^
 ||atlasbetbahis.com^
+||atlasbetguncel.com^
+||atlasbetmobil.com^
+||atomspor.com^
+||bahisbilgileri.net^
 ||bahisbonusu.com^
+||bahispiri.com^
+||bahisportali24.com^
 ||bahsegelgir.org^
 ||baywin.org^
+||bedavabahistr.org^
 ||bedavaspin.com^
+||betasuscanli.com^
+||betboo387.com^
 ||betbooplusgirisi.com^
 ||betcio-giris.org^
 ||betcio1442.com^
 ||betcio1444.com^
 ||betcio1445.com^
+||betcio1547.com^
 ||betcioadresi.com^
 ||betexper.casino^
 ||betexper.co^
@@ -46,11 +59,14 @@
 ||betist2121.com^
 ||betist2122.com^
 ||betist2123.com^
+||betist2124.com^
+||betist2125.com^
 ||betkom.net^
 ||betkom533.com^
 ||betkom929.com^
 ||betlebi.com^
 ||betmatikguncel.lol^
+||betpas.com^
 ||betpas.rest^
 ||betpasbahis.com^
 ||betsafe.ee^
@@ -62,9 +78,12 @@
 ||bettiltlogin.com^
 ||betturkey.ws^
 ||betturkeygir.com^
+||betturkeygiris.org^
+||betwoon1225.com^
 ||betwoongiris.org^
 ||bonusambari.com^
 ||bonusametist.com^
+||bonusbookk.com^
 ||bonuskiyisi.com^
 ||bonuskoyde.com^
 ||bonuslideri11.com^
@@ -82,15 +101,19 @@
 ||cevdet9.live^
 ||cratosgiris.app^
 ||cratosroyalbet1504.com^
+||cratosroyalbet1505.com^
 ||croatia-bonusesfinder.com^
 |cse.vu.edu.bd^
 ||cybetic.com^
 ||denemebonuslari.yachts^
+||dinamobet1236.com^
 ||dodoref7.com^
 ||dpselectricalmkltd.co.uk^
 ||dumanbetgiris.cc^
 ||ejovoc.org^
 ||elexbet20.com^
+||elexbetpro.com^
+||elitbahisci.com^
 ||eniyibahisforum3.com^
 ||favoribahis862.com^
 ||funbahisyeni.com^
@@ -128,8 +151,11 @@
 ||matadorbet.net^
 ||maxwin.cx^
 ||maxwin.gen.tr^
+||mcasino100.com^
 ||megabahis.asia^
 ||megabahis.com^
+||megaparibet.com^
+||meritcasinos.com^
 ||meritking-gercekgiris.com^
 ||meritking.news^
 ||meritkingnet.com^
@@ -138,6 +164,7 @@
 ||mojobet795.com^
 ||mojobet796.com^
 ||mostbet-resmi.co.com^
+||mubahisa.com^
 ||nakitbahis.cam^
 ||nakitbahis.com^
 ||nakitbahisgiris.wiki^
@@ -146,6 +173,7 @@
 ||oonwin.com^
 ||orisbet.ws^
 ||orisbetci.com^
+||owgir.cc^
 ||padisah.best^
 ||padisah.pro^
 ||padisah.site^
@@ -158,12 +186,16 @@
 ||pinbahisgiris.site^
 ||pinfa159.com^
 ||polobetgiris.co^
+||populerbahisler1.org^
 ||pusulabet1129.com^
 ||pusulabet5015.com^
 ||pusulabet5016.com^
 ||pusulabet5017.com^
 ||quantonics.com^
+||ramadabet559.com^
 ||ramadabetgir.com^
+||restbet.com^
+||restbetgirisi.xn--c-fka^
 ||rex-bet.name^
 ||rexbet.link^
 ||rotabet.net^
@@ -181,6 +213,7 @@
 ||sonbahis725.com^
 ||sonbahisgirislinki.live^
 |superbahis.guncel-giris.org^
+||superbahis1275.com^
 ||superbahisyeniadresleri.com^
 ||superbetin.ws^
 ||superbetin2151.com^
@@ -191,6 +224,8 @@
 ||tawsom.net^
 ||tempobetde.com^
 ||theallergyfreewife.com^
+||tipobet.wiki^
+||tipobetr.org^
 ||trbet282.com^
 ||trbet599.com^
 ||trbet860.com^
@@ -202,6 +237,7 @@
 ||trpadisahbet.net^
 |trs.pas-gercekadrese-giris1.sbs^
 ||ultrabet.ro^
+||usbestcasino.org^
 ||venombet343.com^
 ||venombet346.com^
 ||venombet348.com^
@@ -215,3 +251,4 @@
 ||wonderscope.com^
 |ws.christostogo.com^
 |wu.borderlandsbrewing.com^
+||zbahisz.com^

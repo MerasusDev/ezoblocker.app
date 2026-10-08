@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Dating, Türkiye (tr)
-# Domains: 188 | Updated: 2026-10-08
+# Domains: 210 | Updated: 2026-10-08
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/domains/dating/countries/tr.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -7,6 +7,7 @@
 alemortam.net
 asiandating.com
 askalemi.net
+askcafe.net
 astrocupid.com
 azarlive.com
 badoo.com
@@ -46,6 +47,7 @@ colombiancupid.com
 commeetment.com
 coomeet.chat
 coomeet.com
+coomeet.me
 cupidmedia.com
 dominicancupid.com
 dostyeri.org
@@ -69,8 +71,11 @@ evlilikilani.com
 evlilikportali.com
 evliliksayfasi.com
 evliliksayfasi.net
+eylulsohbet.net
 faceflow.com
 freecam.chat
+gabile.net
+gabilesohbet.net
 gelchat.net
 gercekevlilik.com
 geveze.name
@@ -94,11 +99,16 @@ kalbim.net
 kalbiminsesi.net
 kaliteliortam.com
 kariyerpanel.com
+kelebek.org
+kelebekchat.com.tr
+kelebeksohbet.com
 kenyancupid.com
 kolaychat.org
 kolaysohbet.com
 koreancupid.com
 koyusohbet.com.tr
+kralsohbet.com
+kralsohbet.net
 laflamak.com
 latinamericancupid.com
 lavinsta.com
@@ -148,22 +158,32 @@ singaporelovelinks.com
 siyahinci.net
 skout.com
 sohbet.mobildetek.com
+sohbet.net
+sohbet.org
 sohbet.vip
+sohbet1.net
+sohbetalem.net
 sohbetbahane.net
+sohbetburada.com
 sohbetcan.com
 sohbetcenneti.org
 sohbetche.net
 sohbetci.com
 sohbetci.com.tr
 sohbetci.net
+sohbethane.net
 sohbetimsen.net
 sohbetlive.com
+sohbetodalari.org
 sohbetse.net
 sohbetsev.net
+sohbetsiteleri.net
+sohbetsitesi.com
 sohbetx.net
 sohbetyeri.com.tr
 sohbetyeri.net
 southafricancupid.com
+soyle.net
 supermekan.com
 talkrand.com
 tamsohbet.chat
@@ -179,11 +199,13 @@ trchat.com
 trende.com.tr
 trmirc.net
 trsohbet.com
+turkchat.com
 turkchat.tc
 turkchatfm.com
 turkirc.com
 turkishchat.net
 turksohbet.chat
+turksohbet.com
 turksohbet.net
 turkusohbet.com
 turkyeri.net

@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling
-# Domains: 196,661 | Updated: 2026-10-08
+# Domains: 196,698 | Updated: 2026-10-08
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/lists/gambling/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -929,6 +929,7 @@
 *.1420bets10.com
 *.1421bets10.com
 *.1422bets10.com
+*.1425betvole.com
 *.142bets10.com
 *.1439queenbet.com
 *.143bets10.com
@@ -2212,6 +2213,7 @@
 *.1xbetlogin.online
 *.1xbetlogin.win
 *.1xbetloginbet.com
+*.1xbetm.info
 *.1xbetmobi.id
 *.1xbetmobi.im
 *.1xbetmobicash.com
@@ -8742,6 +8744,7 @@
 *.87559885.com
 *.875bets10.com
 *.876bets10.com
+*.876betticket.com
 *.877bedcasino.com
 *.877betsport.com
 *.877gamebet.com
@@ -16471,8 +16474,10 @@
 *.atlasbetbahis.com
 *.atlasbetcasino.de
 *.atlasbetgir.pages.dev
+*.atlasbetguncel.com
 *.atlasbetguncel.link
 *.atlasbetgunceladresi.com
+*.atlasbetmobil.com
 *.atlasbets.ca
 *.atlasbets.org
 *.atlasbetz.com
@@ -16541,6 +16546,7 @@
 *.atomic-slot-lab-stavki-4r6.pages.dev
 *.atomic-slot-lab-stavki.pages.dev
 *.atomic-slot-lab-stoixima.pages.dev
+*.atomspor.com
 *.atrishch-servis.cz
 *.atsupercasino.net
 *.atta4dgacor.com
@@ -18356,6 +18362,7 @@
 *.bahis1000tr.com
 *.bahis28.org
 *.bahisabiguncelgirisi.com
+*.bahisbilgileri.net
 *.bahisbonusu.com
 *.bahiscasino-gir.pages.dev
 *.bahiscasino-giris2025.com
@@ -18389,6 +18396,8 @@
 *.bahisfaircasino.com
 *.bahismorecasino.com
 *.bahisnowgunceladres.com
+*.bahispiri.com
+*.bahisportali24.com
 *.bahissiteleri.biz
 *.bahissiteleri.com.co
 *.bahissiteleri.org.uk
@@ -20533,6 +20542,7 @@
 *.becasinoonline.de
 *.becasinooria.com
 *.becleanbewell.com
+*.bedavabahistr.org
 *.bedavaspin.com
 *.bedctcasino.com
 *.bedst-casinoer-go.fun
@@ -23059,6 +23069,7 @@
 *.betasus.vin
 *.betasus.wine
 *.betasus1852.com
+*.betasuscanli.com
 *.betasusgirs.vip
 *.betasushizligiris.com
 *.betasusresmigiris.icu
@@ -23147,6 +23158,7 @@
 *.betbona-casino.pt
 *.betbonacasino-online.com
 *.betbonacasino-org.pages.dev
+*.betboo387.com
 *.betboocasino.de
 *.betboocasinogiris7.com
 *.betboom-5.com
@@ -23327,6 +23339,7 @@
 *.betcio1444.com
 *.betcio1445.com
 *.betcio1533.com
+*.betcio1547.com
 *.betcio1957.com
 *.betcio46.pages.dev
 *.betcioadresi.com
@@ -24484,6 +24497,8 @@
 *.betist2121.com
 *.betist2122.com
 *.betist2123.com
+*.betist2124.com
+*.betist2125.com
 *.betista-bonos-espana.com
 *.betista-casino-uk.com
 *.betista-casino.com.de
@@ -26120,6 +26135,7 @@
 *.betpas-resmigiris.icu
 *.betpas.bar
 *.betpas.cash
+*.betpas.com
 *.betpas.forum
 *.betpas.me
 *.betpas.pages.dev
@@ -28035,6 +28051,7 @@
 *.betturkeyegiris.org
 *.betturkeygir.com
 *.betturkeygir.org
+*.betturkeygiris.org
 *.betturkeygiris1.com
 *.betturkeygirisg.vip
 *.betturkeygirisz.vip
@@ -28667,6 +28684,7 @@
 *.betwoon.link
 *.betwoon.me
 *.betwoon.run
+*.betwoon1225.com
 *.betwoongiris.org
 *.betwoongiris.pro
 *.betwoongirisi.gen.tr
@@ -32163,6 +32181,7 @@
 *.bonusblitzcasino.com
 *.bonusblitzcasino1.ca
 *.bonusblitzcasinok.com
+*.bonusbookk.com
 *.bonusbuyslotsonline.com
 *.bonuscashcasinos.com
 *.bonuscasino-x.icu
@@ -63707,6 +63726,7 @@
 *.cratosroyalbet.link
 *.cratosroyalbet.win
 *.cratosroyalbet1504.com
+*.cratosroyalbet1505.com
 *.cratosroyalbet2026.help
 *.cratosroyalbetguncelgiris.com
 *.cratosroyalbetx17.pages.dev
@@ -67460,6 +67480,7 @@ cse.vu.edu.bd
 *.dimessportsbook.com
 *.dinacasinon.com
 *.dinamobet-casino.de.com
+*.dinamobet1236.com
 *.dinamobetcasino.de
 *.dinamobt-girisimiz.cfd
 *.dinamohizligiris.com
@@ -70727,6 +70748,7 @@ cse.vu.edu.bd
 *.elexbetgirisadresi.com
 *.elexbetguncelgiris.com
 *.elexbetguncelgiris.link
+*.elexbetpro.com
 *.elexbettv213.com
 *.elexbettv215.com
 *.elexbetw.com
@@ -70746,6 +70768,7 @@ cse.vu.edu.bd
 *.elit-casino.com.ro
 *.elit-casino.ro
 *.elit-casinotop.pages.dev
+*.elitbahisci.com
 *.elitbet-casino-com-94.pages.dev
 *.elitbet-casino.de
 *.elitcasino-4k8.pages.dev
@@ -111284,6 +111307,7 @@ m.ws.christostogo.com
 *.mcasino.co
 *.mcasino.dk
 *.mcasino.top
+*.mcasino100.com
 *.mcasinonow.com
 *.mcasinosupport.com
 *.mccasino.app
@@ -111818,6 +111842,7 @@ m.ws.christostogo.com
 *.megaparibet.bid
 *.megaparibet.co.ke
 *.megaparibet.co.za
+*.megaparibet.com
 *.megaparibet.in
 *.megaparibet.net
 *.megaparicasino-be.eu.com
@@ -114134,6 +114159,7 @@ m.ws.christostogo.com
 *.meritcasino.net
 *.meritcasino.pl
 *.meritcasinogiris.net
+*.meritcasinos.com
 *.meritking-gercekgiris.com
 *.meritking.news
 *.meritkingnet.com
@@ -120556,6 +120582,7 @@ misje.diecezja.pl
 *.mu99casinobet.com
 *.mu9casinobet.com
 *.mu9funbet.com
+*.mubahisa.com
 *.mucasino.net
 *.much-better-casinos.com
 *.muchbetter-casino.ca
@@ -131320,6 +131347,7 @@ online.hubbardcity.com
 *.ovocasino.org
 *.ovocasino.ro
 *.ovototo-togel-gacor.pages.dev
+*.owgir.cc
 *.owlgamescasino.de
 *.own777casino.com.br
 *.ownacasino.org
@@ -140434,6 +140462,7 @@ online.hubbardcity.com
 *.popularsonlinecasino.com
 *.popularwinbet.com
 *.popularwinshark.com
+*.populerbahisler1.org
 *.populercasinolar.com
 *.popwbcasino.com.br
 *.porn300.pages.dev
@@ -144419,6 +144448,7 @@ online.hubbardcity.com
 *.rakooscasino.com
 *.rama-casino-canada.com
 *.ramadabet-canli-casino-top.pages.dev
+*.ramadabet559.com
 *.ramadabetgir.com
 *.ramadaplaza-casino.com
 *.ramalantototogel-info-06082026.pages.dev
@@ -145768,9 +145798,11 @@ online.hubbardcity.com
 *.restbet-oyun-dunyasi-top.pages.dev
 *.restbet-vip-adres-top.pages.dev
 *.restbet-vip-kazanclar-top.pages.dev
+*.restbet.com
 *.restbet.top
 *.restbetgiris2026.com
 *.restbetgiris724.com
+*.restbetgirisi.xn--c-fka
 *.restbetguncellgiris.icu
 *.restbetpage.com
 *.restbetpalinggacordeh.pages.dev
@@ -170090,6 +170122,7 @@ online.hubbardcity.com
 *.superacephp.com
 *.superbabynurseries.com
 superbahis.guncel-giris.org
+*.superbahis1275.com
 *.superbahiscasino.co.uk
 *.superbahisyeniadresleri.com
 *.superbcasino-uk.com
@@ -173725,6 +173758,7 @@ superbahis.guncel-giris.org
 *.tipobet.live
 *.tipobet.pl
 *.tipobet.ro
+*.tipobet.wiki
 *.tipobet3.com
 *.tipobet365giris2026.com
 *.tipobetadres.net
@@ -173760,6 +173794,7 @@ superbahis.guncel-giris.org
 *.tipobetoriginal.it.com
 *.tipobetplus.it.com
 *.tipobetpro.it.com
+*.tipobetr.org
 *.tipobets.it.com
 *.tipobetsgiris.com
 *.tipobetson.it.com
@@ -178989,6 +179024,7 @@ trs.pas-gercekadrese-giris1.sbs
 *.usbbetcasino.com.br
 *.usbbetway.com
 *.usbest-casino.com
+*.usbestcasino.org
 *.usbetcasinobet.com
 *.usbetting24.com
 *.usbitcoincasino.hu.net
@@ -195239,6 +195275,7 @@ wu.borderlandsbrewing.com
 *.zbahisgirisadres.com
 *.zbahisgirisadresim.com
 *.zbahisguncelgirisi.com
+*.zbahisz.com
 *.zbet168slot.biz
 *.zbet68zbet.com
 *.zbet88casinobet.com
