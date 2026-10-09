@@ -1,0 +1,11 @@
+# Title: EZOBLOCKER Piracy, Sweden (se)
+# Domains: 5 | Updated: 2026-10-09
+# Homepage: https://github.com/MerasusDev/ezoblocker.app
+# Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/domains/piracy/countries/se.txt
+# License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
+# App: https://ezoblocker.app
+find-and-update.company-information.service.gov.uk
+it-ord.computersweden.se
+livesportsontv.com
+sportstream.se
+sportstream.us

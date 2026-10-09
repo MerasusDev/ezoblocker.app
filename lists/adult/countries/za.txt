@@ -1,8 +1,19 @@
 # Title: EZOBLOCKER Adult, South Africa (za)
-# Domains: 2 | Updated: 2026-10-09
+# Domains: 13 | Updated: 2026-10-09
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/lists/adult/countries/za.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
 *.albonishop.com
+*.cosettes.co.za
 *.erotikshop.com.tr
+*.ladyjane.co.za
+*.lizzybliss.co.za
+*.lovecraft.co.za
+*.luvland.co.za
+*.matildas.co.za
+*.moodtime.co.za
+*.mysexshop.co.za
+*.mzansiporn.mobi
+*.oliviagrey.co.za
+*.xanadushop.co.za

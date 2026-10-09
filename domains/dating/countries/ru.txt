@@ -1,0 +1,11 @@
+# Title: EZOBLOCKER Dating, Russia (ru)
+# Domains: 5 | Updated: 2026-10-09
+# Homepage: https://github.com/MerasusDev/ezoblocker.app
+# Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/domains/dating/countries/ru.txt
+# License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
+# App: https://ezoblocker.app
+chatroulette.ru
+loveplanet.ru
+mamba.ru
+ruletka.chat
+videochatru.com

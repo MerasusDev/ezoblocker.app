@@ -265,7 +265,6 @@
 0.0.0.0 account.bys-insta-store-76319.com
 0.0.0.0 account.ccustoms.shop
 0.0.0.0 account.com-microsoft-onedrive-auth.com
-0.0.0.0 account.com-microsoftonline-ondrive.ca
 0.0.0.0 account.deutsche-whiskys.shop
 0.0.0.0 account.deutsche-zentral-akademie.com
 0.0.0.0 account.elektr-de.shop
@@ -1407,6 +1406,7 @@
 0.0.0.0 binance-reward.shop
 0.0.0.0 binance-us-verify.com
 0.0.0.0 binance-verify-us.com
+0.0.0.0 binance.wallet-account.com
 0.0.0.0 binance.wallet-account.com.eds1.com
 0.0.0.0 binancewallet-frontend.pages.dev
 0.0.0.0 binancewallet.app
@@ -4312,7 +4312,6 @@
 0.0.0.0 hrd-in-logn-trezr-ng-live.pages.dev
 0.0.0.0 hrdware-wallet-trezrr.pages.dev
 0.0.0.0 hsbc-savings-bank-las-pinas-city-metro-manila-branch.ph
-0.0.0.0 hsbc-support.work
 0.0.0.0 hub-coinbase-pro-login.pages.dev
 0.0.0.0 hub-ledgrlive-auths-x.pages.dev
 0.0.0.0 hub-ledgrlive-auths.pages.dev
@@ -6704,6 +6703,7 @@
 0.0.0.0 magnit-sk-bot-xmr.online
 0.0.0.0 mail-graph-microsoft-com.proxy.aauth.dev
 0.0.0.0 mail-mofept-gov-pk-verification2lerserverupdate84jhbhjgbhc.pages.dev
+0.0.0.0 mail.binance.wallet-account.com
 0.0.0.0 mail.fedex-delivery-tracking.aiianc.com
 0.0.0.0 mail.suivi-colis-colissimo.parfums33ml.online
 0.0.0.0 maile-sec-logn.piyiba5715.workers.dev
@@ -10534,7 +10534,6 @@
 0.0.0.0 startup-ruhbinhood-access-en-logiin.pages.dev
 0.0.0.0 statement-viewonce-givesusquotes-sharepoint.pages.dev
 0.0.0.0 static-login.com-microsoft-onedrive-auth.com
-0.0.0.0 static-login.com-microsoftonline-ondrive.ca
 0.0.0.0 statusbestellung--kleinanzeigen.rest
 0.0.0.0 stax-live-wallet.pages.dev
 0.0.0.0 stc-bank-nfc-vo.pages.dev
@@ -13213,6 +13212,7 @@
 0.0.0.0 www.apple-verification-it.ihsanlarlojistik.com
 0.0.0.0 www.appleid.apple.com.signin.skateykatey.com
 0.0.0.0 www.bank-islami.pstd.online
+0.0.0.0 www.binance.wallet-account.com
 0.0.0.0 www.binance.wallet-account.com.eds1.com
 0.0.0.0 www.bireyselziraat.mrsistemasespeciales.com
 0.0.0.0 www.chase-account-confirmation.docie.com.mx

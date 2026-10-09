@@ -1,0 +1,9 @@
+# Title: EZOBLOCKER Gambling, Australia (au)
+# Domains: 3 | Updated: 2026-10-09
+# Homepage: https://github.com/MerasusDev/ezoblocker.app
+# Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/domains/gambling/countries/au.txt
+# License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
+# App: https://ezoblocker.app
+clintonandco.co.uk
+joefortune.co.nz
+joefortuneonlinepokies.club

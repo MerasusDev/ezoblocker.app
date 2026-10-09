@@ -1,0 +1,12 @@
+# Title: EZOBLOCKER Dating, Malaysia (my)
+# Domains: 6 | Updated: 2026-10-09
+# Homepage: https://github.com/MerasusDev/ezoblocker.app
+# Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/dating/countries/my.txt
+# License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
+# App: https://ezoblocker.app
+0.0.0.0 dev-web.sgrbk.com
+0.0.0.0 login-sugarbook.rivernotebook.com
+0.0.0.0 myjodoh.net
+0.0.0.0 sugarbook.com
+0.0.0.0 sugarbookapp.com
+0.0.0.0 sugarbookmy.com

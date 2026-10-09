@@ -265,7 +265,6 @@
 |account.bys-insta-store-76319.com^
 |account.ccustoms.shop^
 |account.com-microsoft-onedrive-auth.com^
-|account.com-microsoftonline-ondrive.ca^
 |account.deutsche-whiskys.shop^
 |account.deutsche-zentral-akademie.com^
 |account.elektr-de.shop^
@@ -1407,6 +1406,7 @@
 ||binance-reward.shop^
 ||binance-us-verify.com^
 ||binance-verify-us.com^
+|binance.wallet-account.com^
 |binance.wallet-account.com.eds1.com^
 ||binancewallet-frontend.pages.dev^
 ||binancewallet.app^
@@ -4312,7 +4312,6 @@
 ||hrd-in-logn-trezr-ng-live.pages.dev^
 ||hrdware-wallet-trezrr.pages.dev^
 ||hsbc-savings-bank-las-pinas-city-metro-manila-branch.ph^
-||hsbc-support.work^
 ||hub-coinbase-pro-login.pages.dev^
 ||hub-ledgrlive-auths-x.pages.dev^
 ||hub-ledgrlive-auths.pages.dev^
@@ -6704,6 +6703,7 @@
 ||magnit-sk-bot-xmr.online^
 |mail-graph-microsoft-com.proxy.aauth.dev^
 ||mail-mofept-gov-pk-verification2lerserverupdate84jhbhjgbhc.pages.dev^
+|mail.binance.wallet-account.com^
 |mail.fedex-delivery-tracking.aiianc.com^
 |mail.suivi-colis-colissimo.parfums33ml.online^
 |maile-sec-logn.piyiba5715.workers.dev^
@@ -10534,7 +10534,6 @@
 ||startup-ruhbinhood-access-en-logiin.pages.dev^
 ||statement-viewonce-givesusquotes-sharepoint.pages.dev^
 |static-login.com-microsoft-onedrive-auth.com^
-|static-login.com-microsoftonline-ondrive.ca^
 ||statusbestellung--kleinanzeigen.rest^
 ||stax-live-wallet.pages.dev^
 ||stc-bank-nfc-vo.pages.dev^
@@ -13213,6 +13212,7 @@
 |www.apple-verification-it.ihsanlarlojistik.com^
 |www.appleid.apple.com.signin.skateykatey.com^
 |www.bank-islami.pstd.online^
+|www.binance.wallet-account.com^
 |www.binance.wallet-account.com.eds1.com^
 |www.bireyselziraat.mrsistemasespeciales.com^
 |www.chase-account-confirmation.docie.com.mx^

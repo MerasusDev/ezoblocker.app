@@ -1,23 +1,38 @@
 ! Title: EZOBLOCKER Bypass
-! Domains: 30 | Updated: 2026-10-09
+! Domains: 52 | Updated: 2026-10-09
 ! Homepage: https://github.com/MerasusDev/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/bypass/all.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 ! App: https://ezoblocker.app
 ||browsec.cx^
 ||browsecvps.org^
+|cameleo-xyz.webscorechecker.com^
+||cameleo.org^
 ||ctunnel.com^
+|discourse.aosus.org^
 ||dtunnel.net^
 ||express-vpn.app^
 ||expressrefer.com^
 ||free-proxy-list.net^
 ||freeproxy.win^
+||freeproxy.world^
+||getunicorn.app^
 ||k-tunnel.net^
 ||ktunneli.com^
+|lifestyle.assist-all.co.jp^
+|panduan.opendesa.id^
+||proxy6.net^
 ||proxycoupons.com^
 ||proxynet.io^
 ||proxyscrape.com^
+|psiphon.ar.softmany.com^
+||psiphon.com^
+||psiphon2.net^
+||px6.net^
+||shadowsocks.au^
+||shadowsocks.com^
 ||shield-way.com^
+||smartdnsproxy.com^
 ||smartproxy.ai^
 ||smartproxy.cn^
 ||smartproxy.es^
@@ -31,6 +46,13 @@
 ||smartproxy.se^
 ||smartproxy.tw^
 ||smartproxy.vn^
+|tools.tracemyip.org^
+||torprojectstatus.org^
+|ultrasurf.ar.softmany.com^
+|ultrasurf.en.softmany.com^
+|ultrasurf.fr.softmany.com^
 ||unblock-websites.com^
 ||unblockyoutube.video^
+||v2ray-macos-arm64-v8a.zip^
+|vpn-proxy-master.en.softmany.com^
 ||yasaksiteleregiris.org^

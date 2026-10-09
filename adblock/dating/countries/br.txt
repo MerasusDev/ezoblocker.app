@@ -1,0 +1,12 @@
+! Title: EZOBLOCKER Dating, Brazil (br)
+! Domains: 6 | Updated: 2026-10-09
+! Homepage: https://github.com/MerasusDev/ezoblocker.app
+! Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/dating/countries/br.txt
+! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
+! App: https://ezoblocker.app
+||amizadecolorida.com^
+|bate-papo.pessoas-legais.com^
+|br.papinho.com^
+||namoroonline.com.br^
+|randomchat.pnyo.jp^
+|sisele.conab.gov.br^

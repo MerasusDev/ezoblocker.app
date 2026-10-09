@@ -1,0 +1,32 @@
+# Title: EZOBLOCKER Piracy, Vietnam (vn)
+# Domains: 26 | Updated: 2026-10-09
+# Homepage: https://github.com/MerasusDev/ezoblocker.app
+# Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/domains/piracy/countries/vn.txt
+# License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
+# App: https://ezoblocker.app
+lichphimmoi.com
+mobile.coivl.net
+motphimchill.hair
+motphimchilll.fun
+motphimmoi.org
+motphimtv.club
+motphimtv.im
+phimmoi.cat
+phimmoi.doraflixvn.com
+phimmoic.ws
+phimmoii.my
+socolive-bd-tv.art
+socolive-tv.quest
+socolive1.nl
+socolive18.com
+socolive75.tv
+socolivef.cc
+socolivetvz.top
+socolivev.co
+socolivezq.tv
+xoilac1.help
+xoilac3.cc
+xoilac5.top
+xoilactvbm.cc
+xoilacvn.net
+xoilacxbr.tv

@@ -1,0 +1,20 @@
+# Title: EZOBLOCKER Piracy, Mexico (mx)
+# Domains: 14 | Updated: 2026-10-09
+# Homepage: https://github.com/MerasusDev/ezoblocker.app
+# Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/piracy/countries/mx.txt
+# License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
+# App: https://ezoblocker.app
+0.0.0.0 ccuevana.today
+0.0.0.0 cuevanaa1.pro
+0.0.0.0 futbollibrefullhd.org
+0.0.0.0 mejortorrent.cc
+0.0.0.0 mejortorrent.eu
+0.0.0.0 mejortorrent.mov
+0.0.0.0 pelisplus.sarl
+0.0.0.0 pelisplusapkmax.com
+0.0.0.0 pelisplushd.mx
+0.0.0.0 pelisplushd.one
+0.0.0.0 repelisplus.fit
+0.0.0.0 rojadirecta.cash
+0.0.0.0 rojadirectafullhd.net
+0.0.0.0 tarjetarojadirecta.es

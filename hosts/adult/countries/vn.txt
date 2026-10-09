@@ -1,0 +1,29 @@
+# Title: EZOBLOCKER Adult, Vietnam (vn)
+# Domains: 23 | Updated: 2026-10-09
+# Homepage: https://github.com/MerasusDev/ezoblocker.app
+# Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/adult/countries/vn.txt
+# License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
+# App: https://ezoblocker.app
+0.0.0.0 cumshopsextoy.com
+0.0.0.0 lovestore.vn
+0.0.0.0 magicmotion.vn
+0.0.0.0 mobiblogtv.online
+0.0.0.0 mytoyvn.com
+0.0.0.0 oichin.net
+0.0.0.0 rungrung.vn
+0.0.0.0 setishop.com
+0.0.0.0 sexhotviet.com
+0.0.0.0 sextoyeu.com
+0.0.0.0 sextoyin.com
+0.0.0.0 sexviet88.co.uk
+0.0.0.0 sexvietdam.blog
+0.0.0.0 shopadam.vn
+0.0.0.0 shopkiss.vn
+0.0.0.0 shopsextoy.com.vn
+0.0.0.0 shoptinhai.org
+0.0.0.0 tangthon.com
+0.0.0.0 top1sexvn.com
+0.0.0.0 viet69.be
+0.0.0.0 vintoy.vn
+0.0.0.0 vntoy.vn
+0.0.0.0 xtoyvietnam.com

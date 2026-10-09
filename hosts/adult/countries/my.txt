@@ -1,0 +1,11 @@
+# Title: EZOBLOCKER Adult, Malaysia (my)
+# Domains: 5 | Updated: 2026-10-09
+# Homepage: https://github.com/MerasusDev/ezoblocker.app
+# Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/adult/countries/my.txt
+# License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
+# App: https://ezoblocker.app
+0.0.0.0 condom69.net
+0.0.0.0 luvshop.onpay.my
+0.0.0.0 mixsextoy.com
+0.0.0.0 mysexshop.eu
+0.0.0.0 xsecret.net

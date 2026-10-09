@@ -1,0 +1,15 @@
+# Title: EZOBLOCKER Piracy, India (in)
+# Domains: 9 | Updated: 2026-10-09
+# Homepage: https://github.com/MerasusDev/ezoblocker.app
+# Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/domains/piracy/countries/in.txt
+# License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
+# App: https://ezoblocker.app
+crictime.com
+crictime.is
+isaimini.beauty
+isaimini.doctor
+isaimini.men
+isaimini.poker
+isaimini.spot
+isaiminimoviesda.com
+isaiminix.com

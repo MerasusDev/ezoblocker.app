@@ -1,0 +1,13 @@
+! Title: EZOBLOCKER Piracy, Netherlands (nl)
+! Domains: 7 | Updated: 2026-10-09
+! Homepage: https://github.com/MerasusDev/ezoblocker.app
+! Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/piracy/countries/nl.txt
+! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
+! App: https://ezoblocker.app
+||hesgoal.ltd^
+||hesgoal.si^
+||hesgoalhd.com^
+||hesgoals.nl^
+||iptvnederland.nl^
+|player.wholesale-iptv.nl^
+|web.iptvsolutions.nl^

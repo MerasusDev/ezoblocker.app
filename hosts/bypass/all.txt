@@ -1,23 +1,38 @@
 # Title: EZOBLOCKER Bypass
-# Domains: 30 | Updated: 2026-10-09
+# Domains: 52 | Updated: 2026-10-09
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/bypass/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
 0.0.0.0 browsec.cx
 0.0.0.0 browsecvps.org
+0.0.0.0 cameleo-xyz.webscorechecker.com
+0.0.0.0 cameleo.org
 0.0.0.0 ctunnel.com
+0.0.0.0 discourse.aosus.org
 0.0.0.0 dtunnel.net
 0.0.0.0 express-vpn.app
 0.0.0.0 expressrefer.com
 0.0.0.0 free-proxy-list.net
 0.0.0.0 freeproxy.win
+0.0.0.0 freeproxy.world
+0.0.0.0 getunicorn.app
 0.0.0.0 k-tunnel.net
 0.0.0.0 ktunneli.com
+0.0.0.0 lifestyle.assist-all.co.jp
+0.0.0.0 panduan.opendesa.id
+0.0.0.0 proxy6.net
 0.0.0.0 proxycoupons.com
 0.0.0.0 proxynet.io
 0.0.0.0 proxyscrape.com
+0.0.0.0 psiphon.ar.softmany.com
+0.0.0.0 psiphon.com
+0.0.0.0 psiphon2.net
+0.0.0.0 px6.net
+0.0.0.0 shadowsocks.au
+0.0.0.0 shadowsocks.com
 0.0.0.0 shield-way.com
+0.0.0.0 smartdnsproxy.com
 0.0.0.0 smartproxy.ai
 0.0.0.0 smartproxy.cn
 0.0.0.0 smartproxy.es
@@ -31,6 +46,13 @@
 0.0.0.0 smartproxy.se
 0.0.0.0 smartproxy.tw
 0.0.0.0 smartproxy.vn
+0.0.0.0 tools.tracemyip.org
+0.0.0.0 torprojectstatus.org
+0.0.0.0 ultrasurf.ar.softmany.com
+0.0.0.0 ultrasurf.en.softmany.com
+0.0.0.0 ultrasurf.fr.softmany.com
 0.0.0.0 unblock-websites.com
 0.0.0.0 unblockyoutube.video
+0.0.0.0 v2ray-macos-arm64-v8a.zip
+0.0.0.0 vpn-proxy-master.en.softmany.com
 0.0.0.0 yasaksiteleregiris.org

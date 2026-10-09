@@ -1,0 +1,21 @@
+! Title: EZOBLOCKER Adult, Poland (pl)
+! Domains: 15 | Updated: 2026-10-09
+! Homepage: https://github.com/MerasusDev/ezoblocker.app
+! Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/adult/countries/pl.txt
+! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
+! App: https://ezoblocker.app
+||easytoys.pl^
+||erozkosz.pl^
+||frixx.pl^
+||lilaw.pl^
+||makeup.pl^
+||modernlove.pl^
+||pinkshop.pl^
+||redarena.pl^
+||secretdelivery.pl^
+||secretlover.pl^
+||sekrecik.pl^
+||sensu.pl^
+||sklep-intymny.pl^
+||sklep-strefaintymna.pl^
+||tulipan.pl^

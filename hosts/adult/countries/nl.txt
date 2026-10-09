@@ -1,0 +1,19 @@
+# Title: EZOBLOCKER Adult, Netherlands (nl)
+# Domains: 13 | Updated: 2026-10-09
+# Homepage: https://github.com/MerasusDev/ezoblocker.app
+# Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/adult/countries/nl.txt
+# License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
+# App: https://ezoblocker.app
+0.0.0.0 bdesired.nl
+0.0.0.0 bronx.nl
+0.0.0.0 cupido.nl
+0.0.0.0 depaarsekeizerin.nl
+0.0.0.0 easytoys.nl
+0.0.0.0 erotictreasure.nl
+0.0.0.0 meidenvanholland.nl
+0.0.0.0 miranda.nl
+0.0.0.0 nederporn.tv
+0.0.0.0 openingstijden.nl
+0.0.0.0 pabo.nl
+0.0.0.0 purelust.com
+0.0.0.0 tesstesst.nl

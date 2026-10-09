@@ -1,0 +1,19 @@
+# Title: EZOBLOCKER Adult, Ukraine (ua)
+# Domains: 13 | Updated: 2026-10-09
+# Homepage: https://github.com/MerasusDev/ezoblocker.app
+# Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/adult/countries/ua.txt
+# License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
+# App: https://ezoblocker.app
+0.0.0.0 aaaa.in.ua
+0.0.0.0 amurchik.ua
+0.0.0.0 big-toys.com.ua
+0.0.0.0 insideshop.com.ua
+0.0.0.0 kazanova.ua
+0.0.0.0 l-shop.ua
+0.0.0.0 lovespace.ua
+0.0.0.0 perchinka.ua
+0.0.0.0 porno365.plus
+0.0.0.0 pornosalo.com.ua
+0.0.0.0 s69.com.ua
+0.0.0.0 sexshoprating.ru
+0.0.0.0 talla.ua

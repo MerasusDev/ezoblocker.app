@@ -1,0 +1,21 @@
+# Title: EZOBLOCKER Adult, Germany (de)
+# Domains: 15 | Updated: 2026-10-09
+# Homepage: https://github.com/MerasusDev/ezoblocker.app
+# Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/adult/countries/de.txt
+# License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
+# App: https://ezoblocker.app
+0.0.0.0 anoeses.com
+0.0.0.0 boutique-bizarre.de
+0.0.0.0 dildoking.de
+0.0.0.0 dolloro.de
+0.0.0.0 edd24.de
+0.0.0.0 eufory.de
+0.0.0.0 gorgeous-berlin.de
+0.0.0.0 hamburg.mitvergnuegen.com
+0.0.0.0 other-nature.de
+0.0.0.0 porndudedeutsch.com
+0.0.0.0 salexo.de
+0.0.0.0 satisfyer.com
+0.0.0.0 sexshopberlin.com
+0.0.0.0 sinful.de
+0.0.0.0 spexter.com

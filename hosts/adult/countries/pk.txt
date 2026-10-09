@@ -1,0 +1,20 @@
+# Title: EZOBLOCKER Adult, PK (pk)
+# Domains: 14 | Updated: 2026-10-09
+# Homepage: https://github.com/MerasusDev/ezoblocker.app
+# Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/adult/countries/pk.txt
+# License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
+# App: https://ezoblocker.app
+0.0.0.0 bestvibe.pk
+0.0.0.0 easytoys.pk
+0.0.0.0 kamababa15.com
+0.0.0.0 loveabletoys.com
+0.0.0.0 lovetoys.com.pk
+0.0.0.0 martshop.pk
+0.0.0.0 officialtoys.pk
+0.0.0.0 prproxy.pro
+0.0.0.0 sextoypk.com
+0.0.0.0 stopi.pk
+0.0.0.0 toysinpakistan.pk
+0.0.0.0 toyzpakistan.com
+0.0.0.0 xtoys.pk
+0.0.0.0 xtoyshub.pk

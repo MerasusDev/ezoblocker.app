@@ -1,0 +1,19 @@
+# Title: EZOBLOCKER Piracy, Brazil (br)
+# Domains: 13 | Updated: 2026-10-09
+# Homepage: https://github.com/MerasusDev/ezoblocker.app
+# Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/piracy/countries/br.txt
+# License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
+# App: https://ezoblocker.app
+0.0.0.0 admin.avalie.pi.gov.br
+0.0.0.0 api.sap.ce.gov.br
+0.0.0.0 futemax.at
+0.0.0.0 futemax.haus
+0.0.0.0 futemax.hiphop
+0.0.0.0 futemax.med
+0.0.0.0 multicanaisbr.com
+0.0.0.0 pirlotv-futbol-en-vivo-directo.apps112.com
+0.0.0.0 pirlotv.shop
+0.0.0.0 portaldecomercializacao.conab.gov.br
+0.0.0.0 redecanais.in
+0.0.0.0 redecanaishd.qpon
+0.0.0.0 redecanaishd1.online

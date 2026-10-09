@@ -1,0 +1,10 @@
+# Title: EZOBLOCKER Gambling, Germany (de)
+# Domains: 4 | Updated: 2026-10-09
+# Homepage: https://github.com/MerasusDev/ezoblocker.app
+# Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/gambling/countries/de.txt
+# License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
+# App: https://ezoblocker.app
+0.0.0.0 quasar-store.com
+0.0.0.0 quasar.us
+0.0.0.0 quasaringenieria.com
+0.0.0.0 spielothek365.com
