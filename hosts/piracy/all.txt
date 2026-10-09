@@ -1,10 +1,11 @@
 # Title: EZOBLOCKER Piracy
-# Domains: 106 | Updated: 2026-10-09
+# Domains: 121 | Updated: 2026-10-09
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/piracy/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
 0.0.0.0 apkdayi.com
+0.0.0.0 besteiptvabonnement.com
 0.0.0.0 canlimacizlet.altervista.org
 0.0.0.0 cinecalidad-p9qc.pages.dev
 0.0.0.0 cpasbientv.cv
@@ -36,6 +37,7 @@
 0.0.0.0 filmiwebteizle.blogspot.com
 0.0.0.0 filmizledim.com
 0.0.0.0 filmmakinesi.to
+0.0.0.0 flixmovie.online
 0.0.0.0 fmovies.supplies
 0.0.0.0 fullfilmizle.fit
 0.0.0.0 fullfilmizlesene.org
@@ -47,6 +49,7 @@
 0.0.0.0 fullprogramlarindir.cc
 0.0.0.0 fullprogramlarindir.net
 0.0.0.0 fullprogramlarindir.tr
+0.0.0.0 gogoanime-v3.pages.dev
 0.0.0.0 google-play.en.softmany.com
 0.0.0.0 happymod.to
 0.0.0.0 hdfilm-izle.website.org
@@ -70,22 +73,32 @@
 0.0.0.0 justintvturkiyesh.vip
 0.0.0.0 kuttymovies.ai.in
 0.0.0.0 latestmodapks.com
+0.0.0.0 lk21.sa.com
 0.0.0.0 minidiziizle.com
+0.0.0.0 motphimchill.cc
 0.0.0.0 mp3indirdur.com.tr
 0.0.0.0 mp3indirdur.pro
 0.0.0.0 netspor.co
+0.0.0.0 noonootvs10.store
 0.0.0.0 oyunindir.cafe
 0.0.0.0 oyunindir.club
 0.0.0.0 oyunindir.vip
 0.0.0.0 pdfkitapkurdu.blogspot.com
 0.0.0.0 pdfkitapoku.org
+0.0.0.0 pelisflix-26m7.pages.dev
 0.0.0.0 pelisflix-4sp8.pages.dev
+0.0.0.0 pelisflix-u56l.pages.dev
+0.0.0.0 pelisflix-yuv.pages.dev
+0.0.0.0 pelispedia-7fkx.pages.dev
 0.0.0.0 plusfilmizle.com
+0.0.0.0 putlocker-du55.pages.dev
 0.0.0.0 selcuksportshd.is
 0.0.0.0 sinemafilmizle.com.tr
 0.0.0.0 socolive123.tv
+0.0.0.0 socolive57.ac
 0.0.0.0 socolivezl.cc
 0.0.0.0 solarmovie-official.site
+0.0.0.0 solarmovie.free
 0.0.0.0 sonhdfilm.net
 0.0.0.0 superfilmizle.org
 0.0.0.0 taraftarium24-aslan5.com
@@ -100,6 +113,7 @@
 0.0.0.0 taraftarium24turkiyetv.net
 0.0.0.0 themoviesflix.dev
 0.0.0.0 torrentdevi.org
+0.0.0.0 torrentleech.pages.dev
 0.0.0.0 torrentoyunindir.co
 0.0.0.0 trdiziizle.tv
 0.0.0.0 ufilmizle.com
@@ -108,5 +122,6 @@
 0.0.0.0 webteizle.buzz
 0.0.0.0 webteizle.info
 0.0.0.0 webteizle3.xyz
+0.0.0.0 xo-movie.com
 0.0.0.0 yabancidizi.news
 0.0.0.0 zfilmizle.com

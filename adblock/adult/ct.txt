@@ -1,31 +1,51 @@
 ! Title: EZOBLOCKER Adult, ct
-! Domains: 25 | Updated: 2026-10-09
+! Domains: 45 | Updated: 2026-10-09
 ! Homepage: https://github.com/MerasusDev/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/adult/ct.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 ! App: https://ezoblocker.app
+||18japaneseporn.com^
+||7heiliao.com^
 ||aisexygirls.ca^
 ||alte-schlampen-gratis-porno-reifen-frauen.pages.dev^
 ||bloominonlyfans.com^
 ||bokepindo.lat^
 ||bokepindo.tokyo^
+||cultsonlyfans.com^
 ||eromanga-wktk.pages.dev^
 ||erotische-malbuecher.de^
 ||erotischechats.com^
 ||freesexvedioes.com^
 ||gamerotika.de^
+||hanime-3d7.pages.dev^
 ||hanimeone.lat^
+||heiliao-21.com^
+||heiliaoal.cc^
 ||heiliaobox.cc^
+||heiliaomenjin.pages.dev^
 ||heiliaoqr.cc^
+||hentaibloom.com^
+||hentailivesex.com^
+||hentaireve.com^
+||hentaiwelt.com^
 ||indianfemdom.com^
+||instacoquines-fr.com^
+||kingbokep.in.net^
+||missavtw.wiki^
 ||nichehentaiplace.com^
 ||nuttenkartei.de^
 ||orient-herrin-kader.de^
+||paylessadultvideo.com^
 ||porno.chat^
+||pornstaravatars.com^
+||pornvideo.store^
 ||sexfilmleriizlevip.com^
 ||sextoyvancouver.com^
 ||shooting-erotique.com^
+||smoky-kino-aachen-tantramassage-essen.pages.dev^
 ||strapony.cz^
 ||tantra-massage-osnabrck-gay-treff-berlin.pages.dev^
+||thekingbokep.com^
+||ukgangbang.com^
 ||vivonlyfans.com^
 ||xhamster2.in^

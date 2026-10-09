@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Ads
-# Domains: 322 | Updated: 2026-10-09
+# Domains: 326 | Updated: 2026-10-09
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/lists/ads/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -100,11 +100,13 @@ cdn.orangeclickmedia.com
 cdn3.richaudience.com
 cds.connatix.com
 cittamatra.com
+client-api.apptimism.com
 cm.anyrtb.com
 config.ssp.taxssp.com
 content.adswag.ai
 content.offerwall.unity3d.com
 cookie.lmgssp.com
+crackle.co.in
 cs.152media-ssp.com
 cs.axis-marketplace.com
 cs.engagemedia.tv
@@ -152,6 +154,7 @@ goldplayer.prod.gbadtech.io
 gum.aidemsrv.com
 harrenmedia.pbsadverxo.com
 hb.appush.com
+hb.crackle.co.in
 hb.hyperbrainz.com
 hb.incrementxserv.com
 hb.jsrdn.com
@@ -174,6 +177,7 @@ lunamedia.bid
 markapp-apac-prebid.attekmi.co
 markapp-prebid.attekmi.co
 matching.kubient.net
+meta.rtb.hurelax.com
 moloco.rtb.crushblocks.com
 mraid.bigo.sg
 *.nefta.app

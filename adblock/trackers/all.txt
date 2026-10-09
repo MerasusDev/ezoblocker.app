@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Trackers
-! Domains: 159 | Updated: 2026-10-09
+! Domains: 165 | Updated: 2026-10-09
 ! Homepage: https://github.com/MerasusDev/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/trackers/all.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -52,6 +52,7 @@
 |config.uca.cloud.unity3d.com^
 ||connect.bonicbd.com^
 |conversions.af-sdk.net^
+|cookapps-receiver.thinkingai.io^
 ||corewell-health-domain.oursprivacy.com^
 ||custom.plausible.io^
 ||customer.etracker.com^
@@ -71,6 +72,7 @@
 ||flow.askorigin.com^
 ||forwarder.requestmetrics.com^
 |fwfou.donlgx.net^
+|fyywngzynts-tax.pareci.net^
 ||gateway.tracklabs.com.br^
 |gator.uba.ap-southeast-1.volces.com^
 |gcdsdk.af-sdk.net^
@@ -87,6 +89,7 @@
 ||kib.hu^
 |launches.af-sdk.net^
 ||madgicx.ai^
+|metrics.sdkbox.com^
 ||mr-in.com^
 ||mtra.in^
 ||mytrackgo.com^
@@ -126,6 +129,7 @@
 ||sgtm.nextanalytica.io^
 ||simpleanalyticsexternal.com^
 ||smartproxy.dataunlocker.com^
+|snap.licdn.com^
 ||soureicdn.com^
 ||sstsimprosys.com^
 ||st-tammany-health-domain.oursprivacy.com^
@@ -148,10 +152,12 @@
 ||stape.vip^
 ||t.servero.io^
 ||tacoda.net^
+||taggian.eu^
 ||tcservercontainers.com^
 ||track.pixelfly.io^
 ||track.trackcombo.com^
 |tracking-useast.tmbid.com^
+||trackinghippo.eu^
 ||trytagging.com^
 ||us.sgtm.space^
 ||usercentrics-sst.io^

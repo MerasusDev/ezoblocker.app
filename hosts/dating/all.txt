@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Dating
-# Domains: 251 | Updated: 2026-10-09
+# Domains: 259 | Updated: 2026-10-09
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/dating/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -8,6 +8,7 @@
 0.0.0.0 alemortam.net
 0.0.0.0 ashleymadison.com
 0.0.0.0 asiandating.com
+0.0.0.0 asiatinnen-treff.com
 0.0.0.0 askalemi.net
 0.0.0.0 askcafe.net
 0.0.0.0 astrocupid.com
@@ -33,6 +34,7 @@
 0.0.0.0 buyuksohbet.com
 0.0.0.0 cambodiancupid.com
 0.0.0.0 caribbeancupid.com
+0.0.0.0 casadasinfieles.net
 0.0.0.0 cennetim.com
 0.0.0.0 chat.gen.tr
 0.0.0.0 chatalya.com
@@ -60,6 +62,7 @@
 0.0.0.0 dominicancupid.com
 0.0.0.0 dostyeri.org
 0.0.0.0 ecift.com
+0.0.0.0 efsaneescort67.shop
 0.0.0.0 eharmony.ca
 0.0.0.0 eharmony.co.uk
 0.0.0.0 eharmony.com
@@ -69,6 +72,7 @@
 0.0.0.0 elitesingles.com
 0.0.0.0 elitislamievlilik.com
 0.0.0.0 eniyichat.com
+0.0.0.0 escort-argentina.com
 0.0.0.0 escortigramreviews.com
 0.0.0.0 esohbet.net
 0.0.0.0 esohbet.net.tr
@@ -81,6 +85,7 @@
 0.0.0.0 evlilikportali.com
 0.0.0.0 evliliksayfasi.com
 0.0.0.0 evliliksayfasi.net
+0.0.0.0 exchangeescort.xyz
 0.0.0.0 eylulsohbet.net
 0.0.0.0 faceflow.com
 0.0.0.0 faridabadcallgirl.com
@@ -174,6 +179,7 @@
 0.0.0.0 pof.com
 0.0.0.0 rakipsizsohbet.net
 0.0.0.0 saglamsohbet.com
+0.0.0.0 scambistipercaso.it
 0.0.0.0 scruff.com
 0.0.0.0 seeking.com
 0.0.0.0 seslichat.com
@@ -233,6 +239,7 @@
 0.0.0.0 thaicupid.com
 0.0.0.0 tinder.com
 0.0.0.0 tinderprofile.ai
+0.0.0.0 top-sugardating.com
 0.0.0.0 trchat.com
 0.0.0.0 trende.com.tr
 0.0.0.0 trmirc.net
@@ -247,6 +254,7 @@
 0.0.0.0 turksohbet.net
 0.0.0.0 turkusohbet.com
 0.0.0.0 turkyeri.net
+0.0.0.0 ukpunting.uk.com
 0.0.0.0 ukrainedate.com
 0.0.0.0 vietnamcupid.com
 0.0.0.0 wellhello.com

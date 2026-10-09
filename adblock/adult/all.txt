@@ -1,12 +1,14 @@
 ! Title: EZOBLOCKER Adult
-! Domains: 261 | Updated: 2026-10-09
+! Domains: 281 | Updated: 2026-10-09
 ! Homepage: https://github.com/MerasusDev/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/adult/all.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 ! App: https://ezoblocker.app
 ||112sexshop.com^
+||18japaneseporn.com^
 ||31keyifliseyirler32.shop^
 |66seks-hikayeleri.yeahh.com^
+||7heiliao.com^
 ||adamandeva.shop^
 ||adulttoybox.biz^
 ||aduzav.com^
@@ -58,6 +60,7 @@
 ||codemel.ink^
 ||colakyapitrabzon.com^
 ||coltpod.com^
+||cultsonlyfans.com^
 ||dame.com^
 ||denizliescortnews.com^
 ||denizlipen.com^
@@ -111,16 +114,25 @@
 ||gaziantepbayanescort.com^
 ||gaziantepbayanlar.com^
 ||gratispornofilms.be^
+||hanime-3d7.pages.dev^
 ||hanimeone.lat^
 ||hdabla.one^
+||heiliao-21.com^
+||heiliaoal.cc^
 ||heiliaobox.cc^
+||heiliaomenjin.pages.dev^
 ||heiliaoqr.cc^
 ||hentaiadam.com^
+||hentaibloom.com^
+||hentailivesex.com^
+||hentaireve.com^
+||hentaiwelt.com^
 ||honeybirdette.com^
 ||hulyahalat.com^
 ||igume.com^
 ||imeldax31.cfd^
 ||indianfemdom.com^
+||instacoquines-fr.com^
 ||iposvnn.com^
 ||istanbul-escorts.info^
 ||istanbul12.com^
@@ -144,6 +156,7 @@
 ||kayseriescort.one^
 ||kayseriescortun.shop^
 ||kayserimerkez-escort.site^
+||kingbokep.in.net^
 ||kirmizicadde.com^
 ||kissers.com.tr^
 ||konyaeskort.com^
@@ -170,6 +183,7 @@
 ||mersinim1.com^
 ||mersinimiz.com^
 ||mersinuniversitesi.net^
+||missavtw.wiki^
 |mobil.yalovapusula.com^
 ||mobilcinselsohbet.com^
 ||mobilerotik.net^
@@ -186,6 +200,7 @@
 ||papimlor.site^
 ||papyonshop.com^
 ||paraescorts.com^
+||paylessadultvideo.com^
 ||pendikseksshop.com^
 ||pornflix.to^
 ||porno.chat^
@@ -195,6 +210,8 @@
 ||pornocudayi43.com^
 ||pornonu.nl^
 ||pornoturkce5.online^
+||pornstaravatars.com^
+||pornvideo.store^
 ||positive-vibrations.hr^
 ||pureloveshop.com.tr^
 ||rainvipxescort.net^
@@ -223,6 +240,7 @@
 ||sisliescort.site^
 ||sisliescort0312.uno^
 ||sislioto.com^
+||smoky-kino-aachen-tantramassage-essen.pages.dev^
 ||sohbethatti.com.tr^
 ||sohbethattikizlari.net^
 ||sohbethattiturkiye.net^
@@ -235,6 +253,7 @@
 ||telefondasexhatti.com^
 ||terbiyesizzler.com^
 ||theeskisehir.com^
+||thekingbokep.com^
 ||themajor.online^
 ||tirnakdunya.com^
 ||toopla.com^
@@ -247,6 +266,7 @@
 ||turkifsami.net^
 ||turkifsatube20.xyz^
 ||turkzzers.net^
+||ukgangbang.com^
 ||umraniyeescort11.uno^
 ||upslut.blog^
 ||uzuk.org^

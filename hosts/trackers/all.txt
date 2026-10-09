@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Trackers
-# Domains: 159 | Updated: 2026-10-09
+# Domains: 165 | Updated: 2026-10-09
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/trackers/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -52,6 +52,7 @@
 0.0.0.0 config.uca.cloud.unity3d.com
 0.0.0.0 connect.bonicbd.com
 0.0.0.0 conversions.af-sdk.net
+0.0.0.0 cookapps-receiver.thinkingai.io
 0.0.0.0 corewell-health-domain.oursprivacy.com
 0.0.0.0 custom.plausible.io
 0.0.0.0 customer.etracker.com
@@ -71,6 +72,7 @@
 0.0.0.0 flow.askorigin.com
 0.0.0.0 forwarder.requestmetrics.com
 0.0.0.0 fwfou.donlgx.net
+0.0.0.0 fyywngzynts-tax.pareci.net
 0.0.0.0 gateway.tracklabs.com.br
 0.0.0.0 gator.uba.ap-southeast-1.volces.com
 0.0.0.0 gcdsdk.af-sdk.net
@@ -87,6 +89,7 @@
 0.0.0.0 kib.hu
 0.0.0.0 launches.af-sdk.net
 0.0.0.0 madgicx.ai
+0.0.0.0 metrics.sdkbox.com
 0.0.0.0 mr-in.com
 0.0.0.0 mtra.in
 0.0.0.0 mytrackgo.com
@@ -126,6 +129,7 @@
 0.0.0.0 sgtm.nextanalytica.io
 0.0.0.0 simpleanalyticsexternal.com
 0.0.0.0 smartproxy.dataunlocker.com
+0.0.0.0 snap.licdn.com
 0.0.0.0 soureicdn.com
 0.0.0.0 sstsimprosys.com
 0.0.0.0 st-tammany-health-domain.oursprivacy.com
@@ -148,10 +152,12 @@
 0.0.0.0 stape.vip
 0.0.0.0 t.servero.io
 0.0.0.0 tacoda.net
+0.0.0.0 taggian.eu
 0.0.0.0 tcservercontainers.com
 0.0.0.0 track.pixelfly.io
 0.0.0.0 track.trackcombo.com
 0.0.0.0 tracking-useast.tmbid.com
+0.0.0.0 trackinghippo.eu
 0.0.0.0 trytagging.com
 0.0.0.0 us.sgtm.space
 0.0.0.0 usercentrics-sst.io

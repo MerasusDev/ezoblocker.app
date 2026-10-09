@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Ads, apps
-# Domains: 30 | Updated: 2026-10-09
+# Domains: 34 | Updated: 2026-10-09
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/lists/ads/apps.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -16,15 +16,19 @@ banner.dsp.bmncbtech.com
 betbqj.donlgx.net
 betdgh.donlgx.net
 *.bucoup.com
+client-api.apptimism.com
 config.ssp.taxssp.com
 content.offerwall.unity3d.com
+crackle.co.in
 event-eu.ssp.taxssp.com
 event.ssp.taxssp.com
 fixfun.pareci.net
 fixhkl.pareci.net
 gateway-b.offerwall.unity3d.com
 *.googletagservices.com
+hb.crackle.co.in
 *.i18n-pglstatp.com
+meta.rtb.hurelax.com
 moloco.rtb.crushblocks.com
 mraid.bigo.sg
 *.nefta.app

@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Dating
-! Domains: 251 | Updated: 2026-10-09
+! Domains: 259 | Updated: 2026-10-09
 ! Homepage: https://github.com/MerasusDev/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/dating/all.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -8,6 +8,7 @@
 ||alemortam.net^
 ||ashleymadison.com^
 ||asiandating.com^
+||asiatinnen-treff.com^
 ||askalemi.net^
 ||askcafe.net^
 ||astrocupid.com^
@@ -33,6 +34,7 @@
 ||buyuksohbet.com^
 ||cambodiancupid.com^
 ||caribbeancupid.com^
+||casadasinfieles.net^
 ||cennetim.com^
 ||chat.gen.tr^
 ||chatalya.com^
@@ -60,6 +62,7 @@
 ||dominicancupid.com^
 ||dostyeri.org^
 ||ecift.com^
+||efsaneescort67.shop^
 ||eharmony.ca^
 ||eharmony.co.uk^
 ||eharmony.com^
@@ -69,6 +72,7 @@
 ||elitesingles.com^
 ||elitislamievlilik.com^
 ||eniyichat.com^
+||escort-argentina.com^
 ||escortigramreviews.com^
 ||esohbet.net^
 ||esohbet.net.tr^
@@ -81,6 +85,7 @@
 ||evlilikportali.com^
 ||evliliksayfasi.com^
 ||evliliksayfasi.net^
+||exchangeescort.xyz^
 ||eylulsohbet.net^
 ||faceflow.com^
 ||faridabadcallgirl.com^
@@ -174,6 +179,7 @@
 ||pof.com^
 ||rakipsizsohbet.net^
 ||saglamsohbet.com^
+||scambistipercaso.it^
 ||scruff.com^
 ||seeking.com^
 ||seslichat.com^
@@ -233,6 +239,7 @@
 ||thaicupid.com^
 ||tinder.com^
 ||tinderprofile.ai^
+||top-sugardating.com^
 ||trchat.com^
 ||trende.com.tr^
 ||trmirc.net^
@@ -247,6 +254,7 @@
 ||turksohbet.net^
 ||turkusohbet.com^
 ||turkyeri.net^
+||ukpunting.uk.com^
 ||ukrainedate.com^
 ||vietnamcupid.com^
 ||wellhello.com^

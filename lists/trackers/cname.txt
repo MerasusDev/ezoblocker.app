@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Trackers, cname
-# Domains: 136 | Updated: 2026-10-09
+# Domains: 138 | Updated: 2026-10-09
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/lists/trackers/cname.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -127,9 +127,11 @@
 *.stape.vip
 *.t.servero.io
 *.tacoda.net
+*.taggian.eu
 *.tcservercontainers.com
 *.track.pixelfly.io
 *.track.trackcombo.com
+*.trackinghippo.eu
 *.trytagging.com
 *.us.sgtm.space
 *.usercentrics-sst.io

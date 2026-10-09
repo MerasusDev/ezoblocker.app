@@ -1,10 +1,11 @@
 ! Title: EZOBLOCKER Piracy
-! Domains: 106 | Updated: 2026-10-09
+! Domains: 121 | Updated: 2026-10-09
 ! Homepage: https://github.com/MerasusDev/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/piracy/all.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 ! App: https://ezoblocker.app
 ||apkdayi.com^
+||besteiptvabonnement.com^
 ||canlimacizlet.altervista.org^
 ||cinecalidad-p9qc.pages.dev^
 ||cpasbientv.cv^
@@ -36,6 +37,7 @@
 ||filmiwebteizle.blogspot.com^
 ||filmizledim.com^
 ||filmmakinesi.to^
+||flixmovie.online^
 ||fmovies.supplies^
 ||fullfilmizle.fit^
 ||fullfilmizlesene.org^
@@ -47,6 +49,7 @@
 ||fullprogramlarindir.cc^
 ||fullprogramlarindir.net^
 ||fullprogramlarindir.tr^
+||gogoanime-v3.pages.dev^
 |google-play.en.softmany.com^
 ||happymod.to^
 |hdfilm-izle.website.org^
@@ -70,22 +73,32 @@
 ||justintvturkiyesh.vip^
 ||kuttymovies.ai.in^
 ||latestmodapks.com^
+||lk21.sa.com^
 ||minidiziizle.com^
+||motphimchill.cc^
 ||mp3indirdur.com.tr^
 ||mp3indirdur.pro^
 ||netspor.co^
+||noonootvs10.store^
 ||oyunindir.cafe^
 ||oyunindir.club^
 ||oyunindir.vip^
 ||pdfkitapkurdu.blogspot.com^
 ||pdfkitapoku.org^
+||pelisflix-26m7.pages.dev^
 ||pelisflix-4sp8.pages.dev^
+||pelisflix-u56l.pages.dev^
+||pelisflix-yuv.pages.dev^
+||pelispedia-7fkx.pages.dev^
 ||plusfilmizle.com^
+||putlocker-du55.pages.dev^
 ||selcuksportshd.is^
 ||sinemafilmizle.com.tr^
 ||socolive123.tv^
+||socolive57.ac^
 ||socolivezl.cc^
 ||solarmovie-official.site^
+||solarmovie.free^
 ||sonhdfilm.net^
 ||superfilmizle.org^
 ||taraftarium24-aslan5.com^
@@ -100,6 +113,7 @@
 ||taraftarium24turkiyetv.net^
 ||themoviesflix.dev^
 ||torrentdevi.org^
+||torrentleech.pages.dev^
 ||torrentoyunindir.co^
 ||trdiziizle.tv^
 ||ufilmizle.com^
@@ -108,5 +122,6 @@
 ||webteizle.buzz^
 ||webteizle.info^
 ||webteizle3.xyz^
+||xo-movie.com^
 ||yabancidizi.news^
 ||zfilmizle.com^

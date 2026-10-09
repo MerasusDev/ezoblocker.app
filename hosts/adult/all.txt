@@ -1,12 +1,14 @@
 # Title: EZOBLOCKER Adult
-# Domains: 261 | Updated: 2026-10-09
+# Domains: 281 | Updated: 2026-10-09
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/adult/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
 0.0.0.0 112sexshop.com
+0.0.0.0 18japaneseporn.com
 0.0.0.0 31keyifliseyirler32.shop
 0.0.0.0 66seks-hikayeleri.yeahh.com
+0.0.0.0 7heiliao.com
 0.0.0.0 adamandeva.shop
 0.0.0.0 adulttoybox.biz
 0.0.0.0 aduzav.com
@@ -58,6 +60,7 @@
 0.0.0.0 codemel.ink
 0.0.0.0 colakyapitrabzon.com
 0.0.0.0 coltpod.com
+0.0.0.0 cultsonlyfans.com
 0.0.0.0 dame.com
 0.0.0.0 denizliescortnews.com
 0.0.0.0 denizlipen.com
@@ -111,16 +114,25 @@
 0.0.0.0 gaziantepbayanescort.com
 0.0.0.0 gaziantepbayanlar.com
 0.0.0.0 gratispornofilms.be
+0.0.0.0 hanime-3d7.pages.dev
 0.0.0.0 hanimeone.lat
 0.0.0.0 hdabla.one
+0.0.0.0 heiliao-21.com
+0.0.0.0 heiliaoal.cc
 0.0.0.0 heiliaobox.cc
+0.0.0.0 heiliaomenjin.pages.dev
 0.0.0.0 heiliaoqr.cc
 0.0.0.0 hentaiadam.com
+0.0.0.0 hentaibloom.com
+0.0.0.0 hentailivesex.com
+0.0.0.0 hentaireve.com
+0.0.0.0 hentaiwelt.com
 0.0.0.0 honeybirdette.com
 0.0.0.0 hulyahalat.com
 0.0.0.0 igume.com
 0.0.0.0 imeldax31.cfd
 0.0.0.0 indianfemdom.com
+0.0.0.0 instacoquines-fr.com
 0.0.0.0 iposvnn.com
 0.0.0.0 istanbul-escorts.info
 0.0.0.0 istanbul12.com
@@ -144,6 +156,7 @@
 0.0.0.0 kayseriescort.one
 0.0.0.0 kayseriescortun.shop
 0.0.0.0 kayserimerkez-escort.site
+0.0.0.0 kingbokep.in.net
 0.0.0.0 kirmizicadde.com
 0.0.0.0 kissers.com.tr
 0.0.0.0 konyaeskort.com
@@ -170,6 +183,7 @@
 0.0.0.0 mersinim1.com
 0.0.0.0 mersinimiz.com
 0.0.0.0 mersinuniversitesi.net
+0.0.0.0 missavtw.wiki
 0.0.0.0 mobil.yalovapusula.com
 0.0.0.0 mobilcinselsohbet.com
 0.0.0.0 mobilerotik.net
@@ -186,6 +200,7 @@
 0.0.0.0 papimlor.site
 0.0.0.0 papyonshop.com
 0.0.0.0 paraescorts.com
+0.0.0.0 paylessadultvideo.com
 0.0.0.0 pendikseksshop.com
 0.0.0.0 pornflix.to
 0.0.0.0 porno.chat
@@ -195,6 +210,8 @@
 0.0.0.0 pornocudayi43.com
 0.0.0.0 pornonu.nl
 0.0.0.0 pornoturkce5.online
+0.0.0.0 pornstaravatars.com
+0.0.0.0 pornvideo.store
 0.0.0.0 positive-vibrations.hr
 0.0.0.0 pureloveshop.com.tr
 0.0.0.0 rainvipxescort.net
@@ -223,6 +240,7 @@
 0.0.0.0 sisliescort.site
 0.0.0.0 sisliescort0312.uno
 0.0.0.0 sislioto.com
+0.0.0.0 smoky-kino-aachen-tantramassage-essen.pages.dev
 0.0.0.0 sohbethatti.com.tr
 0.0.0.0 sohbethattikizlari.net
 0.0.0.0 sohbethattiturkiye.net
@@ -235,6 +253,7 @@
 0.0.0.0 telefondasexhatti.com
 0.0.0.0 terbiyesizzler.com
 0.0.0.0 theeskisehir.com
+0.0.0.0 thekingbokep.com
 0.0.0.0 themajor.online
 0.0.0.0 tirnakdunya.com
 0.0.0.0 toopla.com
@@ -247,6 +266,7 @@
 0.0.0.0 turkifsami.net
 0.0.0.0 turkifsatube20.xyz
 0.0.0.0 turkzzers.net
+0.0.0.0 ukgangbang.com
 0.0.0.0 umraniyeescort11.uno
 0.0.0.0 upslut.blog
 0.0.0.0 uzuk.org
