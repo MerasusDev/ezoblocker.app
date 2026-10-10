@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Trackers, apps
-! Domains: 27 | Updated: 2026-10-09
+! Domains: 29 | Updated: 2026-10-10
 ! Homepage: https://github.com/MerasusDev/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/trackers/apps.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -29,5 +29,7 @@
 |prodregistryv2.org^
 |sdkconfig.thinkingltv.com^
 |snap.licdn.com^
+|supercent-kr-receiver.thinkingai.io^
+|tags.tiqcdn.com^
 |tracking-useast.tmbid.com^
 |whos.amung.us^

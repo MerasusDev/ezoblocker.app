@@ -1,39 +1,59 @@
 # Title: EZOBLOCKER Piracy, ct
-# Domains: 33 | Updated: 2026-10-09
+# Domains: 53 | Updated: 2026-10-10
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/piracy/ct.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
 0.0.0.0 besteiptvabonnement.com
 0.0.0.0 cinecalidad-p9qc.pages.dev
+0.0.0.0 cinecalidad-u0wv.pages.dev
 0.0.0.0 cpasbientv.cv
 0.0.0.0 cuevana-2y9h.pages.dev
 0.0.0.0 cuevana-gx65.pages.dev
 0.0.0.0 cuevana3-1g9s.pages.dev
 0.0.0.0 cuevana3-9ns.pages.dev
 0.0.0.0 cuevana3-i8my.pages.dev
+0.0.0.0 cuevana3-rg8.pages.dev
 0.0.0.0 cuevana3-s2o.pages.dev
+0.0.0.0 cuevana3-yeaf.pages.dev
 0.0.0.0 cuevana3-yscy.pages.dev
 0.0.0.0 cuevana8.li
+0.0.0.0 filmapik.rodeo
+0.0.0.0 filmoflix-ofpk.pages.dev
+0.0.0.0 filmoflix.xyz
 0.0.0.0 flixmovie.online
 0.0.0.0 fmovies.supplies
+0.0.0.0 franceiptvpremium.net
+0.0.0.0 futbollibretv.ink
+0.0.0.0 fzmovies-q7vj.pages.dev
 0.0.0.0 gogoanime-v3.pages.dev
+0.0.0.0 kinokiste-38t3.pages.dev
 0.0.0.0 kuttymovies.ai.in
 0.0.0.0 lk21.sa.com
+0.0.0.0 magistvfutbol.com
 0.0.0.0 motphimchill.cc
+0.0.0.0 noonootv4k.shop
 0.0.0.0 noonootvs10.store
 0.0.0.0 pelisflix-26m7.pages.dev
 0.0.0.0 pelisflix-4sp8.pages.dev
+0.0.0.0 pelisflix-5uof.pages.dev
+0.0.0.0 pelisflix-q9ja.pages.dev
+0.0.0.0 pelisflix-t5lt.pages.dev
 0.0.0.0 pelisflix-u56l.pages.dev
 0.0.0.0 pelisflix-yuv.pages.dev
 0.0.0.0 pelispedia-7fkx.pages.dev
+0.0.0.0 pepelisplus-uhek.pages.dev
 0.0.0.0 putlocker-du55.pages.dev
+0.0.0.0 socolive104.ac
 0.0.0.0 socolive123.tv
 0.0.0.0 socolive57.ac
+0.0.0.0 socoliveza.cc
 0.0.0.0 socolivezl.cc
 0.0.0.0 solarmovie-official.site
 0.0.0.0 solarmovie.free
 0.0.0.0 themoviesflix.dev
 0.0.0.0 torrentleech.pages.dev
 0.0.0.0 watchseries-3q89.pages.dev
+0.0.0.0 watchseries-mkqw.pages.dev
 0.0.0.0 xo-movie.com
+0.0.0.0 yalla4kora.blog

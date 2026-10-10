@@ -1,39 +1,59 @@
 ! Title: EZOBLOCKER Piracy, ct
-! Domains: 33 | Updated: 2026-10-09
+! Domains: 53 | Updated: 2026-10-10
 ! Homepage: https://github.com/MerasusDev/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/piracy/ct.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 ! App: https://ezoblocker.app
 ||besteiptvabonnement.com^
 ||cinecalidad-p9qc.pages.dev^
+||cinecalidad-u0wv.pages.dev^
 ||cpasbientv.cv^
 ||cuevana-2y9h.pages.dev^
 ||cuevana-gx65.pages.dev^
 ||cuevana3-1g9s.pages.dev^
 ||cuevana3-9ns.pages.dev^
 ||cuevana3-i8my.pages.dev^
+||cuevana3-rg8.pages.dev^
 ||cuevana3-s2o.pages.dev^
+||cuevana3-yeaf.pages.dev^
 ||cuevana3-yscy.pages.dev^
 ||cuevana8.li^
+||filmapik.rodeo^
+||filmoflix-ofpk.pages.dev^
+||filmoflix.xyz^
 ||flixmovie.online^
 ||fmovies.supplies^
+||franceiptvpremium.net^
+||futbollibretv.ink^
+||fzmovies-q7vj.pages.dev^
 ||gogoanime-v3.pages.dev^
+||kinokiste-38t3.pages.dev^
 ||kuttymovies.ai.in^
 ||lk21.sa.com^
+||magistvfutbol.com^
 ||motphimchill.cc^
+||noonootv4k.shop^
 ||noonootvs10.store^
 ||pelisflix-26m7.pages.dev^
 ||pelisflix-4sp8.pages.dev^
+||pelisflix-5uof.pages.dev^
+||pelisflix-q9ja.pages.dev^
+||pelisflix-t5lt.pages.dev^
 ||pelisflix-u56l.pages.dev^
 ||pelisflix-yuv.pages.dev^
 ||pelispedia-7fkx.pages.dev^
+||pepelisplus-uhek.pages.dev^
 ||putlocker-du55.pages.dev^
+||socolive104.ac^
 ||socolive123.tv^
 ||socolive57.ac^
+||socoliveza.cc^
 ||socolivezl.cc^
 ||solarmovie-official.site^
 ||solarmovie.free^
 ||themoviesflix.dev^
 ||torrentleech.pages.dev^
 ||watchseries-3q89.pages.dev^
+||watchseries-mkqw.pages.dev^
 ||xo-movie.com^
+||yalla4kora.blog^

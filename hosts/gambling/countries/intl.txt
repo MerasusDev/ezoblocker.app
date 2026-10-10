@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling, International (intl)
-# Domains: 78 | Updated: 2026-10-09
+# Domains: 77 | Updated: 2026-10-10
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/gambling/countries/intl.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -56,7 +56,6 @@
 0.0.0.0 meridianbet.me
 0.0.0.0 meridianbet.ng
 0.0.0.0 minibet.games
-0.0.0.0 mojabet.co.zm
 0.0.0.0 mojabet.ng
 0.0.0.0 mrbit.ba
 0.0.0.0 mybc.game

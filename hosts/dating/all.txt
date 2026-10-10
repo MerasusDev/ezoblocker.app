@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Dating
-# Domains: 424 | Updated: 2026-10-09
+# Domains: 433 | Updated: 2026-10-10
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/dating/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -52,6 +52,7 @@
 0.0.0.0 busohbet.com
 0.0.0.0 buyuksohbet.com
 0.0.0.0 cambodiancupid.com
+0.0.0.0 cambridgeshireescorts.agency
 0.0.0.0 camgo.com
 0.0.0.0 camsurf.com
 0.0.0.0 careers.pwd.org
@@ -99,9 +100,11 @@
 0.0.0.0 coomeet.me
 0.0.0.0 cupidmedia.com
 0.0.0.0 dalechatea.me
+0.0.0.0 dansksexdating.com
 0.0.0.0 dardasha.net
 0.0.0.0 delhi.idbf.in
 0.0.0.0 dev-web.sgrbk.com
+0.0.0.0 dhakavipescort.com
 0.0.0.0 dogging-bh.top
 0.0.0.0 dominicancupid.com
 0.0.0.0 dostyeri.org
@@ -285,6 +288,7 @@
 0.0.0.0 pcmax.jp
 0.0.0.0 pembepanjur.com
 0.0.0.0 photoprepagos.com
+0.0.0.0 pijatpanggilanpekanbaru.com
 0.0.0.0 pinalove.com
 0.0.0.0 pinkcupid.com
 0.0.0.0 pinoychat.net
@@ -304,6 +308,7 @@
 0.0.0.0 real.encuentros.net
 0.0.0.0 redlights.be
 0.0.0.0 redlights.nl
+0.0.0.0 romeescortgirls.com
 0.0.0.0 ruletka.chat
 0.0.0.0 saescorts.co.za
 0.0.0.0 saglamsohbet.com
@@ -313,6 +318,7 @@
 0.0.0.0 scarletblue.com.au
 0.0.0.0 scruff.com
 0.0.0.0 seeking.com
+0.0.0.0 seitensprung-ratgeber.de
 0.0.0.0 seslichat.com
 0.0.0.0 seslidunya.com
 0.0.0.0 seslioda.com
@@ -323,6 +329,7 @@
 0.0.0.0 sevgichat.com
 0.0.0.0 sexabudhabi.com
 0.0.0.0 sexjobs.nl
+0.0.0.0 sextreffen69.org
 0.0.0.0 shaadi.com
 0.0.0.0 siberalem.com
 0.0.0.0 silverlove.com
@@ -386,6 +393,7 @@
 0.0.0.0 thaifriendly.com
 0.0.0.0 tinder.com
 0.0.0.0 tinderprofile.ai
+0.0.0.0 tokusen-mensesthe.com
 0.0.0.0 top-sugardating.com
 0.0.0.0 topescortitalia.it
 0.0.0.0 trchat.com
@@ -419,6 +427,7 @@
 0.0.0.0 vivastreet.com
 0.0.0.0 web.chatapropo.ro
 0.0.0.0 wellhello.com
+0.0.0.0 whatssexdate.net
 0.0.0.0 whatsyourprice.com
 0.0.0.0 www.es.adopte.app
 0.0.0.0 yazgulu.net

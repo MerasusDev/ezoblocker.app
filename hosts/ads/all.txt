@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Ads
-# Domains: 326 | Updated: 2026-10-09
+# Domains: 327 | Updated: 2026-10-10
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/ads/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -142,6 +142,7 @@
 0.0.0.0 fran.frvr.com
 0.0.0.0 g.ezoic.net
 0.0.0.0 gateway-b.offerwall.unity3d.com
+0.0.0.0 gateway.prod.anzu-us.com
 0.0.0.0 gbid.mediagotechnology.com
 0.0.0.0 ghb.app.copper6.com
 0.0.0.0 ghb.bidder.jmgads.com

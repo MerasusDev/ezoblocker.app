@@ -1,12 +1,15 @@
 ! Title: EZOBLOCKER Dating, ct
-! Domains: 15 | Updated: 2026-10-09
+! Domains: 24 | Updated: 2026-10-10
 ! Homepage: https://github.com/MerasusDev/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/dating/ct.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 ! App: https://ezoblocker.app
 ||asiatinnen-treff.com^
 ||bakirkoyeskort.website^
+||cambridgeshireescorts.agency^
 ||casadasinfieles.net^
+||dansksexdating.com^
+||dhakavipescort.com^
 ||dogging-bh.top^
 ||efsaneescort67.shop^
 ||escort-argentina.com^
@@ -14,8 +17,14 @@
 ||exchangeescort.xyz^
 ||faridabadcallgirl.com^
 ||hotgirlsescortsmallorca.com^
+||pijatpanggilanpekanbaru.com^
+||romeescortgirls.com^
 ||scambistipercaso.it^
+||seitensprung-ratgeber.de^
+||sextreffen69.org^
 ||skipthegames-usorg.pages.dev^
 ||special-room-sexdatexx.pages.dev^
+||tokusen-mensesthe.com^
 ||top-sugardating.com^
 ||ukpunting.uk.com^
+||whatssexdate.net^

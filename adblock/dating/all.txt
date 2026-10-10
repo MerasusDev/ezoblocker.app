@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Dating
-! Domains: 424 | Updated: 2026-10-09
+! Domains: 433 | Updated: 2026-10-10
 ! Homepage: https://github.com/MerasusDev/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/dating/all.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -52,6 +52,7 @@
 ||busohbet.com^
 ||buyuksohbet.com^
 ||cambodiancupid.com^
+||cambridgeshireescorts.agency^
 ||camgo.com^
 ||camsurf.com^
 |careers.pwd.org^
@@ -99,9 +100,11 @@
 ||coomeet.me^
 ||cupidmedia.com^
 ||dalechatea.me^
+||dansksexdating.com^
 ||dardasha.net^
 |delhi.idbf.in^
 |dev-web.sgrbk.com^
+||dhakavipescort.com^
 ||dogging-bh.top^
 ||dominicancupid.com^
 ||dostyeri.org^
@@ -285,6 +288,7 @@
 ||pcmax.jp^
 ||pembepanjur.com^
 ||photoprepagos.com^
+||pijatpanggilanpekanbaru.com^
 ||pinalove.com^
 ||pinkcupid.com^
 ||pinoychat.net^
@@ -304,6 +308,7 @@
 |real.encuentros.net^
 ||redlights.be^
 ||redlights.nl^
+||romeescortgirls.com^
 ||ruletka.chat^
 ||saescorts.co.za^
 ||saglamsohbet.com^
@@ -313,6 +318,7 @@
 ||scarletblue.com.au^
 ||scruff.com^
 ||seeking.com^
+||seitensprung-ratgeber.de^
 ||seslichat.com^
 ||seslidunya.com^
 ||seslioda.com^
@@ -323,6 +329,7 @@
 ||sevgichat.com^
 ||sexabudhabi.com^
 ||sexjobs.nl^
+||sextreffen69.org^
 ||shaadi.com^
 ||siberalem.com^
 ||silverlove.com^
@@ -386,6 +393,7 @@
 ||thaifriendly.com^
 ||tinder.com^
 ||tinderprofile.ai^
+||tokusen-mensesthe.com^
 ||top-sugardating.com^
 ||topescortitalia.it^
 ||trchat.com^
@@ -419,6 +427,7 @@
 ||vivastreet.com^
 |web.chatapropo.ro^
 ||wellhello.com^
+||whatssexdate.net^
 ||whatsyourprice.com^
 |www.es.adopte.app^
 ||yazgulu.net^

@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy
-# Domains: 318 | Updated: 2026-10-09
+# Domains: 338 | Updated: 2026-10-10
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/piracy/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -23,6 +23,7 @@
 0.0.0.0 cima4u.app
 0.0.0.0 cima4u.college
 0.0.0.0 cinecalidad-p9qc.pages.dev
+0.0.0.0 cinecalidad-u0wv.pages.dev
 0.0.0.0 cpasbientv.cv
 0.0.0.0 crackstreams.ch
 0.0.0.0 crackstreams.guru
@@ -34,7 +35,9 @@
 0.0.0.0 cuevana3-1g9s.pages.dev
 0.0.0.0 cuevana3-9ns.pages.dev
 0.0.0.0 cuevana3-i8my.pages.dev
+0.0.0.0 cuevana3-rg8.pages.dev
 0.0.0.0 cuevana3-s2o.pages.dev
+0.0.0.0 cuevana3-yeaf.pages.dev
 0.0.0.0 cuevana3-yscy.pages.dev
 0.0.0.0 cuevana3.boo
 0.0.0.0 cuevana3.re
@@ -73,11 +76,14 @@
 0.0.0.0 elitetorrent.org
 0.0.0.0 elitetorrent.world
 0.0.0.0 eurostreaming-nuovo-indirizzo.com
+0.0.0.0 filmapik.rodeo
 0.0.0.0 filmdozu.com
 0.0.0.0 filmekseni.vip
 0.0.0.0 filmiwebteizle.blogspot.com
 0.0.0.0 filmizledim.com
 0.0.0.0 filmmakinesi.to
+0.0.0.0 filmoflix-ofpk.pages.dev
+0.0.0.0 filmoflix.xyz
 0.0.0.0 filmpalast.de
 0.0.0.0 filmywap.poker
 0.0.0.0 filmyzilla1.in
@@ -91,6 +97,7 @@
 0.0.0.0 footybite.vg
 0.0.0.0 footybite1.live
 0.0.0.0 footybites.click
+0.0.0.0 franceiptvpremium.net
 0.0.0.0 freeshot.ch
 0.0.0.0 freeshot.it
 0.0.0.0 fullfilmizle.fit
@@ -106,10 +113,12 @@
 0.0.0.0 futbollibre.kim
 0.0.0.0 futbollibrefullhd.org
 0.0.0.0 futbollibreperu.org
+0.0.0.0 futbollibretv.ink
 0.0.0.0 futemax.at
 0.0.0.0 futemax.haus
 0.0.0.0 futemax.hiphop
 0.0.0.0 futemax.med
+0.0.0.0 fzmovies-q7vj.pages.dev
 0.0.0.0 getoziptv.com
 0.0.0.0 gogoanime-v3.pages.dev
 0.0.0.0 google-play.en.softmany.com
@@ -157,6 +166,7 @@
 0.0.0.0 justintvmgturkiye.vip
 0.0.0.0 justintvturkiyehd.co
 0.0.0.0 justintvturkiyesh.vip
+0.0.0.0 kinokiste-38t3.pages.dev
 0.0.0.0 kooora.com
 0.0.0.0 kooora.misrlinks.com
 0.0.0.0 kooralive-koora.live
@@ -170,6 +180,7 @@
 0.0.0.0 livetv.life
 0.0.0.0 lk21.sa.com
 0.0.0.0 m.goalddlive.com
+0.0.0.0 magistvfutbol.com
 0.0.0.0 mecze24.pl
 0.0.0.0 mejortorrent.cc
 0.0.0.0 mejortorrent.eu
@@ -190,6 +201,7 @@
 0.0.0.0 mynetnaija.ng
 0.0.0.0 netnaija.top
 0.0.0.0 netspor.co
+0.0.0.0 noonootv4k.shop
 0.0.0.0 noonootvs10.store
 0.0.0.0 online.tainiothiki.gr
 0.0.0.0 oyunindir.cafe
@@ -202,6 +214,9 @@
 0.0.0.0 pdfkitapoku.org
 0.0.0.0 pelisflix-26m7.pages.dev
 0.0.0.0 pelisflix-4sp8.pages.dev
+0.0.0.0 pelisflix-5uof.pages.dev
+0.0.0.0 pelisflix-q9ja.pages.dev
+0.0.0.0 pelisflix-t5lt.pages.dev
 0.0.0.0 pelisflix-u56l.pages.dev
 0.0.0.0 pelisflix-yuv.pages.dev
 0.0.0.0 pelispedia-7fkx.pages.dev
@@ -211,6 +226,7 @@
 0.0.0.0 pelisplushd.mx
 0.0.0.0 pelisplushd.one
 0.0.0.0 pelotalibreenvivo.cl
+0.0.0.0 pepelisplus-uhek.pages.dev
 0.0.0.0 phimmoi.cat
 0.0.0.0 phimmoi.doraflixvn.com
 0.0.0.0 phimmoic.ws
@@ -246,6 +262,7 @@
 0.0.0.0 socolive-bd-tv.art
 0.0.0.0 socolive-tv.quest
 0.0.0.0 socolive1.nl
+0.0.0.0 socolive104.ac
 0.0.0.0 socolive123.tv
 0.0.0.0 socolive18.com
 0.0.0.0 socolive57.ac
@@ -253,6 +270,7 @@
 0.0.0.0 socolivef.cc
 0.0.0.0 socolivetvz.top
 0.0.0.0 socolivev.co
+0.0.0.0 socoliveza.cc
 0.0.0.0 socolivezl.cc
 0.0.0.0 socolivezq.tv
 0.0.0.0 solarmovie-official.site
@@ -304,6 +322,7 @@
 0.0.0.0 waploaded.com
 0.0.0.0 wareztuga.io
 0.0.0.0 watchseries-3q89.pages.dev
+0.0.0.0 watchseries-mkqw.pages.dev
 0.0.0.0 web.iptvsolutions.nl
 0.0.0.0 webteizle.buzz
 0.0.0.0 webteizle.info
@@ -318,6 +337,7 @@
 0.0.0.0 xoilacvn.net
 0.0.0.0 xoilacxbr.tv
 0.0.0.0 yabancidizi.news
+0.0.0.0 yalla4kora.blog
 0.0.0.0 yallakora.com
 0.0.0.0 yallakora.misrlinks.com
 0.0.0.0 yallashoot.id

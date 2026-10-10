@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy
-# Domains: 318 | Updated: 2026-10-09
+# Domains: 338 | Updated: 2026-10-10
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/domains/piracy/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -23,6 +23,7 @@ ccuevana.today
 cima4u.app
 cima4u.college
 cinecalidad-p9qc.pages.dev
+cinecalidad-u0wv.pages.dev
 cpasbientv.cv
 crackstreams.ch
 crackstreams.guru
@@ -34,7 +35,9 @@ cuevana-gx65.pages.dev
 cuevana3-1g9s.pages.dev
 cuevana3-9ns.pages.dev
 cuevana3-i8my.pages.dev
+cuevana3-rg8.pages.dev
 cuevana3-s2o.pages.dev
+cuevana3-yeaf.pages.dev
 cuevana3-yscy.pages.dev
 cuevana3.boo
 cuevana3.re
@@ -73,11 +76,14 @@ elbotola.com
 elitetorrent.org
 elitetorrent.world
 eurostreaming-nuovo-indirizzo.com
+filmapik.rodeo
 filmdozu.com
 filmekseni.vip
 filmiwebteizle.blogspot.com
 filmizledim.com
 filmmakinesi.to
+filmoflix-ofpk.pages.dev
+filmoflix.xyz
 filmpalast.de
 filmywap.poker
 filmyzilla1.in
@@ -91,6 +97,7 @@ footybite.to
 footybite.vg
 footybite1.live
 footybites.click
+franceiptvpremium.net
 freeshot.ch
 freeshot.it
 fullfilmizle.fit
@@ -106,10 +113,12 @@ fullprogramlarindir.tr
 futbollibre.kim
 futbollibrefullhd.org
 futbollibreperu.org
+futbollibretv.ink
 futemax.at
 futemax.haus
 futemax.hiphop
 futemax.med
+fzmovies-q7vj.pages.dev
 getoziptv.com
 gogoanime-v3.pages.dev
 google-play.en.softmany.com
@@ -157,6 +166,7 @@ justintvlink.altervista.org
 justintvmgturkiye.vip
 justintvturkiyehd.co
 justintvturkiyesh.vip
+kinokiste-38t3.pages.dev
 kooora.com
 kooora.misrlinks.com
 kooralive-koora.live
@@ -170,6 +180,7 @@ livesportsontv.com
 livetv.life
 lk21.sa.com
 m.goalddlive.com
+magistvfutbol.com
 mecze24.pl
 mejortorrent.cc
 mejortorrent.eu
@@ -190,6 +201,7 @@ mycima.watch
 mynetnaija.ng
 netnaija.top
 netspor.co
+noonootv4k.shop
 noonootvs10.store
 online.tainiothiki.gr
 oyunindir.cafe
@@ -202,6 +214,9 @@ pdfkitapkurdu.blogspot.com
 pdfkitapoku.org
 pelisflix-26m7.pages.dev
 pelisflix-4sp8.pages.dev
+pelisflix-5uof.pages.dev
+pelisflix-q9ja.pages.dev
+pelisflix-t5lt.pages.dev
 pelisflix-u56l.pages.dev
 pelisflix-yuv.pages.dev
 pelispedia-7fkx.pages.dev
@@ -211,6 +226,7 @@ pelisplusapkmax.com
 pelisplushd.mx
 pelisplushd.one
 pelotalibreenvivo.cl
+pepelisplus-uhek.pages.dev
 phimmoi.cat
 phimmoi.doraflixvn.com
 phimmoic.ws
@@ -246,6 +262,7 @@ soap2days.ac
 socolive-bd-tv.art
 socolive-tv.quest
 socolive1.nl
+socolive104.ac
 socolive123.tv
 socolive18.com
 socolive57.ac
@@ -253,6 +270,7 @@ socolive75.tv
 socolivef.cc
 socolivetvz.top
 socolivev.co
+socoliveza.cc
 socolivezl.cc
 socolivezq.tv
 solarmovie-official.site
@@ -304,6 +322,7 @@ ultra-realistic-mod.apk.cafe
 waploaded.com
 wareztuga.io
 watchseries-3q89.pages.dev
+watchseries-mkqw.pages.dev
 web.iptvsolutions.nl
 webteizle.buzz
 webteizle.info
@@ -318,6 +337,7 @@ xoilactvbm.cc
 xoilacvn.net
 xoilacxbr.tv
 yabancidizi.news
+yalla4kora.blog
 yallakora.com
 yallakora.misrlinks.com
 yallashoot.id

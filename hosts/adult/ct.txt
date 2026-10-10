@@ -1,51 +1,83 @@
 # Title: EZOBLOCKER Adult, ct
-# Domains: 45 | Updated: 2026-10-09
+# Domains: 77 | Updated: 2026-10-10
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/adult/ct.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
+0.0.0.0 11hentai.com
+0.0.0.0 121heiliao.top
+0.0.0.0 16heiliao.com
 0.0.0.0 18japaneseporn.com
+0.0.0.0 51heiliao-x133.pages.dev
+0.0.0.0 51heiliao-x282.pages.dev
 0.0.0.0 7heiliao.com
 0.0.0.0 aisexygirls.ca
+0.0.0.0 allegra-escort.com
 0.0.0.0 alte-schlampen-gratis-porno-reifen-frauen.pages.dev
+0.0.0.0 ask4porn.com
 0.0.0.0 bloominonlyfans.com
 0.0.0.0 bokepindo.lat
 0.0.0.0 bokepindo.tokyo
+0.0.0.0 busty-osaka-estama.com
 0.0.0.0 cultsonlyfans.com
 0.0.0.0 eromanga-wktk.pages.dev
 0.0.0.0 erotische-malbuecher.de
 0.0.0.0 erotischechats.com
+0.0.0.0 footfetishescort.pages.dev
+0.0.0.0 freelezbianpornvideos.com
 0.0.0.0 freesexvedioes.com
 0.0.0.0 gamerotika.de
+0.0.0.0 grindr-chating-prostitusion.pages.dev
 0.0.0.0 hanime-3d7.pages.dev
+0.0.0.0 hanime-dl.pages.dev
+0.0.0.0 hanime-v3.pages.dev
 0.0.0.0 hanimeone.lat
+0.0.0.0 hanimetv-b6j.pages.dev
 0.0.0.0 heiliao-21.com
+0.0.0.0 heiliao80.pages.dev
 0.0.0.0 heiliaoal.cc
 0.0.0.0 heiliaobox.cc
+0.0.0.0 heiliaodaohang4.pages.dev
 0.0.0.0 heiliaomenjin.pages.dev
 0.0.0.0 heiliaoqr.cc
+0.0.0.0 heiliaorb.pages.dev
+0.0.0.0 heiliaoshe02.pages.dev
 0.0.0.0 hentaibloom.com
 0.0.0.0 hentailivesex.com
 0.0.0.0 hentaireve.com
 0.0.0.0 hentaiwelt.com
+0.0.0.0 herrin-anastasia.org
 0.0.0.0 indianfemdom.com
 0.0.0.0 instacoquines-fr.com
+0.0.0.0 japanskandal.pages.dev
+0.0.0.0 kingbokep.coupons
 0.0.0.0 kingbokep.in.net
+0.0.0.0 kingbokep.vu
+0.0.0.0 ladyvbizarr.ch
+0.0.0.0 loanluan.pages.dev
+0.0.0.0 lolitasapata.com
 0.0.0.0 missavtw.wiki
 0.0.0.0 nichehentaiplace.com
 0.0.0.0 nuttenkartei.de
+0.0.0.0 onlyfansparra.pages.dev
 0.0.0.0 orient-herrin-kader.de
 0.0.0.0 paylessadultvideo.com
+0.0.0.0 porn-marketing.com
 0.0.0.0 porno.chat
 0.0.0.0 pornstaravatars.com
 0.0.0.0 pornvideo.store
+0.0.0.0 pussies.jp
+0.0.0.0 sexdolls-france.com
 0.0.0.0 sexfilmleriizlevip.com
 0.0.0.0 sextoyvancouver.com
 0.0.0.0 shooting-erotique.com
 0.0.0.0 smoky-kino-aachen-tantramassage-essen.pages.dev
 0.0.0.0 strapony.cz
 0.0.0.0 tantra-massage-osnabrck-gay-treff-berlin.pages.dev
+0.0.0.0 telefondominas.com
 0.0.0.0 thekingbokep.com
 0.0.0.0 ukgangbang.com
+0.0.0.0 upskirt-asian-girl.lol
 0.0.0.0 vivonlyfans.com
 0.0.0.0 xhamster2.in
+0.0.0.0 xiaoyuanheiliao.pages.dev
