@@ -1,13 +1,16 @@
 ! Title: EZOBLOCKER Gambling, Spain (es)
-! Domains: 7 | Updated: 2026-10-10
+! Domains: 10 | Updated: 2026-10-10
 ! Homepage: https://github.com/MerasusDev/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/gambling/countries/es.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 ! App: https://ezoblocker.app
 |22bet-iniciar-sesion-poo.taplato.es^
 ||22bet-online.eu^
+||betwinner.cm^
 ||es-22bet.com^
+|jugar-casino-gran-madrid-online-uzv.colorscaceres.es^
 ||kirolbet.es^
+||melbet-mx.com^
 ||solcasino.es^
 ||speedybet.es^
 ||sportium.com.co^

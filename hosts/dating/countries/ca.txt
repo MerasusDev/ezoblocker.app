@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Dating, Canada (ca)
-# Domains: 4 | Updated: 2026-10-10
+# Domains: 6 | Updated: 2026-10-10
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/dating/countries/ca.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -8,3 +8,5 @@
 0.0.0.0 leolist.cc
 0.0.0.0 leolist.co
 0.0.0.0 leolist.vc
+0.0.0.0 skipthegames.com
+0.0.0.0 strangercam.com

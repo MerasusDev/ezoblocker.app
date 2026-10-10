@@ -1,15 +1,34 @@
 # Title: EZOBLOCKER Adult, Argentina (ar)
-# Domains: 9 | Updated: 2026-10-10
+# Domains: 28 | Updated: 2026-10-10
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/domains/adult/countries/ar.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
+bangover.com.ar
+boutiqueerotica.com.uy
 buttman.com.ar
+caramelodulce.com.ar
+eclipsiasexshop.com
+erotiquepink.com
 extasy.com.ar
+farmamix.com.ar
+goota.com.ar
+intimelovestore.com.ar
+mibelleza.uy
+proximosiglo.com.ar
 sauvage.com.ar
 savageboutique.com.ar
+sexcordobashop.com.ar
+sexosentidoav.com
 sexshop-othernature.com.ar
 sexshopargentino.com.ar
+sexshopcordoba.com
+sexshoprosario.net
+sexshopzonaroja.com
 sheer.ar
 tabushop.com.ar
+tiendaerotica.cl
+tiendaeroticavip.com
 tsmayorista.com.ar
+valdodubra.com
+vipsexshop.cl

@@ -1,8 +1,15 @@
 # Title: EZOBLOCKER Dating, Argentina (ar)
-# Domains: 2 | Updated: 2026-10-10
+# Domains: 9 | Updated: 2026-10-10
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/domains/dating/countries/ar.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
+argentina.zonacitas.com
+bairesgirls.net
+chatargentina.com.ar
 chatargentinos.com
 gemidos.tv
+gemidos69.com
+gemidostv.com
+masajistasunicas.com
+videochatar.com

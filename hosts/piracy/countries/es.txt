@@ -1,9 +1,11 @@
 # Title: EZOBLOCKER Piracy, Spain (es)
-# Domains: 9 | Updated: 2026-10-10
+# Domains: 12 | Updated: 2026-10-10
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/piracy/countries/es.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
+0.0.0.0 acestreamid.com
+0.0.0.0 animeflv.or.at
 0.0.0.0 cuevana3.re
 0.0.0.0 dontorrent.blog
 0.0.0.0 elitetorrent.org
@@ -11,5 +13,6 @@
 0.0.0.0 grantorrent.foo
 0.0.0.0 grantorrent.fyi
 0.0.0.0 icuevana3.cam
+0.0.0.0 monoschinos2.net
 0.0.0.0 pirlotv.bar
 0.0.0.0 pirlotv1.live

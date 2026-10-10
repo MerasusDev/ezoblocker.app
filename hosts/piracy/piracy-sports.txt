@@ -1,22 +1,36 @@
 # Title: EZOBLOCKER Piracy, illegal sports streams
-# Domains: 110 | Updated: 2026-10-10
+# Domains: 146 | Updated: 2026-10-10
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/piracy/piracy-sports.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
+0.0.0.0 acestreamid.com
 0.0.0.0 admin.avalie.pi.gov.br
 0.0.0.0 api.sap.ce.gov.br
+0.0.0.0 ballzaa.com
 0.0.0.0 buffstreamsapp.com
+0.0.0.0 cakhia4.org
+0.0.0.0 cakhia6tv.tv
+0.0.0.0 cakhiatv.college
+0.0.0.0 cakhiatv.fit
+0.0.0.0 cakhiatvc.group
+0.0.0.0 cakhiaxs.tv
 0.0.0.0 canlimacizlet.altervista.org
+0.0.0.0 cepi.cb.ce.gov.br
 0.0.0.0 crackstreams.ch
 0.0.0.0 crackstreams.guru
+0.0.0.0 crackstreams.in
 0.0.0.0 crackstreams.mx
+0.0.0.0 cricstream.mom
 0.0.0.0 crictime.com
 0.0.0.0 crictime.is
+0.0.0.0 dekoora.store
 0.0.0.0 dev-forms-engine-api.brisbane.qld.gov.au
 0.0.0.0 direttagoal.it
 0.0.0.0 elbotola.com
+0.0.0.0 filmora.wondershare.kr
 0.0.0.0 find-and-update.company-information.service.gov.uk
+0.0.0.0 footybite.com.co
 0.0.0.0 footybite.live
 0.0.0.0 footybite.soccer
 0.0.0.0 footybite.to
@@ -25,12 +39,14 @@
 0.0.0.0 footybites.click
 0.0.0.0 freeshot.ch
 0.0.0.0 freeshot.it
+0.0.0.0 futbolete.com
 0.0.0.0 futbollibre.kim
 0.0.0.0 futbollibrefullhd.org
 0.0.0.0 futbollibreperu.org
 0.0.0.0 futemax.at
 0.0.0.0 hesgoal.ltd
 0.0.0.0 hesgoal.si
+0.0.0.0 hesgoal.soccer
 0.0.0.0 hesgoal.zone
 0.0.0.0 hesgoalhd.com
 0.0.0.0 hesgoals.nl
@@ -39,6 +55,7 @@
 0.0.0.0 isportsurge.ws
 0.0.0.0 jestyayin.org
 0.0.0.0 jestyayingiris11.xyz
+0.0.0.0 jobboard.simplifaster.com
 0.0.0.0 justintv.co
 0.0.0.0 justintvizle735.top
 0.0.0.0 justintvizlesene.com
@@ -49,12 +66,24 @@
 0.0.0.0 kooora.com
 0.0.0.0 kooora.misrlinks.com
 0.0.0.0 kooralive-koora.live
+0.0.0.0 kooralivematch.club
+0.0.0.0 koorashootnews.com
+0.0.0.0 kooratop.live
+0.0.0.0 kooratv.club
+0.0.0.0 koraonline.quest
 0.0.0.0 livekoora.today
 0.0.0.0 livesportsontv.com
 0.0.0.0 livetv.life
 0.0.0.0 m.goalddlive.com
 0.0.0.0 mecze24.pl
+0.0.0.0 mlbbite.plus
+0.0.0.0 multicanais.nexus
+0.0.0.0 nbabite.net
 0.0.0.0 netspor.co
+0.0.0.0 new.touchcric.com
+0.0.0.0 nflbite.is
+0.0.0.0 nflbites.today
+0.0.0.0 nyc-dsp1.kavanga.com
 0.0.0.0 page.inplayer.com
 0.0.0.0 pelotalibreenvivo.cl
 0.0.0.0 pirlotv-futbol-en-vivo-directo.apps112.com
@@ -66,6 +95,7 @@
 0.0.0.0 pirlotv1.live
 0.0.0.0 pirlotvv.org
 0.0.0.0 rojadirecta.cash
+0.0.0.0 rojadirecta.com.co
 0.0.0.0 rojadirectafullhd.net
 0.0.0.0 saas.spochak.com
 0.0.0.0 selcuksportshd.is
@@ -78,6 +108,7 @@
 0.0.0.0 socolivetvz.top
 0.0.0.0 socolivev.co
 0.0.0.0 socolivezq.tv
+0.0.0.0 sp.supercell.jp
 0.0.0.0 sportlive24.tv
 0.0.0.0 sportonline.cz
 0.0.0.0 sportstream-365.com
@@ -85,8 +116,10 @@
 0.0.0.0 sportstream.us
 0.0.0.0 sportstream365.com.w3snoop.com
 0.0.0.0 sportstribal.tv
+0.0.0.0 start.sportdigital.de
 0.0.0.0 streameasti.site
 0.0.0.0 streameasttop.com
+0.0.0.0 streamonsport.lat
 0.0.0.0 strims.com.pl
 0.0.0.0 taraftarium24-aslan5.com
 0.0.0.0 taraftarium24-live3.com
@@ -104,7 +137,10 @@
 0.0.0.0 tarjetarojaonline.info
 0.0.0.0 tarjetarojaonline.pro
 0.0.0.0 tarjetarojatv.mobi
+0.0.0.0 totalsportek1.is
 0.0.0.0 tvnsports.cjenm.com
+0.0.0.0 vipbox1.com
+0.0.0.0 vipleague.ro
 0.0.0.0 xoilac1.help
 0.0.0.0 xoilac3.cc
 0.0.0.0 xoilac5.top

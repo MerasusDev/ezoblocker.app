@@ -1,13 +1,22 @@
 # Title: EZOBLOCKER Adult, Spain (es)
-# Domains: 7 | Updated: 2026-10-10
+# Domains: 16 | Updated: 2026-10-10
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/lists/adult/countries/es.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
+*.belover.es
 *.comparar.net
 *.jaloo.es
+*.lareinadeparis.com
 *.lasexshopencasa.es
+*.lolatoys.com
+*.losplaceresdelola.com
+*.lovesexing.com
+*.madurasfollando.com
+*.mundoerotico.es
 *.picansex.com
+*.seductime.es
 *.sexshopamatista.com
 *.sextoyscenter.net
+*.shopsexmachine.com
 *.tu-juguete-erotico.com

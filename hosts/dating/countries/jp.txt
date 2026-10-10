@@ -1,7 +1,14 @@
 # Title: EZOBLOCKER Dating, Japan (jp)
-# Domains: 1 | Updated: 2026-10-10
+# Domains: 8 | Updated: 2026-10-10
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/dating/countries/jp.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
+0.0.0.0 chat.romi.ai
+0.0.0.0 happymail.co.jp
+0.0.0.0 happymail.jp
+0.0.0.0 magaseekcm.conohawing.com
+0.0.0.0 old.coacha.com
 0.0.0.0 pcmax.jp
+0.0.0.0 roomchat.site
+0.0.0.0 wakuwaku-communications.com

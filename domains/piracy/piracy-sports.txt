@@ -1,22 +1,36 @@
 # Title: EZOBLOCKER Piracy, illegal sports streams
-# Domains: 110 | Updated: 2026-10-10
+# Domains: 146 | Updated: 2026-10-10
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/domains/piracy/piracy-sports.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
+acestreamid.com
 admin.avalie.pi.gov.br
 api.sap.ce.gov.br
+ballzaa.com
 buffstreamsapp.com
+cakhia4.org
+cakhia6tv.tv
+cakhiatv.college
+cakhiatv.fit
+cakhiatvc.group
+cakhiaxs.tv
 canlimacizlet.altervista.org
+cepi.cb.ce.gov.br
 crackstreams.ch
 crackstreams.guru
+crackstreams.in
 crackstreams.mx
+cricstream.mom
 crictime.com
 crictime.is
+dekoora.store
 dev-forms-engine-api.brisbane.qld.gov.au
 direttagoal.it
 elbotola.com
+filmora.wondershare.kr
 find-and-update.company-information.service.gov.uk
+footybite.com.co
 footybite.live
 footybite.soccer
 footybite.to
@@ -25,12 +39,14 @@ footybite1.live
 footybites.click
 freeshot.ch
 freeshot.it
+futbolete.com
 futbollibre.kim
 futbollibrefullhd.org
 futbollibreperu.org
 futemax.at
 hesgoal.ltd
 hesgoal.si
+hesgoal.soccer
 hesgoal.zone
 hesgoalhd.com
 hesgoals.nl
@@ -39,6 +55,7 @@ home.sports.com
 isportsurge.ws
 jestyayin.org
 jestyayingiris11.xyz
+jobboard.simplifaster.com
 justintv.co
 justintvizle735.top
 justintvizlesene.com
@@ -49,12 +66,24 @@ justintvturkiyesh.vip
 kooora.com
 kooora.misrlinks.com
 kooralive-koora.live
+kooralivematch.club
+koorashootnews.com
+kooratop.live
+kooratv.club
+koraonline.quest
 livekoora.today
 livesportsontv.com
 livetv.life
 m.goalddlive.com
 mecze24.pl
+mlbbite.plus
+multicanais.nexus
+nbabite.net
 netspor.co
+new.touchcric.com
+nflbite.is
+nflbites.today
+nyc-dsp1.kavanga.com
 page.inplayer.com
 pelotalibreenvivo.cl
 pirlotv-futbol-en-vivo-directo.apps112.com
@@ -66,6 +95,7 @@ pirlotv.win
 pirlotv1.live
 pirlotvv.org
 rojadirecta.cash
+rojadirecta.com.co
 rojadirectafullhd.net
 saas.spochak.com
 selcuksportshd.is
@@ -78,6 +108,7 @@ socolivef.cc
 socolivetvz.top
 socolivev.co
 socolivezq.tv
+sp.supercell.jp
 sportlive24.tv
 sportonline.cz
 sportstream-365.com
@@ -85,8 +116,10 @@ sportstream.se
 sportstream.us
 sportstream365.com.w3snoop.com
 sportstribal.tv
+start.sportdigital.de
 streameasti.site
 streameasttop.com
+streamonsport.lat
 strims.com.pl
 taraftarium24-aslan5.com
 taraftarium24-live3.com
@@ -104,7 +137,10 @@ tarjetarojadirecta.es
 tarjetarojaonline.info
 tarjetarojaonline.pro
 tarjetarojatv.mobi
+totalsportek1.is
 tvnsports.cjenm.com
+vipbox1.com
+vipleague.ro
 xoilac1.help
 xoilac3.cc
 xoilac5.top

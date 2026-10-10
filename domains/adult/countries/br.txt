@@ -1,13 +1,20 @@
 # Title: EZOBLOCKER Adult, Brazil (br)
-# Domains: 7 | Updated: 2026-10-10
+# Domains: 14 | Updated: 2026-10-10
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/domains/adult/countries/br.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
 amordeluxo.com.br
 asosloja.com.br
+atacadostar.com.br
 bellebras.com.br
 donacoelha.com
+donadoprazer.com.br
 exclusivasex.com.br
 goodvibres.com.br
+gruposdeputaria.net
+linksgrupos.com
+lojadoprazer.com.br
+loungerie.com.br
 pantynova.com
+vitrinedaputaria.com

@@ -1,8 +1,14 @@
 # Title: EZOBLOCKER Gambling, Vietnam (vn)
-# Domains: 2 | Updated: 2026-10-10
+# Domains: 8 | Updated: 2026-10-10
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/gambling/countries/vn.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
+0.0.0.0 bluechiptech.io
+0.0.0.0 flyflock.io
+0.0.0.0 fun88.ceo
+0.0.0.0 fun88.wien
+0.0.0.0 goodmorningcoin.io
+0.0.0.0 hipstreetonline.in
 0.0.0.0 khojitv.tv
 0.0.0.0 tharv.me

@@ -1,14 +1,19 @@
 # Title: EZOBLOCKER Dating, United States (us)
-# Domains: 8 | Updated: 2026-10-10
+# Domains: 13 | Updated: 2026-10-10
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/dating/countries/us.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
 0.0.0.0 adultfriendfinder.ca
 0.0.0.0 adultfriendfinder.com
+0.0.0.0 adulthookup.com
 0.0.0.0 ashleymadison.com
+0.0.0.0 bedpage.cc
+0.0.0.0 bedpage.com
 0.0.0.0 chatville.com
 0.0.0.0 emeraldchat.com
 0.0.0.0 listcrawler.app
 0.0.0.0 listcrawler.eu
 0.0.0.0 sugardaddy.com
+0.0.0.0 swingersclublist.com
+0.0.0.0 swingersplay.com

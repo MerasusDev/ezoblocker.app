@@ -1,14 +1,20 @@
 # Title: EZOBLOCKER Bypass
-# Domains: 52 | Updated: 2026-10-10
+# Domains: 74 | Updated: 2026-10-10
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/lists/bypass/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
+*.9japroxy.com
+apt.izzysoft.de
+*.blockaway.ca
 *.browsec.cx
 *.browsecvps.org
 cameleo-xyz.webscorechecker.com
 *.cameleo.org
+cloud.up4.cz
+cloudsupport.sequentum.com
 *.ctunnel.com
+developer.novada.com
 discourse.aosus.org
 *.dtunnel.net
 *.express-vpn.app
@@ -17,16 +23,26 @@ discourse.aosus.org
 *.freeproxy.win
 *.freeproxy.world
 *.getunicorn.app
+helpcenter.trendlife.com
+helpdesk.iupat.org
+hotspot-shield.ar.softmany.com
+insights.streamuktvabroad.com
 *.k-tunnel.net
 *.ktunneli.com
 lifestyle.assist-all.co.jp
+*.naijaproxy.com
 panduan.opendesa.id
+*.powertunnel.org
 *.proxy6.net
 *.proxycoupons.com
 *.proxynet.io
 *.proxyscrape.com
+*.proxysites.ai
+*.proxyviet.net
+*.proxyviet.org
 psiphon.ar.softmany.com
 *.psiphon.com
+psiphon.sooftware.com
 *.psiphon2.net
 *.px6.net
 *.shadowsocks.au
@@ -48,11 +64,17 @@ psiphon.ar.softmany.com
 *.smartproxy.vn
 tools.tracemyip.org
 *.torprojectstatus.org
+*.ultrasurf-vpn.pages.dev
 ultrasurf.ar.softmany.com
 ultrasurf.en.softmany.com
 ultrasurf.fr.softmany.com
 *.unblock-websites.com
+*.unblockvideos.com
 *.unblockyoutube.video
 *.v2ray-macos-arm64-v8a.zip
 vpn-proxy-master.en.softmany.com
+*.websiteunblocker.io
+*.websiteunblocker.net
+www93.juarez.gob.mx
 *.yasaksiteleregiris.org
+zend2.rwiki.jp

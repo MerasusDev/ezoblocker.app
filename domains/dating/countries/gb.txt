@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Dating, United Kingdom (gb)
-# Domains: 9 | Updated: 2026-10-10
+# Domains: 13 | Updated: 2026-10-10
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/domains/dating/countries/gb.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -9,7 +9,11 @@ adultwork.com
 camsurf.com
 chatspin.com
 gb.banana-chat.com
+genuineukswingers.co.uk
+nastyhookups.com
 omegle.online
+swingers-247.co.uk
+swingers.club
 ukescorts.directory
 vivastreet.co.uk
 vivastreet.com

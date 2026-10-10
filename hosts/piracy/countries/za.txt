@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy, South Africa (za)
-# Domains: 11 | Updated: 2026-10-10
+# Domains: 15 | Updated: 2026-10-10
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/piracy/countries/za.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -9,6 +9,10 @@
 0.0.0.0 fmoviezs.top
 0.0.0.0 footybite.soccer
 0.0.0.0 footybite.vg
+0.0.0.0 gomovies.energy
+0.0.0.0 gomovies2.org
+0.0.0.0 gomovieshd.today
+0.0.0.0 hesgoal.soccer
 0.0.0.0 primewire-offcial.cyou
 0.0.0.0 primewire.gy
 0.0.0.0 primewires.org

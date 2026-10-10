@@ -1,9 +1,16 @@
 # Title: EZOBLOCKER Piracy, Vietnam (vn)
-# Domains: 26 | Updated: 2026-10-10
+# Domains: 33 | Updated: 2026-10-10
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/piracy/countries/vn.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
+0.0.0.0 cakhia4.org
+0.0.0.0 cakhia6tv.tv
+0.0.0.0 cakhiatv.college
+0.0.0.0 cakhiatv.fit
+0.0.0.0 cakhiatvc.group
+0.0.0.0 cakhiaxs.tv
+0.0.0.0 jobboard.simplifaster.com
 0.0.0.0 lichphimmoi.com
 0.0.0.0 mobile.coivl.net
 0.0.0.0 motphimchill.hair

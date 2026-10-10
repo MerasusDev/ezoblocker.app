@@ -1,10 +1,15 @@
 # Title: EZOBLOCKER Gambling, Poland (pl)
-# Domains: 4 | Updated: 2026-10-10
+# Domains: 9 | Updated: 2026-10-10
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/gambling/countries/pl.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
+0.0.0.0 betwinner.africa
+0.0.0.0 gry-hazardowe-maszyny-piaseczno-hdq.kursoperatora.pl
 0.0.0.0 kasynoorzel.eu
+0.0.0.0 najlepsze-bitcoin-kasyno-zys.rozejrzyjsie.pl
+0.0.0.0 top-bukmacherzy.net
 0.0.0.0 tulsasbc.com
 0.0.0.0 vulkan-spiele-casino.net.pl
 0.0.0.0 vulkanbetopinie.pl
+0.0.0.0 zaklady-bukmacherskie-fortuna-w-trzemesznie-ulx.rozejrzyjsie.pl

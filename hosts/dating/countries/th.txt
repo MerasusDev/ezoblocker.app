@@ -1,8 +1,11 @@
 # Title: EZOBLOCKER Dating, Thailand (th)
-# Domains: 2 | Updated: 2026-10-10
+# Domains: 5 | Updated: 2026-10-10
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/dating/countries/th.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
 0.0.0.0 chat.irc.in.th
+0.0.0.0 chatthaiglobalradio.com
+0.0.0.0 thaiflirting.com
 0.0.0.0 thaifriendly.com
+0.0.0.0 thailandchat.net

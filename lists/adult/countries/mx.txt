@@ -1,18 +1,24 @@
 # Title: EZOBLOCKER Adult, Mexico (mx)
-# Domains: 12 | Updated: 2026-10-10
+# Domains: 18 | Updated: 2026-10-10
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/lists/adult/countries/mx.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
 *.adulteriosexshop.com
+*.bemeow.mx
 *.byplay.es
 *.cake-sexshop.com
+*.corse.mx
 *.easytoys.es
 *.kachondiux.com
+*.lolipop.com.mx
 *.loveshops.mx
+*.lovestore.com.mx
 *.meibi.mx
 *.platanomelon.mx
 *.rojocherry.com
+*.sensuality.mx
 *.tiendavenus.com
+*.vartamayoreo.mx
 *.vsexshopgdlalcala.com.mx
 *.xshopmen.com

@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Security, ct
-# Domains: 13,417 | Updated: 2026-10-10
+# Domains: 13,415 | Updated: 2026-10-10
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/security/ct.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -266,7 +266,6 @@
 0.0.0.0 account.bys-insta-store-67796.com
 0.0.0.0 account.bys-insta-store-76319.com
 0.0.0.0 account.ccustoms.shop
-0.0.0.0 account.com-microsoft-onedrive-auth.com
 0.0.0.0 account.deutsche-whiskys.shop
 0.0.0.0 account.deutsche-zentral-akademie.com
 0.0.0.0 account.elektr-de.shop
@@ -2407,6 +2406,7 @@
 0.0.0.0 dana-pending-konfirmasicairkan10-20jtambil.pages.dev
 0.0.0.0 dana-wallet-indonesia.pages.dev
 0.0.0.0 dana-wallet-lndonesia.pages.dev
+0.0.0.0 danaa-bantuan.laporan1.web.id
 0.0.0.0 danaa-bantuan.official-pusatcaree.biz.id
 0.0.0.0 dapps-pancakeswap.pages.dev
 0.0.0.0 dapps-walletconnect.pages.dev
@@ -10641,7 +10641,6 @@
 0.0.0.0 starts-en-ledgecom-auths.pages.dev
 0.0.0.0 startup-ruhbinhood-access-en-logiin.pages.dev
 0.0.0.0 statement-viewonce-givesusquotes-sharepoint.pages.dev
-0.0.0.0 static-login.com-microsoft-onedrive-auth.com
 0.0.0.0 statusbestellung--kleinanzeigen.rest
 0.0.0.0 stax-live-wallet.pages.dev
 0.0.0.0 stc-bank-nfc-vo.pages.dev
@@ -11479,7 +11478,6 @@
 0.0.0.0 support.agbank.com
 0.0.0.0 support.amzaon.workers.dev
 0.0.0.0 support.broadview-engie.com
-0.0.0.0 support.com-microsoft-onedrive-auth.com
 0.0.0.0 support.dashboard.alpha.bankom.su
 0.0.0.0 support.grab-cash-now.com
 0.0.0.0 support.llydsbank.com

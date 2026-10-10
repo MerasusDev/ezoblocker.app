@@ -1,10 +1,15 @@
 # Title: EZOBLOCKER Dating, Netherlands (nl)
-# Domains: 7 | Updated: 2026-10-10
+# Domains: 12 | Updated: 2026-10-10
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/lists/dating/countries/nl.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
+*.chatroom.nl
 *.eliteescortamsterdam.com
+*.escortbureaus.nl
+*.escortservice-helmond.nl
+*.escortutrecht.nl
+*.flirtchat.nl
 m.dreamersforum.nl
 *.mysugardaddy.nl
 *.omegleapp.me

@@ -1,7 +1,11 @@
 ! Title: EZOBLOCKER Adult, Austria (at)
-! Domains: 1 | Updated: 2026-10-10
+! Domains: 5 | Updated: 2026-10-10
 ! Homepage: https://github.com/MerasusDev/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/adult/countries/at.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 ! App: https://ezoblocker.app
+||amorelie.at^
+||online-shop.at^
 ||pornoload.com^
+||rabattcode.de^
+||trustedshops.at^
