@@ -1,19 +1,29 @@
 ! Title: EZOBLOCKER Piracy, ct
-! Domains: 53 | Updated: 2026-10-11
+! Domains: 81 | Updated: 2026-10-11
 ! Homepage: https://github.com/MerasusDev/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/piracy/ct.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 ! App: https://ezoblocker.app
 ||besteiptvabonnement.com^
+||cinecalidad-iyz0.pages.dev^
 ||cinecalidad-p9qc.pages.dev^
 ||cinecalidad-u0wv.pages.dev^
+||cinecalidad-ykut.pages.dev^
 ||cpasbientv.cv^
 ||cuevana-2y9h.pages.dev^
 ||cuevana-gx65.pages.dev^
+||cuevana-v793.pages.dev^
 ||cuevana3-1g9s.pages.dev^
+||cuevana3-4kij.pages.dev^
+||cuevana3-79g.pages.dev^
+||cuevana3-99kc.pages.dev^
 ||cuevana3-9ns.pages.dev^
 ||cuevana3-i8my.pages.dev^
+||cuevana3-k6m3.pages.dev^
+||cuevana3-mfwc.pages.dev^
+||cuevana3-ovas.pages.dev^
 ||cuevana3-rg8.pages.dev^
+||cuevana3-rnsa.pages.dev^
 ||cuevana3-s2o.pages.dev^
 ||cuevana3-yeaf.pages.dev^
 ||cuevana3-yscy.pages.dev^
@@ -22,38 +32,56 @@
 ||filmoflix-ofpk.pages.dev^
 ||filmoflix.xyz^
 ||flixmovie.online^
+||fmovies-free.to^
 ||fmovies.supplies^
 ||franceiptvpremium.net^
 ||futbollibretv.ink^
 ||fzmovies-q7vj.pages.dev^
 ||gogoanime-v3.pages.dev^
+||iptvcanada8k.ca^
 ||kinokiste-38t3.pages.dev^
 ||kuttymovies.ai.in^
+||livekora360.com^
 ||lk21.sa.com^
 ||magistvfutbol.com^
+||motchillk.now^
 ||motphimchill.cc^
+||motphimchill.plus^
+||nontonfilm.hair^
 ||noonootv4k.shop^
 ||noonootvs10.store^
 ||pelisflix-26m7.pages.dev^
 ||pelisflix-4sp8.pages.dev^
 ||pelisflix-5uof.pages.dev^
+||pelisflix-k4bi.pages.dev^
 ||pelisflix-q9ja.pages.dev^
+||pelisflix-rhb.pages.dev^
 ||pelisflix-t5lt.pages.dev^
+||pelisflix-ttxn.pages.dev^
 ||pelisflix-u56l.pages.dev^
 ||pelisflix-yuv.pages.dev^
 ||pelispedia-7fkx.pages.dev^
+||pepelisplus-3za4.pages.dev^
 ||pepelisplus-uhek.pages.dev^
+||phimmotchill.fun^
 ||putlocker-du55.pages.dev^
+||real-couchtuner.com^
+||socolive.fit^
 ||socolive104.ac^
 ||socolive123.tv^
 ||socolive57.ac^
+||socolivejj.io^
+||socolivevq.cc^
 ||socoliveza.cc^
 ||socolivezl.cc^
 ||solarmovie-official.site^
 ||solarmovie.free^
 ||themoviesflix.dev^
 ||torrentleech.pages.dev^
+||totalsportek-cyou.pages.dev^
+||v2-sportsurge.life^
 ||watchseries-3q89.pages.dev^
 ||watchseries-mkqw.pages.dev^
 ||xo-movie.com^
 ||yalla4kora.blog^
+||zalukaj-plus.pl^

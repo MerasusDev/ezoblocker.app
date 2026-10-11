@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Piracy
-! Domains: 457 | Updated: 2026-10-11
+! Domains: 485 | Updated: 2026-10-11
 ! Homepage: https://github.com/MerasusDev/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/piracy/all.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -48,8 +48,10 @@
 ||cima4u-offcial.cyou^
 ||cima4u.app^
 ||cima4u.college^
+||cinecalidad-iyz0.pages.dev^
 ||cinecalidad-p9qc.pages.dev^
 ||cinecalidad-u0wv.pages.dev^
+||cinecalidad-ykut.pages.dev^
 ||compucalitv.lol^
 ||compucalitv.tv^
 ||cpasbientv.cv^
@@ -62,10 +64,18 @@
 ||crictime.is^
 ||cuevana-2y9h.pages.dev^
 ||cuevana-gx65.pages.dev^
+||cuevana-v793.pages.dev^
 ||cuevana3-1g9s.pages.dev^
+||cuevana3-4kij.pages.dev^
+||cuevana3-79g.pages.dev^
+||cuevana3-99kc.pages.dev^
 ||cuevana3-9ns.pages.dev^
 ||cuevana3-i8my.pages.dev^
+||cuevana3-k6m3.pages.dev^
+||cuevana3-mfwc.pages.dev^
+||cuevana3-ovas.pages.dev^
 ||cuevana3-rg8.pages.dev^
+||cuevana3-rnsa.pages.dev^
 ||cuevana3-s2o.pages.dev^
 ||cuevana3-yeaf.pages.dev^
 ||cuevana3-yscy.pages.dev^
@@ -125,6 +135,7 @@
 ||filmyzilla1.in^
 |find-and-update.company-information.service.gov.uk^
 ||flixmovie.online^
+||fmovies-free.to^
 ||fmovies.supplies^
 ||fmoviezs.top^
 ||footybite.com.co^
@@ -197,6 +208,7 @@
 |iptv-portugal.youcan.store^
 ||iptvaustralia.app^
 ||iptvaustralia.com.au^
+||iptvcanada8k.ca^
 ||iptvnederland.nl^
 ||isaimini.beauty^
 ||isaimini.doctor^
@@ -244,6 +256,7 @@
 ||lichphimmoi.com^
 |lifestyle.assist-all.co.jp^
 ||livekoora.today^
+||livekora360.com^
 ||livesportsontv.com^
 ||livetv.life^
 ||lk21.sa.com^
@@ -262,8 +275,10 @@
 ||mlbbite.plus^
 |mobile.coivl.net^
 ||monoschinos2.net^
+||motchillk.now^
 ||motphimchill.cc^
 ||motphimchill.hair^
+||motphimchill.plus^
 ||motphimchilll.fun^
 ||motphimmoi.org^
 ||motphimtv.club^
@@ -284,6 +299,7 @@
 |new.touchcric.com^
 ||nflbite.is^
 ||nflbites.today^
+||nontonfilm.hair^
 ||noonootv4k.shop^
 ||noonootvs10.store^
 ||nung2hdd.com^
@@ -303,8 +319,11 @@
 ||pelisflix-26m7.pages.dev^
 ||pelisflix-4sp8.pages.dev^
 ||pelisflix-5uof.pages.dev^
+||pelisflix-k4bi.pages.dev^
 ||pelisflix-q9ja.pages.dev^
+||pelisflix-rhb.pages.dev^
 ||pelisflix-t5lt.pages.dev^
+||pelisflix-ttxn.pages.dev^
 ||pelisflix-u56l.pages.dev^
 ||pelisflix-yuv.pages.dev^
 ||pelispedia-7fkx.pages.dev^
@@ -314,11 +333,13 @@
 ||pelisplushd.mx^
 ||pelisplushd.one^
 ||pelotalibreenvivo.cl^
+||pepelisplus-3za4.pages.dev^
 ||pepelisplus-uhek.pages.dev^
 ||phimmoi.cat^
 |phimmoi.doraflixvn.com^
 ||phimmoic.ws^
 ||phimmoii.my^
+||phimmotchill.fun^
 ||pinoymoviepedia.ru^
 |pirlotv-futbol-en-vivo-directo.apps112.com^
 ||pirlotv.bar^
@@ -335,6 +356,7 @@
 ||primewire.gy^
 ||primewires.org^
 ||putlocker-du55.pages.dev^
+||real-couchtuner.com^
 ||redecanais.in^
 ||redecanaishd.qpon^
 ||redecanaishd1.online^
@@ -359,6 +381,7 @@
 ||soap2daytv.me^
 ||socolive-bd-tv.art^
 ||socolive-tv.quest^
+||socolive.fit^
 ||socolive1.nl^
 ||socolive104.ac^
 ||socolive123.tv^
@@ -366,8 +389,10 @@
 ||socolive57.ac^
 ||socolive75.tv^
 ||socolivef.cc^
+||socolivejj.io^
 ||socolivetvz.top^
 ||socolivev.co^
+||socolivevq.cc^
 ||socoliveza.cc^
 ||socolivezl.cc^
 ||socolivezq.tv^
@@ -417,6 +442,7 @@
 ||torrentdevi.org^
 ||torrentleech.pages.dev^
 ||torrentoyunindir.co^
+||totalsportek-cyou.pages.dev^
 ||totalsportek1.is^
 ||trdiziizle.tv^
 ||tvmon.com.co^
@@ -427,6 +453,7 @@
 ||uaserials.vip^
 ||ufilmizle.com^
 |ultra-realistic-mod.apk.cafe^
+||v2-sportsurge.life^
 ||vipbox1.com^
 ||vipleague.ro^
 ||vizer.biz^
@@ -460,4 +487,5 @@
 ||yallakora.com^
 |yallakora.misrlinks.com^
 ||yallashoot.id^
+||zalukaj-plus.pl^
 ||zfilmizle.com^

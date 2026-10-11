@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Dating
-! Domains: 546 | Updated: 2026-10-11
+! Domains: 553 | Updated: 2026-10-11
 ! Homepage: https://github.com/MerasusDev/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/dating/all.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -17,6 +17,7 @@
 |ae.escortsbabes.com^
 ||afspraakjes.com^
 |ai.updf.com^
+||alanyaescort.blog^
 ||alemortam.net^
 ||amizadecolorida.com^
 ||arabchat.base44.app^
@@ -106,6 +107,7 @@
 ||chaturro.com^
 ||chatvideo.fun^
 ||chatville.com^
+||cheap-london-escort.com^
 ||chinalovecupid.com^
 ||christiancupid.com^
 ||christianmingle.com^
@@ -125,6 +127,7 @@
 ||cupidmedia.com^
 ||dalechatea.me^
 ||dansksexdating.com^
+||dansksugardating.com^
 ||dardasha.net^
 |delhi.idbf.in^
 |dev-web.sgrbk.com^
@@ -200,6 +203,7 @@
 ||fundacionchatlatino.org^
 ||gabile.net^
 ||gabilesohbet.net^
+||gaymassage-tokyo.com^
 |gb.banana-chat.com^
 ||gelchat.net^
 ||gemidos.tv^
@@ -368,6 +372,7 @@
 ||pakistanichatrooms.com^
 ||pakistanichatrooms.com.pk^
 ||pakistaniescortservices.com^
+||parejasliberales.com^
 |paris.sanslendemain.net^
 ||pasionprepagos.com^
 ||pcmax.jp^
@@ -381,6 +386,7 @@
 ||pof.com^
 ||prepagos.com^
 ||pretoriaescorts.co.za^
+||privehuisdreamgirls.nl^
 |projects.avaza.com^
 ||przeznaczeni.pl^
 ||publi24.ro^
@@ -500,6 +506,7 @@
 ||tinder.com^
 ||tinderprofile.ai^
 ||tokusen-mensesthe.com^
+||tokyo-mensesthe-map.com^
 ||top-sugardating.com^
 ||topescort.com^
 ||topescortitalia.it^

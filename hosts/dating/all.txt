@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Dating
-# Domains: 546 | Updated: 2026-10-11
+# Domains: 553 | Updated: 2026-10-11
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/dating/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -17,6 +17,7 @@
 0.0.0.0 ae.escortsbabes.com
 0.0.0.0 afspraakjes.com
 0.0.0.0 ai.updf.com
+0.0.0.0 alanyaescort.blog
 0.0.0.0 alemortam.net
 0.0.0.0 amizadecolorida.com
 0.0.0.0 arabchat.base44.app
@@ -106,6 +107,7 @@
 0.0.0.0 chaturro.com
 0.0.0.0 chatvideo.fun
 0.0.0.0 chatville.com
+0.0.0.0 cheap-london-escort.com
 0.0.0.0 chinalovecupid.com
 0.0.0.0 christiancupid.com
 0.0.0.0 christianmingle.com
@@ -125,6 +127,7 @@
 0.0.0.0 cupidmedia.com
 0.0.0.0 dalechatea.me
 0.0.0.0 dansksexdating.com
+0.0.0.0 dansksugardating.com
 0.0.0.0 dardasha.net
 0.0.0.0 delhi.idbf.in
 0.0.0.0 dev-web.sgrbk.com
@@ -200,6 +203,7 @@
 0.0.0.0 fundacionchatlatino.org
 0.0.0.0 gabile.net
 0.0.0.0 gabilesohbet.net
+0.0.0.0 gaymassage-tokyo.com
 0.0.0.0 gb.banana-chat.com
 0.0.0.0 gelchat.net
 0.0.0.0 gemidos.tv
@@ -368,6 +372,7 @@
 0.0.0.0 pakistanichatrooms.com
 0.0.0.0 pakistanichatrooms.com.pk
 0.0.0.0 pakistaniescortservices.com
+0.0.0.0 parejasliberales.com
 0.0.0.0 paris.sanslendemain.net
 0.0.0.0 pasionprepagos.com
 0.0.0.0 pcmax.jp
@@ -381,6 +386,7 @@
 0.0.0.0 pof.com
 0.0.0.0 prepagos.com
 0.0.0.0 pretoriaescorts.co.za
+0.0.0.0 privehuisdreamgirls.nl
 0.0.0.0 projects.avaza.com
 0.0.0.0 przeznaczeni.pl
 0.0.0.0 publi24.ro
@@ -500,6 +506,7 @@
 0.0.0.0 tinder.com
 0.0.0.0 tinderprofile.ai
 0.0.0.0 tokusen-mensesthe.com
+0.0.0.0 tokyo-mensesthe-map.com
 0.0.0.0 top-sugardating.com
 0.0.0.0 topescort.com
 0.0.0.0 topescortitalia.it

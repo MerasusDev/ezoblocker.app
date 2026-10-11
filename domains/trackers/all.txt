@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Trackers
-# Domains: 170 | Updated: 2026-10-11
+# Domains: 177 | Updated: 2026-10-11
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/domains/trackers/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -12,6 +12,7 @@ activitystream.com
 advalo.in
 alma-domain.oursprivacy.com
 analytics.usehardal.com
+api.segment.io
 app-whitelabel.usermaven.com
 at-o.net
 attntags.com
@@ -69,6 +70,7 @@ eu.sgtm.space
 everestengagement.com
 external.simpleanalytics.com
 fallback.capiplatform.com
+first-track.org
 flow.askorigin.com
 forwarder.requestmetrics.com
 fwfou.donlgx.net
@@ -112,6 +114,7 @@ redirect522.tagcommander.com
 redirect523.tagcommander.com
 redirect621.tagcommander.com
 redirect891.tagcommander.com
+register.af-sdk.net
 sage-dental.oursprivacy.com
 sanoma-sst.fi
 savvytrack.nl
@@ -135,6 +138,7 @@ sstsimprosys.com
 st-tammany-health-domain.oursprivacy.com
 stape.ai
 stape.at
+stape.be
 stape.cc
 stape.cloud
 stape.co
@@ -149,6 +153,7 @@ stape.ma
 stape.my
 stape.net
 stape.nz
+stape.org
 stape.pm
 stape.pro
 stape.st
@@ -159,11 +164,13 @@ tacoda.net
 taggian.eu
 tags.tiqcdn.com
 tcservercontainers.com
+tenants.signalhost.io
 track.pixelfly.io
 track.trackcombo.com
 tracking-useast.tmbid.com
 trackinghippo.eu
 trytagging.com
+us.i.posthog.com
 us.sgtm.space
 usercentrics-sst.io
 utiq-aws.net

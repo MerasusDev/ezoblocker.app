@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Trackers, cname
-# Domains: 141 | Updated: 2026-10-11
+# Domains: 145 | Updated: 2026-10-11
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/trackers/cname.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -57,6 +57,7 @@
 0.0.0.0 everestengagement.com
 0.0.0.0 external.simpleanalytics.com
 0.0.0.0 fallback.capiplatform.com
+0.0.0.0 first-track.org
 0.0.0.0 flow.askorigin.com
 0.0.0.0 forwarder.requestmetrics.com
 0.0.0.0 gateway.tracklabs.com.br
@@ -110,6 +111,7 @@
 0.0.0.0 st-tammany-health-domain.oursprivacy.com
 0.0.0.0 stape.ai
 0.0.0.0 stape.at
+0.0.0.0 stape.be
 0.0.0.0 stape.cc
 0.0.0.0 stape.cloud
 0.0.0.0 stape.co
@@ -124,6 +126,7 @@
 0.0.0.0 stape.my
 0.0.0.0 stape.net
 0.0.0.0 stape.nz
+0.0.0.0 stape.org
 0.0.0.0 stape.pm
 0.0.0.0 stape.pro
 0.0.0.0 stape.st
@@ -132,6 +135,7 @@
 0.0.0.0 tacoda.net
 0.0.0.0 taggian.eu
 0.0.0.0 tcservercontainers.com
+0.0.0.0 tenants.signalhost.io
 0.0.0.0 track.pixelfly.io
 0.0.0.0 track.trackcombo.com
 0.0.0.0 trackinghippo.eu
