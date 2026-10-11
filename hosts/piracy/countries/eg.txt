@@ -1,21 +1,28 @@
 # Title: EZOBLOCKER Piracy, Egypt (eg)
-# Domains: 16 | Updated: 2026-10-11
+# Domains: 23 | Updated: 2026-10-11
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/piracy/countries/eg.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
+0.0.0.0 alkkoora.live
 0.0.0.0 arabseed.in
 0.0.0.0 arabseed.name
 0.0.0.0 arabseed.show
 0.0.0.0 arabseeds.watch
+0.0.0.0 as.akwam.tube
 0.0.0.0 cima4u.app
 0.0.0.0 cima4u.college
 0.0.0.0 dekoora.store
 0.0.0.0 egybest.co.in
+0.0.0.0 kooora4live.quest
+0.0.0.0 kooora4live.website
+0.0.0.0 koora4live.today
 0.0.0.0 kooralive-koora.live
 0.0.0.0 koorashootnews.com
 0.0.0.0 kooratop.live
+0.0.0.0 kora4live.surf
 0.0.0.0 koraonline.quest
+0.0.0.0 liveekoora.com
 0.0.0.0 livekoora.today
 0.0.0.0 mycima.watch
 0.0.0.0 yallakora.misrlinks.com

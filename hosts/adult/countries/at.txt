@@ -1,11 +1,27 @@
 # Title: EZOBLOCKER Adult, Austria (at)
-# Domains: 5 | Updated: 2026-10-11
+# Domains: 21 | Updated: 2026-10-11
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/adult/countries/at.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
 0.0.0.0 amorelie.at
+0.0.0.0 czerningasse29.at
+0.0.0.0 desirel.at
+0.0.0.0 deutschepornos.tv
+0.0.0.0 eis.at
+0.0.0.0 funstasy.at
+0.0.0.0 gratispornos24.net
+0.0.0.0 liebenswert.at
+0.0.0.0 lovesexshop.at
 0.0.0.0 online-shop.at
+0.0.0.0 pornoklub.com
 0.0.0.0 pornoload.com
+0.0.0.0 pornos2.com
 0.0.0.0 rabattcode.de
+0.0.0.0 romanticdepot.com
+0.0.0.0 sexshop.at
+0.0.0.0 sexshopno1.at
+0.0.0.0 sinful.at
 0.0.0.0 trustedshops.at
+0.0.0.0 venize.de
+0.0.0.0 www.1.1.1.1.urlquery.net

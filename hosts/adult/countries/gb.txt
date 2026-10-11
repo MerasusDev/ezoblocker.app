@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, United Kingdom (gb)
-# Domains: 14 | Updated: 2026-10-11
+# Domains: 20 | Updated: 2026-10-11
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/adult/countries/gb.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -8,11 +8,17 @@
 0.0.0.0 adultshopit.co.uk
 0.0.0.0 annsummers.com
 0.0.0.0 clonezonedirect.co.uk
+0.0.0.0 cloudclimax.co.uk
+0.0.0.0 fanse.co.uk
 0.0.0.0 fetchshop.co.uk
+0.0.0.0 find-and-update.company-information.service.gov.uk
+0.0.0.0 fleshlight.eu
 0.0.0.0 harmonystore.co.uk
+0.0.0.0 leakedzone.org
 0.0.0.0 loveandvibes.co.uk
 0.0.0.0 moodsexshop.co.uk
 0.0.0.0 nicennaughty.co.uk
+0.0.0.0 secretplay.co.uk
 0.0.0.0 sexshopsouthampton.co.uk
 0.0.0.0 sextoys.co.uk
 0.0.0.0 shespot.co.uk

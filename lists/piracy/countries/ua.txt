@@ -1,9 +1,17 @@
 # Title: EZOBLOCKER Piracy, Ukraine (ua)
-# Domains: 11 | Updated: 2026-10-11
+# Domains: 20 | Updated: 2026-10-11
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/lists/piracy/countries/ua.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
+*.filmix.ac
+*.filmix.gg
+*.hdrezka.fi
+*.hdrezka.my
+*.hdrezka.pl
+*.ikinogo.io
+*.kinogo.cc
+*.kinogo.org
 *.kinokrad.ink
 *.kinokrad.my
 *.kinokrad.net
@@ -13,5 +21,6 @@
 *.kinokrads.com
 *.livetv.life
 sportstream365.com.w3snoop.com
+*.streameast.to
 *.uaserials.me
 *.uaserials.vip

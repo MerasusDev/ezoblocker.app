@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Dating, Italy (it)
-# Domains: 8 | Updated: 2026-10-11
+# Domains: 10 | Updated: 2026-10-11
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/dating/countries/it.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -9,6 +9,8 @@
 0.0.0.0 escortforumit.xxx
 0.0.0.0 milano.trovagnocca.com
 0.0.0.0 omegle.life
+0.0.0.0 pandavideochat.com
+0.0.0.0 scambistipercaso.it
 0.0.0.0 topescortitalia.it
 0.0.0.0 webchat.5chat.it
 0.0.0.0 www.contenuti.icribis.com

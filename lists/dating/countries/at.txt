@@ -1,9 +1,15 @@
 # Title: EZOBLOCKER Dating, Austria (at)
-# Domains: 3 | Updated: 2026-10-11
+# Domains: 9 | Updated: 2026-10-11
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/lists/dating/countries/at.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
+austria.escortface.com
 *.austriaescort.at
 new-york.ondate.com
+*.onlinechatcity.com
+*.private-sexkontakte.at
+*.sexkontakte.at
+subdomainfinder.c99.nl
 us.ondate.com
+www.1.1.1.1.urlquery.net

@@ -1,35 +1,52 @@
 # Title: EZOBLOCKER Adult, Vietnam (vn)
-# Domains: 29 | Updated: 2026-10-11
+# Domains: 46 | Updated: 2026-10-11
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/lists/adult/countries/vn.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
+*.baocaosuhanoi.vn
 *.baocaosuhp.com
 *.chuyentinhvn.webflow.io
-*.coreklen.com
+*.cliphot3x.blog
+*.cliphotvn.net
+*.cliphotvnz.cyou
+*.clipphot69.xyz
 *.cumshopsextoy.com
 *.dochoinam.com
 *.dochoitinhducxtoy.com
 *.foxietoy.com
+i.clipviet.blog
+*.javhdvn.org
 *.lovestore.vn
 *.magicmotion.vn
 *.mobiblogtv.online
 *.mytoyvn.com
+*.nam18.vn
 *.oichin.net
 *.rungrung.vn
 s1.sexheo.blog
 *.setishop.com
 *.sexhotviet.com
+*.sexshop18.vn
+*.sextop1vn.click
 *.sextoyeu.com
 *.sextoyin.com
 *.sexviet88.co.uk
 *.sexvietdam.blog
 *.shopadam.vn
+*.shopbaocaosupro.com
+*.shopdochoi.net
+*.shopdochoinguoilondanang.com
 *.shopkiss.vn
+*.shopnguoilon.com.vn
 *.shopsextoy.com.vn
 *.shoptinhai.org
-*.tangthon.com
+*.shoptraitim.com
+*.shopvochong24h.com
+*.snapshop.vn
 *.viet69.be
 *.vintoy.vn
+*.vnsextop1.pro
 *.vntoy.vn
 *.xtoyvietnam.com
+*.zohup.net

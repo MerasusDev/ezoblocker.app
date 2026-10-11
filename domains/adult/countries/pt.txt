@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, Portugal (pt)
-# Domains: 29 | Updated: 2026-10-11
+# Domains: 31 | Updated: 2026-10-11
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/domains/adult/countries/pt.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -8,6 +8,7 @@
 boutiqueluxuria.pt
 control.pt
 cupidosshop.com
+facebelas.com
 fanfindportugal.com
 fogododesejo.pt
 frutoproibido.com
@@ -20,6 +21,7 @@ luxoseroticos.com
 lxsexshop.pt
 milemocoes.com.br
 mistercock.pt
+ooh.enbrevubca.blog
 ousadias.pt
 perolasexshop.pt
 portoxxi.com

@@ -1,12 +1,15 @@
 # Title: EZOBLOCKER Dating, chat rooms and random video chat
-# Domains: 214 | Updated: 2026-10-11
+# Domains: 251 | Updated: 2026-10-11
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/domains/dating/dating-chat.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
 321chat.com
 ai.updf.com
+akordy.kytary.cz
 alemortam.net
+almomaiz.free-sadad.com
+app.chatib.chat
 arabchat.base44.app
 arabchat.mobi
 arabchatting.com
@@ -31,11 +34,13 @@ busohbet.com
 buyuksohbet.com
 camgo.com
 camsurf.com
+career.hyperconnect.com
 cennetim.com
 chat.europnet.org
 chat.gen.tr
 chat.greek-chat.gr
 chat.irc.in.th
+chat.ptnet.org
 chat.romi.ai
 chatalya.com
 chatargentina.com.ar
@@ -47,22 +52,31 @@ chatciyiz.com
 chatciyiz.net
 chatdate.app
 chateagratis.net
+chatealo.chat
 chathispano.com
 chathub.tv
+chatib.us
+chatlady.rei35.com
 chatlatinos.cl
+chatlibertingratuit.fr
 chatonline.pt
+chatpia.jp
 chatrandom.com
 chatrandom.net
 chatroom.nl
 chatroom2000.de
 chatroomcorner.com
+chatrooms.com.pk
 chatrooms.global
 chatrooms.pk
+chatroomspk.com
 chatroulette.com
 chatroulette.ru
 chatspin.com
 chatta.echat.it
+chattanu.com
 chatthaiglobalradio.com
+chatua.com.ua
 chatujme.cz
 chaturro.com
 chatvideo.fun
@@ -72,16 +86,23 @@ coomeet.bitbucket.io
 coomeet.chat
 coomeet.com
 dalechatea.me
+dardasha.com
 dardasha.net
+deincamchat.de
 djdongdoes.djsch.kr
 dostyeri.org
+elchatcam.com
 elchatea.com
 elitask.com
 emeraldchat.com
 eniyichat.com
+enterchatroom.com
+erotik.markt.ch
 esohbet.net
 evinsohbet.com
+f5oob2a6yj592gqy.e-creditreform.si
 faceflow.com
+flingster.com
 flirtchat.ch
 flirtchat.nl
 frageladan.isof.se
@@ -92,15 +113,18 @@ gb.banana-chat.com
 gelchat.net
 geveze.org
 gevezeyeri.com
+giant-stoixima-apg.aestheticon.gr
 greekschat.com
 harbiyiz.org
 harikasohbet.com
 hiperalem.com
 hispano.orixon.org
+honeychat.app
 hossohbet.com
 indiapostgdsonline.cept.gov.in
 irishchat.net
 islamisohbet.com
+juso.2ver.com
 kalbim.net
 kalbiminsesi.net
 kaliteliortam.com
@@ -128,6 +152,7 @@ monkey.app
 muhabbet.org
 muhabbetiniz.net
 myegyptchat.com
+myhoneychat.com
 mynet.bz
 mynetsohbetsitesi.com
 naijachat.com
@@ -148,11 +173,17 @@ omegleweb.io
 omegloo.com
 ometv.chat
 omezy.io
+onlinechatcity.com
+opa.chat-room.gr
+oudevrouwenchat.nl
 pakistanichatrooms.com
 pakistanichatrooms.com.pk
+pakistanichatrooms.pk
+pandavideochat.com
 pinoychat.net
 rakipsizsohbet.net
 randkujemy.pl
+randomchat.com
 randomchat.pnyo.jp
 randomchat.today
 randomchatpro.com
@@ -169,6 +200,8 @@ sesliserce.com
 seslitube.com
 seslivatan.com
 sevgichat.com
+sexchatroom.de
+shada-shatea.hotels-saudi-arabia.com
 shagle.com
 siyahinci.net
 skout.com
@@ -189,11 +222,14 @@ sohbetyeri.net
 spinchat.com
 stnnsh.ivocaruso.it
 strangercam.com
+subdomainfinder.c99.nl
 supermekan.com
 swisschat.org
 talkrand.com
+talkwithstranger.com
 tamsohbet.com
 tchatche.com
+tchatplancul.fr
 thailandchat.net
 tinder.com
 trchat.com
@@ -215,6 +251,7 @@ videochatnl.com
 videochatpt.com
 videochatru.com
 web.chatapropo.ro
+wireclub.com
 yazgulu.net
 zap.struckd.com
 zurna.net

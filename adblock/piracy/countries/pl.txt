@@ -1,14 +1,19 @@
 ! Title: EZOBLOCKER Piracy, Poland (pl)
-! Domains: 8 | Updated: 2026-10-11
+! Domains: 13 | Updated: 2026-10-11
 ! Homepage: https://github.com/MerasusDev/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/piracy/countries/pl.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 ! App: https://ezoblocker.app
+||animesub.info^
 |ekino-tv.sugester.pl^
+||famemma.tv^
+||iptvpolska24.pl^
+||iptvpolska4k.pl^
 |m.kino-sokol.pl^
 ||mecze24.pl^
 ||otakushinden.com^
 ||shinden.eu^
 ||shinden.pl^
+|spolecznosc.payload.pl^
 ||strims.com.pl^
 |www.kino.nowytarg.pl^

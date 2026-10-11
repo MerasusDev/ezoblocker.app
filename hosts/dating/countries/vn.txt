@@ -1,9 +1,14 @@
 # Title: EZOBLOCKER Dating, Vietnam (vn)
-# Domains: 3 | Updated: 2026-10-11
+# Domains: 8 | Updated: 2026-10-11
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/dating/countries/vn.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
+0.0.0.0 ehenho.com
 0.0.0.0 henho8.net
+0.0.0.0 henhonghiemtuc.com
+0.0.0.0 henhoonline.net
+0.0.0.0 henhovn.com
+0.0.0.0 henhovn.forumvi.com
 0.0.0.0 m.ymeet.me
 0.0.0.0 zcheckerviet.vip

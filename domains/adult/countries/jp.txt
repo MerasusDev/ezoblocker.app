@@ -1,10 +1,12 @@
 # Title: EZOBLOCKER Adult, Japan (jp)
-# Domains: 8 | Updated: 2026-10-11
+# Domains: 10 | Updated: 2026-10-11
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/domains/adult/countries/jp.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
 8989usagiya.co.jp
+adultgoods-sale.com
+adultshop-navi.com
 at-usagiya.com
 channel.beep-shop.com
 code.ooaks.co.jp

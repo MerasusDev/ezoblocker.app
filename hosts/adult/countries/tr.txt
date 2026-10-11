@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, Türkiye (tr)
-# Domains: 164 | Updated: 2026-10-11
+# Domains: 160 | Updated: 2026-10-11
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/adult/countries/tr.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -53,7 +53,6 @@
 0.0.0.0 erox.com.tr
 0.0.0.0 escburda.com
 0.0.0.0 escortbursam.com
-0.0.0.0 escortgirls-bern.com
 0.0.0.0 escortizmirkiz.info
 0.0.0.0 escortnews.com
 0.0.0.0 escortnews.info
@@ -97,7 +96,6 @@
 0.0.0.0 lucky-bull.hr
 0.0.0.0 maheirqx31.click
 0.0.0.0 mahremdukkani.com
-0.0.0.0 malaygirlescort.com
 0.0.0.0 malesescorts.com
 0.0.0.0 mallescort.com
 0.0.0.0 markamama.com.tr
@@ -114,7 +112,6 @@
 0.0.0.0 papimlor.site
 0.0.0.0 papyonshop.com
 0.0.0.0 pendikseksshop.com
-0.0.0.0 porno80cd.site
 0.0.0.0 porno900.click
 0.0.0.0 positive-vibrations.hr
 0.0.0.0 pureloveshop.com.tr
@@ -167,4 +164,3 @@
 0.0.0.0 yasakelmam.com
 0.0.0.0 yetiskin.org
 0.0.0.0 yetiskinsohbet.com.tr
-0.0.0.0 zevkdolu35.com

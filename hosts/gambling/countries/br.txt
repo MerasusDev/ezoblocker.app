@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling, Brazil (br)
-# Domains: 4 | Updated: 2026-10-11
+# Domains: 8 | Updated: 2026-10-11
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/gambling/countries/br.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -7,4 +7,8 @@
 0.0.0.0 betwinner.tv
 0.0.0.0 cassinosbrasil.net
 0.0.0.0 erin2017.inpa.gov.br
+0.0.0.0 gda.maceio.al.gov.br
+0.0.0.0 mightytips.biz
+0.0.0.0 natal.diadema.sp.gov.br
 0.0.0.0 portaldecomercializacao.conab.gov.br
+0.0.0.0 portaleducacional.unisanta.br

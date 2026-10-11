@@ -1,15 +1,22 @@
 # Title: EZOBLOCKER Gambling, United Kingdom (gb)
-# Domains: 9 | Updated: 2026-10-11
+# Domains: 16 | Updated: 2026-10-11
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/domains/gambling/countries/gb.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
 5topcasino.co.uk
 casino-apps.net
+casinosuknongamstopgames.co
 matchbook.mx
+mediatornetwork.org
+miracle-casinos.com
+nodepositoffers.co.uk
+nongamstopbookmakers.net
+notongamstopcasinos.co
 spreadex.dk
 stardacasinogb.com
 stardaclub.co.uk
 stargambling.net
 virginbet.co.za
 williamhill.us
+wsmacademy.co.uk

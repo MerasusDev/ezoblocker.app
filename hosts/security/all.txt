@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Security
-# Domains: 13,625 | Updated: 2026-10-11
+# Domains: 13,621 | Updated: 2026-10-11
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/security/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -3665,7 +3665,6 @@
 0.0.0.0 gamingbet99-deposit-10000-pulsa-telkomsel.pages.dev
 0.0.0.0 gamingbet99-deposit-25-ribu-mandiri-bni.pages.dev
 0.0.0.0 gamma.springbig-wallet-3.click
-0.0.0.0 garanti-onayli-kredi.cloud
 0.0.0.0 garantiabanking.com
 0.0.0.0 garantibbva-belastingdienst.ph
 0.0.0.0 garantibbva-glsgroup.com.ph
@@ -5221,7 +5220,6 @@
 0.0.0.0 krakken-login-s.pages.dev
 0.0.0.0 krakken-logn-portfolio-doc.pages.dev
 0.0.0.0 kredi-ingbank.ph
-0.0.0.0 kredimvodafone.ph
 0.0.0.0 krkaen-auth-io-login.pages.dev
 0.0.0.0 krkaen-io-helps-login.pages.dev
 0.0.0.0 krraken-login-ecu.pages.dev
@@ -5863,7 +5861,6 @@
 0.0.0.0 ledger-wallet-x-live-io.pages.dev
 0.0.0.0 ledger-wallett-login.pages.dev
 0.0.0.0 ledger-wardware-wallet.pages.dev
-0.0.0.0 ledger.en-app-wallet.com
 0.0.0.0 ledgercom-o-auths.pages.dev
 0.0.0.0 ledgercom-startt-auths.pages.dev
 0.0.0.0 ledgercom-strt-sso.pages.dev
@@ -13591,7 +13588,6 @@
 0.0.0.0 www.verification.grab5stareatsawards.com
 0.0.0.0 www.verify.investec-id.live
 0.0.0.0 www.verify.online-capitec.com
-0.0.0.0 www.web.ledger.en-app-wallet.com
 0.0.0.0 www.whatsapp.logins.help
 0.0.0.0 www.xfinity-login-comcast.primeirrigation.co.zw
 0.0.0.0 www.youtubepremium.edmontv.xyz

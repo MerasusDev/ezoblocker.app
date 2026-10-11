@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Bypass
-# Domains: 74 | Updated: 2026-10-11
+# Domains: 84 | Updated: 2026-10-11
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/bypass/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -22,12 +22,16 @@
 0.0.0.0 free-proxy-list.net
 0.0.0.0 freeproxy.win
 0.0.0.0 freeproxy.world
+0.0.0.0 freevpn.edu.pl
 0.0.0.0 getunicorn.app
 0.0.0.0 helpcenter.trendlife.com
 0.0.0.0 helpdesk.iupat.org
+0.0.0.0 hideproxy.io
 0.0.0.0 hotspot-shield.ar.softmany.com
 0.0.0.0 insights.streamuktvabroad.com
 0.0.0.0 k-tunnel.net
+0.0.0.0 kbm.slp-contents.com
+0.0.0.0 kproxy-extension.softonic.nl
 0.0.0.0 ktunneli.com
 0.0.0.0 lifestyle.assist-all.co.jp
 0.0.0.0 naijaproxy.com
@@ -42,12 +46,14 @@
 0.0.0.0 proxyviet.org
 0.0.0.0 psiphon.ar.softmany.com
 0.0.0.0 psiphon.com
+0.0.0.0 psiphon.kr.softmany.com
 0.0.0.0 psiphon.sooftware.com
 0.0.0.0 psiphon2.net
 0.0.0.0 px6.net
 0.0.0.0 shadowsocks.au
 0.0.0.0 shadowsocks.com
 0.0.0.0 shield-way.com
+0.0.0.0 siamproxy.com
 0.0.0.0 smartdnsproxy.com
 0.0.0.0 smartproxy.ai
 0.0.0.0 smartproxy.cn
@@ -64,15 +70,19 @@
 0.0.0.0 smartproxy.vn
 0.0.0.0 tools.tracemyip.org
 0.0.0.0 torprojectstatus.org
+0.0.0.0 tunnelbear.ar.softmany.com
 0.0.0.0 ultrasurf-vpn.pages.dev
 0.0.0.0 ultrasurf.ar.softmany.com
 0.0.0.0 ultrasurf.en.softmany.com
 0.0.0.0 ultrasurf.fr.softmany.com
 0.0.0.0 unblock-websites.com
+0.0.0.0 unblockd.info
+0.0.0.0 unblockedgames66.gitlab.io
 0.0.0.0 unblockvideos.com
 0.0.0.0 unblockyoutube.video
 0.0.0.0 v2ray-macos-arm64-v8a.zip
 0.0.0.0 vpn-proxy-master.en.softmany.com
+0.0.0.0 vpngate.4d.workers.dev
 0.0.0.0 websiteunblocker.io
 0.0.0.0 websiteunblocker.net
 0.0.0.0 www93.juarez.gob.mx

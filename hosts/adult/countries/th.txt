@@ -1,11 +1,15 @@
 # Title: EZOBLOCKER Adult, Thailand (th)
-# Domains: 5 | Updated: 2026-10-11
+# Domains: 9 | Updated: 2026-10-11
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/adult/countries/th.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
 0.0.0.0 couplestoythailand.family.blog
+0.0.0.0 dohee-th.com
 0.0.0.0 sextoy4u2.com
 0.0.0.0 sextoythailand.com
+0.0.0.0 siamsextoys.com
 0.0.0.0 siamtenga.com
+0.0.0.0 www.digitalpassport.jisp.com
+0.0.0.0 xn--42c8b7b3an5j.com
 0.0.0.0 xn--5-twf3dr1roa.com

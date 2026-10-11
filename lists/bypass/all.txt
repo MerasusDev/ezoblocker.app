@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Bypass
-# Domains: 74 | Updated: 2026-10-11
+# Domains: 84 | Updated: 2026-10-11
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/lists/bypass/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -22,12 +22,16 @@ discourse.aosus.org
 *.free-proxy-list.net
 *.freeproxy.win
 *.freeproxy.world
+*.freevpn.edu.pl
 *.getunicorn.app
 helpcenter.trendlife.com
 helpdesk.iupat.org
+*.hideproxy.io
 hotspot-shield.ar.softmany.com
 insights.streamuktvabroad.com
 *.k-tunnel.net
+kbm.slp-contents.com
+kproxy-extension.softonic.nl
 *.ktunneli.com
 lifestyle.assist-all.co.jp
 *.naijaproxy.com
@@ -42,12 +46,14 @@ panduan.opendesa.id
 *.proxyviet.org
 psiphon.ar.softmany.com
 *.psiphon.com
+psiphon.kr.softmany.com
 psiphon.sooftware.com
 *.psiphon2.net
 *.px6.net
 *.shadowsocks.au
 *.shadowsocks.com
 *.shield-way.com
+*.siamproxy.com
 *.smartdnsproxy.com
 *.smartproxy.ai
 *.smartproxy.cn
@@ -64,15 +70,19 @@ psiphon.sooftware.com
 *.smartproxy.vn
 tools.tracemyip.org
 *.torprojectstatus.org
+tunnelbear.ar.softmany.com
 *.ultrasurf-vpn.pages.dev
 ultrasurf.ar.softmany.com
 ultrasurf.en.softmany.com
 ultrasurf.fr.softmany.com
 *.unblock-websites.com
+*.unblockd.info
+*.unblockedgames66.gitlab.io
 *.unblockvideos.com
 *.unblockyoutube.video
 *.v2ray-macos-arm64-v8a.zip
 vpn-proxy-master.en.softmany.com
+vpngate.4d.workers.dev
 *.websiteunblocker.io
 *.websiteunblocker.net
 www93.juarez.gob.mx

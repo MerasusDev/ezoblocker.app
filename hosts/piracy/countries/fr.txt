@@ -1,11 +1,13 @@
 # Title: EZOBLOCKER Piracy, France (fr)
-# Domains: 6 | Updated: 2026-10-11
+# Domains: 8 | Updated: 2026-10-11
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/piracy/countries/fr.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
 0.0.0.0 darkino.fr
+0.0.0.0 iptv-abonnement-france.youcan.store
 0.0.0.0 papystreaming.one
+0.0.0.0 planete-warez.net
 0.0.0.0 streamonsport.lat
 0.0.0.0 tirexo.al
 0.0.0.0 voirfilmfr.com

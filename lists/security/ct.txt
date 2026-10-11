@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Security, ct
-# Domains: 13,625 | Updated: 2026-10-11
+# Domains: 13,621 | Updated: 2026-10-11
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/lists/security/ct.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -3665,7 +3665,6 @@ ftp.fedex-delivery-tracking.aiianc.com
 *.gamingbet99-deposit-10000-pulsa-telkomsel.pages.dev
 *.gamingbet99-deposit-25-ribu-mandiri-bni.pages.dev
 gamma.springbig-wallet-3.click
-*.garanti-onayli-kredi.cloud
 *.garantiabanking.com
 *.garantibbva-belastingdienst.ph
 *.garantibbva-glsgroup.com.ph
@@ -5221,7 +5220,6 @@ klik4.garuda188ppd.live
 *.krakken-login-s.pages.dev
 *.krakken-logn-portfolio-doc.pages.dev
 *.kredi-ingbank.ph
-*.kredimvodafone.ph
 *.krkaen-auth-io-login.pages.dev
 *.krkaen-io-helps-login.pages.dev
 *.krraken-login-ecu.pages.dev
@@ -5863,7 +5861,6 @@ layanan-ovo.official-pusatcaree.biz.id
 *.ledger-wallet-x-live-io.pages.dev
 *.ledger-wallett-login.pages.dev
 *.ledger-wardware-wallet.pages.dev
-ledger.en-app-wallet.com
 *.ledgercom-o-auths.pages.dev
 *.ledgercom-startt-auths.pages.dev
 *.ledgercom-strt-sso.pages.dev
@@ -13591,7 +13588,6 @@ www.update-your-payment-details-netflix-com.arvores-e-pessoas.pt
 www.verification.grab5stareatsawards.com
 www.verify.investec-id.live
 www.verify.online-capitec.com
-www.web.ledger.en-app-wallet.com
 www.whatsapp.logins.help
 www.xfinity-login-comcast.primeirrigation.co.zw
 www.youtubepremium.edmontv.xyz

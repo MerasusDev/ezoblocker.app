@@ -1,9 +1,11 @@
 # Title: EZOBLOCKER Dating, Poland (pl)
-# Domains: 3 | Updated: 2026-10-11
+# Domains: 5 | Updated: 2026-10-11
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/dating/countries/pl.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
 0.0.0.0 matrymonialne24.pl
 0.0.0.0 przeznaczeni.pl
+0.0.0.0 randki24.pl
 0.0.0.0 randkujemy.pl
+0.0.0.0 roksa.sx

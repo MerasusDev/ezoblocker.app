@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Adult, France (fr)
-! Domains: 20 | Updated: 2026-10-11
+! Domains: 24 | Updated: 2026-10-11
 ! Homepage: https://github.com/MerasusDev/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/adult/countries/fr.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -8,13 +8,17 @@
 ||babylonloveshop.com^
 ||beurette.land^
 ||bodyhouse.fr^
+||boutique-erotique.fr^
+|chat.europnet.org^
 ||concordelove.fr^
+||deboutonnees.com^
 ||dorcelstore.com^
 ||easytoys.fr^
 ||hypnoze.fr^
 ||jacquieetmichel-contacts.com^
 ||jacquieetmichelstore.com^
 ||laboutiqueduhard.fr^
+||lafrancecoquine.net^
 ||lescapricesdalice.fr^
 ||maison-du-plug.fr^
 ||meilleurduporno.com^

@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, South Africa (za)
-# Domains: 16 | Updated: 2026-10-11
+# Domains: 20 | Updated: 2026-10-11
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/domains/adult/countries/za.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -9,10 +9,14 @@ adultworld.co.za
 adultworld.com.au
 albonishop.com
 cosettes.co.za
+deardesire.co.za
 erotikshop.com.tr
 ladyjane.co.za
 lizzybliss.co.za
 lovecraft.co.za
+lovehoney.co
+lovehoney.net
+lovehoneygroup.com
 luvland.co.za
 matildas.co.za
 moodtime.co.za

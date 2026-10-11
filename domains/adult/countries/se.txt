@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, Sweden (se)
-# Domains: 23 | Updated: 2026-10-11
+# Domains: 25 | Updated: 2026-10-11
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/domains/adult/countries/se.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -11,12 +11,14 @@ erotikguiden.nu
 gavle.cylex.se
 himmelriket.se
 joyme.se
+kondomeriet.se
 lovebuddy.se
 lovestore.se
 lustjakt.com
 lustkarlek.se
 morethanlove.se
 mshop.se
+passionerad.se
 passionerat.se
 porrtube.com
 sexbutiker.se

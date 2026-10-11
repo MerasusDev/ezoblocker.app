@@ -1,19 +1,34 @@
 # Title: EZOBLOCKER Dating, United States (us)
-# Domains: 13 | Updated: 2026-10-11
+# Domains: 28 | Updated: 2026-10-11
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/dating/countries/us.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
+0.0.0.0 2backpage.com
 0.0.0.0 adultfriendfinder.ca
 0.0.0.0 adultfriendfinder.com
 0.0.0.0 adulthookup.com
+0.0.0.0 adultsearch.co.za
+0.0.0.0 adultsearch.com
 0.0.0.0 ashleymadison.com
+0.0.0.0 backpagegals.com
 0.0.0.0 bedpage.cc
 0.0.0.0 bedpage.com
 0.0.0.0 chatville.com
+0.0.0.0 chicago.bonepage.com
+0.0.0.0 cougarlife.com
+0.0.0.0 cougarlife.dating
 0.0.0.0 emeraldchat.com
+0.0.0.0 fargo-moorhead.bonepage.com
+0.0.0.0 fargo.myescort.network
+0.0.0.0 hillsboro-il.virtalog.ru
 0.0.0.0 listcrawler.app
 0.0.0.0 listcrawler.eu
+0.0.0.0 slixa.com
+0.0.0.0 starbackpage.com
 0.0.0.0 sugardaddy.com
 0.0.0.0 swingersclublist.com
 0.0.0.0 swingersplay.com
+0.0.0.0 tryst.link
+0.0.0.0 wichita.myescort.network
+0.0.0.0 yesbackpage.com

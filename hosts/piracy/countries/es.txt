@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy, Spain (es)
-# Domains: 12 | Updated: 2026-10-11
+# Domains: 28 | Updated: 2026-10-11
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/piracy/countries/es.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -10,9 +10,25 @@
 0.0.0.0 dontorrent.blog
 0.0.0.0 elitetorrent.org
 0.0.0.0 elitetorrent.world
+0.0.0.0 enpelisplus.com
+0.0.0.0 gnula.buzz
+0.0.0.0 gnula.forum
+0.0.0.0 gnula.living
+0.0.0.0 gnula.skin
 0.0.0.0 grantorrent.foo
 0.0.0.0 grantorrent.fyi
 0.0.0.0 icuevana3.cam
 0.0.0.0 monoschinos2.net
+0.0.0.0 pelisplus.garden
+0.0.0.0 pelisplus.living
+0.0.0.0 pelisplus.one
+0.0.0.0 pelisplus4k.online
+0.0.0.0 pelisplusvip.com
 0.0.0.0 pirlotv.bar
 0.0.0.0 pirlotv1.live
+0.0.0.0 poseidonhd2.co
+0.0.0.0 repelis.mom
+0.0.0.0 repelis24.bz
+0.0.0.0 repelis24.nz
+0.0.0.0 repelis24.shop
+0.0.0.0 repeliss.live

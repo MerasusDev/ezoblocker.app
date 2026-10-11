@@ -1,13 +1,17 @@
 # Title: EZOBLOCKER Piracy, Japan (jp)
-# Domains: 7 | Updated: 2026-10-11
+# Domains: 11 | Updated: 2026-10-11
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/domains/piracy/countries/jp.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
 9tsu.vip
+a.happydouga.jp
+anitube.pro
 b9dm.org
 b9good.co
 b9good.org
+katei.labo.jp
 lifestyle.assist-all.co.jp
 miotv-live-tv-stream.softonic.jp
+pandora.net
 sp.supercell.jp

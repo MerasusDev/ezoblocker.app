@@ -1,11 +1,25 @@
 # Title: EZOBLOCKER Piracy, United Kingdom (gb)
-# Domains: 5 | Updated: 2026-10-11
+# Domains: 19 | Updated: 2026-10-11
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/lists/piracy/countries/gb.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
 *.123moviesflix.me
+*.aniwatch.co.at
+*.aniwatch.com.bz
+*.aniwatchtv.ro
+*.aniwatchtv.ws
 *.bflix.gold
 *.bflix.mx
+*.eyasflix.com
 *.footybite.com.co
+*.gogoanime.by
+*.gogoanime.or.at
+*.gogoanimepro.org
+*.gogoanimes.dk
+*.myflixer.com.co
+pixpretty.tenorshare.ai
+*.sflix.org
+*.sflixline.com
+video.mediaio.net
 *.vipleague.ro

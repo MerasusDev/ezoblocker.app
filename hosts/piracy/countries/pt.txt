@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy, Portugal (pt)
-# Domains: 6 | Updated: 2026-10-11
+# Domains: 11 | Updated: 2026-10-11
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/piracy/countries/pt.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -8,5 +8,10 @@
 0.0.0.0 btuga.pt
 0.0.0.0 futemax.at
 0.0.0.0 iptv-portugal.youcan.store
+0.0.0.0 iptvportugal.com.pt
+0.0.0.0 megafilmeseserieshd.vip
+0.0.0.0 megafilmeshd.asia
 0.0.0.0 meuiptvportugal.com
+0.0.0.0 tugaiptv.com
+0.0.0.0 tugaiptvbest.net
 0.0.0.0 wareztuga.io

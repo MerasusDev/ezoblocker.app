@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Piracy, United States (us)
-! Domains: 10 | Updated: 2026-10-11
+! Domains: 15 | Updated: 2026-10-11
 ! Homepage: https://github.com/MerasusDev/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/piracy/countries/us.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -7,6 +7,9 @@
 ||123movieputlockers.com^
 ||123moviestub.cc^
 ||123putlockers.me^
+||9anime.com.lv^
+||animepahe.ch^
+||animepahe.ng^
 ||crackstreams.ch^
 ||crackstreams.guru^
 ||isportsurge.ws^
@@ -14,3 +17,5 @@
 ||nbabite.net^
 ||nflbite.is^
 ||nflbites.today^
+||projectfreetvm.lol^
+||viprow.pro^

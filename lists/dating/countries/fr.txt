@@ -1,13 +1,19 @@
 # Title: EZOBLOCKER Dating, France (fr)
-# Domains: 7 | Updated: 2026-10-11
+# Domains: 13 | Updated: 2026-10-11
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/lists/dating/countries/fr.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
 chambery.sanslendemain.net
 chat.europnet.org
+*.chatlibertingratuit.fr
+*.jecontacte.com
 marseille.sanslendemain.net
 *.meetic.fr
+membre.jetunoo.fr
+*.menuplancul.com
 paris.sanslendemain.net
+*.plancul-gratuit.fr
 *.sexfriend.fr
 *.tchatche.com
+*.tchatplancul.fr

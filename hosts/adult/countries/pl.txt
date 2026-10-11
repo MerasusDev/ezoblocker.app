@@ -1,31 +1,46 @@
 # Title: EZOBLOCKER Adult, Poland (pl)
-# Domains: 25 | Updated: 2026-10-11
+# Domains: 40 | Updated: 2026-10-11
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/adult/countries/pl.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
+0.0.0.0 annmarie.pl
 0.0.0.0 byann.pl
 0.0.0.0 centrumerotyki.com.pl
 0.0.0.0 e-marilyn.pl
 0.0.0.0 easytoys.pl
+0.0.0.0 erotic-med.pl
+0.0.0.0 eroticpassion.pl
 0.0.0.0 erozkosz.pl
 0.0.0.0 fanfindpoland.com
 0.0.0.0 frixx.pl
+0.0.0.0 greatstuffy.com
 0.0.0.0 intimiti.pl
+0.0.0.0 intymnosc.pl
 0.0.0.0 lilaw.pl
 0.0.0.0 lovita.pl
 0.0.0.0 makeup.pl
 0.0.0.0 modernlove.pl
 0.0.0.0 obsessive.com
 0.0.0.0 ofpolska.pl
+0.0.0.0 parlamourshop.com
 0.0.0.0 pinkshop.pl
 0.0.0.0 polskieof.pl
+0.0.0.0 pornolik.pl
 0.0.0.0 redarena.pl
+0.0.0.0 redshop24.pl
+0.0.0.0 refform.pl
 0.0.0.0 secretdelivery.pl
 0.0.0.0 secretlover.pl
+0.0.0.0 secretplace.pl
 0.0.0.0 sekrecik.pl
 0.0.0.0 sensu.pl
+0.0.0.0 sexshop.com.pl
+0.0.0.0 sexshop69.pl
+0.0.0.0 sexshoppink.pl
 0.0.0.0 sklep-intymny.pl
 0.0.0.0 sklep-strefaintymna.pl
+0.0.0.0 sklepeuforia.pl
 0.0.0.0 theprive.pl
 0.0.0.0 tulipan.pl
+0.0.0.0 venus.net.pl

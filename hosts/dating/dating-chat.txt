@@ -1,12 +1,15 @@
 # Title: EZOBLOCKER Dating, chat rooms and random video chat
-# Domains: 214 | Updated: 2026-10-11
+# Domains: 251 | Updated: 2026-10-11
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/dating/dating-chat.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
 0.0.0.0 321chat.com
 0.0.0.0 ai.updf.com
+0.0.0.0 akordy.kytary.cz
 0.0.0.0 alemortam.net
+0.0.0.0 almomaiz.free-sadad.com
+0.0.0.0 app.chatib.chat
 0.0.0.0 arabchat.base44.app
 0.0.0.0 arabchat.mobi
 0.0.0.0 arabchatting.com
@@ -31,11 +34,13 @@
 0.0.0.0 buyuksohbet.com
 0.0.0.0 camgo.com
 0.0.0.0 camsurf.com
+0.0.0.0 career.hyperconnect.com
 0.0.0.0 cennetim.com
 0.0.0.0 chat.europnet.org
 0.0.0.0 chat.gen.tr
 0.0.0.0 chat.greek-chat.gr
 0.0.0.0 chat.irc.in.th
+0.0.0.0 chat.ptnet.org
 0.0.0.0 chat.romi.ai
 0.0.0.0 chatalya.com
 0.0.0.0 chatargentina.com.ar
@@ -47,22 +52,31 @@
 0.0.0.0 chatciyiz.net
 0.0.0.0 chatdate.app
 0.0.0.0 chateagratis.net
+0.0.0.0 chatealo.chat
 0.0.0.0 chathispano.com
 0.0.0.0 chathub.tv
+0.0.0.0 chatib.us
+0.0.0.0 chatlady.rei35.com
 0.0.0.0 chatlatinos.cl
+0.0.0.0 chatlibertingratuit.fr
 0.0.0.0 chatonline.pt
+0.0.0.0 chatpia.jp
 0.0.0.0 chatrandom.com
 0.0.0.0 chatrandom.net
 0.0.0.0 chatroom.nl
 0.0.0.0 chatroom2000.de
 0.0.0.0 chatroomcorner.com
+0.0.0.0 chatrooms.com.pk
 0.0.0.0 chatrooms.global
 0.0.0.0 chatrooms.pk
+0.0.0.0 chatroomspk.com
 0.0.0.0 chatroulette.com
 0.0.0.0 chatroulette.ru
 0.0.0.0 chatspin.com
 0.0.0.0 chatta.echat.it
+0.0.0.0 chattanu.com
 0.0.0.0 chatthaiglobalradio.com
+0.0.0.0 chatua.com.ua
 0.0.0.0 chatujme.cz
 0.0.0.0 chaturro.com
 0.0.0.0 chatvideo.fun
@@ -72,16 +86,23 @@
 0.0.0.0 coomeet.chat
 0.0.0.0 coomeet.com
 0.0.0.0 dalechatea.me
+0.0.0.0 dardasha.com
 0.0.0.0 dardasha.net
+0.0.0.0 deincamchat.de
 0.0.0.0 djdongdoes.djsch.kr
 0.0.0.0 dostyeri.org
+0.0.0.0 elchatcam.com
 0.0.0.0 elchatea.com
 0.0.0.0 elitask.com
 0.0.0.0 emeraldchat.com
 0.0.0.0 eniyichat.com
+0.0.0.0 enterchatroom.com
+0.0.0.0 erotik.markt.ch
 0.0.0.0 esohbet.net
 0.0.0.0 evinsohbet.com
+0.0.0.0 f5oob2a6yj592gqy.e-creditreform.si
 0.0.0.0 faceflow.com
+0.0.0.0 flingster.com
 0.0.0.0 flirtchat.ch
 0.0.0.0 flirtchat.nl
 0.0.0.0 frageladan.isof.se
@@ -92,15 +113,18 @@
 0.0.0.0 gelchat.net
 0.0.0.0 geveze.org
 0.0.0.0 gevezeyeri.com
+0.0.0.0 giant-stoixima-apg.aestheticon.gr
 0.0.0.0 greekschat.com
 0.0.0.0 harbiyiz.org
 0.0.0.0 harikasohbet.com
 0.0.0.0 hiperalem.com
 0.0.0.0 hispano.orixon.org
+0.0.0.0 honeychat.app
 0.0.0.0 hossohbet.com
 0.0.0.0 indiapostgdsonline.cept.gov.in
 0.0.0.0 irishchat.net
 0.0.0.0 islamisohbet.com
+0.0.0.0 juso.2ver.com
 0.0.0.0 kalbim.net
 0.0.0.0 kalbiminsesi.net
 0.0.0.0 kaliteliortam.com
@@ -128,6 +152,7 @@
 0.0.0.0 muhabbet.org
 0.0.0.0 muhabbetiniz.net
 0.0.0.0 myegyptchat.com
+0.0.0.0 myhoneychat.com
 0.0.0.0 mynet.bz
 0.0.0.0 mynetsohbetsitesi.com
 0.0.0.0 naijachat.com
@@ -148,11 +173,17 @@
 0.0.0.0 omegloo.com
 0.0.0.0 ometv.chat
 0.0.0.0 omezy.io
+0.0.0.0 onlinechatcity.com
+0.0.0.0 opa.chat-room.gr
+0.0.0.0 oudevrouwenchat.nl
 0.0.0.0 pakistanichatrooms.com
 0.0.0.0 pakistanichatrooms.com.pk
+0.0.0.0 pakistanichatrooms.pk
+0.0.0.0 pandavideochat.com
 0.0.0.0 pinoychat.net
 0.0.0.0 rakipsizsohbet.net
 0.0.0.0 randkujemy.pl
+0.0.0.0 randomchat.com
 0.0.0.0 randomchat.pnyo.jp
 0.0.0.0 randomchat.today
 0.0.0.0 randomchatpro.com
@@ -169,6 +200,8 @@
 0.0.0.0 seslitube.com
 0.0.0.0 seslivatan.com
 0.0.0.0 sevgichat.com
+0.0.0.0 sexchatroom.de
+0.0.0.0 shada-shatea.hotels-saudi-arabia.com
 0.0.0.0 shagle.com
 0.0.0.0 siyahinci.net
 0.0.0.0 skout.com
@@ -189,11 +222,14 @@
 0.0.0.0 spinchat.com
 0.0.0.0 stnnsh.ivocaruso.it
 0.0.0.0 strangercam.com
+0.0.0.0 subdomainfinder.c99.nl
 0.0.0.0 supermekan.com
 0.0.0.0 swisschat.org
 0.0.0.0 talkrand.com
+0.0.0.0 talkwithstranger.com
 0.0.0.0 tamsohbet.com
 0.0.0.0 tchatche.com
+0.0.0.0 tchatplancul.fr
 0.0.0.0 thailandchat.net
 0.0.0.0 tinder.com
 0.0.0.0 trchat.com
@@ -215,6 +251,7 @@
 0.0.0.0 videochatpt.com
 0.0.0.0 videochatru.com
 0.0.0.0 web.chatapropo.ro
+0.0.0.0 wireclub.com
 0.0.0.0 yazgulu.net
 0.0.0.0 zap.struckd.com
 0.0.0.0 zurna.net

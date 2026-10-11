@@ -1,20 +1,26 @@
 ! Title: EZOBLOCKER Adult, South Korea (kr)
-! Domains: 14 | Updated: 2026-10-11
+! Domains: 20 | Updated: 2026-10-11
 ! Homepage: https://github.com/MerasusDev/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/adult/countries/kr.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 ! App: https://ezoblocker.app
 ||bananamall.co.kr^
+||bunnyroom.co.kr^
 ||carlovemall.kr^
 ||freebody.co.kr^
 ||joynjoy.com^
+||jupian.co.kr^
 ||juso.one^
 ||love82.kr^
+|m.sexywoo.co.kr^
 ||nightmall.co.kr^
 |nightmall.linkstory.co.kr^
 ||pinkboxb2b.com^
+||pinkboxshop.com^
+||sexypet.co.kr^
 ||shyman.co.kr^
 ||vavoomshop.co.kr^
+||xn--av19-eh4pq56h.com^
 ||xn--o39an5bf2p1yd8xin3lwgv.com^
 ||xshopkrmall.com^
 ||yadongkorea.app^
