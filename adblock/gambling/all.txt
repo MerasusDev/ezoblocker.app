@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Gambling
-! Domains: 246,122 | Updated: 2026-10-11
+! Domains: 246,126 | Updated: 2026-10-12
 ! Homepage: https://github.com/MerasusDev/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/gambling/all.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -117908,6 +117908,7 @@
 ||jojobet-giris-online.pages.dev^
 ||jojobet-official.com^
 ||jojobet-orijinal-adres.com^
+||jojobet-resmitrgiris.com^
 ||jojobet-tr.com^
 ||jojobet.cc^
 ||jojobet.llc^
@@ -137914,6 +137915,7 @@
 ||mariobet303-1.pages.dev^
 ||mariobet69com-game-trending.pages.dev^
 ||mariobet69com-parlay.pages.dev^
+||mariobetanket.com^
 ||mariobetburda.com^
 ||mariobetgirisi.org^
 ||mariobetguncel.org^
@@ -142634,6 +142636,8 @@
 ||meridianbetsport.me^
 ||meridiancasinope-com.pages.dev^
 ||meritbet-oyun-diyari-top.pages.dev^
+||meritbet0875.com^
+||meritbetgiris2.com^
 ||meritbetgiris2026.com^
 ||meritbetguncelresmiadres.com^
 ||meritbetguncelturkiyeadres.com^

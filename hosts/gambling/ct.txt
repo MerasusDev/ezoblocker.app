@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling, ct
-# Domains: 245,495 | Updated: 2026-10-11
+# Domains: 245,499 | Updated: 2026-10-12
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/gambling/ct.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -117614,6 +117614,7 @@
 0.0.0.0 jojobet-giris-online.pages.dev
 0.0.0.0 jojobet-official.com
 0.0.0.0 jojobet-orijinal-adres.com
+0.0.0.0 jojobet-resmitrgiris.com
 0.0.0.0 jojobet-tr.com
 0.0.0.0 jojobet.cc
 0.0.0.0 jojobet.llc
@@ -137584,6 +137585,7 @@
 0.0.0.0 mariobet303-1.pages.dev
 0.0.0.0 mariobet69com-game-trending.pages.dev
 0.0.0.0 mariobet69com-parlay.pages.dev
+0.0.0.0 mariobetanket.com
 0.0.0.0 mariobetburda.com
 0.0.0.0 mariobetgirisi.org
 0.0.0.0 mariobetguncel.org
@@ -142282,6 +142284,8 @@
 0.0.0.0 meridianbetsport.me
 0.0.0.0 meridiancasinope-com.pages.dev
 0.0.0.0 meritbet-oyun-diyari-top.pages.dev
+0.0.0.0 meritbet0875.com
+0.0.0.0 meritbetgiris2.com
 0.0.0.0 meritbetgiris2026.com
 0.0.0.0 meritbetguncelresmiadres.com
 0.0.0.0 meritbetguncelturkiyeadres.com
