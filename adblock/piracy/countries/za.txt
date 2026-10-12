@@ -1,14 +1,17 @@
 ! Title: EZOBLOCKER Piracy, South Africa (za)
-! Domains: 15 | Updated: 2026-10-12
+! Domains: 19 | Updated: 2026-10-12
 ! Homepage: https://github.com/MerasusDev/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/piracy/countries/za.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 ! App: https://ezoblocker.app
 ||2fmovies.net^
 ||crackstreams.mx^
+||daddylive.pk^
 ||fmoviezs.top^
 ||footybite.soccer^
 ||footybite.vg^
+||freesport.com^
+||freesportscap.com^
 ||gomovieshd.today^
 ||hesgoal.soccer^
 ||primewire-offcial.cyou^
@@ -19,3 +22,4 @@
 ||soap2days.ac^
 ||streameastmirror.com^
 ||streameasttop.com^
+||supersportbet.com^

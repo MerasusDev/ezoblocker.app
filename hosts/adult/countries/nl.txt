@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, Netherlands (nl)
-# Domains: 25 | Updated: 2026-10-12
+# Domains: 30 | Updated: 2026-10-12
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/adult/countries/nl.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -18,9 +18,14 @@
 0.0.0.0 mince.nl
 0.0.0.0 miranda.nl
 0.0.0.0 misssteel.nl
+0.0.0.0 naaktflix.nl
+0.0.0.0 naaktfoto.nl
 0.0.0.0 nachtkastje.nl
 0.0.0.0 nederporn.tv
 0.0.0.0 nooitmeersaai.nl
+0.0.0.0 onlyfansmeiden.nl
+0.0.0.0 onlyfansnederland.nl
+0.0.0.0 onlysense.nl
 0.0.0.0 ontopoflove.nl
 0.0.0.0 openingstijden.nl
 0.0.0.0 pabo.nl

@@ -1,17 +1,21 @@
 # Title: EZOBLOCKER Gambling, Poland (pl)
-# Domains: 14 | Updated: 2026-10-12
+# Domains: 18 | Updated: 2026-10-12
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/lists/gambling/countries/pl.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
 *.betwinner.africa
 fzdn.kasiaslany.pl
+*.grechmoto.pl
 gry-hazardowe-maszyny-piaseczno-hdq.kursoperatora.pl
 *.hoteldebowagora.pl
+*.kasyno-ice.pl
 kasyno-z-wplata-skrill-xae.x-house.pl
 *.kasynoorzel.eu
 mkzc.sorrelhorse.pl
 najlepsze-bitcoin-kasyno-zys.rozejrzyjsie.pl
+*.slotticas.net.pl
+*.slotticasite.pl
 *.top-bukmacherzy.net
 *.tulsasbc.com
 *.vulkan-spiele-casino.net.pl

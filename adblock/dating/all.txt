@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Dating
-! Domains: 660 | Updated: 2026-10-12
+! Domains: 731 | Updated: 2026-10-12
 ! Homepage: https://github.com/MerasusDev/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/dating/all.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -19,6 +19,7 @@
 ||adultwork.com^
 |ae.atlasescorts.com^
 |ae.escortsbabes.com^
+||afrodosug.ru^
 ||afspraakjes.com^
 |ai.updf.com^
 |akordy.kytary.cz^
@@ -26,8 +27,10 @@
 ||alemortam.net^
 |almomaiz.free-sadad.com^
 ||amizadecolorida.com^
+||amp-izmirbayaneskort.pages.dev^
 ||annonce.cz^
 |app.chatib.chat^
+|app.homo.nl^
 |apps.appfollow.io^
 ||arabchat.base44.app^
 ||arabchat.mobi^
@@ -39,16 +42,21 @@
 ||askalemi.net^
 ||askcafe.net^
 ||astrocupid.com^
+|au.banana-chat.com^
+|au.escortsaffair.com^
 |au.escortsbabes.com^
+|au.langtrees.com^
 |austria.escortface.com^
 ||austriaescort.at^
 ||azarlive.com^
+||backpage.cam^
 ||backpagegals.com^
 ||badoo.com^
 ||badoo.com.tr^
 ||badoocdn.com^
 ||bairesgirls.net^
 ||bakirkoyeskort.website^
+|basel.studio-elite.ch^
 |bate-papo.pessoas-legais.com^
 |batepapo.brazink.com.br^
 ||batepapo.net^
@@ -63,6 +71,7 @@
 ||betrouwbaredatingsites.nl^
 ||bharatmatrimony.com^
 ||bharatmatrimony.in^
+|birmingham.chaosads.co.uk^
 ||bizimmekan.name^
 ||blackcupid.com^
 ||blackpeoplemeet.com^
@@ -78,8 +87,11 @@
 ||callescort.org^
 ||cambodiancupid.com^
 ||cambridgeshireescorts.agency^
+||camchat.today^
 ||camgo.com^
+||camsurf.chat^
 ||camsurf.com^
+||camsurf.tv^
 |career.hyperconnect.com^
 |careers.pwd.org^
 ||caribbeancupid.com^
@@ -105,12 +117,16 @@
 ||chateagratis.net^
 ||chatealo.chat^
 ||chathispano.com^
+||chathub.gg^
+||chathub.net^
 ||chathub.tv^
+||chathubapp.com^
 ||chatib.us^
 |chatlady.rei35.com^
 ||chatlatinos.cl^
 ||chatlibertingratuit.fr^
 ||chatonline.pt^
+||chatous.com^
 ||chatpia.jp^
 ||chatrandom.com^
 ||chatrandom.net^
@@ -145,6 +161,7 @@
 ||colombiancupid.com^
 ||commeetment.com^
 ||conejox.com^
+||contactosyencuentros.es^
 |coomeet.apkgold.ae^
 ||coomeet.bitbucket.io^
 ||coomeet.chat^
@@ -152,7 +169,9 @@
 ||coomeet.me^
 ||cougarlife.com^
 ||cougarlife.dating^
+||cs-partnervermittlung.com^
 ||cupidmedia.com^
+||czescort.com^
 ||dalechatea.me^
 ||dansksexdating.com^
 ||dansksugardating.com^
@@ -160,6 +179,7 @@
 ||dardasha.net^
 ||datingsitekiezen.nl^
 ||deincamchat.de^
+||delhi-escorts.club^
 |delhi.idbf.in^
 |dev-web.sgrbk.com^
 ||dhakavipescort.com^
@@ -167,11 +187,14 @@
 ||dogging-bh.top^
 ||dominicancupid.com^
 ||dostyeri.org^
+||dosugcz-ru.ru^
+||dosugmebel.ru^
 |dubai.escort-modern.vip^
 ||dubaiescortscats.com^
 ||dubaiescortspage.com^
 ||dubaiescortsstars.com^
 ||dubaiescortstars.com^
+|ec.diatrend.com^
 ||ecift.com^
 ||efsaneescort67.shop^
 ||eharmony.ca^
@@ -184,6 +207,7 @@
 ||elitask.com^
 ||elitecupid.com^
 ||eliteescortamsterdam.com^
+||eliteescortsaustralia.au^
 ||elitepartner.de^
 ||elitesingles.com^
 ||elitislamievlilik.com^
@@ -191,6 +215,7 @@
 ||emiratescort.com^
 ||eniyichat.com^
 ||enterchatroom.com^
+||erotickychat.net^
 |erotik.markt.ch^
 ||escort-argentina.com^
 ||escort-directory.eu^
@@ -200,11 +225,17 @@
 ||escort.club^
 ||escort.com.ua^
 |escortathens.webnode.gr^
+||escortbureauantwerpen.be^
 ||escortbureaus.nl^
 ||escortdirectory.com^
+||escorteantwerpen.be^
+||escortfans.com^
 ||escortforum.be^
+||escortforum.cz^
 ||escortforumit.xxx^
+||escorthub.org^
 ||escortigramreviews.com^
+||escortlady-hannover.de^
 ||escortnews.be^
 ||escortnews.com^
 ||escortnews.eu^
@@ -243,8 +274,11 @@
 ||flirtchat.ch^
 ||flirtchat.nl^
 |frageladan.isof.se^
+|free.adultxcamz.com^
 ||freecam.chat^
 ||friendschatroom.net^
+|fruzo.apkpure.co.in^
+||fruzo.com^
 ||fundacionchatlatino.org^
 ||gabile.net^
 ||gabilesohbet.net^
@@ -270,6 +304,7 @@
 ||grindr.com^
 ||growlr.com^
 ||gulfdate.com^
+|gupshupzone.chatovod.com^
 ||happn.com^
 ||happymail.co.jp^
 ||happymail.jp^
@@ -288,6 +323,7 @@
 ||hinge.co^
 ||hiperalem.com^
 |hispano.orixon.org^
+|hobart.bonepage.com^
 ||honeychat.app^
 ||hongkongcupid.com^
 ||hossohbet.com^
@@ -331,6 +367,7 @@
 ||koyusohbet.com.tr^
 ||kralsohbet.com^
 ||kralsohbet.net^
+||lablue.de^
 ||laflamak.com^
 ||latamdate.com^
 ||latinamericancupid.com^
@@ -343,8 +380,10 @@
 ||listcrawler.app^
 ||listcrawler.eu^
 |live.ajman.ac.ae^
+|livechat.sex-czech.cz^
 ||locanto.com.mx^
 ||locanto.ie^
+||locanto.space^
 |login-sugarbook.rivernotebook.com^
 ||loveplanet.ru^
 ||lovoo.com^
@@ -352,6 +391,8 @@
 |m.dreamersforum.nl^
 |m.flirtkontakt.cz^
 |m.ghidul.ro^
+|m.relaxchile.cl^
+|m.xlist.gr^
 |m.ymeet.me^
 |magaseekcm.conohawing.com^
 |malaysia.escortface.com^
@@ -404,9 +445,12 @@
 ||nasipse.com^
 ||nastyhookups.com^
 ||nazfm.net^
+||nearbyhookups.co.uk^
 |new-york.ondate.com^
+|ng.atlasescorts.com^
 ||nigeriandating.com^
 ||nikahplus.com^
+||notten-papakatsu.jp^
 |nove.tapky.info^
 ||okcupid.com^
 |old.coacha.com^
@@ -451,6 +495,8 @@
 ||pasionprepagos.com^
 ||pcmax.jp^
 ||pembepanjur.com^
+||perfectescort.xyz^
+|perth.5escorts.com^
 ||photoprepagos.com^
 ||pijatpanggilanpekanbaru.com^
 ||pinalove.com^
@@ -462,11 +508,13 @@
 ||prepagos.com^
 ||pretoriaescorts.co.za^
 ||private-sexkontakte.at^
+||privategirls.com.au^
 ||privehuisdreamgirls.nl^
 |projects.avaza.com^
 ||przeznaczeni.pl^
 ||publi24.ro^
 |puk.oobben.com^
+||pussy-laufhaus.at^
 ||puticlubs.com^
 ||quackquack.in^
 ||rakipsizsohbet.net^
@@ -476,12 +524,15 @@
 |randomchat.pnyo.jp^
 ||randomchat.today^
 ||randomchatpro.com^
+||randomvideochat.me^
 |ras-al-khaimah-rak-call-girl-service.gator.site^
 |real.encuentros.net^
+|recenze.tapky.info^
 ||redhotpie.com.au^
 ||redhotpie.me^
 ||redlights.be^
 ||redlights.nl^
+||roksa.priv.pl^
 ||roksa.sx^
 ||romeescortgirls.com^
 ||roomchat.site^
@@ -494,7 +545,9 @@
 ||scarletblue.com.au^
 ||scruff.com^
 ||seeking.com^
+||seitensprung-fibel.de^
 ||seitensprung-ratgeber.de^
+|servicii.primariatm.ro^
 ||seslichat.com^
 ||seslidunya.com^
 ||seslimirc.com^
@@ -505,10 +558,14 @@
 ||seslivatan.com^
 ||sevgichat.com^
 ||sexabudhabi.com^
+||sexchat.ru^
 ||sexchatroom.de^
+|sexchatttttt.chatovod.com^
 ||sexfriend.fr^
+||sexintim.ru^
 ||sexjobs.nl^
 ||sexkontakte.at^
+||sexopretoria.com^
 ||sextreffen69.org^
 ||shaadi.com^
 |shada-shatea.hotels-saudi-arabia.com^
@@ -565,12 +622,15 @@
 ||starbackpage.com^
 |stnnsh.ivocaruso.it^
 ||strangercam.com^
+||strangerline.io^
+||stronyrandkowe.pl^
 |subdomainfinder.c99.nl^
 ||sugarbook.com^
 ||sugarbookapp.com^
 ||sugarbookmy.com^
 ||sugardaddy.co.uk^
 ||sugardaddy.com^
+||sugardaddy.pl^
 ||sugardaddybrazil.com^
 ||sugardaddymanchester.co.uk^
 ||sugardaddyplanet.com^
@@ -599,7 +659,11 @@
 ||thaiflirting.com^
 ||thaifriendly.com^
 ||thailandchat.net^
+||thairoom.ca^
+||thaitalkai.com^
+||thaitalkforex.com^
 ||thescortdirectory.com^
+||timbanvn.com^
 ||tinder.com^
 ||tinderprofile.ai^
 ||tokusen-mensesthe.com^
@@ -613,7 +677,9 @@
 ||trmirc.net^
 ||trsohbet.com^
 ||trulymadly.com^
+||tryst.group^
 ||tryst.link^
+||trystagency.com^
 ||turkchat.com^
 ||turkchat.tc^
 ||turkchatfm.com^
@@ -633,6 +699,7 @@
 ||ukrprostitutki.com^
 |urdu.chat.org.in^
 |us.ondate.com^
+||via-escort.ru^
 ||vialetescortservice.nl^
 ||videochatar.com^
 ||videochatcolombia.com^
@@ -651,12 +718,16 @@
 ||whatsyourprice.com^
 |wichita.myescort.network^
 ||wireclub.com^
+|wollongong.bonepage.com^
 |www.1.1.1.1.urlquery.net^
 |www.agro.basf.cz^
 |www.contenuti.icribis.com^
 |www.es.adopte.app^
+|www.ogloszenia.nowy-sacz.pl^
 ||yazgulu.net^
 ||yesbackpage.com^
+||youbride.jp^
+|yozm.wishket.com^
 |za.atlasescorts.com^
 |zap.struckd.com^
 ||zcheckerviet.vip^

@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, Malaysia (my)
-# Domains: 15 | Updated: 2026-10-12
+# Domains: 16 | Updated: 2026-10-12
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/domains/adult/countries/my.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -12,6 +12,7 @@ luvshop.onpay.my
 mixsextoy.com
 mysexshop.eu
 playful2night.com
+pornmk.com
 secretafterdark.com
 sex-toys.bg
 sexshop2000.uk

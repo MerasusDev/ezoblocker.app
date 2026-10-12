@@ -1,15 +1,20 @@
 ! Title: EZOBLOCKER Gambling, Italy (it)
-! Domains: 9 | Updated: 2026-10-12
+! Domains: 14 | Updated: 2026-10-12
 ! Homepage: https://github.com/MerasusDev/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/gambling/countries/it.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 ! App: https://ezoblocker.app
+||bestbettingcasinos.com^
 ||bestlaheadshots.com^
 ||casadelcostume.com^
 |labmunicipal.campinas.sp.gov.br^
 ||mirror-urls.com^
 ||mommynotesblogs.com^
+||mondevert.it^
 ||mostbet-lk.co^
 ||mostbookie.com^
 ||pinupdatabase.com^
 ||pinuppolestudio.com^
+||slotyi.com^
+||vavada-ita.com^
+||vavadaitaly.it^

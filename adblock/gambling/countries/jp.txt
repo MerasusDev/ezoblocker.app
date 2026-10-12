@@ -1,11 +1,13 @@
 ! Title: EZOBLOCKER Gambling, Japan (jp)
-! Domains: 14 | Updated: 2026-10-12
+! Domains: 16 | Updated: 2026-10-12
 ! Homepage: https://github.com/MerasusDev/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/gambling/countries/jp.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 ! App: https://ezoblocker.app
+||bitgirls.io^
 ||casino-tengoku.com^
 ||casino-winnersclub.com^
+||casinodays-japan7.com^
 ||casinohex.jp^
 ||casinoonlinejapan.jp^
 ||esportstars.io^

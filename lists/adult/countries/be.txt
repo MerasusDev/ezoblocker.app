@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, Belgium (be)
-# Domains: 9 | Updated: 2026-10-12
+# Domains: 27 | Updated: 2026-10-12
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/lists/adult/countries/be.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -8,8 +8,26 @@ annuaire-entreprises.data.gouv.fr
 *.ballsonline.co.uk
 *.boozyshop.be
 *.charnel-club.be
+*.cocolamar.be
+*.desirel.be
 *.dorcel-b2b.com
 *.dorcel-store.com
+*.erotiek-en-seks.be
 *.fantasmesecret.be
 *.klantcontact.nl
+*.lextase.be
+*.lovelysecret.be
+*.notino.be
+*.orchidtoys.com
+*.pabo.be
+*.sensationsshop.be
+*.sensdessusdessous.be
+*.sex.vlaanderen
+*.sexchatroom.be
+*.sinful.be
 *.trustedshops.nl
+*.webcam-sex.nl
+*.webcam.vlaanderen
+*.webxcams.eu
+*.willie.be
+*.xtremeliege.be

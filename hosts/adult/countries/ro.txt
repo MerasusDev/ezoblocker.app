@@ -1,15 +1,17 @@
 # Title: EZOBLOCKER Adult, Romania (ro)
-# Domains: 25 | Updated: 2026-10-12
+# Domains: 28 | Updated: 2026-10-12
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/adult/countries/ro.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
 0.0.0.0 4love.ro
+0.0.0.0 adultstore.ro
 0.0.0.0 amsterdamsexshop.ro
 0.0.0.0 aventurierotice.ro
 0.0.0.0 desirel.ro
 0.0.0.0 domnisoare.ro
 0.0.0.0 erotic-shop.ro
+0.0.0.0 erotic24.ro
 0.0.0.0 eroticshop.ro
 0.0.0.0 fantezie.ro
 0.0.0.0 intimshop.ro
@@ -18,6 +20,7 @@
 0.0.0.0 magazindex.ro
 0.0.0.0 magazinuldesah.ro
 0.0.0.0 myprivatesexshop.ro
+0.0.0.0 netu.ro
 0.0.0.0 pornoromania.3xforum.ro
 0.0.0.0 red-life.ro
 0.0.0.0 sabora.ro

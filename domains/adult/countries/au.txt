@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, Australia (au)
-# Domains: 15 | Updated: 2026-10-12
+# Domains: 31 | Updated: 2026-10-12
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/domains/adult/countries/au.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -7,15 +7,31 @@
 adultmegastore.com.au
 adulttoystore.com.au
 aussieamateurs.com.au
+aussiebabes.net.au
 aussiecams.com.au
+blackknighterotica.com.au
 cherrybanana.com.au
+cloudblvd.com.au
 clubx.com.au
 danishblue.com.au
 dollsdownunder.com
+erosadultboutique.com
+high-tide.com.au
+iloveboutique.com.au
+itsnormal.com
+joujou.com.au
+katthelabel.com
+loveaffairboutique.com.au
 lovehoney.com.au
 nikkidarling.biz
+passionfruitshop.com.au
 pleasurechest.com.au
+randyfox.com.au
+redlightaustralia.com
 sexyland.com.au
 smokenmirror.co.uk
+thehotspot.com.au
+victoriassecret.com.au
+vushstimulation.com
 wildsecrets.com.au
 wildsecretslingerie.com.au

@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Trackers, cname
-! Domains: 145 | Updated: 2026-10-12
+! Domains: 148 | Updated: 2026-10-12
 ! Homepage: https://github.com/MerasusDev/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/trackers/cname.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -78,6 +78,7 @@
 ||package.leadjourney.io^
 ||phoenix-childrens-domain.oursprivacy.com^
 ||pl02.prolitteris.2cnt.net^
+||pragtag.com^
 ||redirect271.tagcommander.com^
 ||redirect341.tagcommander.com^
 ||redirect342.tagcommander.com^
@@ -122,6 +123,7 @@
 ||stape.im^
 ||stape.info^
 ||stape.io^
+||stape.ltd^
 ||stape.ma^
 ||stape.my^
 ||stape.net^
@@ -129,6 +131,7 @@
 ||stape.org^
 ||stape.pm^
 ||stape.pro^
+||stape.pw^
 ||stape.st^
 ||stape.vip^
 ||t.servero.io^

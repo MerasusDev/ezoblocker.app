@@ -1,15 +1,18 @@
 # Title: EZOBLOCKER Dating, Belgium (be)
-# Domains: 18 | Updated: 2026-10-12
+# Domains: 21 | Updated: 2026-10-12
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/dating/countries/be.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
 0.0.0.0 adultforum.co.nz
 0.0.0.0 afspraakjes.com
+0.0.0.0 camsurf.chat
 0.0.0.0 chatrandom.com
 0.0.0.0 escort-directory.eu
 0.0.0.0 escort-directory.nl
+0.0.0.0 escortbureauantwerpen.be
 0.0.0.0 escortdirectory.com
+0.0.0.0 escorteantwerpen.be
 0.0.0.0 escortforum.be
 0.0.0.0 escortnews.be
 0.0.0.0 eurogirlsescort.com

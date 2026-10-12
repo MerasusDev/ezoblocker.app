@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy, Australia (au)
-# Domains: 6 | Updated: 2026-10-12
+# Domains: 11 | Updated: 2026-10-12
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/piracy/countries/au.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -7,6 +7,11 @@
 0.0.0.0 aussieiptv.com
 0.0.0.0 dev-forms-engine-api.brisbane.qld.gov.au
 0.0.0.0 getoziptv.com
+0.0.0.0 gogoanimes.watch
 0.0.0.0 iptvaustralia.app
 0.0.0.0 iptvaustralia.com.au
+0.0.0.0 kissanime-offcial.cyou
+0.0.0.0 kissanime.com.cv
+0.0.0.0 kissanime.quest
+0.0.0.0 myvipbox.com
 0.0.0.0 oziptv.com

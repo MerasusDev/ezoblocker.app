@@ -1,14 +1,19 @@
 # Title: EZOBLOCKER Adult, Philippines (ph)
-# Domains: 8 | Updated: 2026-10-12
+# Domains: 13 | Updated: 2026-10-12
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/adult/countries/ph.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
 0.0.0.0 kinkly.com
 0.0.0.0 kinklyapp.com
+0.0.0.0 midoko.ph
 0.0.0.0 mysensualsecrets.com
 0.0.0.0 pinayflix.blog
 0.0.0.0 pinayflix.gl
+0.0.0.0 pinkbunny.ph
 0.0.0.0 pleasurechestphilly.com
+0.0.0.0 pleasurehub.app
 0.0.0.0 pleasureplace.com.ph
+0.0.0.0 pleasureshop.com.ph
 0.0.0.0 sensualsecrets.com.co
+0.0.0.0 shopilya.com

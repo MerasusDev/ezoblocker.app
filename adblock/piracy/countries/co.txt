@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Piracy, Colombia (co)
-! Domains: 14 | Updated: 2026-10-12
+! Domains: 17 | Updated: 2026-10-12
 ! Homepage: https://github.com/MerasusDev/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/piracy/countries/co.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -10,6 +10,8 @@
 ||futbolete.com^
 ||futbollibre.kim^
 ||futbollibreperu.org^
+||pelisplus3.town^
+||pelisplushd3.com^
 ||pirlotv.red^
 ||pirlotv.win^
 ||pirlotvv.org^
@@ -18,3 +20,4 @@
 ||tarjetarojaonline.info^
 ||tarjetarojaonline.pro^
 ||tarjetarojatv.mobi^
+|tour.gra.uk.com^

@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Dating
-# Domains: 660 | Updated: 2026-10-12
+# Domains: 731 | Updated: 2026-10-12
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/dating/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -19,6 +19,7 @@
 0.0.0.0 adultwork.com
 0.0.0.0 ae.atlasescorts.com
 0.0.0.0 ae.escortsbabes.com
+0.0.0.0 afrodosug.ru
 0.0.0.0 afspraakjes.com
 0.0.0.0 ai.updf.com
 0.0.0.0 akordy.kytary.cz
@@ -26,8 +27,10 @@
 0.0.0.0 alemortam.net
 0.0.0.0 almomaiz.free-sadad.com
 0.0.0.0 amizadecolorida.com
+0.0.0.0 amp-izmirbayaneskort.pages.dev
 0.0.0.0 annonce.cz
 0.0.0.0 app.chatib.chat
+0.0.0.0 app.homo.nl
 0.0.0.0 apps.appfollow.io
 0.0.0.0 arabchat.base44.app
 0.0.0.0 arabchat.mobi
@@ -39,16 +42,21 @@
 0.0.0.0 askalemi.net
 0.0.0.0 askcafe.net
 0.0.0.0 astrocupid.com
+0.0.0.0 au.banana-chat.com
+0.0.0.0 au.escortsaffair.com
 0.0.0.0 au.escortsbabes.com
+0.0.0.0 au.langtrees.com
 0.0.0.0 austria.escortface.com
 0.0.0.0 austriaescort.at
 0.0.0.0 azarlive.com
+0.0.0.0 backpage.cam
 0.0.0.0 backpagegals.com
 0.0.0.0 badoo.com
 0.0.0.0 badoo.com.tr
 0.0.0.0 badoocdn.com
 0.0.0.0 bairesgirls.net
 0.0.0.0 bakirkoyeskort.website
+0.0.0.0 basel.studio-elite.ch
 0.0.0.0 bate-papo.pessoas-legais.com
 0.0.0.0 batepapo.brazink.com.br
 0.0.0.0 batepapo.net
@@ -63,6 +71,7 @@
 0.0.0.0 betrouwbaredatingsites.nl
 0.0.0.0 bharatmatrimony.com
 0.0.0.0 bharatmatrimony.in
+0.0.0.0 birmingham.chaosads.co.uk
 0.0.0.0 bizimmekan.name
 0.0.0.0 blackcupid.com
 0.0.0.0 blackpeoplemeet.com
@@ -78,8 +87,11 @@
 0.0.0.0 callescort.org
 0.0.0.0 cambodiancupid.com
 0.0.0.0 cambridgeshireescorts.agency
+0.0.0.0 camchat.today
 0.0.0.0 camgo.com
+0.0.0.0 camsurf.chat
 0.0.0.0 camsurf.com
+0.0.0.0 camsurf.tv
 0.0.0.0 career.hyperconnect.com
 0.0.0.0 careers.pwd.org
 0.0.0.0 caribbeancupid.com
@@ -105,12 +117,16 @@
 0.0.0.0 chateagratis.net
 0.0.0.0 chatealo.chat
 0.0.0.0 chathispano.com
+0.0.0.0 chathub.gg
+0.0.0.0 chathub.net
 0.0.0.0 chathub.tv
+0.0.0.0 chathubapp.com
 0.0.0.0 chatib.us
 0.0.0.0 chatlady.rei35.com
 0.0.0.0 chatlatinos.cl
 0.0.0.0 chatlibertingratuit.fr
 0.0.0.0 chatonline.pt
+0.0.0.0 chatous.com
 0.0.0.0 chatpia.jp
 0.0.0.0 chatrandom.com
 0.0.0.0 chatrandom.net
@@ -145,6 +161,7 @@
 0.0.0.0 colombiancupid.com
 0.0.0.0 commeetment.com
 0.0.0.0 conejox.com
+0.0.0.0 contactosyencuentros.es
 0.0.0.0 coomeet.apkgold.ae
 0.0.0.0 coomeet.bitbucket.io
 0.0.0.0 coomeet.chat
@@ -152,7 +169,9 @@
 0.0.0.0 coomeet.me
 0.0.0.0 cougarlife.com
 0.0.0.0 cougarlife.dating
+0.0.0.0 cs-partnervermittlung.com
 0.0.0.0 cupidmedia.com
+0.0.0.0 czescort.com
 0.0.0.0 dalechatea.me
 0.0.0.0 dansksexdating.com
 0.0.0.0 dansksugardating.com
@@ -160,6 +179,7 @@
 0.0.0.0 dardasha.net
 0.0.0.0 datingsitekiezen.nl
 0.0.0.0 deincamchat.de
+0.0.0.0 delhi-escorts.club
 0.0.0.0 delhi.idbf.in
 0.0.0.0 dev-web.sgrbk.com
 0.0.0.0 dhakavipescort.com
@@ -167,11 +187,14 @@
 0.0.0.0 dogging-bh.top
 0.0.0.0 dominicancupid.com
 0.0.0.0 dostyeri.org
+0.0.0.0 dosugcz-ru.ru
+0.0.0.0 dosugmebel.ru
 0.0.0.0 dubai.escort-modern.vip
 0.0.0.0 dubaiescortscats.com
 0.0.0.0 dubaiescortspage.com
 0.0.0.0 dubaiescortsstars.com
 0.0.0.0 dubaiescortstars.com
+0.0.0.0 ec.diatrend.com
 0.0.0.0 ecift.com
 0.0.0.0 efsaneescort67.shop
 0.0.0.0 eharmony.ca
@@ -184,6 +207,7 @@
 0.0.0.0 elitask.com
 0.0.0.0 elitecupid.com
 0.0.0.0 eliteescortamsterdam.com
+0.0.0.0 eliteescortsaustralia.au
 0.0.0.0 elitepartner.de
 0.0.0.0 elitesingles.com
 0.0.0.0 elitislamievlilik.com
@@ -191,6 +215,7 @@
 0.0.0.0 emiratescort.com
 0.0.0.0 eniyichat.com
 0.0.0.0 enterchatroom.com
+0.0.0.0 erotickychat.net
 0.0.0.0 erotik.markt.ch
 0.0.0.0 escort-argentina.com
 0.0.0.0 escort-directory.eu
@@ -200,11 +225,17 @@
 0.0.0.0 escort.club
 0.0.0.0 escort.com.ua
 0.0.0.0 escortathens.webnode.gr
+0.0.0.0 escortbureauantwerpen.be
 0.0.0.0 escortbureaus.nl
 0.0.0.0 escortdirectory.com
+0.0.0.0 escorteantwerpen.be
+0.0.0.0 escortfans.com
 0.0.0.0 escortforum.be
+0.0.0.0 escortforum.cz
 0.0.0.0 escortforumit.xxx
+0.0.0.0 escorthub.org
 0.0.0.0 escortigramreviews.com
+0.0.0.0 escortlady-hannover.de
 0.0.0.0 escortnews.be
 0.0.0.0 escortnews.com
 0.0.0.0 escortnews.eu
@@ -243,8 +274,11 @@
 0.0.0.0 flirtchat.ch
 0.0.0.0 flirtchat.nl
 0.0.0.0 frageladan.isof.se
+0.0.0.0 free.adultxcamz.com
 0.0.0.0 freecam.chat
 0.0.0.0 friendschatroom.net
+0.0.0.0 fruzo.apkpure.co.in
+0.0.0.0 fruzo.com
 0.0.0.0 fundacionchatlatino.org
 0.0.0.0 gabile.net
 0.0.0.0 gabilesohbet.net
@@ -270,6 +304,7 @@
 0.0.0.0 grindr.com
 0.0.0.0 growlr.com
 0.0.0.0 gulfdate.com
+0.0.0.0 gupshupzone.chatovod.com
 0.0.0.0 happn.com
 0.0.0.0 happymail.co.jp
 0.0.0.0 happymail.jp
@@ -288,6 +323,7 @@
 0.0.0.0 hinge.co
 0.0.0.0 hiperalem.com
 0.0.0.0 hispano.orixon.org
+0.0.0.0 hobart.bonepage.com
 0.0.0.0 honeychat.app
 0.0.0.0 hongkongcupid.com
 0.0.0.0 hossohbet.com
@@ -331,6 +367,7 @@
 0.0.0.0 koyusohbet.com.tr
 0.0.0.0 kralsohbet.com
 0.0.0.0 kralsohbet.net
+0.0.0.0 lablue.de
 0.0.0.0 laflamak.com
 0.0.0.0 latamdate.com
 0.0.0.0 latinamericancupid.com
@@ -343,8 +380,10 @@
 0.0.0.0 listcrawler.app
 0.0.0.0 listcrawler.eu
 0.0.0.0 live.ajman.ac.ae
+0.0.0.0 livechat.sex-czech.cz
 0.0.0.0 locanto.com.mx
 0.0.0.0 locanto.ie
+0.0.0.0 locanto.space
 0.0.0.0 login-sugarbook.rivernotebook.com
 0.0.0.0 loveplanet.ru
 0.0.0.0 lovoo.com
@@ -352,6 +391,8 @@
 0.0.0.0 m.dreamersforum.nl
 0.0.0.0 m.flirtkontakt.cz
 0.0.0.0 m.ghidul.ro
+0.0.0.0 m.relaxchile.cl
+0.0.0.0 m.xlist.gr
 0.0.0.0 m.ymeet.me
 0.0.0.0 magaseekcm.conohawing.com
 0.0.0.0 malaysia.escortface.com
@@ -404,9 +445,12 @@
 0.0.0.0 nasipse.com
 0.0.0.0 nastyhookups.com
 0.0.0.0 nazfm.net
+0.0.0.0 nearbyhookups.co.uk
 0.0.0.0 new-york.ondate.com
+0.0.0.0 ng.atlasescorts.com
 0.0.0.0 nigeriandating.com
 0.0.0.0 nikahplus.com
+0.0.0.0 notten-papakatsu.jp
 0.0.0.0 nove.tapky.info
 0.0.0.0 okcupid.com
 0.0.0.0 old.coacha.com
@@ -451,6 +495,8 @@
 0.0.0.0 pasionprepagos.com
 0.0.0.0 pcmax.jp
 0.0.0.0 pembepanjur.com
+0.0.0.0 perfectescort.xyz
+0.0.0.0 perth.5escorts.com
 0.0.0.0 photoprepagos.com
 0.0.0.0 pijatpanggilanpekanbaru.com
 0.0.0.0 pinalove.com
@@ -462,11 +508,13 @@
 0.0.0.0 prepagos.com
 0.0.0.0 pretoriaescorts.co.za
 0.0.0.0 private-sexkontakte.at
+0.0.0.0 privategirls.com.au
 0.0.0.0 privehuisdreamgirls.nl
 0.0.0.0 projects.avaza.com
 0.0.0.0 przeznaczeni.pl
 0.0.0.0 publi24.ro
 0.0.0.0 puk.oobben.com
+0.0.0.0 pussy-laufhaus.at
 0.0.0.0 puticlubs.com
 0.0.0.0 quackquack.in
 0.0.0.0 rakipsizsohbet.net
@@ -476,12 +524,15 @@
 0.0.0.0 randomchat.pnyo.jp
 0.0.0.0 randomchat.today
 0.0.0.0 randomchatpro.com
+0.0.0.0 randomvideochat.me
 0.0.0.0 ras-al-khaimah-rak-call-girl-service.gator.site
 0.0.0.0 real.encuentros.net
+0.0.0.0 recenze.tapky.info
 0.0.0.0 redhotpie.com.au
 0.0.0.0 redhotpie.me
 0.0.0.0 redlights.be
 0.0.0.0 redlights.nl
+0.0.0.0 roksa.priv.pl
 0.0.0.0 roksa.sx
 0.0.0.0 romeescortgirls.com
 0.0.0.0 roomchat.site
@@ -494,7 +545,9 @@
 0.0.0.0 scarletblue.com.au
 0.0.0.0 scruff.com
 0.0.0.0 seeking.com
+0.0.0.0 seitensprung-fibel.de
 0.0.0.0 seitensprung-ratgeber.de
+0.0.0.0 servicii.primariatm.ro
 0.0.0.0 seslichat.com
 0.0.0.0 seslidunya.com
 0.0.0.0 seslimirc.com
@@ -505,10 +558,14 @@
 0.0.0.0 seslivatan.com
 0.0.0.0 sevgichat.com
 0.0.0.0 sexabudhabi.com
+0.0.0.0 sexchat.ru
 0.0.0.0 sexchatroom.de
+0.0.0.0 sexchatttttt.chatovod.com
 0.0.0.0 sexfriend.fr
+0.0.0.0 sexintim.ru
 0.0.0.0 sexjobs.nl
 0.0.0.0 sexkontakte.at
+0.0.0.0 sexopretoria.com
 0.0.0.0 sextreffen69.org
 0.0.0.0 shaadi.com
 0.0.0.0 shada-shatea.hotels-saudi-arabia.com
@@ -565,12 +622,15 @@
 0.0.0.0 starbackpage.com
 0.0.0.0 stnnsh.ivocaruso.it
 0.0.0.0 strangercam.com
+0.0.0.0 strangerline.io
+0.0.0.0 stronyrandkowe.pl
 0.0.0.0 subdomainfinder.c99.nl
 0.0.0.0 sugarbook.com
 0.0.0.0 sugarbookapp.com
 0.0.0.0 sugarbookmy.com
 0.0.0.0 sugardaddy.co.uk
 0.0.0.0 sugardaddy.com
+0.0.0.0 sugardaddy.pl
 0.0.0.0 sugardaddybrazil.com
 0.0.0.0 sugardaddymanchester.co.uk
 0.0.0.0 sugardaddyplanet.com
@@ -599,7 +659,11 @@
 0.0.0.0 thaiflirting.com
 0.0.0.0 thaifriendly.com
 0.0.0.0 thailandchat.net
+0.0.0.0 thairoom.ca
+0.0.0.0 thaitalkai.com
+0.0.0.0 thaitalkforex.com
 0.0.0.0 thescortdirectory.com
+0.0.0.0 timbanvn.com
 0.0.0.0 tinder.com
 0.0.0.0 tinderprofile.ai
 0.0.0.0 tokusen-mensesthe.com
@@ -613,7 +677,9 @@
 0.0.0.0 trmirc.net
 0.0.0.0 trsohbet.com
 0.0.0.0 trulymadly.com
+0.0.0.0 tryst.group
 0.0.0.0 tryst.link
+0.0.0.0 trystagency.com
 0.0.0.0 turkchat.com
 0.0.0.0 turkchat.tc
 0.0.0.0 turkchatfm.com
@@ -633,6 +699,7 @@
 0.0.0.0 ukrprostitutki.com
 0.0.0.0 urdu.chat.org.in
 0.0.0.0 us.ondate.com
+0.0.0.0 via-escort.ru
 0.0.0.0 vialetescortservice.nl
 0.0.0.0 videochatar.com
 0.0.0.0 videochatcolombia.com
@@ -651,12 +718,16 @@
 0.0.0.0 whatsyourprice.com
 0.0.0.0 wichita.myescort.network
 0.0.0.0 wireclub.com
+0.0.0.0 wollongong.bonepage.com
 0.0.0.0 www.1.1.1.1.urlquery.net
 0.0.0.0 www.agro.basf.cz
 0.0.0.0 www.contenuti.icribis.com
 0.0.0.0 www.es.adopte.app
+0.0.0.0 www.ogloszenia.nowy-sacz.pl
 0.0.0.0 yazgulu.net
 0.0.0.0 yesbackpage.com
+0.0.0.0 youbride.jp
+0.0.0.0 yozm.wishket.com
 0.0.0.0 za.atlasescorts.com
 0.0.0.0 zap.struckd.com
 0.0.0.0 zcheckerviet.vip

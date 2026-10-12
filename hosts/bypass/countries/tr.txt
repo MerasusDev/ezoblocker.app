@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Bypass, Türkiye (tr)
-# Domains: 10 | Updated: 2026-10-12
+# Domains: 9 | Updated: 2026-10-12
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/bypass/countries/tr.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -10,7 +10,6 @@
 0.0.0.0 ktunneli.com
 0.0.0.0 proxycoupons.com
 0.0.0.0 proxynet.io
-0.0.0.0 proxyscrape.com
 0.0.0.0 smartproxy.ai
 0.0.0.0 unblock-websites.com
 0.0.0.0 yasaksiteleregiris.org

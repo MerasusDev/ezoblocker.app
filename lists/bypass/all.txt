@@ -1,49 +1,68 @@
 # Title: EZOBLOCKER Bypass
-# Domains: 84 | Updated: 2026-10-12
+# Domains: 108 | Updated: 2026-10-12
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/lists/bypass/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
 *.9japroxy.com
+app.cyberyozh.com
+*.aproxy.com
 apt.izzysoft.de
+*.bestproxy.com
+*.betternet.be
 *.blockaway.ca
 *.browsec.cx
 *.browsecvps.org
+*.browserscan.net
 cameleo-xyz.webscorechecker.com
 *.cameleo.org
 cloud.up4.cz
 cloudsupport.sequentum.com
 *.ctunnel.com
-developer.novada.com
 discourse.aosus.org
+doc.alvao.com
 *.dtunnel.net
+*.eliteproxyswitcher.com
+endian.eth0.com.br
 *.express-vpn.app
 *.expressrefer.com
 *.free-proxy-list.net
 *.freeproxy.win
-*.freeproxy.world
 *.freevpn.edu.pl
 *.getunicorn.app
 helpcenter.trendlife.com
 helpdesk.iupat.org
+*.hide-my-ip.net
 *.hideproxy.io
 hotspot-shield.ar.softmany.com
 insights.streamuktvabroad.com
+*.ipfoxy.com
 *.k-tunnel.net
 kbm.slp-contents.com
+*.kiotproxy.com
 kproxy-extension.softonic.nl
 *.ktunneli.com
 lifestyle.assist-all.co.jp
+*.lightningproxies.net
+*.momoproxy.com
 *.naijaproxy.com
+*.novada.com
+*.noxproxy.com
+*.nsocks.com
+*.okeyproxy.com
+*.okkproxy.com
 panduan.opendesa.id
 *.powertunnel.org
+*.proxy-checker.org
+*.proxy302.com
 *.proxy6.net
 *.proxycoupons.com
 *.proxynet.io
-*.proxyscrape.com
+*.proxysale.com
 *.proxysites.ai
 *.proxyviet.net
 *.proxyviet.org
+psiphon.alsindibad.com
 psiphon.ar.softmany.com
 *.psiphon.com
 psiphon.kr.softmany.com
@@ -54,7 +73,6 @@ psiphon.sooftware.com
 *.shadowsocks.com
 *.shield-way.com
 *.siamproxy.com
-*.smartdnsproxy.com
 *.smartproxy.ai
 *.smartproxy.cn
 *.smartproxy.es
@@ -68,8 +86,13 @@ psiphon.sooftware.com
 *.smartproxy.se
 *.smartproxy.tw
 *.smartproxy.vn
+*.snapvpn.net
+*.softether.jp
+*.softether.org
+*.swissvpn.co
 tools.tracemyip.org
 *.torprojectstatus.org
+*.tradeproxy.vn
 tunnelbear.ar.softmany.com
 *.ultrasurf-vpn.pages.dev
 ultrasurf.ar.softmany.com
@@ -82,6 +105,7 @@ ultrasurf.fr.softmany.com
 *.unblockyoutube.video
 *.v2ray-macos-arm64-v8a.zip
 vpn-proxy-master.en.softmany.com
+vpn.g-l.ch
 vpngate.4d.workers.dev
 *.websiteunblocker.io
 *.websiteunblocker.net

@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy, Russia (ru)
-# Domains: 7 | Updated: 2026-10-12
+# Domains: 9 | Updated: 2026-10-12
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/piracy/countries/ru.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -9,5 +9,7 @@
 0.0.0.0 kinozal.me
 0.0.0.0 livesport.ru
 0.0.0.0 livesport.ws
+0.0.0.0 lordfilms.pub
+0.0.0.0 lordfilms.pw
 0.0.0.0 rutracker-net.ru
 0.0.0.0 sportstream-365.com

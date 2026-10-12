@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling, Sweden (se)
-# Domains: 8 | Updated: 2026-10-12
+# Domains: 9 | Updated: 2026-10-12
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/gambling/countries/se.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -11,4 +11,5 @@
 0.0.0.0 expekt.dk
 0.0.0.0 irishluck.ie
 0.0.0.0 paf.lv
+0.0.0.0 speltips.se
 0.0.0.0 wp.catedu.es

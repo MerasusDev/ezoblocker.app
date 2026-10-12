@@ -6,4 +6,4 @@
 # App: https://ezoblocker.app
 0.0.0.0 cloud.up4.cz
 0.0.0.0 cloudsupport.sequentum.com
-0.0.0.0 developer.novada.com
+0.0.0.0 doc.alvao.com

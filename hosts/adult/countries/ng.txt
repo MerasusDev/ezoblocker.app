@@ -1,10 +1,12 @@
 # Title: EZOBLOCKER Adult, Nigeria (ng)
-# Domains: 9 | Updated: 2026-10-12
+# Domains: 15 | Updated: 2026-10-12
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/adult/countries/ng.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
+0.0.0.0 erocraves.com
 0.0.0.0 justerotics.com
+0.0.0.0 magicmenshop.com
 0.0.0.0 naijablog.co.uk
 0.0.0.0 naijahomemade.com
 0.0.0.0 naijashop.com.ng
@@ -13,3 +15,7 @@
 0.0.0.0 oppsystore.com
 0.0.0.0 sexpenditure.com
 0.0.0.0 thebodyshop.ng
+0.0.0.0 thefemalestore.com.ng
+0.0.0.0 thenairastore.com
+0.0.0.0 thevibeadultshop.com.au
+0.0.0.0 wildfantasy.com.au

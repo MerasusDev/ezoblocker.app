@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Trackers
-! Domains: 177 | Updated: 2026-10-12
+! Domains: 180 | Updated: 2026-10-12
 ! Homepage: https://github.com/MerasusDev/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/trackers/all.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -101,6 +101,7 @@
 ||phoenix-childrens-domain.oursprivacy.com^
 |pia.af-sdk.net^
 ||pl02.prolitteris.2cnt.net^
+||pragtag.com^
 |prodregistryv2.org^
 ||redirect271.tagcommander.com^
 ||redirect341.tagcommander.com^
@@ -149,6 +150,7 @@
 ||stape.im^
 ||stape.info^
 ||stape.io^
+||stape.ltd^
 ||stape.ma^
 ||stape.my^
 ||stape.net^
@@ -156,6 +158,7 @@
 ||stape.org^
 ||stape.pm^
 ||stape.pro^
+||stape.pw^
 ||stape.st^
 ||stape.vip^
 |supercent-kr-receiver.thinkingai.io^

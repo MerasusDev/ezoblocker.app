@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling, Czechia (cz)
-# Domains: 8 | Updated: 2026-10-12
+# Domains: 12 | Updated: 2026-10-12
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/lists/gambling/countries/cz.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -12,3 +12,7 @@
 *.melbetcasino.cz
 *.mostbet-casinos-cestina.com
 mostbet.hz.cz
+*.slotv-casino.ro
+*.slotvbet-in.com
+*.slotvcasino.ro
+*.sotv-casino.club

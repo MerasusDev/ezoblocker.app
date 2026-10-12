@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Ads
-# Domains: 328 | Updated: 2026-10-12
+# Domains: 330 | Updated: 2026-10-12
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/lists/ads/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -20,6 +20,7 @@ adinify-prebid.attekmi.co
 adlywise-prebid.attekmi.co
 adm.vidyome.com
 adn-srv.reckoner-api.com
+adn.pilotx.tv
 adnex-prebid.attekmi.co
 adport.pbsadverxo.com
 ads-api-svr.6677g.com
@@ -329,6 +330,7 @@ vpb-server.jwplayer.com
 web-rtb.anyrtb.com
 web.hb.ad.cpe.dotomi.com
 wild.8podx.com
+ws.offerwall.unity3d.com
 x.padsquad.com
 y.one.impact-ad.jp
 zero.aidemsrv.com

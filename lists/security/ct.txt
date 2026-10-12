@@ -1,9 +1,10 @@
 # Title: EZOBLOCKER Security, ct
-# Domains: 13,621 | Updated: 2026-10-12
+# Domains: 13,813 | Updated: 2026-10-12
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/lists/security/ct.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
+00-sec-secure-chase-personal-christine.chaseonline00.eu.cc
 *.086543facebook-security-update-team-alert-verification.ph
 *.086543lbc-hari-padala-davao-city-del-sur-quezon-avenue.ph
 *.086543verification-team-urgent-urgent-urgent-urgent-ph.ph
@@ -36,6 +37,7 @@
 *.21instagramverificationloginhelplinenumberonline.ph
 *.21password-reset-confirm-access-now-account-link.ph
 *.247-en-cb-support-help.pages.dev
+*.24x7-customer-service-cashapp.pages.dev
 *.24x7-official-support-help-number.pages.dev
 *.24x7amazon-helpdesk-support.pages.dev
 *.24x7paypaal-shop-service.pages.dev
@@ -56,6 +58,7 @@
 *.3join-chat-whatsapp-my.pages.dev
 *.3rcbc-savings-bank-makati-city-metro-manila-rizal.ph
 4000.claim-free.flirra.us.cc
+*.40000-robux-free-no-human-verification.pages.dev
 *.4020facebook-account-verification-critical-update.ph
 *.4020password-reset-confirm-access-confirm-account.ph
 *.412910-action-required.pages.dev
@@ -115,6 +118,7 @@ abnamro-meespierson-event10.abnamro-event.com.ph
 *.abrx-wallet-access.pages.dev
 *.acc-login-robinhood.pages.dev
 *.acc-ntcoins-login.pages.dev
+*.acc-trezorr-wallet.pages.dev
 *.acccess-neetcoins-secure.pages.dev
 *.acccess-trezzor-doc.pages.dev
 *.acccount-center-helps-meta-verifyesxzxz.pages.dev
@@ -227,6 +231,7 @@ account-authentication.xfinity-bill.workers.dev
 *.account-google-signin.duckdns.org
 account-gooogle.igift.online
 *.account-io-metamsk-log.pages.dev
+*.account-itrustcapital-com.pages.dev
 *.account-krakeen-io.pages.dev
 *.account-kucoin-com.pages.dev
 *.account-ledger-logi.pages.dev
@@ -370,6 +375,7 @@ activate.ecobank-ng.ws
 *.advertisers-client-support-messenger-strike.pages.dev
 *.advertisers-client-support-messenger-support.pages.dev
 *.advertisers-client-support-messenger-suspension.pages.dev
+*.advertisers-client-support-messenger-trademark.pages.dev
 *.advertisers-client-support-messenger-transparency.pages.dev
 *.advertisers-client-support-messenger-verification.pages.dev
 *.advertisers-client-support-messenger-violation.pages.dev
@@ -625,6 +631,7 @@ activate.ecobank-ng.ws
 *.ai-coinbase-wallet-extension.pages.dev
 *.ai-i-trustcapital-web-login.pages.dev
 *.ai-ledger-live-logn-secure.pages.dev
+*.ai-login-lederlive.pages.dev
 *.ai-master-join.pages.dev
 *.ai-metamsk-io-en-us-login.pages.dev
 *.ai-metamsk-io-login.pages.dev
@@ -664,6 +671,7 @@ aktivasi-imei-beacukai.informasi.online
 *.aktivasi-kuponundian-brimo.pages.dev
 *.aktivasi-mandiri.pages.dev
 aktivasi-menuu-danaa.aftter.my.id
+aktivasi-pemulihan-akun-shopee.getx2x.web.id
 aktivasi-pemulihan-akun.shopee-id.shop
 *.aktivasi-pemulihan-shopee.pages.dev
 aktivasi-pemulihanxakun-shopee.spexc9.my.id
@@ -716,6 +724,7 @@ alpha.springbig-wallet-3.click
 *.alrajhibank-monobank-microsoftteams.ph
 *.altyn-wallet-pay.ru
 *.amaxon-secure-trzor-wallet.pages.dev
+*.amaz0n-24x7-customer-helpcenter.pages.dev
 *.amazon-account-recovery.net.ph
 *.amazon-account-recovery.org.ph
 *.amazon-affiliate-program-sign-in.pages.dev
@@ -755,6 +764,7 @@ amendes.justice.gov-my.eu.cc
 aol-email-verification.bayccarpet.workers.dev
 *.aolmailloginsite.pages.dev
 *.aouth-uphold-wallet-io.pages.dev
+*.apeb-dz-bantentoto-saldo-dana-gratis.pages.dev
 *.api-cobrandid-docusign-msonline.workers.dev
 api-linkedin-com.proxy.aauth.dev
 api.gamma.springbig-wallet-3.click
@@ -808,6 +818,7 @@ api.gamma.springbig-wallet-3.click
 *.app-trezor-wallett-us.pages.dev
 *.app-trezorr-io-logn.pages.dev
 *.app-trustcapita-l-auths.pages.dev
+*.app-trustcapital--auths.pages.dev
 *.app-trustcapital-auths-cdn.pages.dev
 *.app-trustcapital-auths.pages.dev
 *.app-trustcapital-en-lgin.pages.dev
@@ -825,6 +836,7 @@ api.gamma.springbig-wallet-3.click
 *.appeal-facebook-official.pages.dev
 *.appeal-meta-fb.pages.dev
 *.appeal-meta-view-fb-arb.pages.dev
+*.appeal-meta-view-fb.pages.dev
 *.appeal-meta-view-wv.pages.dev
 *.appeal-official-facebook.pages.dev
 *.appie-appleid.ph
@@ -912,12 +924,15 @@ apple.support-map-login.live
 *.appleid-store-authorized-payment-securedata-updated.com.ph
 *.appleid-support-email-apple.ph
 *.appleid-support-kxz-app-le.com.ph
+*.appleid-support-kxz-avple.com.ph
 *.appleid-support-kxz-awpple.com.ph
 *.appleid-support-vx-apple.ph
 appleid.apple.com.internet.services.drive-icloud.com
+appleid.apple.com.legal.services.drive-icloud.com
 appleid.apple.com.sign-in-auth.secure.wbcvn.com
 appleid.apple.com.signin.skateykatey.com
 appleid.icloud-map.us
+*.appleidc-support-kxz-apple.com.ph
 *.appleidinformations.ph
 *.appleidlocked-verify.org.ph
 *.applepay-confirm.com
@@ -975,11 +990,13 @@ approve.bank.stanic.io
 *.apps-us-netcoins-secure.pages.dev
 *.appstore-icloud.ph
 appstore.garant.ida.kraft-group.com
+*.aramex-eg-hqzme.icu
 *.arbeitsagentur-glsgroup.com.ph
 *.arbeitsagentur-leboncoinauths.ph
 *.areariservata-subito-consegna.cyou
 *.areariservata-subito-indirizzo.cc
 *.artical-gemnii-logn-access.pages.dev
+*.asiabet-suport-google.pages.dev
 *.ask--trezor-wallet.pages.dev
 *.ask-coinbase-login.pages.dev
 *.ask-ledger-wallet.pages.dev
@@ -1014,6 +1031,8 @@ appstore.garant.ida.kraft-group.com
 *.audit-review-verification-office.pages.dev
 *.auh-coinbase-com-sign.pages.dev
 *.aukro-verification.sbs
+aupost.com-track-8o7a.ink
+aupost.com-track-9t3a.ink
 *.auspost-custom-delivery.ph
 *.auth-bankofamericasupport-easywebusa.ph
 *.auth-bitbuy-login.pages.dev
@@ -1045,6 +1064,7 @@ appstore.garant.ida.kraft-group.com
 *.auth-exodus-wallet-io.pages.dev
 *.auth-exodus-wallet-ion.pages.dev
 *.auth-exodus-wallet.pages.dev
+*.auth-exodus-web3-wallet.pages.dev
 *.auth-gemini-logi.pages.dev
 *.auth-gemini-logins.pages.dev
 *.auth-gemini-logn.pages.dev
@@ -1259,6 +1279,7 @@ avito.paypal-caseid986.netflixdxb.com
 aws.poluchit-prava-7f4t.ru
 *.axisbank-allegrolokalni-applesupport.ph
 *.axisbank-dangnhap-confirm.ph
+*.ba-acccountqx-center-helps-meta.pages.dev
 *.ba-tls-business-acccount-center-helps-meta.pages.dev
 *.ba-tlss-acccounts-center-helps-meta.pages.dev
 *.banca-intesa.pages.dev
@@ -1401,6 +1422,7 @@ bantuan-tng2.my-live.biz.id
 *.began-wallet-uphoold-en-us.pages.dev
 *.begin----coinbase-wallet.pages.dev
 *.begin--trezor-hardware-wallet.pages.dev
+*.begin-bitbuy-login.pages.dev
 *.begin-coinbase-wallet-extension.pages.dev
 *.begin-kucoin-login.pages.dev
 *.begin-mtamsk-login.pages.dev
@@ -1413,6 +1435,7 @@ bantuan-tng2.my-live.biz.id
 *.being-live-lgin.pages.dev
 *.bellsouthdocsupport.pages.dev
 *.bellsouthsignin.pages.dev
+*.bendigo-reward.vip
 *.bendigorewardsd.click
 *.benefit-macquarie.cc
 *.best-ldger-suport.pages.dev
@@ -1427,6 +1450,7 @@ bantuan-tng2.my-live.biz.id
 *.bestbuy-movistar-cainiao.ph
 *.bestbuyrewardzone.eu.org
 *.betaal-verzoek-ing.ph
+*.betalingsgaranti.com
 *.betgarantiadres.com
 billing-problem-7b0f.att-billint.workers.dev
 *.binance-absa-signin.ph
@@ -1440,8 +1464,10 @@ billing-problem-7b0f.att-billint.workers.dev
 *.binance-the-world-s-most-trusted-cryptocurrency-exchange-t.pages.dev
 *.binance-us-verify.com
 *.binance-verify-us.com
+binance.global-gift-to-clients-desktop.com
 binance.wallet-account.com
 binance.wallet-account.com.eds1.com
+*.binancetrwallet.sbs
 *.binanceverify.site
 *.binancewallet-frontend.pages.dev
 *.binancewallet.app
@@ -1525,11 +1551,13 @@ blablacar.paypal-caseid986.netflixdxb.com
 *.blockfi-wallet-kroll.ph
 *.blockfi-wallt-login.pages.dev
 *.blockfii-en-login.pages.dev
+*.blockfii-lgin.pages.dev
 *.blockfii-logi.wasmer.app
 *.blockfii-logiin-ooooathhhhh.pages.dev
 *.blockfilogiin-io-us.pages.dev
 *.blockfilogiinn.pages.dev
 *.blockfixsrecovery.online
+*.blocki-fi-logi.pages.dev
 *.blocki-fy-login.pages.dev
 *.blocki-logi-en.pages.dev
 *.blockkfi--login.pages.dev
@@ -1544,6 +1572,7 @@ bnp-paribas.banca-digitalmx.com
 *.bnpparibas-telenor.ph
 *.boa-online-support.pages.dev
 *.boardhash-uniswap-a6w-claim.pages.dev
+*.bofa-verification-service.com
 *.bol-proximus-applesupport.com.ph
 *.bolckfi-login-en.pages.dev
 *.bonus-20-cadastro-deposito.com
@@ -1564,6 +1593,7 @@ bnp-paribas.banca-digitalmx.com
 *.brdg-trzor-login.pages.dev
 *.brdg-trzor-support.pages.dev
 *.brenden-applesupport-rakutenbank.ph
+*.briddge-trezor-auths.pages.dev
 *.bridge-sso-trezorr.pages.dev
 *.bridge-support-trezor.pages.dev
 *.bridge-treezor-support-99l.pages.dev
@@ -1643,6 +1673,7 @@ bnp-paribas.banca-digitalmx.com
 *.business-verification-status-meta-id1000587652462342973403.pages.dev
 *.buy-free-roblox-gift-card.pages.dev
 *.buy-verified-bybit-account.pages.dev
+*.buy-verified-bybit-accounts.pages.dev
 *.buyverifiedcashappaccount.com
 *.bybit--login-us.pages.dev
 *.bybit-ai-official.pages.dev
@@ -1707,6 +1738,7 @@ card.paxfull.vip
 *.cashapp-alert-helpline-call-now.online
 *.cashapp-com-support.pages.dev
 cashapp-refund-support.doodlekit.com
+*.cashapp-support.pages.dev
 *.cashapps-24x7-support-help-center-coms.pages.dev
 *.cashappverified.com
 *.cbw-smart-wallet-malicious-demo-seed-farming.pages.dev
@@ -1759,6 +1791,7 @@ chats-graph-microsoft-com.proxy.aauth.dev
 *.cionbase-login-faq.pages.dev
 *.cionbase-pro-login-support.pages.dev
 *.cionbase-pro-login-wen.pages.dev
+*.citi-bank-login.pages.dev
 *.citi-bank-support-desk.pages.dev
 *.citi-bank-support-desks.pages.dev
 citi-bank.citi-supports.workers.dev
@@ -1871,6 +1904,7 @@ close-docusign-disclose-payee-cfe7.carlosarguig.workers.dev
 *.coibase-login-trouble-shoot.pages.dev
 *.coibase-logn-us.pages.dev
 *.coibase-sign-web.pages.dev
+*.coibase-un-logn.pages.dev
 *.coiin-smart-logiin-cloud.pages.dev
 *.coiinbase-pro-login.pages.dev
 *.coiinbase-wallet.pages.dev
@@ -1902,6 +1936,7 @@ close-docusign-disclose-payee-cfe7.carlosarguig.workers.dev
 *.coinbas-pro-logon.pages.dev
 *.coinbas-pro-sign.pages.dev
 *.coinbas-sso-x-us.pages.dev
+*.coinbase----pro-login.pages.dev
 *.coinbase--login-pro.pages.dev
 *.coinbase--login-sso.pages.dev
 *.coinbase--login.pages.dev
@@ -1910,6 +1945,7 @@ close-docusign-disclose-payee-cfe7.carlosarguig.workers.dev
 *.coinbase--pro-logn.pages.dev
 *.coinbase--wallet--extension-a.pages.dev
 *.coinbase--wallet-exte-io.pages.dev
+*.coinbase--wallet-exte.pages.dev
 *.coinbase--wallet-exten.pages.dev
 *.coinbase-account-login.pages.dev
 coinbase-accountrecovery-verification.githubtocollab.com
@@ -1918,6 +1954,7 @@ coinbase-accountrecovery-verification.githubtocollab.com
 *.coinbase-auth-verify-security-48.net.ph
 *.coinbase-auth-verify-service-desk-22.net.ph
 *.coinbase-authe.pages.dev
+*.coinbase-auths.pages.dev
 *.coinbase-client-alert-update.net.ph
 *.coinbase-cloud-login.pages.dev
 *.coinbase-com-en-login.pages.dev
@@ -2136,15 +2173,18 @@ coinbase-request-verification.fanduelsprtsnetwork.com
 *.coinbase-wallet-extension-us.pages.dev
 *.coinbase-wallet-extension.pages.dev
 *.coinbase-wallet-extensun-en.pages.dev
+*.coinbase-wallet-extention.pages.dev
 *.coinbase-wallet-extnsn.wasmer.app
 *.coinbase-wallet-exttension.pages.dev
 *.coinbase-wallet-home-extension.pages.dev
+*.coinbase-wallet-sigm.pages.dev
 *.coinbase-wallet-sign.pages.dev
 *.coinbase-wallet-vs-metamask.pages.dev
 *.coinbase-wallet.app
 *.coinbase-wallet.pages.dev
 *.coinbase-web-logn.pages.dev
 *.coinbase-web3-logn.pages.dev
+*.coinbase-welcme-sign-cdn.pages.dev
 coinbaseaccountverification.fanduelsporsnetwork.com
 *.coinbasecaresupport.pages.dev
 *.coinbasecryptohelpcenter.pages.dev
@@ -2232,6 +2272,7 @@ coinbaseidentityverification.fanduelsportsnetworkk.com
 *.com-leedger-sso.pages.dev
 *.com-ndax-logins.pages.dev
 *.com-ndaxx-logn.pages.dev
+com-page-signin-verify-appleid-section.centennialwireless.com
 *.com-uphold-auths.pages.dev
 *.com-wallet-ledger.pages.dev
 comcast.utlook.com
@@ -2286,6 +2327,7 @@ confirmation.ourtimee-love.workers.dev
 *.connect-bitbuy-login.pages.dev
 *.connect-claim-airdrop-trump-coin-meme-btc-eth-usdt-free.pages.dev
 *.connect-coinbas--wallet.pages.dev
+*.connect-coinbas-extension-wallet.pages.dev
 *.connect-coinbase--login.pages.dev
 *.connect-coinbase-login.pages.dev
 *.connect-coinbase-wallet-extension.pages.dev
@@ -2391,6 +2433,7 @@ cpanel.fedex-delivery-tracking.aiianc.com
 *.crypto-com-lgin.pages.dev
 *.crypto-com-wallet.pages.dev
 *.crypto-copyright.com
+*.crypto-eng-logn.pages.dev
 *.crypto-geminii-login-io.pages.dev
 *.crypto-i-bank.pages.dev
 *.crypto-ldgrlive-wallet.wasmer.app
@@ -2456,7 +2499,9 @@ danaa-bantuan.official-pusatcaree.biz.id
 *.data-center-appeal-messenger.pages.dev
 *.data-center-impersonation-messenger.pages.dev
 *.data-center-messenger-appeal.pages.dev
+*.data-center-messenger-claim.pages.dev
 *.data-center-messenger-copyright.pages.dev
+*.data-center-messenger-problem.pages.dev
 *.data-center-messenger-support.pages.dev
 *.data-center-messenger-suspension.pages.dev
 *.data-center-messenger-violation.pages.dev
@@ -2522,6 +2567,7 @@ details.netflixx.workers.dev
 device-verification.xfinity-bill.workers.dev
 *.dhl-delivery-system-signin.pages.dev
 *.dhl-express-indonesia-tracking.pages.dev
+*.diepost-ch-suivi-numero-id475se5847ht556854645221.pages.dev
 *.digid-alahli-deliveroo.ph
 *.digital-coinbaspro-login.pages.dev
 *.digital-wallet-crypto.com
@@ -2569,6 +2615,7 @@ dns2.poluchit-prava-7f4t.ru
 *.doc-netcoinns-logiin.pages.dev
 *.doc-netcoins-logn.pages.dev
 *.doc-trezor-login-io.pages.dev
+*.doc-trezor-logon--faq.pages.dev
 *.doc-uphold-wallet.pages.dev
 *.docomo-flutterwave.ph
 *.docs-blockfi-login.pages.dev
@@ -2677,6 +2724,7 @@ dropbox.wtransfer39.workers.dev
 *.ebay-kleinanzeigen-verify5022.de
 *.ebay-motors-policies.ph
 *.eddex-kotak-turkcell.ph
+*.edevletsifresi.gen.tr
 *.edge-helps-bridge-trezrr.pages.dev
 *.edge-uphold-logon.pages.dev
 *.edgerlive-secure-cdn.pages.dev
@@ -2692,6 +2740,7 @@ ellsfargo.com-verification.collegwp1.mariagharaibeh.com
 email-security.xfinity-bill.workers.dev
 *.emiratesnbdrewards.sa
 *.emoneyalert.com
+*.en-account-robinhod.pages.dev
 *.en-blocfi-logn.pages.dev
 *.en-blockfi-login.pages.dev
 *.en-bloockfi-logn.pages.dev
@@ -2868,6 +2917,7 @@ email-security.xfinity-bill.workers.dev
 *.eng--trezor-sso.pages.dev
 *.eng-b-lockfi-login.pages.dev
 *.eng-blocfi-logn.pages.dev
+*.eng-coinbasepro-login.pages.dev
 *.eng-coinbse-login-secure.pages.dev
 *.eng-cryppto-login.pages.dev
 *.eng-en-ledgre-com-support.pages.dev
@@ -3043,6 +3093,7 @@ espace-client.espace-client.www.cetelem-atlantic.com
 *.exodus-wallet-enou.pages.dev
 *.exodus-wallet-ens.pages.dev
 *.exodus-wallet-ensi.pages.dev
+*.exodus-wallet-era.pages.dev
 *.exodus-wallet-ern.pages.dev
 *.exodus-wallet-erni.pages.dev
 *.exodus-wallet-erno.pages.dev
@@ -3452,6 +3503,7 @@ espace-client.espace-client.www.cetelem-atlantic.com
 *.faq-ledger-live-wallet.pages.dev
 *.faq-ledger-live-wallett-en.pages.dev
 *.faq-ledger-live-wallett-eng-us.pages.dev
+*.faq-ledger-wallet-us.pages.dev
 *.faq-ledgerlive-en-auths.pages.dev
 *.faq-ledgerlive-login-auth.pages.dev
 *.faq-ledgerlive-login-us.pages.dev
@@ -3533,6 +3585,7 @@ espace-client.espace-client.www.cetelem-atlantic.com
 *.faq-trezor-x-wallet-us.pages.dev
 *.faq-trezorlogon-en.pages.dev
 *.faq-trezorr-wallet.pages.dev
+*.faq-trezorwallet-auth.pages.dev
 *.faq-trezorwallet-cdn.pages.dev
 *.faq-trezorwallet-us.pages.dev
 *.faq-trrezor-wallet.pages.dev
@@ -3624,6 +3677,7 @@ files-graph-microsoft-com.proxy.aauth.dev
 *.flipkart-applesupport-deo.com.ph
 *.flipkart-return-tool.pages.dev
 *.florida-beef-invoice-and-payapp-secure-portal-d1g.pages.dev
+*.florida-beef-invoice-and-payapp-secure-portal.pages.dev
 *.flushingbankchecking.ph
 *.flutterwave-ingbank.com.ph
 *.flutterwave-momo-applesupport.ph
@@ -3634,6 +3688,7 @@ files-graph-microsoft-com.proxy.aauth.dev
 *.fnbonline-applesupport.ph
 *.follow-metamak-io-login.pages.dev
 *.foortuna-media-promo-999.pages.dev
+*.fortnite-refund.info
 *.fortniterefunds.com
 *.fortniterrefund.com
 *.fortun365best-daftar-mudah.pages.dev
@@ -3646,6 +3701,7 @@ files-graph-microsoft-com.proxy.aauth.dev
 *.free-gift-cards-hub.pages.dev
 *.free-gift-cards.pages.dev
 *.free-join-dear.pages.dev
+*.free-ledgrelive-wallet.pages.dev
 *.free-onlyfans-logins.pages.dev
 *.free-robux-get-free-robux-today.pages.dev
 *.free-robux-gift-generator.com
@@ -3875,6 +3931,7 @@ gmail.utlook.com
 *.go-live-wallet.pages.dev
 *.go-official-coinbase-wallet-extension.pages.dev
 *.google-account-verification.pages.dev
+*.google-hydro-air-blower-gift.net.ph
 *.google-hydro-air-blower-support.net.ph
 *.google-isupport.info
 *.google-k12-alert.com
@@ -4151,6 +4208,7 @@ help.poluchit-prava-7f4t.ru
 *.helps-live-eg.pages.dev
 *.helps-live-en.pages.dev
 *.helps-live-eng-en.pages.dev
+*.helps-live-eng-ledger.pages.dev
 *.helps-live-engg-ledger.pages.dev
 *.helps-live-engs-ame.pages.dev
 *.helps-live-eni.pages.dev
@@ -4198,6 +4256,7 @@ help.poluchit-prava-7f4t.ru
 *.helps-trezor-wallet.pages.dev
 *.helps-trezor.pages.dev
 *.helps-trezorr-suites.pages.dev
+*.helps-trezorr.pages.dev
 *.helps-uphold-app.pages.dev
 *.helps-us-ledegr.pages.dev
 *.helps-us-ledger-com-start.pages.dev
@@ -4223,6 +4282,7 @@ help.poluchit-prava-7f4t.ru
 *.home-coinbae-wallet-ext.pages.dev
 *.home-coinbase-login-ee.pages.dev
 *.home-coinbase-login-faq.pages.dev
+*.home-coinbase-login-us.pages.dev
 *.home-coinbase-login.pages.dev
 *.home-coinbase-logn-x.pages.dev
 *.home-coinbase-logn.pages.dev
@@ -4395,12 +4455,15 @@ hotmail.utlook.com
 *.how-login-robinhood-step-by-step-guide.pages.dev
 *.how-login-robinhood.pages.dev
 *.how-long-does-a-metamask-transaction-take.pages.dev
+*.how-much-is-100-roblox-gift-card-in-robux.pages.dev
 *.how-to-activate-your-banned-roblox-account.pages.dev
 *.how-to-download-metamask-extension-on-iphone.pages.dev
 *.how-to-download-metamask-extension-on-mobile.pages.dev
+*.how-to-download-metamask-on-iphone.pages.dev
 *.how-to-get-1000-robux-in-roblox-for-free.pages.dev
 *.how-to-redeem-roblox-gift-card-codes-on-xbox.pages.dev
 *.how-to-redeem-roblox-gift-card-on-kindle-fire.pages.dev
+*.how-to-update-gmail-password-on-iphone.pages.dev
 *.how-to-win-roblox-gift-cards.pages.dev
 *.how-use-logiin--trezor.pages.dev
 *.how-we-use-logiin--trezrr.pages.dev
@@ -4444,6 +4507,7 @@ hr-sso.unicredit-platform-sk.com
 *.i-trustcapital-sign-in.pages.dev
 *.i-trustcapital-signin.pages.dev
 *.i-trustcapitl-login.pages.dev
+*.iao-online-kraton.pages.dev
 *.iban-elster.de
 ice-mints.sky99idn.uk
 *.icloud-activation-lock.com
@@ -4473,11 +4537,13 @@ ice-mints.sky99idn.uk
 *.icloud-login-cn9.pages.dev
 *.icloud-login.help
 *.icloud-map-ug.info
+*.icloud-my-iphone.net.ph
 *.icloud-online.info
 *.icloud-photo-dz.info
 *.icloud-photo-fr.info
 *.icloud-photo-uk.info
 *.icloud-photo-us.info
+*.icloud-recovery.help
 *.icloud-secure-private-hidden-gallery-memories-album.pages.dev
 *.icloud-secure-private-hidden-gallery-memories.pages.dev
 *.icloud-sign-in.app
@@ -4552,6 +4618,8 @@ identity-approval.xfinity-bill.workers.dev
 *.inform-coinbase-sso.pages.dev
 *.ing-alert-signin.ph
 *.ing-banco-domain.com.ph
+*.ing-bank-private-banking.com.ph
+*.ing-bank-private-banking.ph
 *.ing-ledgr-live-logn.pages.dev
 *.ingbank-alert.ph
 *.ingbank-bireysel.ph
@@ -4709,6 +4777,7 @@ identity-approval.xfinity-bill.workers.dev
 *.instagram-security-login-im-problem.ph
 *.instagram-security-login-im-secure.ph
 *.instagram-security-login-im-support.ph
+*.instagram-security.online
 *.instagram-support-badge-help14.ph
 *.instagram-support-email.ph
 *.instagram-support-meta-login.ph
@@ -4744,6 +4813,7 @@ instagram.mayank-mm.me
 *.instagramverificationsupportlinecontactdesk.com.ph
 *.instagramverify.ir
 *.instagramverifyconfirmss.ph
+instagramviral.vidaplenadigital.net
 *.install-coinbasse-wallet.pages.dev
 *.install-free-jupiter-wallet.pages.dev
 *.install-free-rabby-wallet-9qh.pages.dev
@@ -4770,6 +4840,7 @@ instagram.mayank-mm.me
 *.intro-trezor-secure.pages.dev
 *.intro-wallet-live.pages.dev
 *.introducing-metamask-social-login.pages.dev
+*.intrust-bank-personal-account-security-0089289890003409830.pages.dev
 *.intuit-applesupport-paypay.ph
 *.invest-trezor-wallet-hardware.pages.dev
 *.invest-wallet-trezorr.pages.dev
@@ -4779,6 +4850,7 @@ instagram.mayank-mm.me
 *.io-coinbase-login-us.pages.dev
 *.io-coinbase-login.pages.dev
 *.io-coins-mrt-logn.pages.dev
+*.io-edger-wallet.pages.dev
 *.io-eng-metamsk-logn.pages.dev
 *.io-eng-trezor-logn.pages.dev
 *.io-exodus-wallet-us.pages.dev
@@ -4808,6 +4880,7 @@ instagram.mayank-mm.me
 *.io-metamsk-wallet.pages.dev
 *.io-metmask-login.pages.dev
 *.io-mtamask-login.pages.dev
+*.io-mtamask-wallet-en.pages.dev
 *.io-mtamsk-wallet.pages.dev
 *.io-ndax-logins.pages.dev
 *.io-ndaxx-logiin.pages.dev
@@ -4974,6 +5047,7 @@ iphone17.iphone-fix.abrdns.com
 *.itrustcapital-web-sign-in.pages.dev
 *.itrustcapitall-sign-in.pages.dev
 *.itrustcapitall-sign-inn.pages.dev
+*.itrustcapitalloggin.pages.dev
 *.itrustcapitalloginsk.pages.dev
 *.itrustcapitalsignin.pages.dev
 *.itrustcapitl-logi.com
@@ -5000,6 +5074,7 @@ iphone17.iphone-fix.abrdns.com
 *.iww-danaa-ambil10-20jt-grtistunguapalagi.pages.dev
 *.iyzico-learning-applesupport.ph
 *.japanpost-tracking.pages.dev
+*.java288-login-mudah-fleksibel.pages.dev
 *.jenius128jenius-cemerlang.pages.dev
 *.jijian-bill-admin.pages.dev
 *.join--ledgrcom.pages.dev
@@ -5041,6 +5116,7 @@ iphone17.iphone-fix.abrdns.com
 *.join-my-group-telegram-2r7.pages.dev
 *.join-my-group-telegram-3hf.pages.dev
 *.join-my-group-telegram-4xp.pages.dev
+*.join-my-group-telegram-5q7.pages.dev
 *.join-my-group-telegram-bfw.pages.dev
 *.join-my-group-telegram-dyi.pages.dev
 *.join-my-group-whatsapp-13k.pages.dev
@@ -5136,6 +5212,7 @@ ketos-reward-nft-meta-airdrop-6.cloudflare1602.workers.dev
 *.kleinanzeigen-aktivieren-oct.info
 *.kleinanzeigen-akzeptieren-7358567.info
 *.kleinanzeigen-akzeptieren-okt.info
+*.kleinanzeigen-akzeptiert-oct.info
 *.kleinanzeigen-confirm-com.pages.dev
 *.kleinanzeigen-confirm.com
 *.kleinanzeigen-confirm.shop
@@ -5249,6 +5326,7 @@ klik4.garuda188ppd.live
 *.kucoin-access-login.pages.dev
 *.kucoin-airbnb-caixa.com.ph
 *.kucoin-amazon-caixa.com.ph
+*.kucoin-app--login.pages.dev
 *.kucoin-begin-login.pages.dev
 *.kucoin-com-support.pages.dev
 *.kucoin-connect-login.pages.dev
@@ -5385,6 +5463,7 @@ layanan-ovo.official-pusatcaree.biz.id
 *.ldgerliv-logn-access-6w1.pages.dev
 *.ldgerliv-logn-access.pages.dev
 *.ldgerlive-desktop-support.pages.dev
+*.ldgerlive-learn-logn.pages.dev
 *.ldgerlive-logi-nav.pages.dev
 *.ldgerlive-logn-secure.pages.dev
 *.ldgerlive-secure-hub.pages.dev
@@ -5420,8 +5499,10 @@ layanan-ovo.official-pusatcaree.biz.id
 *.learn-coinbase-logn.pages.dev
 *.learn-coinbase-pro-login.pages.dev
 *.learn-coinbase-sign-com.pages.dev
+*.learn-coinbase-wallet.pages.dev
 *.learn-coinbasehelps-learn.pages.dev
 *.learn-coinbasepro-login.pages.dev
+*.learn-coinbasse-pro-login.pages.dev
 *.learn-coinbse-logiin.pages.dev
 *.learn-coinbse-pro-logn.pages.dev
 *.learn-conbasepro-login.pages.dev
@@ -5460,6 +5541,7 @@ layanan-ovo.official-pusatcaree.biz.id
 *.learn-live-wallet-io.pages.dev
 *.learn-login--metamsk-io.pages.dev
 *.learn-login-coinbase.pages.dev
+*.learn-login-ledgerlive.pages.dev
 *.learn-login-trzor.pages.dev
 *.learn-logn-ndax-web.pages.dev
 *.learn-metamask-logi.pages.dev
@@ -5566,6 +5648,7 @@ layanan-ovo.official-pusatcaree.biz.id
 *.ledgelive-wallet-engs.pages.dev
 *.ledgelive-wallet.pages.dev
 *.ledger---liive----logiin.pages.dev
+*.ledger---live--wallet.pages.dev
 *.ledger---wallet.pages.dev
 *.ledger--com--auths.pages.dev
 *.ledger--hardwar-wallet.pages.dev
@@ -5610,6 +5693,7 @@ layanan-ovo.official-pusatcaree.biz.id
 *.ledger-coinbase-login.pages.dev
 *.ledger-coinbase-pro-login.pages.dev
 *.ledger-com--support.pages.dev
+*.ledger-com-aauth.pages.dev
 *.ledger-com-authe.pages.dev
 *.ledger-com-auths-6vq.pages.dev
 *.ledger-com-auths-eng.pages.dev
@@ -5744,6 +5828,7 @@ layanan-ovo.official-pusatcaree.biz.id
 *.ledger-live-wallet-saxb.pages.dev
 *.ledger-live-wallet-sc-us.pages.dev
 *.ledger-live-wallet-swt.pages.dev
+*.ledger-live-wallet-us.pages.dev
 *.ledger-live-wallet-was.pages.dev
 *.ledger-live-wallet.pages.dev
 *.ledger-live-wallett.pages.dev
@@ -5860,6 +5945,7 @@ layanan-ovo.official-pusatcaree.biz.id
 *.ledger-wallet-wsa.pages.dev
 *.ledger-wallet-x-live-io.pages.dev
 *.ledger-wallett-login.pages.dev
+*.ledger-wallett.pages.dev
 *.ledger-wardware-wallet.pages.dev
 *.ledgercom-o-auths.pages.dev
 *.ledgercom-startt-auths.pages.dev
@@ -5990,11 +6076,13 @@ layanan-ovo.official-pusatcaree.biz.id
 *.ledgerrlive-login-engs.pages.dev
 *.ledgers-live-support.pages.dev
 *.ledgger--com-official.pages.dev
+*.ledgger--live--login.pages.dev
 *.ledgger--logn-sso.pages.dev
 *.ledgger-com--official.pages.dev
 *.ledgger-com-official.pages.dev
 *.ledgger-hard-wallet-cdn.pages.dev
 *.ledgger-live-loggin.pages.dev
+*.ledgger-live-login.pages.dev
 *.ledgger-live-sso.pages.dev
 *.ledgger-live-wallet.pages.dev
 *.ledgger-wallet.pages.dev
@@ -6170,6 +6258,7 @@ linkedin-api.totally.legit.linkedin.jacoaw79.site
 *.linkedinpremium.in
 *.links-id-dana-pemulihan.pages.dev
 *.links-official-dana-pemulihan.pages.dev
+*.list-with-freedom-overdue-invoice-and-payapp-secure-portal.pages.dev
 *.liv-ledger-suport.pages.dev
 *.liv-logn-ledger.pages.dev
 *.liv-wallet-ledger-cdn.pages.dev
@@ -6210,6 +6299,7 @@ linkedin-api.totally.legit.linkedin.jacoaw79.site
 *.live-ledger-wallet-en.pages.dev
 *.live-ledger-wallet-eng-us.pages.dev
 *.live-ledger-wallet-io-us.pages.dev
+*.live-ledger-wallet-io.pages.dev
 *.live-ledger-wallet-sso.pages.dev
 *.live-ledger-wallet-us.pages.dev
 *.live-ledger-wallett-en-us.pages.dev
@@ -6307,6 +6397,7 @@ lloyds-secure-update-details.iscafunerals.co.uk
 *.load-metamsk-logns.pages.dev
 *.load-trezor-suitee.pages.dev
 *.locate-my-iphone.info
+*.locked-account-appleid-com.ph
 *.locked-outlook.com
 *.locked-yahoo.ph
 *.log-coinbase-secure.pages.dev
@@ -6433,6 +6524,7 @@ login-att.coms-support.workers.dev
 *.login-auths-ndax.pages.dev
 *.login-auths-robinhood.pages.dev
 *.login-bitbuy-how.pages.dev
+*.login-blockfi-coeen.pages.dev
 *.login-blockfi-com.pages.dev
 *.login-blockfi-fqa.pages.dev
 *.login-blockfi-how.pages.dev
@@ -6498,6 +6590,7 @@ login-confirmation.advanced-coinbase.workers.dev
 *.login-help-trezor.pages.dev
 *.login-hom-trezor.pages.dev
 *.login-i-trustcapitl.pages.dev
+*.login-icloud-ec.com
 *.login-icloud.info
 *.login-io-kucoin.pages.dev
 *.login-io-robinhood.pages.dev
@@ -6516,6 +6609,8 @@ login-confirmation.advanced-coinbase.workers.dev
 *.login-kucoin-info.pages.dev
 *.login-kucoin-io.pages.dev
 *.login-kucoin-ion.pages.dev
+*.login-kucoin-pages.pages.dev
+*.login-kucoin-sso.pages.dev
 *.login-kucoin-us.pages.dev
 *.login-kucoin-usa.pages.dev
 *.login-ldgerlive-eng.pages.dev
@@ -6526,6 +6621,7 @@ login-confirmation.advanced-coinbase.workers.dev
 *.login-ledegr-live.pages.dev
 *.login-ledger-wallet-us.pages.dev
 *.login-ledgerlive-en.pages.dev
+*.login-ledgerlive-sso.pages.dev
 *.login-ledgerr-live.pages.dev
 *.login-ledgerr-web.pages.dev
 *.login-ledgre-en.pages.dev
@@ -6554,6 +6650,7 @@ login-confirmation.advanced-coinbase.workers.dev
 *.login-metamask-ledgr.pages.dev
 *.login-metamask-portal.pages.dev
 *.login-metamask-us.pages.dev
+*.login-metamask-web.pages.dev
 *.login-metamsk-io.pages.dev
 *.login-mettmask-io.pages.dev
 *.login-microsoftonline-bko.pages.dev
@@ -6623,6 +6720,7 @@ login-monitoring.xfinity-bill.workers.dev
 *.login-sso-kucoin.pages.dev
 *.login-sso-metamsk.pages.dev
 *.login-sso-pro-coinbase.pages.dev
+*.login-start-kucoin.pages.dev
 *.login-start-trzor.pages.dev
 *.login-terzor-en.pages.dev
 *.login-terzor-io-eng.pages.dev
@@ -6701,6 +6799,7 @@ logins.id-confirmations-ourtime.workers.dev
 *.logn--robinhood.pages.dev
 *.logn--terzor-io-eng.pages.dev
 *.logn--trezrio--eng-home.pages.dev
+*.logn--trezrio-eng-home.pages.dev
 *.logn--trezro-dev.pages.dev
 *.logn--trezrr-docs.pages.dev
 logn-aol-maile.ck1917.workers.dev
@@ -6718,6 +6817,7 @@ logn-aol-maile.ck1917.workers.dev
 *.logn-en-coinbase.pages.dev
 *.logn-en-ledgrlive.pages.dev
 *.logn-en-ndax.pages.dev
+*.logn-eng-kucoiin.pages.dev
 *.logn-ex-coinbase.pages.dev
 *.logn-exoddus-walet-io.pages.dev
 *.logn-faq-uphold.pages.dev
@@ -6862,6 +6962,7 @@ logon.emiratespost-eventbrite.ph
 *.ma-amendes-justilce-gov.eu.cc
 *.mabar138play.com
 *.mabar89play.com
+*.macquarie-account.vip
 *.macquarie-home-reward.cc
 *.macquarierewards-2026.com
 *.magazineluiza-mercadolibre-applesupport.ph
@@ -6939,6 +7040,7 @@ mastercard.ayabank.us
 *.meituan-account-tdbank.com.ph
 *.member-upgrade-ourtime.workers.dev
 *.menang138-sangat-mudah.pages.dev
+*.mengenal-dunia-permainan-online-yang-mudah.pages.dev
 *.mercadona-fr-sale.shop
 *.mercadopago-naukri-ford.ph
 *.mercari-sktelecom-jumia.ph
@@ -7203,6 +7305,7 @@ mastercard.ayabank.us
 *.meta-mask-wallet.pages.dev
 *.meta-mask-x-wallet.pages.dev
 *.meta-masks-logn-portal.pages.dev
+*.meta-msi-wallet-website.pages.dev
 *.meta-msk-wallet.pages.dev
 *.meta-network-alert-service-panel.pages.dev
 *.meta-network-config-alert-panel.pages.dev
@@ -7436,6 +7539,7 @@ mastercard.ayabank.us
 *.meta-support-infokey.pages.dev
 *.meta-support-infolink.pages.dev
 *.meta-support-infolock.pages.dev
+*.meta-support-infolog.pages.dev
 *.meta-support-inforegistry.pages.dev
 *.meta-support-infovault.pages.dev
 *.meta-support-invoice.pages.dev
@@ -7763,6 +7867,7 @@ mastercard.ayabank.us
 *.meta-support-zonehub.pages.dev
 *.meta-support-zoneid.pages.dev
 *.meta-system-alert-portal-panel.pages.dev
+*.meta-system-data-alert-center.pages.dev
 *.meta-telon-reject-fyra.pages.dev
 *.meta-update-alert-network-zone.pages.dev
 *.meta-verified-support-team124322.pages.dev
@@ -7796,6 +7901,7 @@ mastercard.ayabank.us
 *.metamaask-login-web.pages.dev
 *.metamak-io-login.pages.dev
 *.metamas-en-login.pages.dev
+*.metamas-en-logins.pages.dev
 *.metamas-logiin.pages.dev
 *.metamas-login-asia.pages.dev
 *.metamas-login-asian.pages.dev
@@ -7809,6 +7915,7 @@ mastercard.ayabank.us
 *.metamas-login-era.pages.dev
 *.metamas-login-in.pages.dev
 *.metamas-login-info.pages.dev
+*.metamas-login-inks.pages.dev
 *.metamas-login-min.pages.dev
 *.metamas-login-nif.pages.dev
 *.metamas-login-nifo.pages.dev
@@ -7830,14 +7937,17 @@ mastercard.ayabank.us
 *.metamas-login-usan.pages.dev
 *.metamas-login-use.pages.dev
 *.metamas-login-uses.pages.dev
+*.metamas-login-uss.pages.dev
 *.metamas-login-vivo.pages.dev
 *.metamas-login-wall.pages.dev
 *.metamas-login-wallet.pages.dev
 *.metamas-login-wellt-us.pages.dev
 *.metamas-login-wellt.pages.dev
 *.metamas-login-welt.pages.dev
+*.metamas-login-welts.pages.dev
 *.metamas-login-wen.pages.dev
 *.metamas-login-wlt.pages.dev
+*.metamas-logins.pages.dev
 *.metamas-uk-logi.pages.dev
 *.metamas-uk-login.pages.dev
 *.metamas-uk-logins.pages.dev
@@ -7885,6 +7995,7 @@ mastercard.ayabank.us
 *.metamask-loggin.pages.dev
 *.metamask-logi-n.pages.dev
 *.metamask-logi.pages.dev
+*.metamask-logiin-help.pages.dev
 *.metamask-logiin.pages.dev
 *.metamask-login--people.pages.dev
 *.metamask-login-4py.pages.dev
@@ -7999,6 +8110,7 @@ metamask-verification.colaservice.com
 *.metamask-wallet-extension.pages.dev
 *.metamask-wallet-extensn.pages.dev
 *.metamask-wallet-faq.pages.dev
+*.metamask-wallet-home.pages.dev
 *.metamask-wallet-io.pages.dev
 *.metamask-wallet-learn.pages.dev
 *.metamask-wallet-log.pages.dev
@@ -8257,6 +8369,7 @@ narodnyii-oschad-bank.online-vuplata.workers.dev
 *.ndax-login-acc-wallet.pages.dev
 *.ndax-logn-eng.pages.dev
 *.ndax-logn-sso.pages.dev
+*.ndax-logn-x-auth-uss.pages.dev
 *.ndax-ndax-logn.pages.dev
 *.ndax-ndx-logn.pages.dev
 *.ndax-sso-logn.pages.dev
@@ -8360,6 +8473,7 @@ narodnyii-oschad-bank.online-vuplata.workers.dev
 *.netcoinns-logn.pages.dev
 *.netcoins---login.pages.dev
 *.netcoins--login--a.pages.dev
+*.netcoins--login-aap.pages.dev
 *.netcoins--login-start.pages.dev
 *.netcoins--login.pages.dev
 *.netcoins-acccess.pages.dev
@@ -8378,6 +8492,7 @@ narodnyii-oschad-bank.online-vuplata.workers.dev
 *.netcoins-loggin.pages.dev
 *.netcoins-logi-en.pages.dev
 *.netcoins-logiin-io-us.pages.dev
+*.netcoins-logiin.pages.dev
 *.netcoins-login-access.pages.dev
 *.netcoins-login-app-drr.pages.dev
 *.netcoins-login-app.pages.dev
@@ -8452,6 +8567,7 @@ netflix.verification.ijwmpq1zbvdk.afriharvest.co.za
 *.netia-it-support.pl
 *.neticnews-mizuhobank-applesupport.ph
 *.nett-coins-logn-web-auth.pages.dev
+*.nettcoins-aws-logn.pages.dev
 *.nettcoins-dora-logins-cdn.pages.dev
 *.nettcoins-io-login.pages.dev
 *.nettcoins-login-asn.pages.dev
@@ -8560,6 +8676,7 @@ newlogin-alert.advanced-coinbase.workers.dev
 *.nid-naver-mail-nidlogin-login1-noutkegpdjagytwvhimyqral.pages.dev
 *.nid-naver-mail-nidlogin-login1-nplgthlfbxhbncneuqimcnbk.pages.dev
 *.nid-naver-mail-nidlogin-login1-nvvyrkxcpohjucqofqqmifrk.pages.dev
+*.nid-naver-mail-nidlogin-login1-nyefgcczlirymwqczplkqzlw.pages.dev
 *.nid-naver-mail-nidlogin-login1-nyukazwjzeuvhtfbuuqmmqjx.pages.dev
 *.nid-naver-mail-nidlogin-login1-obrynykmapfxmcxstxrplrmh.pages.dev
 *.nid-naver-mail-nidlogin-login1-odxpygzjhrfropuvhtornqyq.pages.dev
@@ -8767,6 +8884,7 @@ office.poluchit-prava-7f4t.ru
 *.official-ledgre-en.pages.dev
 *.official-ledgre-eng-cdn.pages.dev
 *.official-ledgre-eng-dev.pages.dev
+*.official-ledgre-eng-devs.pages.dev
 *.official-ledgre-eng-io.pages.dev
 *.official-ledgre-eng-main.pages.dev
 *.official-ledgre-eng-org.pages.dev
@@ -8943,6 +9061,7 @@ onlinemobile-accountupdate.bdo27dab9b28.workers.dev
 *.opensea-io-sign-en.pages.dev
 *.opensea-logi.pages.dev
 *.opensea-login-bsm.pages.dev
+*.opensea-login-cdn-io.pages.dev
 *.opensea-login-cdn.pages.dev
 *.opensea-login-comfirm-io.pages.dev
 *.opensea-login-en.pages.dev
@@ -9024,6 +9143,7 @@ ovo-bantuan.laporan1.web.id
 *.page-logn-uphold-com.pages.dev
 *.page-logontrezorr.pages.dev
 *.page-ndax-logi-enn.pages.dev
+*.page-netcoin-login.pages.dev
 *.page-sign-coins-com.pages.dev
 *.page-trezor-secure.pages.dev
 *.page-wallet-leddger-cloud.pages.dev
@@ -9054,6 +9174,8 @@ ovo-bantuan.laporan1.web.id
 *.pancakeswap-claim.pages.dev
 *.pancakeswap-finance-swap-home.cc
 *.pancakeswapclaim.pages.dev
+*.parcel-ingbank.ph
+*.parcel-mondialrelay.com
 *.paris88klik.online
 *.pass-ledgre-login-live.pages.dev
 *.password-reset-instagram.pages.dev
@@ -9159,6 +9281,7 @@ paypalverifikasi.fanduelsportsneetwork.com
 *.pemulihan-dana-76.pages.dev
 *.peningkatan-limit-homecredit.online
 *.permatapremium.site
+*.personal-verif.shop
 *.perubahan-tarif-bank-bca.pages.dev
 *.philippine-national-bank-makati-city-metro-manila-benavidez.com.ph
 *.philippine-national-bank-makati-city-metro-manila-benavidez.ph
@@ -9178,6 +9301,7 @@ pnb.security-bank.workers.dev
 poczta.compas.lublinianin.pl
 poczta.pit-banco.com.pl
 poczta.podatki-saldo.pl
+*.police-du-chablais-amendes.ch
 *.policies-for-meta-complaint-140600004.pages.dev
 *.policies-for-meta-complaint-submission.pages.dev
 *.policy-action-alert-console-906.pages.dev
@@ -9282,6 +9406,8 @@ ppl.service-confirmation.account.webscr-login.cgi-bin-webscr-cmd-login-up.9a1.co
 *.prikop-sk-adres-sbp.ru
 *.prime-refund-ch.com
 *.printmediasolution-roblox-game-online.pages.dev
+*.privacy-confirmation-office.pages.dev
+*.privacy-verification-office-4tn.pages.dev
 privatbank24.online-bank.workers.dev
 *.pro-coinbas-login-io.pages.dev
 *.pro-coinbas-login.pages.dev
@@ -9481,12 +9607,14 @@ reward-tng-my.join-tr-4p1.com
 *.robinhod-logi-user.pages.dev
 *.robinhod-logiin.pages.dev
 *.robinhod-login-cdn-us.pages.dev
+*.robinhod-login-en-auth.pages.dev
 *.robinhod-login-en.pages.dev
 *.robinhod-login-en9.pages.dev
 *.robinhod-login-start.pages.dev
 *.robinhod-logn-fed.pages.dev
 *.robinhod-logn-web.pages.dev
 *.robinhod-logon-us.pages.dev
+*.robinhod-sso-login.pages.dev
 *.robinhod-x-logn.pages.dev
 *.robinhood---login-a.pages.dev
 *.robinhood---login-ap.pages.dev
@@ -9579,6 +9707,7 @@ reward-tng-my.join-tr-4p1.com
 *.robinhood-login-feq.pages.dev
 *.robinhood-login-get.pages.dev
 *.robinhood-login-gets.pages.dev
+*.robinhood-login-help-us.pages.dev
 *.robinhood-login-info.pages.dev
 *.robinhood-login-io-us.pages.dev
 *.robinhood-login-io.pages.dev
@@ -9642,7 +9771,9 @@ reward-tng-my.join-tr-4p1.com
 *.robinhood-w-support.pages.dev
 *.robinhood-web-login.pages.dev
 *.robinhoodalert.com
+*.robinhoodassetsrecovery.com
 *.robinhoodlogins-com.pages.dev
+*.robinhoodlogins-io-en.pages.dev
 *.robinhoodlogon.pages.dev
 *.robinhoodrefundra.org
 *.robinhoodsignin.pages.dev
@@ -9681,6 +9812,7 @@ reward-tng-my.join-tr-4p1.com
 *.roblox-jailbreak-account-with-torpedo-for-sale.pages.dev
 *.roblox-login-015.pages.dev
 *.roblox-login-redeem-code-free.pages.dev
+*.roblox-mm2-gift-card-code-generator-no-survey.pages.dev
 *.roblox-mod-apk-robux-infinite.pages.dev
 *.roblox-mod-menu-net-unlimited-robux.pages.dev
 *.roblox-mod-unlimited-robux-100-working.pages.dev
@@ -9692,6 +9824,7 @@ reward-tng-my.join-tr-4p1.com
 *.roblox-recovery-cs7.pages.dev
 *.roblox-redeem-code-for-10-000-robux-free-robux.pages.dev
 *.roblox-redeem-gift-card-code-free-robux.pages.dev
+roblox-reward-claim.vertexhosting.xyz
 *.roblox-reward-hub.pages.dev
 *.roblox-robux-6bq.pages.dev
 *.roblox-robux-code.pages.dev
@@ -9793,6 +9926,7 @@ scotiabank.com-signin-service.com
 *.secure-a-robbinhood-en.pages.dev
 *.secure-add-coinbase.pages.dev
 *.secure-app-trustcapital-en.pages.dev
+*.secure-apple-wallet.ph
 *.secure-apps-io-krraken.pages.dev
 *.secure-apps-ledgrlive-cdn.pages.dev
 *.secure-auth-connect-authentification-m-icrosoft-m365-fr.es
@@ -9983,6 +10117,7 @@ scotiabank.com-signin-service.com
 *.secure-logn-trezrio.pages.dev
 *.secure-meta-logi.pages.dev
 *.secure-metamaask-en.pages.dev
+*.secure-metamask-app.pages.dev
 *.secure-metamask-authq.pages.dev
 *.secure-metamask-cdns.pages.dev
 *.secure-metamask-com-en.pages.dev
@@ -10102,6 +10237,7 @@ scotiabank.com-signin-service.com
 *.secure-trzor-app.pages.dev
 *.secure-trzor-brdge-admin-login.pages.dev
 *.secure-trzor-bridge.pages.dev
+*.secure-trzor-bridje.pages.dev
 *.secure-trzor-cdn.pages.dev
 *.secure-trzor-crypto.pages.dev
 *.secure-trzor-io-cwm.pages.dev
@@ -10130,6 +10266,7 @@ scotiabank.com-signin-service.com
 *.secure-wellsfargo.ws
 *.secure-x-ldgerlive-dekstop.pages.dev
 *.secure-x-netcoin.pages.dev
+*.secure-your-trezoor-bridg.pages.dev
 secure.apple.com-recovery.mmidubai.com
 secure.investec-id.live
 *.secure06a-chase-recovery-portal.org.ph
@@ -10182,6 +10319,7 @@ service-client-refund.telstra.com.au.pinkstripes.org
 *.service-kraken-logi-cdn.pages.dev
 *.service-kucoin-eng-io.pages.dev
 *.service-kucoin-lgin.pages.dev
+*.service-kucoinn-eng.pages.dev
 *.service-kucoinn-io.pages.dev
 *.service-ledgre-start-io.pages.dev
 *.service-ledgre-strt-io.pages.dev
@@ -10273,6 +10411,7 @@ sign-in.icloud-map.us
 *.sign-ledgrlive-desk.pages.dev
 *.sign-metamask-logi.pages.dev
 *.sign-robinhood-en.pages.dev
+*.sign-robinhood.pages.dev
 *.sign-secure-document-access-portal.pages.dev
 *.sign-tre-zor-suite.pages.dev
 *.sign-trezor-bridge.pages.dev
@@ -10293,6 +10432,7 @@ signin-help-recovery-am-azon.netcomstructure.com
 *.signin-robinhood-en-us.pages.dev
 *.signin-robinhood-eng-us.pages.dev
 *.signin-trustcapital.pages.dev
+*.signin-unlock-account-apple.com.ph
 *.signin-yo-ndaxx-io.pages.dev
 signin.agbank.com
 signin.aws.alert-notifications.org
@@ -10323,13 +10463,13 @@ signin.service.ncsc.gov.uk.mcas-df.ms
 *.smart-id-support.pages.dev
 *.smart-logiin-coiin-us-en.pages.dev
 *.smart-wallet-cm2.pages.dev
-*.sncf-c-est-a-vous.com
 *.so-metamask-login.pages.dev
 *.so-treezor-secure.pages.dev
 *.so-trezor-secur.pages.dev
 *.so-trezor-secure.pages.dev
 *.societegeneral-caixabank.ph
 *.softbank-invest-japan.top
+*.softbank-invest-japan.website
 *.sonnet-blockchain-piston-policy.pages.dev
 *.sorteio-bonus-reinautica.pages.dev
 *.sparkasse-foerde-login.pages.dev
@@ -10348,6 +10488,7 @@ signin.service.ncsc.gov.uk.mcas-df.ms
 *.spotifypremiumm.com.in
 *.spotifypremiums.pages.dev
 *.spotifypremiumz.pro
+*.spotifyrecover.pages.dev
 *.spotifyunlocked.pages.dev
 *.ssc-netcoins-logins.pages.dev
 *.sso--en-coinbas-cdn.pages.dev
@@ -10418,6 +10559,7 @@ signin.service.ncsc.gov.uk.mcas-df.ms
 *.sso-en-uphoold-cdn.pages.dev
 *.sso-en-uphoold-en.pages.dev
 *.sso-en-uphoold-x-us.pages.dev
+*.sso-eng-coinbase-secure.pages.dev
 *.sso-eng-metamaskk.pages.dev
 *.sso-exodus-wallet-in.pages.dev
 *.sso-exodus-wallet-us.pages.dev
@@ -10445,6 +10587,7 @@ signin.service.ncsc.gov.uk.mcas-df.ms
 *.sso-itrustcapital-crypto-gold.pages.dev
 *.sso-itrustcapital-get.pages.dev
 *.sso-itrustcapital-login-us.pages.dev
+*.sso-itrustcapital-ogin-x.pages.dev
 *.sso-itrustcapital-secure-guid.pages.dev
 *.sso-itrustcapital-sign-in-an.pages.dev
 *.sso-itrustcapital-sign-in.pages.dev
@@ -10469,6 +10612,7 @@ signin.service.ncsc.gov.uk.mcas-df.ms
 *.sso-kucoin-lgn.pages.dev
 *.sso-kucoin-log-oauth.pages.dev
 *.sso-kucoin-login-5pq.pages.dev
+*.sso-kucoin-login-get.pages.dev
 *.sso-kucoin-login-guide.pages.dev
 *.sso-kucoin-login-help-us.pages.dev
 *.sso-kucoin-login-us.pages.dev
@@ -10519,6 +10663,7 @@ signin.service.ncsc.gov.uk.mcas-df.ms
 *.sso-metamsk-io-lgin.pages.dev
 *.sso-metamsk-login.pages.dev
 *.sso-metamskk-en-login.pages.dev
+*.sso-metamssk-logn.pages.dev
 *.sso-mettamask-log.pages.dev
 *.sso-mettmask-authd.pages.dev
 *.sso-ndax-com-auths.pages.dev
@@ -10526,6 +10671,7 @@ signin.service.ncsc.gov.uk.mcas-df.ms
 *.sso-ndax-io-logi-cdn.pages.dev
 *.sso-ndax-logi.pages.dev
 *.sso-ndaxx--io.pages.dev
+*.sso-ndaxx-en-secure.pages.dev
 *.sso-ndaxx-en.pages.dev
 *.sso-ndaxx-io.pages.dev
 *.sso-ndaxx-logiin-io.pages.dev
@@ -10718,7 +10864,6 @@ sso2.ecobank-ng.ws
 *.stanbicpremium.com
 *.standardbanksupportchat.com
 *.standardbanksupportdesk.com
-standortpartner-abrechnung.emob-release-enbw.com
 *.starr--trezor-wallet.pages.dev
 *.start--en-ledgecom-sso.pages.dev
 *.start--en-ledgecom-us-sso.pages.dev
@@ -10770,11 +10915,13 @@ standortpartner-abrechnung.emob-release-enbw.com
 *.start-nett-coins-logi.pages.dev
 *.start-opensea-wallet.pages.dev
 *.start-rbinhood-login.pages.dev
+*.start-support-trezor.pages.dev
 *.start-terzor-sso.pages.dev
 *.start-tre-xor-wallet-login.pages.dev
 *.start-trezor-auths.pages.dev
 *.start-trezor-wallet.pages.dev
 *.start-trezor-wallett.pages.dev
+*.start-trezorr-auths.pages.dev
 *.start-trezorr-wallet.pages.dev
 *.start-trezrr-login-zy-eng.pages.dev
 *.start-trezzor-wallet.pages.dev
@@ -10808,8 +10955,10 @@ standortpartner-abrechnung.emob-release-enbw.com
 *.stc-bank-nfc-vo.pages.dev
 *.steam-wallet.store
 *.step-by-step-coinbase-login.pages.dev
+*.step-metamask-login.pages.dev
 *.stepby-metamask-login.pages.dev
 *.sterling-bank-online.pages.dev
+*.sterling-national-bank.pages.dev
 *.storage-online-wetransfer.com
 store.account.login.microsoftonline.com.glogoligatureoogle.store
 *.strrte-ledgerlive-wallet.pages.dev
@@ -10857,6 +11006,7 @@ store.account.login.microsoftonline.com.glogoligatureoogle.store
 *.suitee-treezor-sso.pages.dev
 suivi-colis-colissimo.parfums33ml.online
 *.suivi-logistique-colissimo.info
+*.sumpter-valley-railroad-invoice-and-payapp-secure-portal.pages.dev
 *.super-cdn-metamsk-sso.pages.dev
 *.super33-pembayaran-gopay.pages.dev
 *.suport-aave-wellet.pages.dev
@@ -11070,6 +11220,7 @@ support-google.portal-sigin-document.icu
 *.support-kraken-log-learn.pages.dev
 *.support-kraken-log.pages.dev
 *.support-kraken-login.pages.dev
+*.support-kraken-ssc.pages.dev
 *.support-kraken-webs.pages.dev
 *.support-kucion-docs.pages.dev
 *.support-kucoin--lgin.pages.dev
@@ -11110,6 +11261,7 @@ support-google.portal-sigin-document.icu
 *.support-ledgeer-live-apps.pages.dev
 *.support-ledgeer.pages.dev
 *.support-ledgelive-en.pages.dev
+*.support-ledgelive.pages.dev
 *.support-ledger--com-aauth.pages.dev
 *.support-ledger--com-auth.pages.dev
 *.support-ledger--desktop.pages.dev
@@ -11218,6 +11370,7 @@ support-google.portal-sigin-document.icu
 *.support-ledger-seed.com
 *.support-ledger-sso-liv.pages.dev
 *.support-ledger-sso.pages.dev
+*.support-ledger-start.pages.dev
 *.support-ledger-strt.pages.dev
 *.support-ledger-us-app.pages.dev
 *.support-ledger-us-io.pages.dev
@@ -11283,6 +11436,7 @@ support-google.portal-sigin-document.icu
 *.support-ledgrcom-helps-us.pages.dev
 *.support-ledgrcom-helpsus.pages.dev
 *.support-ledgrcom-io.pages.dev
+*.support-ledgrcom-us.pages.dev
 *.support-ledgrcom-usa.pages.dev
 *.support-ledgrcom.pages.dev
 *.support-ledgre-helps.pages.dev
@@ -11506,8 +11660,10 @@ support-google.portal-sigin-document.icu
 *.support-suite-trzor.pages.dev
 *.support-suites-trzor.pages.dev
 *.support-telstr.com
+*.support-terzor-io-start.pages.dev
 *.support-terzor-oi.pages.dev
 *.support-terzor.pages.dev
+*.support-terzorr-wallet-eng.pages.dev
 *.support-traderepublic.com
 *.support-treezor-iostart.pages.dev
 *.support-trezoio-help.pages.dev
@@ -11680,9 +11836,11 @@ svb-edl-abrechnung.device.service.q-sam.de
 *.swisscom-reset.cc
 *.swisspost-logistic-center32158425secure.pages.dev
 *.swisspost-offer-ch.help
+*.swisspost-pay-system.cfd
 *.t-mobile-capitalone.com
 *.tag-logn-live-ledgr.pages.dev
 *.take-ntcoins-logn.pages.dev
+*.target-locked-new.pages.dev
 *.target-unlocked-iphone.pages.dev
 *.tarif-aktivasi-bri-qpi.pages.dev
 *.tazr-logn-public.pages.dev
@@ -11711,12 +11869,16 @@ telegram.org.authenticate.dnsterm.com
 *.telstra-upgrade-login.ph
 *.tepco-poste.ph
 terima-bantuan-jahor.my-live.biz.id
+*.terzor--wallet-hardware.pages.dev
 *.terzor-hardware-wallet.pages.dev
 *.terzor-hrdware-wallet.pages.dev
 *.terzor-wallet.pages.dev
 test-login.omobile.cfd
 *.test-run-google-sign-in.pages.dev
 *.th-ja-meta-acccount-center-helps.pages.dev
+*.the-crypto-bank.com
+*.the-immediate-alpha.com
+*.the-immediate-meta-ai.com
 *.thecourierguy-delivery-za.pages.dev
 *.thegoodstuffedfoodtruck-mercadolibre-kerryexpress.ph
 *.three-signin-uk.wasmer.app
@@ -11726,6 +11888,7 @@ ticket.xn--trkcell-n2a.com
 *.tiket-kupon.pages.dev
 *.tiket-tokopedia.com
 *.tiket100-login-amp.pages.dev
+*.tiket200-panduan-akses-game-online.pages.dev
 *.tim-validacao.online
 *.tipsport-official-sk.pages.dev
 *.tipsport-prihlasit-se.org
@@ -11890,6 +12053,7 @@ trade.grup.store
 *.trezor-bridge-io-login.pages.dev
 *.trezor-bridge-io-secure.pages.dev
 *.trezor-bridge-logn.pages.dev
+*.trezor-bridge-sso-en.pages.dev
 *.trezor-bridge-sso-us.pages.dev
 *.trezor-bridge-sso.pages.dev
 *.trezor-connect--login.pages.dev
@@ -11904,6 +12068,7 @@ trade.grup.store
 *.trezor-en-logi-us.pages.dev
 *.trezor-en-login.pages.dev
 *.trezor-en-logins.pages.dev
+*.trezor-en-logn.pages.dev
 *.trezor-en-secure-io.pages.dev
 *.trezor-en-wallet.pages.dev
 *.trezor-eng-wallet.pages.dev
@@ -11915,6 +12080,7 @@ trade.grup.store
 *.trezor-guide-sso.pages.dev
 *.trezor-guide-wallet.pages.dev
 *.trezor-hard-wallet.pages.dev
+*.trezor-hard-ware-wallet-9sh.pages.dev
 *.trezor-hard-ware-wallet-dmu.pages.dev
 *.trezor-hardw-are-wallet.pages.dev
 *.trezor-hardwa-re-wallet.pages.dev
@@ -12024,6 +12190,7 @@ trade.grup.store
 *.trezor-login-ash.pages.dev
 *.trezor-login-auth-en.pages.dev
 *.trezor-login-bcw.pages.dev
+*.trezor-login-cdn-us.pages.dev
 *.trezor-login-cdn.pages.dev
 *.trezor-login-cloud-us.pages.dev
 *.trezor-login-co.pages.dev
@@ -12114,6 +12281,7 @@ trade.grup.store
 *.trezor-start-login.pages.dev
 *.trezor-ster-login.pages.dev
 *.trezor-strt-io-sso.pages.dev
+*.trezor-suit-sso.pages.dev
 *.trezor-suite--secure.pages.dev
 *.trezor-suite--support.pages.dev
 *.trezor-suite-app-login.pages.dev
@@ -12182,6 +12350,7 @@ trade.grup.store
 *.trezor-wallet-cdn-us.pages.dev
 *.trezor-wallet-cdn.pages.dev
 *.trezor-wallet-cloud.pages.dev
+*.trezor-wallet-com.pages.dev
 *.trezor-wallet-define.pages.dev
 *.trezor-wallet-doc-69n.pages.dev
 *.trezor-wallet-doc-agk.pages.dev
@@ -12224,6 +12393,7 @@ trade.grup.store
 *.trezor-wallet-logiin--us.pages.dev
 *.trezor-wallet-logiin.pages.dev
 *.trezor-wallet-login-1lz.pages.dev
+*.trezor-wallet-login-aql.pages.dev
 *.trezor-wallet-login-en-us.pages.dev
 *.trezor-wallet-login-eng-us.pages.dev
 *.trezor-wallet-login-eo.pages.dev
@@ -12242,6 +12412,7 @@ trade.grup.store
 *.trezor-wallet-set.pages.dev
 *.trezor-wallet-suite-app.pages.dev
 *.trezor-wallet-support-bzd.pages.dev
+*.trezor-wallet-support.pages.dev
 *.trezor-wallet-ts-us.pages.dev
 *.trezor-wallet-us--app.pages.dev
 *.trezor-wallet-us-app.pages.dev
@@ -12330,6 +12501,7 @@ trade.grup.store
 *.trezorwallet-info.pages.dev
 *.trezorwallet-io.pages.dev
 *.trezorwallet-login.pages.dev
+*.trezorwallet-org.pages.dev
 *.trezorwallet-run.pages.dev
 *.trezorwallet-snq.pages.dev
 *.trezorwallet-sql.pages.dev
@@ -12341,6 +12513,7 @@ trade.grup.store
 *.trezorwalletlgin.pages.dev
 *.trezorwalletlogi.pages.dev
 *.trezorwalletlogiin.pages.dev
+*.trezorwallett-cer.pages.dev
 *.trezorwallett.pages.dev
 *.trezorwallette.pages.dev
 *.trezorwalletts.pages.dev
@@ -12403,6 +12576,7 @@ trade.grup.store
 *.troubleshooting-uphold-login-issues.pages.dev
 *.trrezor-logi-never.pages.dev
 *.trrezor-logi.pages.dev
+*.trrezor-logn.pages.dev
 *.trrezor-suit-suport.pages.dev
 *.trrezor-wallet-login.pages.dev
 *.trrezor-wallet.pages.dev
@@ -12756,6 +12930,7 @@ twitter-copyright-center.fanduelsportsnerwork.com
 *.us-ledger-live-logn.pages.dev
 *.us-ledger-live-wallet.pages.dev
 *.us-ledger-logi.pages.dev
+*.us-ledger-logn.pages.dev
 *.us-ledgerlive-login.pages.dev
 *.us-ledgerlive-wallet-en.pages.dev
 *.us-ledgerr-live-login.pages.dev
@@ -12766,6 +12941,7 @@ twitter-copyright-center.fanduelsportsnerwork.com
 *.us-logiin-ledgeerlive.pages.dev
 *.us-login-metamask-io.pages.dev
 *.us-login-netcoins.pages.dev
+*.us-login-robinhood.pages.dev
 *.us-logn--ledgrlive.pages.dev
 *.us-logn-live.pages.dev
 *.us-lzer-live-logins-en.pages.dev
@@ -12775,6 +12951,7 @@ twitter-copyright-center.fanduelsportsnerwork.com
 *.us-metamask-wallet.pages.dev
 *.us-mettamask-secure.pages.dev
 *.us-ndax-logn.pages.dev
+*.us-ndaxx-login-portal.pages.dev
 *.us-ndaxx-login-sos.pages.dev
 *.us-ndaxx-logn.pages.dev
 *.us-net-coins-logn.pages.dev
@@ -12861,6 +13038,7 @@ user-confirmation.advanced-coinbase.workers.dev
 *.verification-bdo.cc
 *.verification-caixa.ph
 *.verification-cibc-digital-business.com
+*.verification-google.ph
 *.verification-messenger-pass.ph
 *.verification-messenger-update-notice.ph
 *.verification-messenger-update-pass.ph
@@ -12871,6 +13049,7 @@ verification.amazon.spot4all.com
 verification.grab5stareatsawards.com
 verification002-rapid-bonus-b4b7.sharedisc.workers.dev
 *.verificationinstagram.pages.dev
+verificationpaypal.cotesud33.org
 *.verifiedbinance.com
 *.verifiedcapitalone1com.pages.dev
 *.verifiedcapitalonecom.pages.dev
@@ -12911,6 +13090,7 @@ verify.usbank-online.workers.dev
 *.view-ledger-wallet.pages.dev
 *.view-logn--e-trezrr.pages.dev
 *.view-logn-e-trezrr.pages.dev
+*.view-logn-trezor.pages.dev
 *.view-logn-trzor.pages.dev
 *.view-logn-trzorr.pages.dev
 *.view-metamask-login.pages.dev
@@ -12989,6 +13169,7 @@ verify.usbank-online.workers.dev
 *.wallet-eng-uphold.pages.dev
 *.wallet-exodus--web.pages.dev
 *.wallet-exodus-co.pages.dev
+*.wallet-exodus-com.pages.dev
 *.wallet-exodus-en.pages.dev
 *.wallet-exodus-eng.pages.dev
 *.wallet-exodus-ion.pages.dev
@@ -13070,6 +13251,7 @@ verify.usbank-online.workers.dev
 *.wallet-ledger-start.pages.dev
 *.wallet-ledger-us.pages.dev
 *.wallet-ledger-x.pages.dev
+*.wallet-ledgerlive-com.pages.dev
 *.wallet-ledgerlive-doc.pages.dev
 *.wallet-ledgerlive-io.pages.dev
 *.wallet-ledgerlive-usa.pages.dev
@@ -13235,6 +13417,7 @@ wallet.ooffice365.com
 *.walmart-reward-8ir2rinz1sc8nqm.pages.dev
 *.walmart-reward-9picisjha0nw5oo.pages.dev
 *.walmart-reward-cy9wrqqv16ibi71.pages.dev
+*.walmart-reward-eo4mwe6al7l5arz.pages.dev
 *.walmart-reward-ey8flhihkr0k3xz.pages.dev
 *.walmart-reward-fbuf1g3zdwns5lv.pages.dev
 *.walmart-reward-jwnclx3j09a95pg.pages.dev
@@ -13246,6 +13429,7 @@ wallet.ooffice365.com
 *.walmart-reward-ppz71mtghiqywee.pages.dev
 *.walmart-reward-rpwvwnpwt20rrlc.pages.dev
 *.walmart-reward-rrjjk7n0ae898tn.pages.dev
+*.walmart-reward-tef5zmtme0gu7ts.pages.dev
 *.walmart-reward-x3cvz25lm23scl1.pages.dev
 walmart.promo-offer.today
 *.walmart1000gift.pages.dev
@@ -13316,6 +13500,7 @@ walmartrewards.payment.lexop.com
 *.web-login-ledgre.pages.dev
 *.web-login-metamaskk-eng.pages.dev
 *.web-login-netcoins.pages.dev
+*.web-login-trezor.pages.dev
 *.web-login-trezzor.pages.dev
 web-login.omobile.cfd
 *.web-logn-gemini.pages.dev
@@ -13347,6 +13532,7 @@ web-login.omobile.cfd
 *.web-sso-ldgerlive.pages.dev
 *.web-sso-netcoin.pages.dev
 *.web-support-ntcoins.pages.dev
+*.web-telegram-sign-in.duckdns.org
 *.web-telegram-signin.duckdns.org
 *.web-terzor-wallet-us.pages.dev
 *.web-treezor-login.pages.dev
@@ -13378,11 +13564,13 @@ web-login.omobile.cfd
 *.web3-wallet-crypto.com
 *.web3-wallet-exdous.pages.dev
 *.webapp-signin-caixa.com
+*.webmail-eastlink-ii.pages.dev
 webmail-login.unicredit-onlineplatform.com
 webmail.fedex-delivery-tracking.aiianc.com
 *.webpage-helps-live.pages.dev
 *.webpage-logn-trezrr.pages.dev
 *.website-secure-coinbase.pages.dev
+*.webtrezorloggin.pages.dev
 *.wel-blockfi-login-sso.pages.dev
 *.wel-blockfi-login.pages.dev
 *.wel-blockfi-ltd-login.pages.dev
@@ -13488,6 +13676,7 @@ wildberrie.jumia-vip.shop
 *.with-logn-terzor-io-eng.pages.dev
 *.wizinkcuenta.pages.dev
 *.wl-coinbase-login.pages.dev
+*.wle-kucoin-login.pages.dev
 *.wlt-gemini-logins.pages.dev
 *.wlt-metamask-login.pages.dev
 *.wlt-robinhood-login.pages.dev
@@ -13534,6 +13723,7 @@ ww38.signin.tbbank.com
 *.www-robinhood-login-com.pages.dev
 *.www-roblox-robux-com.pages.dev
 *.www-support-paypal.ph
+www.00-sec-secure-chase-personal-christine.chaseonline00.eu.cc
 www.accountupdate.amazon.syhbkr.ph
 www.accountupdatepaypal.beuthner.co.za
 www.aktivasi-imei-beacukai.informasi.online
@@ -13619,9 +13809,11 @@ yahoo-verification.fanduelsportsnetwotk.com
 youtubepremium.edmontv.xyz
 youtubepremium.fuxionportv.xyz
 *.youtubepremium.one
+*.youtubepremium.org
 *.youtubepremium.sbs
 *.youtubesupport.com
 *.yurticikargo-glsgroup.ph
 *.zahlung-kleinanzeigen.pro
 zelle-wellfargo.arktabela.com
+*.zia-ul-meezan.online
 *.zurum-jumia-nigeria-online-shopping-for-electr.pages.dev

@@ -1,16 +1,18 @@
 # Title: EZOBLOCKER Piracy, Germany (de)
-# Domains: 11 | Updated: 2026-10-12
+# Domains: 13 | Updated: 2026-10-12
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/piracy/countries/de.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
 0.0.0.0 buffstreamsapp.com
 0.0.0.0 db.iptv.blog
+0.0.0.0 ddownloads.org
 0.0.0.0 filmpalast.de
 0.0.0.0 footybite.live
 0.0.0.0 footybite.to
 0.0.0.0 footybite1.live
 0.0.0.0 footybites.click
+0.0.0.0 rapidgators.net
 0.0.0.0 topusenet.de
 0.0.0.0 totalsportek1.is
 0.0.0.0 usenet1.de

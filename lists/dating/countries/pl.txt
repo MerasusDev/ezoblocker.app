@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Dating, Poland (pl)
-# Domains: 5 | Updated: 2026-10-12
+# Domains: 9 | Updated: 2026-10-12
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/lists/dating/countries/pl.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -8,4 +8,8 @@
 *.przeznaczeni.pl
 *.randki24.pl
 *.randkujemy.pl
+*.roksa.priv.pl
 *.roksa.sx
+*.stronyrandkowe.pl
+*.sugardaddy.pl
+www.ogloszenia.nowy-sacz.pl

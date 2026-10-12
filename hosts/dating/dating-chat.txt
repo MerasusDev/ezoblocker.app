@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Dating, chat rooms and random video chat
-# Domains: 251 | Updated: 2026-10-12
+# Domains: 275 | Updated: 2026-10-12
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/dating/dating-chat.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -10,11 +10,13 @@
 0.0.0.0 alemortam.net
 0.0.0.0 almomaiz.free-sadad.com
 0.0.0.0 app.chatib.chat
+0.0.0.0 app.homo.nl
 0.0.0.0 arabchat.base44.app
 0.0.0.0 arabchat.mobi
 0.0.0.0 arabchatting.com
 0.0.0.0 argentina.zonacitas.com
 0.0.0.0 askalemi.net
+0.0.0.0 au.banana-chat.com
 0.0.0.0 azarlive.com
 0.0.0.0 badoo.com
 0.0.0.0 badoocdn.com
@@ -32,8 +34,11 @@
 0.0.0.0 bumble.com
 0.0.0.0 busohbet.com
 0.0.0.0 buyuksohbet.com
+0.0.0.0 camchat.today
 0.0.0.0 camgo.com
+0.0.0.0 camsurf.chat
 0.0.0.0 camsurf.com
+0.0.0.0 camsurf.tv
 0.0.0.0 career.hyperconnect.com
 0.0.0.0 cennetim.com
 0.0.0.0 chat.europnet.org
@@ -54,12 +59,16 @@
 0.0.0.0 chateagratis.net
 0.0.0.0 chatealo.chat
 0.0.0.0 chathispano.com
+0.0.0.0 chathub.gg
+0.0.0.0 chathub.net
 0.0.0.0 chathub.tv
+0.0.0.0 chathubapp.com
 0.0.0.0 chatib.us
 0.0.0.0 chatlady.rei35.com
 0.0.0.0 chatlatinos.cl
 0.0.0.0 chatlibertingratuit.fr
 0.0.0.0 chatonline.pt
+0.0.0.0 chatous.com
 0.0.0.0 chatpia.jp
 0.0.0.0 chatrandom.com
 0.0.0.0 chatrandom.net
@@ -97,6 +106,7 @@
 0.0.0.0 emeraldchat.com
 0.0.0.0 eniyichat.com
 0.0.0.0 enterchatroom.com
+0.0.0.0 erotickychat.net
 0.0.0.0 erotik.markt.ch
 0.0.0.0 esohbet.net
 0.0.0.0 evinsohbet.com
@@ -106,8 +116,11 @@
 0.0.0.0 flirtchat.ch
 0.0.0.0 flirtchat.nl
 0.0.0.0 frageladan.isof.se
+0.0.0.0 free.adultxcamz.com
 0.0.0.0 freecam.chat
 0.0.0.0 friendschatroom.net
+0.0.0.0 fruzo.apkpure.co.in
+0.0.0.0 fruzo.com
 0.0.0.0 fundacionchatlatino.org
 0.0.0.0 gb.banana-chat.com
 0.0.0.0 gelchat.net
@@ -115,6 +128,7 @@
 0.0.0.0 gevezeyeri.com
 0.0.0.0 giant-stoixima-apg.aestheticon.gr
 0.0.0.0 greekschat.com
+0.0.0.0 gupshupzone.chatovod.com
 0.0.0.0 harbiyiz.org
 0.0.0.0 harikasohbet.com
 0.0.0.0 hiperalem.com
@@ -135,9 +149,11 @@
 0.0.0.0 kolaychat.org
 0.0.0.0 kolaysohbet.com
 0.0.0.0 koyusohbet.com.tr
+0.0.0.0 lablue.de
 0.0.0.0 laflamak.com
 0.0.0.0 lavinsta.com
 0.0.0.0 live.ajman.ac.ae
+0.0.0.0 livechat.sex-czech.cz
 0.0.0.0 m.dreamersforum.nl
 0.0.0.0 m.ymeet.me
 0.0.0.0 meetme.com
@@ -187,6 +203,7 @@
 0.0.0.0 randomchat.pnyo.jp
 0.0.0.0 randomchat.today
 0.0.0.0 randomchatpro.com
+0.0.0.0 randomvideochat.me
 0.0.0.0 roomchat.site
 0.0.0.0 ruletka.chat
 0.0.0.0 saglamsohbet.com
@@ -200,7 +217,9 @@
 0.0.0.0 seslitube.com
 0.0.0.0 seslivatan.com
 0.0.0.0 sevgichat.com
+0.0.0.0 sexchat.ru
 0.0.0.0 sexchatroom.de
+0.0.0.0 sexchatttttt.chatovod.com
 0.0.0.0 shada-shatea.hotels-saudi-arabia.com
 0.0.0.0 shagle.com
 0.0.0.0 siyahinci.net
@@ -222,6 +241,7 @@
 0.0.0.0 spinchat.com
 0.0.0.0 stnnsh.ivocaruso.it
 0.0.0.0 strangercam.com
+0.0.0.0 strangerline.io
 0.0.0.0 subdomainfinder.c99.nl
 0.0.0.0 supermekan.com
 0.0.0.0 swisschat.org
@@ -231,6 +251,9 @@
 0.0.0.0 tchatche.com
 0.0.0.0 tchatplancul.fr
 0.0.0.0 thailandchat.net
+0.0.0.0 thairoom.ca
+0.0.0.0 thaitalkai.com
+0.0.0.0 thaitalkforex.com
 0.0.0.0 tinder.com
 0.0.0.0 trchat.com
 0.0.0.0 trende.com.tr
@@ -253,5 +276,6 @@
 0.0.0.0 web.chatapropo.ro
 0.0.0.0 wireclub.com
 0.0.0.0 yazgulu.net
+0.0.0.0 yozm.wishket.com
 0.0.0.0 zap.struckd.com
 0.0.0.0 zurna.net

@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy, India (in)
-# Domains: 15 | Updated: 2026-10-12
+# Domains: 23 | Updated: 2026-10-12
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/piracy/countries/in.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -7,6 +7,11 @@
 0.0.0.0 1kuttymovies.pro
 0.0.0.0 crictime.com
 0.0.0.0 crictime.is
+0.0.0.0 filmyzilla.holiday
+0.0.0.0 filmyzilla76.in
+0.0.0.0 footybite.cyou
+0.0.0.0 footybite.skin
+0.0.0.0 footybites.biz
 0.0.0.0 isaimini.beauty
 0.0.0.0 isaimini.doctor
 0.0.0.0 isaimini.men
@@ -18,4 +23,7 @@
 0.0.0.0 kuttymovies.im
 0.0.0.0 kuttymovies.vip
 0.0.0.0 kuttymovies.win
+0.0.0.0 movierulz.casa
+0.0.0.0 movierulz.center
+0.0.0.0 movierulzpk.pro
 0.0.0.0 new.touchcric.com

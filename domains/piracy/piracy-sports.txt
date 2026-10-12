@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy, illegal sports streams
-# Domains: 187 | Updated: 2026-10-12
+# Domains: 209 | Updated: 2026-10-12
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/domains/piracy/piracy-sports.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -8,6 +8,7 @@
 90phut.dev
 90phutt.co
 90phutzas.tv
+90phutzat.tv
 acestreamid.com
 admin.avalie.pi.gov.br
 agenda.ipece.ce.gov.br
@@ -27,9 +28,11 @@ crackstreams.ch
 crackstreams.guru
 crackstreams.in
 crackstreams.mx
+crackstreamsmax.site
 cricstream.mom
 crictime.com
 crictime.is
+daddylive.pk
 dekoora.store
 dev-forms-engine-api.brisbane.qld.gov.au
 direttagoal.it
@@ -38,15 +41,21 @@ famemma.tv
 filmora.wondershare.kr
 find-and-update.company-information.service.gov.uk
 footybite.com.co
+footybite.cyou
+footybite.forum
 footybite.im
 footybite.live
+footybite.skin
 footybite.soccer
 footybite.to
 footybite.vg
 footybite1.live
+footybites.biz
 footybites.click
 freeshot.ch
 freeshot.it
+freesport.com
+freesportscap.com
 french.visitkorea.or.kr
 futbolete.com
 futbollibre.kim
@@ -85,6 +94,7 @@ kooralivematch.club
 koorashootnews.com
 kooratop.live
 kooratv.club
+kora-star.misrlinks.com
 kora4live.surf
 koraonline.quest
 liveball.sx
@@ -104,6 +114,7 @@ mecze24.pl
 methstreams.digital
 mlbbite.plus
 multicanais.nexus
+myvipbox.com
 nbabite.net
 netspor.co
 new.touchcric.com
@@ -120,6 +131,8 @@ pirlotv.shop
 pirlotv.win
 pirlotv1.live
 pirlotvv.org
+premierleague.com
+rojadirect.best
 rojadirecta.cash
 rojadirecta.cloud
 rojadirecta.com.co
@@ -127,6 +140,7 @@ rojadirectafullhd.net
 rojadirectatvmas.org
 s1s.designq.kr
 saas.spochak.com
+scoreman123.com
 selcuksportshd.is
 siamsport.co.th
 socolive-bd-tv.art
@@ -139,8 +153,10 @@ socolivetvz.top
 socolivev.co
 socolivezq.tv
 sp.supercell.jp
+sport.sky.ch
 sportlive24.tv
 sportonline.cz
+sportsclub.sports.or.kr
 sportstream-365.com
 sportstream.hu
 sportstream.se
@@ -156,6 +172,7 @@ streameasttop.com
 streamonsport.lat
 streamsport.ie
 strims.com.pl
+supersportbet.com
 t.matec.kr
 taraftarium24-aslan5.com
 taraftarium24-live3.com
@@ -175,6 +192,9 @@ tarjetarojaonline.info
 tarjetarojaonline.pro
 tarjetarojatv.mobi
 totalsportek1.is
+totalsporteki.rest
+totalsportekplus.org
+tour.gra.uk.com
 tructiep90phuttv.club
 tvnsports.cjenm.com
 vipbox1.com
@@ -182,11 +202,13 @@ vipleague.be
 vipleague.ro
 vipleague.stream
 viprow.pro
+welcome.blasttv.ph
 xoilac1.help
 xoilac3.cc
 xoilac5.top
 xoilactvbm.cc
 xoilacvn.net
+xoilacxbk.tv
 xoilacxbr.tv
 yallakora.com
 yallakora.misrlinks.com

@@ -1,12 +1,14 @@
 # Title: EZOBLOCKER Gambling, Philippines (ph)
-# Domains: 10 | Updated: 2026-10-12
+# Domains: 12 | Updated: 2026-10-12
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/gambling/countries/ph.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
 0.0.0.0 lucky365in.com
 0.0.0.0 makati-city.infoisinfo-ph.com
+0.0.0.0 participate.indices-culture.eu
 0.0.0.0 pesobetofficial.com
+0.0.0.0 phl.bizdirlib.com
 0.0.0.0 phwin6.com
 0.0.0.0 pins.schuttrange.lu
 0.0.0.0 swerte99.com

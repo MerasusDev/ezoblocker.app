@@ -1,9 +1,12 @@
 ! Title: EZOBLOCKER Piracy, Saudi Arabia (sa)
-! Domains: 9 | Updated: 2026-10-12
+! Domains: 13 | Updated: 2026-10-12
 ! Homepage: https://github.com/MerasusDev/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/piracy/countries/sa.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 ! App: https://ezoblocker.app
+||beoutq.tv^
+|cimaclub.ct.ws^
+||cimaclubsite.blogspot.com^
 ||egybesstt.baby^
 ||faselhd.beer^
 ||faselhd.ws^
@@ -12,4 +15,5 @@
 ||livehd7.quest^
 ||livehd71.live^
 ||livehd71.top^
+|w.cimacub.com^
 ||yallakora.com^

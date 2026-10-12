@@ -1,49 +1,68 @@
 # Title: EZOBLOCKER Bypass
-# Domains: 84 | Updated: 2026-10-12
+# Domains: 108 | Updated: 2026-10-12
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/bypass/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
 0.0.0.0 9japroxy.com
+0.0.0.0 app.cyberyozh.com
+0.0.0.0 aproxy.com
 0.0.0.0 apt.izzysoft.de
+0.0.0.0 bestproxy.com
+0.0.0.0 betternet.be
 0.0.0.0 blockaway.ca
 0.0.0.0 browsec.cx
 0.0.0.0 browsecvps.org
+0.0.0.0 browserscan.net
 0.0.0.0 cameleo-xyz.webscorechecker.com
 0.0.0.0 cameleo.org
 0.0.0.0 cloud.up4.cz
 0.0.0.0 cloudsupport.sequentum.com
 0.0.0.0 ctunnel.com
-0.0.0.0 developer.novada.com
 0.0.0.0 discourse.aosus.org
+0.0.0.0 doc.alvao.com
 0.0.0.0 dtunnel.net
+0.0.0.0 eliteproxyswitcher.com
+0.0.0.0 endian.eth0.com.br
 0.0.0.0 express-vpn.app
 0.0.0.0 expressrefer.com
 0.0.0.0 free-proxy-list.net
 0.0.0.0 freeproxy.win
-0.0.0.0 freeproxy.world
 0.0.0.0 freevpn.edu.pl
 0.0.0.0 getunicorn.app
 0.0.0.0 helpcenter.trendlife.com
 0.0.0.0 helpdesk.iupat.org
+0.0.0.0 hide-my-ip.net
 0.0.0.0 hideproxy.io
 0.0.0.0 hotspot-shield.ar.softmany.com
 0.0.0.0 insights.streamuktvabroad.com
+0.0.0.0 ipfoxy.com
 0.0.0.0 k-tunnel.net
 0.0.0.0 kbm.slp-contents.com
+0.0.0.0 kiotproxy.com
 0.0.0.0 kproxy-extension.softonic.nl
 0.0.0.0 ktunneli.com
 0.0.0.0 lifestyle.assist-all.co.jp
+0.0.0.0 lightningproxies.net
+0.0.0.0 momoproxy.com
 0.0.0.0 naijaproxy.com
+0.0.0.0 novada.com
+0.0.0.0 noxproxy.com
+0.0.0.0 nsocks.com
+0.0.0.0 okeyproxy.com
+0.0.0.0 okkproxy.com
 0.0.0.0 panduan.opendesa.id
 0.0.0.0 powertunnel.org
+0.0.0.0 proxy-checker.org
+0.0.0.0 proxy302.com
 0.0.0.0 proxy6.net
 0.0.0.0 proxycoupons.com
 0.0.0.0 proxynet.io
-0.0.0.0 proxyscrape.com
+0.0.0.0 proxysale.com
 0.0.0.0 proxysites.ai
 0.0.0.0 proxyviet.net
 0.0.0.0 proxyviet.org
+0.0.0.0 psiphon.alsindibad.com
 0.0.0.0 psiphon.ar.softmany.com
 0.0.0.0 psiphon.com
 0.0.0.0 psiphon.kr.softmany.com
@@ -54,7 +73,6 @@
 0.0.0.0 shadowsocks.com
 0.0.0.0 shield-way.com
 0.0.0.0 siamproxy.com
-0.0.0.0 smartdnsproxy.com
 0.0.0.0 smartproxy.ai
 0.0.0.0 smartproxy.cn
 0.0.0.0 smartproxy.es
@@ -68,8 +86,13 @@
 0.0.0.0 smartproxy.se
 0.0.0.0 smartproxy.tw
 0.0.0.0 smartproxy.vn
+0.0.0.0 snapvpn.net
+0.0.0.0 softether.jp
+0.0.0.0 softether.org
+0.0.0.0 swissvpn.co
 0.0.0.0 tools.tracemyip.org
 0.0.0.0 torprojectstatus.org
+0.0.0.0 tradeproxy.vn
 0.0.0.0 tunnelbear.ar.softmany.com
 0.0.0.0 ultrasurf-vpn.pages.dev
 0.0.0.0 ultrasurf.ar.softmany.com
@@ -82,6 +105,7 @@
 0.0.0.0 unblockyoutube.video
 0.0.0.0 v2ray-macos-arm64-v8a.zip
 0.0.0.0 vpn-proxy-master.en.softmany.com
+0.0.0.0 vpn.g-l.ch
 0.0.0.0 vpngate.4d.workers.dev
 0.0.0.0 websiteunblocker.io
 0.0.0.0 websiteunblocker.net

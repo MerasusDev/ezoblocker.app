@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Dating, Germany (de)
-# Domains: 14 | Updated: 2026-10-12
+# Domains: 17 | Updated: 2026-10-12
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/dating/countries/de.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -7,14 +7,17 @@
 0.0.0.0 chatcity.com
 0.0.0.0 chatcity.de
 0.0.0.0 chatroom2000.de
+0.0.0.0 cs-partnervermittlung.com
 0.0.0.0 deincamchat.de
 0.0.0.0 elitepartner.de
 0.0.0.0 joyclub.de
 0.0.0.0 kaufmich.com
 0.0.0.0 knuddels.de
+0.0.0.0 lablue.de
 0.0.0.0 lovoo.com
 0.0.0.0 parship.de
 0.0.0.0 partnersucheplus.de
+0.0.0.0 seitensprung-fibel.de
 0.0.0.0 singleboersen-aktuell.de
 0.0.0.0 singleboersen-vergleich.de
 0.0.0.0 spinchat.com

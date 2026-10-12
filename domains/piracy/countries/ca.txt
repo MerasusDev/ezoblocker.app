@@ -1,15 +1,25 @@
 # Title: EZOBLOCKER Piracy, Canada (ca)
-# Domains: 9 | Updated: 2026-10-12
+# Domains: 19 | Updated: 2026-10-12
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/domains/piracy/countries/ca.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
+1337x.com.im
 6stream.net
+9anime.co.nl
+9anime.direct
+9animetv.vg
 crackstreams.in
+gogoanime.biz.in
+gogoanime.co.ke
 methstreams.digital
+rojadirect.best
 soap2daytv.me
 solarmovie1.watch
 solarmovies.com.co
 solarmoviesz.co
+torrentgalaxy.hair
+totalsporteki.rest
+totalsportekplus.org
 watchseries.net
 watchseriesfree.watch

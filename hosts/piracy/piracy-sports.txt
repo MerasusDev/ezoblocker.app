@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy, illegal sports streams
-# Domains: 187 | Updated: 2026-10-12
+# Domains: 209 | Updated: 2026-10-12
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/piracy/piracy-sports.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -8,6 +8,7 @@
 0.0.0.0 90phut.dev
 0.0.0.0 90phutt.co
 0.0.0.0 90phutzas.tv
+0.0.0.0 90phutzat.tv
 0.0.0.0 acestreamid.com
 0.0.0.0 admin.avalie.pi.gov.br
 0.0.0.0 agenda.ipece.ce.gov.br
@@ -27,9 +28,11 @@
 0.0.0.0 crackstreams.guru
 0.0.0.0 crackstreams.in
 0.0.0.0 crackstreams.mx
+0.0.0.0 crackstreamsmax.site
 0.0.0.0 cricstream.mom
 0.0.0.0 crictime.com
 0.0.0.0 crictime.is
+0.0.0.0 daddylive.pk
 0.0.0.0 dekoora.store
 0.0.0.0 dev-forms-engine-api.brisbane.qld.gov.au
 0.0.0.0 direttagoal.it
@@ -38,15 +41,21 @@
 0.0.0.0 filmora.wondershare.kr
 0.0.0.0 find-and-update.company-information.service.gov.uk
 0.0.0.0 footybite.com.co
+0.0.0.0 footybite.cyou
+0.0.0.0 footybite.forum
 0.0.0.0 footybite.im
 0.0.0.0 footybite.live
+0.0.0.0 footybite.skin
 0.0.0.0 footybite.soccer
 0.0.0.0 footybite.to
 0.0.0.0 footybite.vg
 0.0.0.0 footybite1.live
+0.0.0.0 footybites.biz
 0.0.0.0 footybites.click
 0.0.0.0 freeshot.ch
 0.0.0.0 freeshot.it
+0.0.0.0 freesport.com
+0.0.0.0 freesportscap.com
 0.0.0.0 french.visitkorea.or.kr
 0.0.0.0 futbolete.com
 0.0.0.0 futbollibre.kim
@@ -85,6 +94,7 @@
 0.0.0.0 koorashootnews.com
 0.0.0.0 kooratop.live
 0.0.0.0 kooratv.club
+0.0.0.0 kora-star.misrlinks.com
 0.0.0.0 kora4live.surf
 0.0.0.0 koraonline.quest
 0.0.0.0 liveball.sx
@@ -104,6 +114,7 @@
 0.0.0.0 methstreams.digital
 0.0.0.0 mlbbite.plus
 0.0.0.0 multicanais.nexus
+0.0.0.0 myvipbox.com
 0.0.0.0 nbabite.net
 0.0.0.0 netspor.co
 0.0.0.0 new.touchcric.com
@@ -120,6 +131,8 @@
 0.0.0.0 pirlotv.win
 0.0.0.0 pirlotv1.live
 0.0.0.0 pirlotvv.org
+0.0.0.0 premierleague.com
+0.0.0.0 rojadirect.best
 0.0.0.0 rojadirecta.cash
 0.0.0.0 rojadirecta.cloud
 0.0.0.0 rojadirecta.com.co
@@ -127,6 +140,7 @@
 0.0.0.0 rojadirectatvmas.org
 0.0.0.0 s1s.designq.kr
 0.0.0.0 saas.spochak.com
+0.0.0.0 scoreman123.com
 0.0.0.0 selcuksportshd.is
 0.0.0.0 siamsport.co.th
 0.0.0.0 socolive-bd-tv.art
@@ -139,8 +153,10 @@
 0.0.0.0 socolivev.co
 0.0.0.0 socolivezq.tv
 0.0.0.0 sp.supercell.jp
+0.0.0.0 sport.sky.ch
 0.0.0.0 sportlive24.tv
 0.0.0.0 sportonline.cz
+0.0.0.0 sportsclub.sports.or.kr
 0.0.0.0 sportstream-365.com
 0.0.0.0 sportstream.hu
 0.0.0.0 sportstream.se
@@ -156,6 +172,7 @@
 0.0.0.0 streamonsport.lat
 0.0.0.0 streamsport.ie
 0.0.0.0 strims.com.pl
+0.0.0.0 supersportbet.com
 0.0.0.0 t.matec.kr
 0.0.0.0 taraftarium24-aslan5.com
 0.0.0.0 taraftarium24-live3.com
@@ -175,6 +192,9 @@
 0.0.0.0 tarjetarojaonline.pro
 0.0.0.0 tarjetarojatv.mobi
 0.0.0.0 totalsportek1.is
+0.0.0.0 totalsporteki.rest
+0.0.0.0 totalsportekplus.org
+0.0.0.0 tour.gra.uk.com
 0.0.0.0 tructiep90phuttv.club
 0.0.0.0 tvnsports.cjenm.com
 0.0.0.0 vipbox1.com
@@ -182,11 +202,13 @@
 0.0.0.0 vipleague.ro
 0.0.0.0 vipleague.stream
 0.0.0.0 viprow.pro
+0.0.0.0 welcome.blasttv.ph
 0.0.0.0 xoilac1.help
 0.0.0.0 xoilac3.cc
 0.0.0.0 xoilac5.top
 0.0.0.0 xoilactvbm.cc
 0.0.0.0 xoilacvn.net
+0.0.0.0 xoilacxbk.tv
 0.0.0.0 xoilacxbr.tv
 0.0.0.0 yallakora.com
 0.0.0.0 yallakora.misrlinks.com

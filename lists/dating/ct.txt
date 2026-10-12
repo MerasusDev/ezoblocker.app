@@ -1,27 +1,34 @@
 # Title: EZOBLOCKER Dating, ct
-# Domains: 31 | Updated: 2026-10-12
+# Domains: 39 | Updated: 2026-10-12
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/lists/dating/ct.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
 *.alanyaescort.blog
+*.amp-izmirbayaneskort.pages.dev
 *.asiatinnen-treff.com
 *.bakirkoyeskort.website
 *.cambridgeshireescorts.agency
 *.casadasinfieles.net
 *.cheap-london-escort.com
+*.contactosyencuentros.es
 *.dansksexdating.com
 *.dansksugardating.com
+*.delhi-escorts.club
 *.dhakavipescort.com
 *.dogging-bh.top
 *.efsaneescort67.shop
 *.escort-argentina.com
 *.escortigramreviews.com
+*.escortlady-hannover.de
 *.exchangeescort.xyz
 *.faridabadcallgirl.com
 *.gaymassage-tokyo.com
 *.hotgirlsescortsmallorca.com
+*.locanto.space
+*.notten-papakatsu.jp
 *.parejasliberales.com
+*.perfectescort.xyz
 *.pijatpanggilanpekanbaru.com
 *.privehuisdreamgirls.nl
 *.romeescortgirls.com
@@ -34,4 +41,5 @@
 *.tokyo-mensesthe-map.com
 *.top-sugardating.com
 *.ukpunting.uk.com
+*.via-escort.ru
 *.whatssexdate.net

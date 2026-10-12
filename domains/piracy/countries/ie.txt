@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy, Ireland (ie)
-# Domains: 8 | Updated: 2026-10-12
+# Domains: 11 | Updated: 2026-10-12
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/domains/piracy/countries/ie.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -8,7 +8,10 @@
 9anime.me.uk
 9anime.or.at
 9animes.ro
+crackstreamsmax.site
+mangakakalot.to
 page.inplayer.com
 streamcode.fit
 streamsport.ie
+torrentfreak.com
 vipbox1.com

@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, United States (us)
-# Domains: 23 | Updated: 2026-10-12
+# Domains: 25 | Updated: 2026-10-12
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/adult/countries/us.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -12,10 +12,12 @@
 0.0.0.0 blueboutique.com
 0.0.0.0 cindies.com
 0.0.0.0 cirillas.com
+0.0.0.0 coomersu1.com
 0.0.0.0 cupidscloset.com
 0.0.0.0 dallasnovelty.com
 0.0.0.0 doxxes.love
 0.0.0.0 hustlerhollywood.com
+0.0.0.0 kemono.cv
 0.0.0.0 ladykonfidential.com
 0.0.0.0 lionsden.com
 0.0.0.0 lovehoneyforum.com
