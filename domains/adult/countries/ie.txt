@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, Ireland (ie)
-# Domains: 14 | Updated: 2026-10-13
+# Domains: 16 | Updated: 2026-10-13
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/domains/adult/countries/ie.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -7,11 +7,13 @@
 adultfantasy.ie
 adultsextoys.ie
 desirel.ie
+hotfrog.ie
 loveangels.ie
 lovesexshop.ie
 lovetoyshopper.com
 missfantasia.ie
 playblue.com
+resolver.co.uk
 sexshopireland.ie
 sexsiopa.ie
 sexstore.ie

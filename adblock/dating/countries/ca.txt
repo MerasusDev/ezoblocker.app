@@ -1,19 +1,36 @@
 ! Title: EZOBLOCKER Dating, Canada (ca)
-! Domains: 13 | Updated: 2026-10-13
+! Domains: 30 | Updated: 2026-10-13
 ! Homepage: https://github.com/MerasusDev/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/dating/countries/ca.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 ! App: https://ezoblocker.app
+|ab.211.ca^
+|calgary.5escorts.ca^
+|calgary.bonepage.com^
 ||callescort.org^
+|canada.escortface.com^
+||canadaescorts.ca^
+||chathub.com.br^
 ||chathub.gg^
 ||chathub.net^
+||chathub1.com^
 ||chathubapp.com^
 ||chatib.us^
+|edmonton.bonepage.com^
+|halifax.5escorts.ca^
+|kitchener.bonepage.com^
 ||leolist.ca^
 ||leolist.cc^
 ||leolist.co^
 ||leolist.vc^
+|london-ont.bonepage.com^
+|ottawa.bonepage.com^
+|regina.bonepage.com^
+|saskatoon.bonepage.com^
 ||skipthegames.com^
 ||strangercam.com^
 ||talkwithstranger.com^
+|vancouver.bonepage.com^
+|victoria-bc.bonepage.com^
+|winnipeg.5escorts.ca^
 ||wireclub.com^

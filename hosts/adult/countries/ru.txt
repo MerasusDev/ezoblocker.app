@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, Russia (ru)
-# Domains: 17 | Updated: 2026-10-13
+# Domains: 21 | Updated: 2026-10-13
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/adult/countries/ru.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -11,6 +11,7 @@
 0.0.0.0 intimshop.ru
 0.0.0.0 kirov.fooby.ru
 0.0.0.0 kras-sex.ru
+0.0.0.0 love-toys.ru
 0.0.0.0 lovemarket.net
 0.0.0.0 magazin-sexshop.ru
 0.0.0.0 mysextoys.ru
@@ -20,4 +21,7 @@
 0.0.0.0 sexshop-xl.ru
 0.0.0.0 sexshop.ru
 0.0.0.0 sexshopers.ru
+0.0.0.0 sexystyle.ru
+0.0.0.0 smartsextoys.ru
 0.0.0.0 stripmag.ru
+0.0.0.0 toy31.ru

@@ -1,9 +1,14 @@
 ! Title: EZOBLOCKER Piracy, Russia (ru)
-! Domains: 9 | Updated: 2026-10-13
+! Domains: 14 | Updated: 2026-10-13
 ! Homepage: https://github.com/MerasusDev/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/piracy/countries/ru.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 ! App: https://ezoblocker.app
+||baskino.digital^
+||baskino.fm^
+||baskino.inc^
+||baskino.my^
+||baskino.website^
 ||kinogo.is^
 ||kinogofm.co^
 ||kinozal.me^

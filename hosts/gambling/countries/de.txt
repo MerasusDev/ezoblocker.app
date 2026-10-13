@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling, Germany (de)
-# Domains: 16 | Updated: 2026-10-13
+# Domains: 18 | Updated: 2026-10-13
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/gambling/countries/de.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -7,6 +7,8 @@
 0.0.0.0 automatenspielex.com
 0.0.0.0 casinospezialist.com
 0.0.0.0 casombiebet.org
+0.0.0.0 genesiscasino-de.de
+0.0.0.0 genesiscasino.de
 0.0.0.0 online.nlb.de
 0.0.0.0 quasar-store.com
 0.0.0.0 quasar.us

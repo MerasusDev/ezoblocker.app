@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Dating, Germany (de)
-! Domains: 17 | Updated: 2026-10-13
+! Domains: 22 | Updated: 2026-10-13
 ! Homepage: https://github.com/MerasusDev/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/dating/countries/de.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -14,10 +14,15 @@
 ||kaufmich.com^
 ||knuddels.de^
 ||lablue.de^
+||lovescout24.de^
 ||lovoo.com^
+|mobil.l-mag.de^
+||mysugardaddy.de^
+||mysugardaddy.eu^
 ||parship.de^
 ||partnersucheplus.de^
 ||seitensprung-fibel.de^
 ||singleboersen-aktuell.de^
 ||singleboersen-vergleich.de^
 ||spinchat.com^
+||sugardaddy.de^

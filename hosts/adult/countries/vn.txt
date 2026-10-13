@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, Vietnam (vn)
-# Domains: 58 | Updated: 2026-10-13
+# Domains: 67 | Updated: 2026-10-13
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/adult/countries/vn.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -14,14 +14,18 @@
 0.0.0.0 clipphot69.xyz
 0.0.0.0 cumshopsextoy.com
 0.0.0.0 dochoinam.com
+0.0.0.0 dochoitinhduc4u.com
 0.0.0.0 dochoitinhducxtoy.com
 0.0.0.0 drloves.vn
 0.0.0.0 flower-emau.com
 0.0.0.0 foxietoy.com
 0.0.0.0 gunshop.vn
+0.0.0.0 htvc.com.vn
 0.0.0.0 i.clipviet.blog
 0.0.0.0 javhdvn.org
+0.0.0.0 javnhe.tv
 0.0.0.0 khocliphot.com
+0.0.0.0 kimonohana.com
 0.0.0.0 lovestore.vn
 0.0.0.0 magicmotion.vn
 0.0.0.0 mobiblogtv.online
@@ -30,10 +34,11 @@
 0.0.0.0 nam18.vn
 0.0.0.0 nuhoangkhoaicam.vn
 0.0.0.0 oichin.net
+0.0.0.0 phim18vn.top
+0.0.0.0 phimsexvietsubx.blog
 0.0.0.0 rungrung.vn
 0.0.0.0 s1.sexheo.blog
 0.0.0.0 setishop.com
-0.0.0.0 sexhotvc.com
 0.0.0.0 sexhotviet.com
 0.0.0.0 sexshop18.vn
 0.0.0.0 sextop1vn.click
@@ -42,10 +47,12 @@
 0.0.0.0 sexviet247.blog
 0.0.0.0 sexviet88.co.uk
 0.0.0.0 sexvietdam.blog
+0.0.0.0 shop18cm.com
 0.0.0.0 shopadam.vn
 0.0.0.0 shopbaocaosupro.com
 0.0.0.0 shopdochoi.net
 0.0.0.0 shopdochoinguoilondanang.com
+0.0.0.0 shopdochoitinhyeu.com
 0.0.0.0 shophanhphuc.com
 0.0.0.0 shopkiss.vn
 0.0.0.0 shopnguoilon.com.vn
@@ -55,6 +62,8 @@
 0.0.0.0 shopvochong24h.com
 0.0.0.0 smstore.vn
 0.0.0.0 snapshop.vn
+0.0.0.0 sphimsex.net
+0.0.0.0 trungdochoi.com
 0.0.0.0 viet69.be
 0.0.0.0 vintoy.vn
 0.0.0.0 vnsextop1.pro

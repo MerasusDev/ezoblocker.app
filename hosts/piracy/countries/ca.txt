@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy, Canada (ca)
-# Domains: 19 | Updated: 2026-10-13
+# Domains: 22 | Updated: 2026-10-13
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/piracy/countries/ca.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -8,10 +8,13 @@
 0.0.0.0 6stream.net
 0.0.0.0 9anime.co.nl
 0.0.0.0 9anime.direct
+0.0.0.0 9animepro.com
 0.0.0.0 9animetv.vg
+0.0.0.0 animepahe.net
 0.0.0.0 crackstreams.in
 0.0.0.0 gogoanime.biz.in
 0.0.0.0 gogoanime.co.ke
+0.0.0.0 mangadex.dev
 0.0.0.0 methstreams.digital
 0.0.0.0 rojadirect.best
 0.0.0.0 soap2daytv.me

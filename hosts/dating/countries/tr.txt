@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Dating, Türkiye (tr)
-# Domains: 111 | Updated: 2026-10-13
+# Domains: 113 | Updated: 2026-10-13
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/dating/countries/tr.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -59,6 +59,7 @@
 0.0.0.0 mircalem.net
 0.0.0.0 mircalem.org
 0.0.0.0 mirctr.net
+0.0.0.0 mobilseslisohbet.net
 0.0.0.0 mobilsobe.com
 0.0.0.0 mobilsohbetodalari.net
 0.0.0.0 muhabbetiniz.net
@@ -74,6 +75,7 @@
 0.0.0.0 ometv.chat
 0.0.0.0 omezy.io
 0.0.0.0 pembepanjur.com
+0.0.0.0 portaleducacional.unisanta.br
 0.0.0.0 rakipsizsohbet.net
 0.0.0.0 seslichat.com
 0.0.0.0 seslidunya.com

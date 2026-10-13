@@ -1,10 +1,11 @@
 ! Title: EZOBLOCKER Gambling, Türkiye (tr)
-! Domains: 164 | Updated: 2026-10-13
+! Domains: 172 | Updated: 2026-10-13
 ! Homepage: https://github.com/MerasusDev/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/gambling/countries/tr.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 ! App: https://ezoblocker.app
 ||1334bets10.com^
+||1427betvole.com^
 ||41betmatik.com^
 ||anadolucasino.blog^
 ||anadolucasinoblog2.com^
@@ -39,12 +40,15 @@
 ||betsat-guncel-tr.com^
 ||betsatgiris1.com^
 ||betsmovegiris.co^
+||betsmoveresmi.blog^
+||betsmoves210.com^
 ||betticketbet.com^
 ||bettilt.partners^
 ||bettiltlogin.com^
 ||betturkey.ws^
 ||betturkeygir.com^
 ||betwoongiris.org^
+||betwoonguncelgiris.org^
 ||bonusambari.com^
 ||bonusametist.com^
 ||bonuskiyisi.com^
@@ -101,12 +105,14 @@
 ||maxwin.gen.tr^
 ||megabahis.asia^
 ||megabahis.com^
+|merit-lefkosa-hotel-casino.cyprushotel.net^
 ||meritking-gercekgiris.com^
 ||meritking.news^
 ||meritkingnet.com^
 |misje.diecezja.pl^
 ||mobilbahisdestek1.com^
 ||mostbet-resmi.co.com^
+|museum.slavgorod.ru^
 ||nakitbahis.cam^
 ||nakitbahis.com^
 ||nakitbahisgiris.wiki^
@@ -151,6 +157,7 @@
 ||trbet908.com^
 ||trbet972.com^
 ||trbetr.com^
+||trbetwoon.com^
 ||trpadisahbet.net^
 |trs.pas-gercekadrese-giris1.sbs^
 ||ultrabet.ro^
@@ -168,3 +175,4 @@
 ||wonderscope.com^
 |ws.christostogo.com^
 |wu.borderlandsbrewing.com^
+||yeniden-betwoon-giris.vip^

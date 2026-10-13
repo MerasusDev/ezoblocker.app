@@ -1,13 +1,15 @@
 # Title: EZOBLOCKER Bypass
-# Domains: 108 | Updated: 2026-10-13
+# Domains: 122 | Updated: 2026-10-13
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/bypass/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
 0.0.0.0 9japroxy.com
+0.0.0.0 a.v2ray.cx
 0.0.0.0 app.cyberyozh.com
 0.0.0.0 aproxy.com
 0.0.0.0 apt.izzysoft.de
+0.0.0.0 bbs.clashhub.net
 0.0.0.0 bestproxy.com
 0.0.0.0 betternet.be
 0.0.0.0 blockaway.ca
@@ -26,10 +28,15 @@
 0.0.0.0 endian.eth0.com.br
 0.0.0.0 express-vpn.app
 0.0.0.0 expressrefer.com
+0.0.0.0 find-and-update.company-information.service.gov.uk
 0.0.0.0 free-proxy-list.net
+0.0.0.0 freegate-release.github.io
+0.0.0.0 freegate.ee
 0.0.0.0 freeproxy.win
 0.0.0.0 freevpn.edu.pl
 0.0.0.0 getunicorn.app
+0.0.0.0 gpedit.tplant.com.au
+0.0.0.0 guide.v2fly.org
 0.0.0.0 helpcenter.trendlife.com
 0.0.0.0 helpdesk.iupat.org
 0.0.0.0 hide-my-ip.net
@@ -53,6 +60,8 @@
 0.0.0.0 okkproxy.com
 0.0.0.0 panduan.opendesa.id
 0.0.0.0 powertunnel.org
+0.0.0.0 prime.changngocgia.com
+0.0.0.0 proton.me
 0.0.0.0 proxy-checker.org
 0.0.0.0 proxy302.com
 0.0.0.0 proxy6.net
@@ -65,12 +74,14 @@
 0.0.0.0 psiphon.alsindibad.com
 0.0.0.0 psiphon.ar.softmany.com
 0.0.0.0 psiphon.com
+0.0.0.0 psiphon.jp.softmany.com
 0.0.0.0 psiphon.kr.softmany.com
 0.0.0.0 psiphon.sooftware.com
 0.0.0.0 psiphon2.net
 0.0.0.0 px6.net
 0.0.0.0 shadowsocks.au
 0.0.0.0 shadowsocks.com
+0.0.0.0 shadowsocks.nz
 0.0.0.0 shield-way.com
 0.0.0.0 siamproxy.com
 0.0.0.0 smartproxy.ai
@@ -86,6 +97,7 @@
 0.0.0.0 smartproxy.se
 0.0.0.0 smartproxy.tw
 0.0.0.0 smartproxy.vn
+0.0.0.0 snap-vpn.softmany.com
 0.0.0.0 snapvpn.net
 0.0.0.0 softether.jp
 0.0.0.0 softether.org
@@ -94,10 +106,12 @@
 0.0.0.0 torprojectstatus.org
 0.0.0.0 tradeproxy.vn
 0.0.0.0 tunnelbear.ar.softmany.com
+0.0.0.0 ultrasurf-security-privacy-unblock-vpn.softonic.jp
 0.0.0.0 ultrasurf-vpn.pages.dev
 0.0.0.0 ultrasurf.ar.softmany.com
 0.0.0.0 ultrasurf.en.softmany.com
 0.0.0.0 ultrasurf.fr.softmany.com
+0.0.0.0 ultrasurf.jp.softmany.com
 0.0.0.0 unblock-websites.com
 0.0.0.0 unblockd.info
 0.0.0.0 unblockedgames66.gitlab.io

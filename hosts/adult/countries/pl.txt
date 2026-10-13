@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, Poland (pl)
-# Domains: 41 | Updated: 2026-10-13
+# Domains: 42 | Updated: 2026-10-13
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/adult/countries/pl.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -36,6 +36,7 @@
 0.0.0.0 secretplace.pl
 0.0.0.0 sekrecik.pl
 0.0.0.0 sensu.pl
+0.0.0.0 sexfilmy.org
 0.0.0.0 sexshop.com.pl
 0.0.0.0 sexshop69.pl
 0.0.0.0 sexshoppink.pl

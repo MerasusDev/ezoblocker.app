@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Security
-# Domains: 13,813 | Updated: 2026-10-13
+# Domains: 13,810 | Updated: 2026-10-13
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/domains/security/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -1032,7 +1032,6 @@ audit-review-verification-office.pages.dev
 auh-coinbase-com-sign.pages.dev
 aukro-verification.sbs
 aupost.com-track-8o7a.ink
-aupost.com-track-9t3a.ink
 auspost-custom-delivery.ph
 auth-bankofamericasupport-easywebusa.ph
 auth-bitbuy-login.pages.dev
@@ -3456,7 +3455,6 @@ facebooklogindirect-confirm-new-google.com.ph
 facebookuserreward.pages.dev
 faceit-approve.pro
 faceit-verify-account.com
-faceit-verify-cs.com
 faceit-verify.xyz
 faceitverify-clubs.com
 faq---ledgerlive-en-auths.pages.dev
@@ -8322,7 +8320,6 @@ name-secure-coinbase.pages.dev
 nano-ledger-wallet-app.pages.dev
 narodnyii-oschad-bank.online-vuplata.workers.dev
 nationalgridsupport.au
-natwest-bank.live
 natwest-bank.ws
 natwest-uk-online.com
 natwestonlinebanking.co.uk

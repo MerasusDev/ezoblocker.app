@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy, Türkiye (tr)
-# Domains: 87 | Updated: 2026-10-13
+# Domains: 90 | Updated: 2026-10-13
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/piracy/countries/tr.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -17,6 +17,7 @@
 0.0.0.0 dizigom.li
 0.0.0.0 diziizle.click
 0.0.0.0 dizilab.to
+0.0.0.0 dizipalorijinal17.com
 0.0.0.0 diziyou.info
 0.0.0.0 diziyou.one
 0.0.0.0 diziyou.vip
@@ -47,6 +48,7 @@
 0.0.0.0 hdfilmizlede.org
 0.0.0.0 hdfilmizlesende.com
 0.0.0.0 hdfilmizlesene.to
+0.0.0.0 hintfilmizle.com
 0.0.0.0 jestyayin.org
 0.0.0.0 jetfilmizle.now
 0.0.0.0 justintv.co
@@ -56,6 +58,7 @@
 0.0.0.0 justintvmgturkiye.vip
 0.0.0.0 justintvturkiyehd.co
 0.0.0.0 justintvturkiyesh.vip
+0.0.0.0 korefilmizle.vip
 0.0.0.0 latestmodapks.com
 0.0.0.0 minidiziizle.com
 0.0.0.0 mp3indirdur.com.tr

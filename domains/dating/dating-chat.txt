@@ -1,14 +1,18 @@
 # Title: EZOBLOCKER Dating, chat rooms and random video chat
-# Domains: 275 | Updated: 2026-10-13
+# Domains: 306 | Updated: 2026-10-13
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/domains/dating/dating-chat.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
 321chat.com
+ab.211.ca
 ai.updf.com
 akordy.kytary.cz
 alemortam.net
 almomaiz.free-sadad.com
+anonymous-chat-stranger-chat.apk.gold
+app.chatbox.ai
+app.chatboxapp.ai
 app.chatib.chat
 app.homo.nl
 arabchat.base44.app
@@ -36,6 +40,7 @@ busohbet.com
 buyuksohbet.com
 camchat.today
 camgo.com
+camruletka.com
 camsurf.chat
 camsurf.com
 camsurf.tv
@@ -48,6 +53,9 @@ chat.irc.in.th
 chat.ptnet.org
 chat.romi.ai
 chatalya.com
+chatarab.chat
+chatarab.net
+chatarabic.chat
 chatargentina.com.ar
 chatargentinos.com
 chatbrasil.com.br
@@ -59,14 +67,19 @@ chatdate.app
 chateagratis.net
 chatealo.chat
 chathispano.com
+chathub.com.br
 chathub.gg
 chathub.net
 chathub.tv
+chathub1.com
 chathubapp.com
 chatib.us
+chatiw.com
+chatiw.im
 chatlady.rei35.com
 chatlatinos.cl
 chatlibertingratuit.fr
+chatmate.tv
 chatonline.pt
 chatous.com
 chatpia.jp
@@ -84,12 +97,14 @@ chatroulette.ru
 chatspin.com
 chatta.echat.it
 chattanu.com
+chatthai.in.th
 chatthaiglobalradio.com
 chatua.com.ua
 chatujme.cz
 chaturro.com
 chatvideo.fun
 chatville.com
+cluj-napoca.cylex.ro
 coomeet.apkgold.ae
 coomeet.bitbucket.io
 coomeet.chat
@@ -115,6 +130,7 @@ faceflow.com
 flingster.com
 flirtchat.ch
 flirtchat.nl
+forum2.live-show.com
 frageladan.isof.se
 free.adultxcamz.com
 freecam.chat
@@ -127,6 +143,7 @@ gelchat.net
 geveze.org
 gevezeyeri.com
 giant-stoixima-apg.aestheticon.gr
+greekchat.com
 greekschat.com
 gupshupzone.chatovod.com
 harbiyiz.org
@@ -142,6 +159,7 @@ juso.2ver.com
 kalbim.net
 kalbiminsesi.net
 kaliteliortam.com
+kambichat.chatovod.com
 kariyerpanel.com
 khaleejchat.co
 khaleejchat.com
@@ -154,8 +172,10 @@ laflamak.com
 lavinsta.com
 live.ajman.ac.ae
 livechat.sex-czech.cz
+m.appstory.co.kr
 m.dreamersforum.nl
 m.ymeet.me
+meet-japan.bnextmedia.com
 meetme.com
 mirc.com.tr
 mircalem.net
@@ -163,6 +183,7 @@ mircalem.org
 mirctr.net
 mitoclanchat.chatovod.com
 mixchatroom.com
+mobilseslisohbet.net
 mobilsobe.com
 monkey.app
 muhabbet.org
@@ -171,6 +192,7 @@ myegyptchat.com
 myhoneychat.com
 mynet.bz
 mynetsohbetsitesi.com
+mzansi-chatrooms.apk.gold
 naijachat.com
 nazfm.net
 old.coacha.com
@@ -197,6 +219,7 @@ pakistanichatrooms.com.pk
 pakistanichatrooms.pk
 pandavideochat.com
 pinoychat.net
+portaleducacional.unisanta.br
 rakipsizsohbet.net
 randkujemy.pl
 randomchat.com
@@ -208,6 +231,7 @@ roomchat.site
 ruletka.chat
 saglamsohbet.com
 salasdechatgratis.org
+seo.imaiko.com
 seslichat.com
 seslidunya.com
 seslimirc.com
@@ -222,6 +246,7 @@ sexchatroom.de
 sexchatttttt.chatovod.com
 shada-shatea.hotels-saudi-arabia.com
 shagle.com
+shagle.tv
 siyahinci.net
 skout.com
 sohbet.mobildetek.com
@@ -241,10 +266,13 @@ sohbetyeri.net
 spinchat.com
 stnnsh.ivocaruso.it
 strangercam.com
+strangerchat.live
 strangerline.io
+strangermeetup.com
 subdomainfinder.c99.nl
 supermekan.com
 swisschat.org
+talk2stranger.com
 talkrand.com
 talkwithstranger.com
 tamsohbet.com
@@ -273,8 +301,11 @@ videochatcolombia.com
 videochatnl.com
 videochatpt.com
 videochatru.com
+videollamada.com
 web.chatapropo.ro
 wireclub.com
+witness.blackmountaininstitute.org
+www.bucuresti.romaniachat.eu
 yazgulu.net
 yozm.wishket.com
 zap.struckd.com

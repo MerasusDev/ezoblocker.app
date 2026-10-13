@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling, Indonesia (id)
-# Domains: 7 | Updated: 2026-10-13
+# Domains: 10 | Updated: 2026-10-13
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/lists/gambling/countries/id.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -8,6 +8,9 @@
 *.bonusslotterbesar.com
 *.clorah.com
 *.dewa88resmi.com
+*.idtbarbar.com
+*.indotogel.dev
 *.liveateastgategardens.com
 *.mpo88-amanah.com
+*.numaxmuzaffarnagar.com
 *.soap2days.id

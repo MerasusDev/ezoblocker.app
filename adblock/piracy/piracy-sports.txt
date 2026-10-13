@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Piracy, illegal sports streams
-! Domains: 209 | Updated: 2026-10-13
+! Domains: 240 | Updated: 2026-10-13
 ! Homepage: https://github.com/MerasusDev/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/piracy/piracy-sports.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -15,6 +15,8 @@
 ||alkkoora.live^
 |api.sap.ce.gov.br^
 ||ballzaa.com^
+|batangpinoy.psc.gov.ph^
+|browse.tonton.com.my^
 ||buffstreamsapp.com^
 ||cakhia4.org^
 ||cakhia6tv.tv^
@@ -29,6 +31,7 @@
 ||crackstreams.in^
 ||crackstreams.mx^
 ||crackstreamsmax.site^
+||cricfree.beer^
 ||cricstream.mom^
 ||crictime.com^
 ||crictime.is^
@@ -37,9 +40,12 @@
 |dev-forms-engine-api.brisbane.qld.gov.au^
 ||direttagoal.it^
 ||elbotola.com^
+||eliteboxing.com.ph^
 ||famemma.tv^
 |filmora.wondershare.kr^
 |find-and-update.company-information.service.gov.uk^
+||firstrows.net^
+||firstrowsports.be^
 ||footybite.com.co^
 ||footybite.cyou^
 ||footybite.forum^
@@ -57,14 +63,19 @@
 ||freesport.com^
 ||freesportscap.com^
 |french.visitkorea.or.kr^
+||futbolenvivocolombia.com^
 ||futbolete.com^
 ||futbollibre.kim^
 ||futbollibrefullhd.org^
 ||futbollibreperu.org^
+||futbollibretvhd.co^
+||futbolyconsolas.es^
 ||futemax.at^
 ||futemax.haus^
 ||futemax.hiphop^
 ||futemax.med^
+|getlive.pcb.com.pk^
+||hesgoal.co.uk^
 ||hesgoal.ltd^
 ||hesgoal.si^
 ||hesgoal.soccer^
@@ -84,6 +95,8 @@
 ||justintvmgturkiye.vip^
 ||justintvturkiyehd.co^
 ||justintvturkiyesh.vip^
+||kickzone.click^
+||kickzone.in^
 ||kooora.com^
 |kooora.misrlinks.com^
 ||kooora4live.quest^
@@ -97,6 +110,8 @@
 |kora-star.misrlinks.com^
 ||kora4live.surf^
 ||koraonline.quest^
+||librefutbol.vip^
+|live.pcb.com.pk^
 ||liveball.sx^
 ||livebola.com^
 ||livebola.net^
@@ -105,15 +120,20 @@
 ||livehd71.live^
 ||livehd71.top^
 ||livekoora.today^
+||livesport.com^
 ||livesport.ru^
 ||livesport.ws^
+||livesportsbay.com^
 ||livesportsontv.com^
+||livetv.fr^
 ||livetv.life^
+|llsflwjo.riverpeak.lat^
+|m.acestream.net^
 |m.goalddlive.com^
 ||mecze24.pl^
 ||methstreams.digital^
 ||mlbbite.plus^
-||multicanais.nexus^
+||muayded789.com^
 ||myvipbox.com^
 ||nbabite.net^
 ||netspor.co^
@@ -121,6 +141,7 @@
 ||nflbite.is^
 ||nflbites.today^
 |nyc-dsp1.kavanga.com^
+||ostoralivehd7.com^
 |page.inplayer.com^
 ||pelotalibreenvivo.cl^
 |pirlotv-futbol-en-vivo-directo.apps112.com^
@@ -173,6 +194,9 @@
 ||streamsport.ie^
 ||strims.com.pl^
 ||supersportbet.com^
+||supersportschools.com^
+||swissiptv.online^
+||swissiptv.tv^
 |t.matec.kr^
 ||taraftarium24-aslan5.com^
 ||taraftarium24-live3.com^
@@ -197,19 +221,26 @@
 |tour.gra.uk.com^
 ||tructiep90phuttv.club^
 |tvnsports.cjenm.com^
+||vegasportsnetwork.com^
+|viet.jajag.me^
 ||vipbox1.com^
 ||vipleague.be^
 ||vipleague.ro^
 ||vipleague.stream^
 ||viprow.pro^
+|webboard.mol.go.th^
 |welcome.blasttv.ph^
 ||xoilac1.help^
 ||xoilac3.cc^
 ||xoilac5.top^
+||xoilaclivettbds.tv^
 ||xoilactvbm.cc^
 ||xoilacvn.net^
 ||xoilacxbk.tv^
 ||xoilacxbr.tv^
+||xoilacxxm.cc^
+||xoilaczcd.tv^
 ||yallakora.com^
 |yallakora.misrlinks.com^
+||yallalives.net^
 ||yallashoot.id^

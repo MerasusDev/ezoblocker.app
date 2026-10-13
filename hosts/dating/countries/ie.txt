@@ -1,13 +1,17 @@
 # Title: EZOBLOCKER Dating, Ireland (ie)
-# Domains: 7 | Updated: 2026-10-13
+# Domains: 11 | Updated: 2026-10-13
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/dating/countries/ie.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
 0.0.0.0 escort-ireland.com
 0.0.0.0 escorthub.org
+0.0.0.0 escortrankings.uk
 0.0.0.0 irishchat.net
 0.0.0.0 irishmirror.ie
 0.0.0.0 locanto.ie
+0.0.0.0 pingadults.com
 0.0.0.0 simpleescort.com
+0.0.0.0 strangermeetup.com
 0.0.0.0 vivastreet.ie
+0.0.0.0 witness.blackmountaininstitute.org

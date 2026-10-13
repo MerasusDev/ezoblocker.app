@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy, Ukraine (ua)
-# Domains: 23 | Updated: 2026-10-13
+# Domains: 24 | Updated: 2026-10-13
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/piracy/countries/ua.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -23,6 +23,7 @@
 0.0.0.0 livetv.life
 0.0.0.0 lordfilm-hd.mirfilm.net
 0.0.0.0 lordfilm.fi
+0.0.0.0 m.acestream.net
 0.0.0.0 sportstream365.com.w3snoop.com
 0.0.0.0 streameast.to
 0.0.0.0 uaserials.me

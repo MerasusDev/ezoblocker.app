@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, Japan (jp)
-# Domains: 14 | Updated: 2026-10-13
+# Domains: 19 | Updated: 2026-10-13
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/lists/adult/countries/jp.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -9,12 +9,17 @@
 *.adultshop-navi.com
 *.at-usagiya.com
 channel.beep-shop.com
+*.cleverget.jp
 code.ooaks.co.jp
 *.ero315.com
+*.ginza-soleil.com
+*.ginza-soleil.jp
 *.javhd-master.com
 *.lovegoods.org
 *.lovemate.com
+*.mammothcoffee.com
 *.mzakka.com
 *.pinktokyo.co.jp
+*.stop.or.jp
 *.usagi-shop.com
 *.usagi-ya.co.jp

@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Adult, PK (pk)
-! Domains: 25 | Updated: 2026-10-13
+! Domains: 31 | Updated: 2026-10-13
 ! Homepage: https://github.com/MerasusDev/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/adult/countries/pk.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -8,6 +8,9 @@
 ||condombazaar.com^
 ||daraztoy.com.pk^
 ||easytoys.pk^
+||elegantyou.com.pk^
+||espicopink.pk^
+||fleshlighttoy.pk^
 ||fleshtoys.pk^
 ||intimate.pk^
 ||intimatefashions.pk^
@@ -23,9 +26,12 @@
 ||officialtoys.pk^
 ||prproxy.pro^
 ||sextoypk.com^
+||shestore.com.pk^
 ||stopi.pk^
+||toypakistan.pk^
 ||toyshub.pk^
 ||toysinpakistan.pk^
 ||toyzpakistan.com^
+||xoxostore.pk^
 ||xtoys.pk^
 ||xtoyshub.pk^

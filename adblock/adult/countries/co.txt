@@ -1,33 +1,46 @@
 ! Title: EZOBLOCKER Adult, Colombia (co)
-! Domains: 27 | Updated: 2026-10-13
+! Domains: 40 | Updated: 2026-10-13
 ! Homepage: https://github.com/MerasusDev/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/adult/countries/co.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 ! App: https://ezoblocker.app
 ||avenida69.co^
 ||balisexstore.com^
+||besame.com^
+||bousens.com^
 |catalogo.treinta.co^
 ||cerotabu.co^
+||climax.com.co^
 ||distrisexcolombia.com^
+||ellipselingerie.com^
 ||eroticfeel.com^
 ||erotikashop.cl^
+|especiales.soho.co^
+||guiacereza.com^
 ||houseerotic.com^
 ||juguetessexualescolombia.com^
 ||lapepa.com.co^
+||medellinsexshop.co^
+||medusaboutiquesensual.com^
 ||melojena.com^
 ||orionsexshop.com.co^
+||platanomelon.com.co^
 ||pornocolombiano.net^
+||salvajesexstore.com^
 ||secretos.com.co^
 ||senfantasy.com^
 ||sensotikashop.com^
 ||sensualshop.it^
+||serez.co^
 ||sexosentido.co^
 ||sexshopmedellin.co^
 ||sexshopmedellin.com^
 ||sexsymbol.com.co^
 ||sextosentiido.com^
+||stay-on.co^
 ||tiendacereza.com^
 ||tiendaeroticapasiones.com^
 ||travesuraseroticas69.com^
+||tudeseosexshop.com^
 ||tuerotica.com^
 ||zonaerotica.com.co^

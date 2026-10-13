@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Dating, Türkiye (tr)
-# Domains: 111 | Updated: 2026-10-13
+# Domains: 113 | Updated: 2026-10-13
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/lists/dating/countries/tr.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -59,6 +59,7 @@ indiapostgdsonline.cept.gov.in
 *.mircalem.net
 *.mircalem.org
 *.mirctr.net
+*.mobilseslisohbet.net
 *.mobilsobe.com
 *.mobilsohbetodalari.net
 *.muhabbetiniz.net
@@ -74,6 +75,7 @@ indiapostgdsonline.cept.gov.in
 *.ometv.chat
 *.omezy.io
 *.pembepanjur.com
+portaleducacional.unisanta.br
 *.rakipsizsohbet.net
 *.seslichat.com
 *.seslidunya.com

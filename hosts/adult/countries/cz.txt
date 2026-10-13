@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, Czechia (cz)
-# Domains: 25 | Updated: 2026-10-13
+# Domains: 28 | Updated: 2026-10-13
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/adult/countries/cz.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -16,8 +16,10 @@
 0.0.0.0 flagranti.cz
 0.0.0.0 forumnovakarolina.cz
 0.0.0.0 hopnato.cz
+0.0.0.0 intimm.cz
 0.0.0.0 m.flirtkontakt.cz
 0.0.0.0 m.prague.lol
+0.0.0.0 mapy.atlasfirem.info
 0.0.0.0 novy-smichov.klepierre.cz
 0.0.0.0 obchodumotyla.cz
 0.0.0.0 porno-ceske.cz
@@ -26,6 +28,7 @@
 0.0.0.0 sexshop-sex.cz
 0.0.0.0 sexshop.cz
 0.0.0.0 sexshopik.cz
+0.0.0.0 sexshopp.cz
 0.0.0.0 webac-vibro.com
 0.0.0.0 willi.cz
 0.0.0.0 yoo.cz

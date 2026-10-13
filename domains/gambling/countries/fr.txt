@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling, France (fr)
-# Domains: 29 | Updated: 2026-10-13
+# Domains: 32 | Updated: 2026-10-13
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/domains/gambling/countries/fr.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -11,6 +11,7 @@ bioglamour-france.fr
 burancasino-fr.eu
 casinocanuck.ca
 casinonomini-fr.com
+casinorating.com
 casinozer-fr-2.com
 casinozer-fr.square.site
 casinozerbonus.com
@@ -23,11 +24,13 @@ genesisbet-in.com
 lucky8-bet.com
 lucky8-official.fr
 lucky8-online-fr.com
+midasluckcasinofr.shop
 nomini-login.com
 nominiacasino.it
 nominicasino-fr.eu.com
 nominicasino.eu
 nominicasinologin.com
+slotwolf.sbs
 vegasplus-fr.fr
 vegasplus-france.fr
 wildsultancasino.de

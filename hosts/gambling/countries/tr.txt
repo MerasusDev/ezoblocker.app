@@ -1,10 +1,11 @@
 # Title: EZOBLOCKER Gambling, Türkiye (tr)
-# Domains: 164 | Updated: 2026-10-13
+# Domains: 172 | Updated: 2026-10-13
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/gambling/countries/tr.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
 0.0.0.0 1334bets10.com
+0.0.0.0 1427betvole.com
 0.0.0.0 41betmatik.com
 0.0.0.0 anadolucasino.blog
 0.0.0.0 anadolucasinoblog2.com
@@ -39,12 +40,15 @@
 0.0.0.0 betsat-guncel-tr.com
 0.0.0.0 betsatgiris1.com
 0.0.0.0 betsmovegiris.co
+0.0.0.0 betsmoveresmi.blog
+0.0.0.0 betsmoves210.com
 0.0.0.0 betticketbet.com
 0.0.0.0 bettilt.partners
 0.0.0.0 bettiltlogin.com
 0.0.0.0 betturkey.ws
 0.0.0.0 betturkeygir.com
 0.0.0.0 betwoongiris.org
+0.0.0.0 betwoonguncelgiris.org
 0.0.0.0 bonusambari.com
 0.0.0.0 bonusametist.com
 0.0.0.0 bonuskiyisi.com
@@ -101,12 +105,14 @@
 0.0.0.0 maxwin.gen.tr
 0.0.0.0 megabahis.asia
 0.0.0.0 megabahis.com
+0.0.0.0 merit-lefkosa-hotel-casino.cyprushotel.net
 0.0.0.0 meritking-gercekgiris.com
 0.0.0.0 meritking.news
 0.0.0.0 meritkingnet.com
 0.0.0.0 misje.diecezja.pl
 0.0.0.0 mobilbahisdestek1.com
 0.0.0.0 mostbet-resmi.co.com
+0.0.0.0 museum.slavgorod.ru
 0.0.0.0 nakitbahis.cam
 0.0.0.0 nakitbahis.com
 0.0.0.0 nakitbahisgiris.wiki
@@ -151,6 +157,7 @@
 0.0.0.0 trbet908.com
 0.0.0.0 trbet972.com
 0.0.0.0 trbetr.com
+0.0.0.0 trbetwoon.com
 0.0.0.0 trpadisahbet.net
 0.0.0.0 trs.pas-gercekadrese-giris1.sbs
 0.0.0.0 ultrabet.ro
@@ -168,3 +175,4 @@
 0.0.0.0 wonderscope.com
 0.0.0.0 ws.christostogo.com
 0.0.0.0 wu.borderlandsbrewing.com
+0.0.0.0 yeniden-betwoon-giris.vip

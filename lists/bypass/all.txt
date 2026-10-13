@@ -1,13 +1,15 @@
 # Title: EZOBLOCKER Bypass
-# Domains: 108 | Updated: 2026-10-13
+# Domains: 122 | Updated: 2026-10-13
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/lists/bypass/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
 *.9japroxy.com
+a.v2ray.cx
 app.cyberyozh.com
 *.aproxy.com
 apt.izzysoft.de
+bbs.clashhub.net
 *.bestproxy.com
 *.betternet.be
 *.blockaway.ca
@@ -26,10 +28,15 @@ doc.alvao.com
 endian.eth0.com.br
 *.express-vpn.app
 *.expressrefer.com
+find-and-update.company-information.service.gov.uk
 *.free-proxy-list.net
+*.freegate-release.github.io
+*.freegate.ee
 *.freeproxy.win
 *.freevpn.edu.pl
 *.getunicorn.app
+gpedit.tplant.com.au
+guide.v2fly.org
 helpcenter.trendlife.com
 helpdesk.iupat.org
 *.hide-my-ip.net
@@ -53,6 +60,8 @@ lifestyle.assist-all.co.jp
 *.okkproxy.com
 panduan.opendesa.id
 *.powertunnel.org
+prime.changngocgia.com
+*.proton.me
 *.proxy-checker.org
 *.proxy302.com
 *.proxy6.net
@@ -65,12 +74,14 @@ panduan.opendesa.id
 psiphon.alsindibad.com
 psiphon.ar.softmany.com
 *.psiphon.com
+psiphon.jp.softmany.com
 psiphon.kr.softmany.com
 psiphon.sooftware.com
 *.psiphon2.net
 *.px6.net
 *.shadowsocks.au
 *.shadowsocks.com
+*.shadowsocks.nz
 *.shield-way.com
 *.siamproxy.com
 *.smartproxy.ai
@@ -86,6 +97,7 @@ psiphon.sooftware.com
 *.smartproxy.se
 *.smartproxy.tw
 *.smartproxy.vn
+snap-vpn.softmany.com
 *.snapvpn.net
 *.softether.jp
 *.softether.org
@@ -94,10 +106,12 @@ tools.tracemyip.org
 *.torprojectstatus.org
 *.tradeproxy.vn
 tunnelbear.ar.softmany.com
+ultrasurf-security-privacy-unblock-vpn.softonic.jp
 *.ultrasurf-vpn.pages.dev
 ultrasurf.ar.softmany.com
 ultrasurf.en.softmany.com
 ultrasurf.fr.softmany.com
+ultrasurf.jp.softmany.com
 *.unblock-websites.com
 *.unblockd.info
 *.unblockedgames66.gitlab.io

@@ -1,14 +1,18 @@
 # Title: EZOBLOCKER Dating, chat rooms and random video chat
-# Domains: 275 | Updated: 2026-10-13
+# Domains: 306 | Updated: 2026-10-13
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/dating/dating-chat.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
 0.0.0.0 321chat.com
+0.0.0.0 ab.211.ca
 0.0.0.0 ai.updf.com
 0.0.0.0 akordy.kytary.cz
 0.0.0.0 alemortam.net
 0.0.0.0 almomaiz.free-sadad.com
+0.0.0.0 anonymous-chat-stranger-chat.apk.gold
+0.0.0.0 app.chatbox.ai
+0.0.0.0 app.chatboxapp.ai
 0.0.0.0 app.chatib.chat
 0.0.0.0 app.homo.nl
 0.0.0.0 arabchat.base44.app
@@ -36,6 +40,7 @@
 0.0.0.0 buyuksohbet.com
 0.0.0.0 camchat.today
 0.0.0.0 camgo.com
+0.0.0.0 camruletka.com
 0.0.0.0 camsurf.chat
 0.0.0.0 camsurf.com
 0.0.0.0 camsurf.tv
@@ -48,6 +53,9 @@
 0.0.0.0 chat.ptnet.org
 0.0.0.0 chat.romi.ai
 0.0.0.0 chatalya.com
+0.0.0.0 chatarab.chat
+0.0.0.0 chatarab.net
+0.0.0.0 chatarabic.chat
 0.0.0.0 chatargentina.com.ar
 0.0.0.0 chatargentinos.com
 0.0.0.0 chatbrasil.com.br
@@ -59,14 +67,19 @@
 0.0.0.0 chateagratis.net
 0.0.0.0 chatealo.chat
 0.0.0.0 chathispano.com
+0.0.0.0 chathub.com.br
 0.0.0.0 chathub.gg
 0.0.0.0 chathub.net
 0.0.0.0 chathub.tv
+0.0.0.0 chathub1.com
 0.0.0.0 chathubapp.com
 0.0.0.0 chatib.us
+0.0.0.0 chatiw.com
+0.0.0.0 chatiw.im
 0.0.0.0 chatlady.rei35.com
 0.0.0.0 chatlatinos.cl
 0.0.0.0 chatlibertingratuit.fr
+0.0.0.0 chatmate.tv
 0.0.0.0 chatonline.pt
 0.0.0.0 chatous.com
 0.0.0.0 chatpia.jp
@@ -84,12 +97,14 @@
 0.0.0.0 chatspin.com
 0.0.0.0 chatta.echat.it
 0.0.0.0 chattanu.com
+0.0.0.0 chatthai.in.th
 0.0.0.0 chatthaiglobalradio.com
 0.0.0.0 chatua.com.ua
 0.0.0.0 chatujme.cz
 0.0.0.0 chaturro.com
 0.0.0.0 chatvideo.fun
 0.0.0.0 chatville.com
+0.0.0.0 cluj-napoca.cylex.ro
 0.0.0.0 coomeet.apkgold.ae
 0.0.0.0 coomeet.bitbucket.io
 0.0.0.0 coomeet.chat
@@ -115,6 +130,7 @@
 0.0.0.0 flingster.com
 0.0.0.0 flirtchat.ch
 0.0.0.0 flirtchat.nl
+0.0.0.0 forum2.live-show.com
 0.0.0.0 frageladan.isof.se
 0.0.0.0 free.adultxcamz.com
 0.0.0.0 freecam.chat
@@ -127,6 +143,7 @@
 0.0.0.0 geveze.org
 0.0.0.0 gevezeyeri.com
 0.0.0.0 giant-stoixima-apg.aestheticon.gr
+0.0.0.0 greekchat.com
 0.0.0.0 greekschat.com
 0.0.0.0 gupshupzone.chatovod.com
 0.0.0.0 harbiyiz.org
@@ -142,6 +159,7 @@
 0.0.0.0 kalbim.net
 0.0.0.0 kalbiminsesi.net
 0.0.0.0 kaliteliortam.com
+0.0.0.0 kambichat.chatovod.com
 0.0.0.0 kariyerpanel.com
 0.0.0.0 khaleejchat.co
 0.0.0.0 khaleejchat.com
@@ -154,8 +172,10 @@
 0.0.0.0 lavinsta.com
 0.0.0.0 live.ajman.ac.ae
 0.0.0.0 livechat.sex-czech.cz
+0.0.0.0 m.appstory.co.kr
 0.0.0.0 m.dreamersforum.nl
 0.0.0.0 m.ymeet.me
+0.0.0.0 meet-japan.bnextmedia.com
 0.0.0.0 meetme.com
 0.0.0.0 mirc.com.tr
 0.0.0.0 mircalem.net
@@ -163,6 +183,7 @@
 0.0.0.0 mirctr.net
 0.0.0.0 mitoclanchat.chatovod.com
 0.0.0.0 mixchatroom.com
+0.0.0.0 mobilseslisohbet.net
 0.0.0.0 mobilsobe.com
 0.0.0.0 monkey.app
 0.0.0.0 muhabbet.org
@@ -171,6 +192,7 @@
 0.0.0.0 myhoneychat.com
 0.0.0.0 mynet.bz
 0.0.0.0 mynetsohbetsitesi.com
+0.0.0.0 mzansi-chatrooms.apk.gold
 0.0.0.0 naijachat.com
 0.0.0.0 nazfm.net
 0.0.0.0 old.coacha.com
@@ -197,6 +219,7 @@
 0.0.0.0 pakistanichatrooms.pk
 0.0.0.0 pandavideochat.com
 0.0.0.0 pinoychat.net
+0.0.0.0 portaleducacional.unisanta.br
 0.0.0.0 rakipsizsohbet.net
 0.0.0.0 randkujemy.pl
 0.0.0.0 randomchat.com
@@ -208,6 +231,7 @@
 0.0.0.0 ruletka.chat
 0.0.0.0 saglamsohbet.com
 0.0.0.0 salasdechatgratis.org
+0.0.0.0 seo.imaiko.com
 0.0.0.0 seslichat.com
 0.0.0.0 seslidunya.com
 0.0.0.0 seslimirc.com
@@ -222,6 +246,7 @@
 0.0.0.0 sexchatttttt.chatovod.com
 0.0.0.0 shada-shatea.hotels-saudi-arabia.com
 0.0.0.0 shagle.com
+0.0.0.0 shagle.tv
 0.0.0.0 siyahinci.net
 0.0.0.0 skout.com
 0.0.0.0 sohbet.mobildetek.com
@@ -241,10 +266,13 @@
 0.0.0.0 spinchat.com
 0.0.0.0 stnnsh.ivocaruso.it
 0.0.0.0 strangercam.com
+0.0.0.0 strangerchat.live
 0.0.0.0 strangerline.io
+0.0.0.0 strangermeetup.com
 0.0.0.0 subdomainfinder.c99.nl
 0.0.0.0 supermekan.com
 0.0.0.0 swisschat.org
+0.0.0.0 talk2stranger.com
 0.0.0.0 talkrand.com
 0.0.0.0 talkwithstranger.com
 0.0.0.0 tamsohbet.com
@@ -273,8 +301,11 @@
 0.0.0.0 videochatnl.com
 0.0.0.0 videochatpt.com
 0.0.0.0 videochatru.com
+0.0.0.0 videollamada.com
 0.0.0.0 web.chatapropo.ro
 0.0.0.0 wireclub.com
+0.0.0.0 witness.blackmountaininstitute.org
+0.0.0.0 www.bucuresti.romaniachat.eu
 0.0.0.0 yazgulu.net
 0.0.0.0 yozm.wishket.com
 0.0.0.0 zap.struckd.com

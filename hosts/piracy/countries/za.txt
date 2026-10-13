@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy, South Africa (za)
-# Domains: 19 | Updated: 2026-10-13
+# Domains: 28 | Updated: 2026-10-13
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/piracy/countries/za.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -14,6 +14,12 @@
 0.0.0.0 freesportscap.com
 0.0.0.0 gomovieshd.today
 0.0.0.0 hesgoal.soccer
+0.0.0.0 limetorrent.net
+0.0.0.0 livesportsbay.com
+0.0.0.0 mangadex.live
+0.0.0.0 mangadex.net
+0.0.0.0 mangadex.one
+0.0.0.0 mangadex.org.uk
 0.0.0.0 primewire-offcial.cyou
 0.0.0.0 primewire.gy
 0.0.0.0 primewires.org
@@ -23,3 +29,6 @@
 0.0.0.0 streameastmirror.com
 0.0.0.0 streameasttop.com
 0.0.0.0 supersportbet.com
+0.0.0.0 supersportschools.com
+0.0.0.0 vegasportsnetwork.com
+0.0.0.0 www-mangadex.org

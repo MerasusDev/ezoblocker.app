@@ -1,15 +1,33 @@
 # Title: EZOBLOCKER Gambling, Brazil (br)
-# Domains: 9 | Updated: 2026-10-13
+# Domains: 27 | Updated: 2026-10-13
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/gambling/countries/br.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
+0.0.0.0 app.aviator.co
+0.0.0.0 bancasdobicho.com.br
 0.0.0.0 betwinner.tv
+0.0.0.0 bicholoterias.com.br
+0.0.0.0 caf.natal.rn.gov.br
+0.0.0.0 cardmates.com.br
 0.0.0.0 cassinosbrasil.net
+0.0.0.0 dojogodobicho.com
+0.0.0.0 eojogodobicho.com
 0.0.0.0 erin2017.inpa.gov.br
+0.0.0.0 espaco.aviator.com.br
 0.0.0.0 fortunetiger.org
 0.0.0.0 gda.maceio.al.gov.br
+0.0.0.0 lotodobicho.com
+0.0.0.0 meujogodobicho.com.br
 0.0.0.0 mightytips.biz
+0.0.0.0 mines.gov.in
 0.0.0.0 natal.diadema.sp.gov.br
+0.0.0.0 ojogodobicho.com
+0.0.0.0 playbicho.com
 0.0.0.0 portaldecomercializacao.conab.gov.br
+0.0.0.0 portaldeinformacoes.conab.gov.br
 0.0.0.0 portaleducacional.unisanta.br
+0.0.0.0 ptrio.inf.br
+0.0.0.0 solicitacaoarmazem.conab.gov.br
+0.0.0.0 ws.basecep.conab.gov.br
+0.0.0.0 www.api.pm.pe.gov.br

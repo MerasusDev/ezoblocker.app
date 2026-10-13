@@ -1,18 +1,22 @@
 # Title: EZOBLOCKER Adult, United Kingdom (gb)
-# Domains: 21 | Updated: 2026-10-13
+# Domains: 25 | Updated: 2026-10-13
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/domains/adult/countries/gb.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
 adult-superstore.com
 adultshopit.co.uk
+afterdark-group.co.uk
 annsummers.com
 clonezonedirect.co.uk
 cloudclimax.co.uk
+doggingbritain.co.uk
+doggingnews.co.uk
 fanse.co.uk
 fetchshop.co.uk
 find-and-update.company-information.service.gov.uk
 fleshlight.eu
+gloryholeuk.com
 harmonystore.co.uk
 leakedzone.org
 loveandvibes.co.uk

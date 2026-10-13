@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy
-# Domains: 745 | Updated: 2026-10-13
+# Domains: 820 | Updated: 2026-10-13
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/lists/piracy/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -22,6 +22,7 @@
 *.9anime.direct
 *.9anime.me.uk
 *.9anime.or.at
+*.9animepro.com
 *.9animes.ro
 *.9animetv.vg
 *.9jaflaver.com
@@ -34,15 +35,21 @@ a.happydouga.jp
 *.acestreamid.com
 admin.avalie.pi.gov.br
 agenda.ipece.ce.gov.br
+aguaevida.sead.pi.gov.br
 *.alkkoora.live
 *.anime4up.bond
+*.anime4up.rest
 animefire.apkcafe.pt
 *.animeflv.or.at
 *.animepahe.ch
+*.animepahe.net
 *.animepahe.ng
+*.animesonline.io
+*.animesonlinecc.to
 *.animesub.info
 *.animeunity.so
 *.animeworlditalia.com
+*.animeyt.cc
 *.anitube.pro
 *.aniwatch.co.at
 *.aniwatch.com.bz
@@ -64,15 +71,24 @@ as.akwam.tube
 *.b9good.co
 *.b9good.org
 *.ballzaa.com
+*.baskino.digital
+*.baskino.fm
+*.baskino.inc
+*.baskino.my
+*.baskino.website
+batangpinoy.psc.gov.ph
 *.beoutq.tv
 *.besteiptvabonnement.com
+*.bestiptv-ireland.irish
 *.betteranime.com
 *.betteranime.io
 *.bflix.gold
 *.bflix.mx
 biblioteca.conab.gov.br
 *.bioskop-keren.com
+*.bolly4uz.com
 *.bombuj.si
+browse.tonton.com.my
 *.btuga.pt
 *.buffstreamsapp.com
 *.cakhia4.org
@@ -97,6 +113,7 @@ cimaclub.ct.ws
 *.cinecalidad-p9qc.pages.dev
 *.cinecalidad-u0wv.pages.dev
 *.cinecalidad-ykut.pages.dev
+*.coflix1.live
 *.comprariptv.com
 *.compucalitv.lol
 *.compucalitv.tv
@@ -106,9 +123,11 @@ cimaclub.ct.ws
 *.crackstreams.in
 *.crackstreams.mx
 *.crackstreamsmax.site
+*.cricfree.beer
 *.cricstream.mom
 *.crictime.com
 *.crictime.is
+csirt.banjarmasinkota.go.id
 *.cuevana-2y9h.pages.dev
 *.cuevana-7ap5.pages.dev
 *.cuevana-e0a9.pages.dev
@@ -140,7 +159,6 @@ cimaclub.ct.ws
 *.cuevana3.boo
 *.cuevana3.re
 *.cuevana3.sc
-*.cuevana3play.pro
 *.cuevana8.li
 *.cuevana8.net
 *.cuevanaa1.pro
@@ -171,6 +189,7 @@ directory.acci.gr
 *.diziizle.click
 *.diziizle.wiki
 *.dizilab.to
+*.dizipalorijinal17.com
 *.diziyou.info
 *.diziyou.one
 *.diziyou.vip
@@ -187,6 +206,7 @@ ekino-tv.sugester.pl
 *.ekitapindir.net
 *.el-koraonline.one
 *.elbotola.com
+*.eliteboxing.com.ph
 *.elitetorrent.org
 *.elitetorrent.world
 *.enpelisplus.com
@@ -216,6 +236,8 @@ filmora.wondershare.kr
 *.filmyzilla1.in
 *.filmyzilla76.in
 find-and-update.company-information.service.gov.uk
+*.firstrows.net
+*.firstrowsports.be
 *.flixmovie.online
 *.fmovies-free.to
 *.fmovies.supplies
@@ -248,11 +270,14 @@ french.visitkorea.or.kr
 *.fullprogramlarindir.cc
 *.fullprogramlarindir.net
 *.fullprogramlarindir.tr
+*.futbolenvivocolombia.com
 *.futbolete.com
 *.futbollibre.kim
 *.futbollibrefullhd.org
 *.futbollibreperu.org
 *.futbollibretv.ink
+*.futbollibretvhd.co
+*.futbolyconsolas.es
 *.futemax.at
 *.futemax.haus
 *.futemax.hiphop
@@ -260,7 +285,9 @@ french.visitkorea.or.kr
 *.fzmovies-q7vj.pages.dev
 *.fzmovies.live
 *.fzmovies.ng
+*.fztvseries.live
 *.fztvseries.ng
+getlive.pcb.com.pk
 *.getoziptv.com
 *.gnula.buzz
 *.gnula.cc
@@ -303,6 +330,7 @@ hdfilm-izle.website.org
 *.hdrezka.my
 *.hdrezka.pl
 *.hellspy.to
+*.hesgoal.co.uk
 *.hesgoal.ltd
 *.hesgoal.si
 *.hesgoal.soccer
@@ -310,6 +338,7 @@ hdfilm-izle.website.org
 *.hesgoalhd.com
 *.hesgoals.nl
 *.hesgoals.rest
+*.hintfilmizle.com
 home.sports.com
 *.icuevana3.cam
 *.ikinogo.io
@@ -321,6 +350,9 @@ iptv-portugal.youcan.store
 *.iptvcanada8k.ca
 *.iptvdeutschland24.com
 *.iptvespanatv.pro
+*.iptvireland-4k.irish
+*.iptvireland.homes
+*.iptvireland.io
 *.iptvlatinoamerica.us
 *.iptvmexico.us
 *.iptvnederland.nl
@@ -341,6 +373,7 @@ it-ord.computersweden.se
 *.jestyayingiris11.xyz
 *.jetfilmizle.now
 jobboard.simplifaster.com
+jp.videoproc.com
 *.justintv.co
 *.justintvizle735.top
 *.justintvizlesene.com
@@ -349,6 +382,8 @@ jobboard.simplifaster.com
 *.justintvturkiyehd.co
 *.justintvturkiyesh.vip
 katei.labo.jp
+*.kickzone.click
+*.kickzone.in
 *.kinogo.cc
 *.kinogo.is
 *.kinogo.org
@@ -366,6 +401,7 @@ katei.labo.jp
 *.kissanime.com.cv
 *.kissanime.quest
 *.kissanimetv.lol
+kmanga.kodansha.com
 *.kooora.com
 kooora.misrlinks.com
 *.kooora4live.quest
@@ -380,14 +416,19 @@ kora-star.misrlinks.com
 *.kora4live.surf
 *.koraonline.club
 *.koraonline.quest
+*.korefilmizle.vip
 *.kuttymovies.ai.in
 *.kuttymovies.im
 *.kuttymovies.vip
 *.kuttymovies.win
 *.latestmodapks.com
 *.layarkaca21.monster
+*.librefutbol.vip
 *.lichphimmoi.com
 lifestyle.assist-all.co.jp
+*.limetorrent.net
+link.oploverz.ltd
+live.pcb.com.pk
 *.liveball.sx
 *.livebola.com
 *.livebola.net
@@ -397,18 +438,28 @@ lifestyle.assist-all.co.jp
 *.livehd71.top
 *.livekoora.today
 *.livekora360.com
+*.livesport.com
 *.livesport.ru
 *.livesport.ws
+*.livesportsbay.com
 *.livesportsontv.com
+*.livetv.fr
 *.livetv.life
 *.lk21.sa.com
+llsflwjo.riverpeak.lat
 lordfilm-hd.mirfilm.net
 *.lordfilm.fi
 *.lordfilms.pub
 *.lordfilms.pw
+m.acestream.net
 m.goalddlive.com
 m.kino-sokol.pl
 *.magistvfutbol.com
+*.mangadex.dev
+*.mangadex.live
+*.mangadex.net
+*.mangadex.one
+*.mangadex.org.uk
 *.mangaeden.org
 *.mangakakalot.to
 *.mangaraw.top
@@ -447,7 +498,7 @@ movie44.affordability-test.css.uwb.edu
 *.moviesflixzip.xyz
 *.mp3indirdur.com.tr
 *.mp3indirdur.pro
-*.multicanais.nexus
+*.muayded789.com
 *.multicanaisbr.com
 *.mycima-official.bitbucket.io
 *.mycima.watch
@@ -463,6 +514,8 @@ movie44.affordability-test.css.uwb.edu
 *.netnaija.top
 *.netspor.co
 new.touchcric.com
+*.newtoki.work
+*.newtoki1.org
 *.nflbite.is
 *.nflbites.today
 ngb.to.dewebc.com
@@ -472,6 +525,7 @@ ngb.to.dewebc.com
 *.nung2hdd.com
 nyc-dsp1.kavanga.com
 online.tainiothiki.gr
+*.ostoralivehd7.com
 *.otakushinden.com
 *.oxtorrent.art
 *.oxtorrent.site
@@ -518,8 +572,11 @@ page.inplayer.com
 *.pezzottoiptv.com
 *.phimmoi.cat
 phimmoi.doraflixvn.com
+*.phimmoic.nl
 *.phimmoic.ws
+*.phimmoichill.autos
 *.phimmoii.my
+*.phimmoiw.to
 *.phimmotchill.fun
 phutu.forumvi.com
 *.pinoyanimegroup.com
@@ -545,11 +602,14 @@ portaldecomercializacao.conab.gov.br
 *.primewire-offcial.cyou
 *.primewire.gy
 *.primewires.org
+produtor.adagri.ce.gov.br
 *.projectfreetv-official.lol
 *.projectfreetvm.lol
+*.pusatfilm.id
 *.putlocker-du55.pages.dev
 *.rapidgators.net
 *.rarbg.bg
+*.rawdevart.art
 *.rbdflix.com
 *.real-couchtuner.com
 *.redecanais.in
@@ -638,6 +698,9 @@ start.sportdigital.de
 sukebei.nyaa.mom
 *.superfilmizle.org
 *.supersportbet.com
+*.supersportschools.com
+*.swissiptv.online
+*.swissiptv.tv
 t.matec.kr
 *.taraftarium24-aslan5.com
 *.taraftarium24-live3.com
@@ -676,6 +739,7 @@ tools.tracemyip.org
 *.totalsportekplus.org
 tour.gra.uk.com
 *.trdiziizle.tv
+tributario.piracicaba.sp.gov.br
 *.tructiep90phuttv.club
 *.tugaiptv.com
 *.tugaiptvbest.net
@@ -690,7 +754,10 @@ ultra-realistic-mod.apk.cafe
 *.usenet1.de
 *.usenetreviewz.com
 *.v2-sportsurge.life
+*.vegasportsnetwork.com
 video.mediaio.net
+video.tunefab.jp
+viet.jajag.me
 *.vipbox1.com
 *.vipleague.be
 *.vipleague.ro
@@ -704,6 +771,8 @@ video.mediaio.net
 *.voirfilms.cz
 w.cimacub.com
 *.waploaded.com
+*.warcenter.cz
+*.warez-bb.website
 *.wareztuga.io
 *.watchseries-3q89.pages.dev
 *.watchseries-mkqw.pages.dev
@@ -712,6 +781,7 @@ w.cimacub.com
 *.watchseriesfree.watch
 web.greekiptv.com
 web.iptvsolutions.nl
+webboard.mol.go.th
 *.webteizle.buzz
 *.webteizle.info
 *.webteizle3.xyz
@@ -722,6 +792,7 @@ welcome.blasttv.ph
 ww.sledujfilmy.io
 ww1.animefenix.vip
 ww1.pelis24.blog
+*.www-mangadex.org
 www.kino.nowytarg.pl
 www.tosho3704.tokyo-bousai.or.jp
 *.xemsocolive.com
@@ -729,10 +800,13 @@ www.tosho3704.tokyo-bousai.or.jp
 *.xoilac1.help
 *.xoilac3.cc
 *.xoilac5.top
+*.xoilaclivettbds.tv
 *.xoilactvbm.cc
 *.xoilacvn.net
 *.xoilacxbk.tv
 *.xoilacxbr.tv
+*.xoilacxxm.cc
+*.xoilaczcd.tv
 *.yaacinetv.com
 *.yabancidizi.news
 *.yalla-koora.club
@@ -743,6 +817,7 @@ www.tosho3704.tokyo-bousai.or.jp
 yallakora.misrlinks.com
 *.yallakoraa.club
 *.yallakoraa.live
+*.yallalives.net
 *.yallashoot-w11.pages.dev
 *.yallashoot.id
 yozm.wishket.com

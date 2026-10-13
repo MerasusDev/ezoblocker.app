@@ -1,17 +1,21 @@
 # Title: EZOBLOCKER Dating, South Africa (za)
-# Domains: 11 | Updated: 2026-10-13
+# Domains: 15 | Updated: 2026-10-13
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/lists/dating/countries/za.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
 *.coomeet.bitbucket.io
+mzansi-chatrooms.apk.gold
 *.mzansiescorts.com
 *.omegle.fm
 *.pretoriaescorts.co.za
 *.randomchat.today
 *.saescorts.co.za
+*.sahookup.com
 *.sexopretoria.com
 *.shagle.com
 *.strangerline.io
+*.talk2stranger.com
 *.uhmegle.com
 za.atlasescorts.com
+za.xtonight.com
