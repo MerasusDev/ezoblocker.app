@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Dating, ct
-# Domains: 39 | Updated: 2026-10-14
+# Domains: 61 | Updated: 2026-10-14
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/dating/ct.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -17,15 +17,30 @@
 0.0.0.0 delhi-escorts.club
 0.0.0.0 dhakavipescort.com
 0.0.0.0 dogging-bh.top
+0.0.0.0 efsaneescort35.shop
 0.0.0.0 efsaneescort67.shop
+0.0.0.0 encuentros-bizkaia.com
+0.0.0.0 encuentros-cadiz.com
+0.0.0.0 erzurumtrescort.com
 0.0.0.0 escort-argentina.com
 0.0.0.0 escortigramreviews.com
 0.0.0.0 escortlady-hannover.de
+0.0.0.0 escortsites.com
+0.0.0.0 europinkescortservices.com
 0.0.0.0 exchangeescort.xyz
 0.0.0.0 faridabadcallgirl.com
 0.0.0.0 gaymassage-tokyo.com
+0.0.0.0 gaymassage.au
+0.0.0.0 geilersexkontakt.com
+0.0.0.0 goessexdating.co.uk
+0.0.0.0 hkescort-org.pages.dev
 0.0.0.0 hotgirlsescortsmallorca.com
 0.0.0.0 locanto.space
+0.0.0.0 lokalesextreffen.de
+0.0.0.0 macaoescort.com
+0.0.0.0 maiescort.com
+0.0.0.0 naughtydate.org
+0.0.0.0 netcasino-life-hisshoho.jp
 0.0.0.0 notten-papakatsu.jp
 0.0.0.0 parejasliberales.com
 0.0.0.0 perfectescort.xyz
@@ -33,13 +48,20 @@
 0.0.0.0 privehuisdreamgirls.nl
 0.0.0.0 romeescortgirls.com
 0.0.0.0 scambistipercaso.it
+0.0.0.0 schnellesextreffen.de
 0.0.0.0 seitensprung-ratgeber.de
+0.0.0.0 sexcontactgids.be
+0.0.0.0 sexkontaktehier.de
+0.0.0.0 sexkontaktevorort.de
+0.0.0.0 sexkontaktlokal.de
 0.0.0.0 sextreffen69.org
+0.0.0.0 sextreffenlokal.de
 0.0.0.0 skipthegames-usorg.pages.dev
 0.0.0.0 special-room-sexdatexx.pages.dev
 0.0.0.0 tokusen-mensesthe.com
 0.0.0.0 tokyo-mensesthe-map.com
 0.0.0.0 top-sugardating.com
+0.0.0.0 udaipurcallgirl.net
 0.0.0.0 ukpunting.uk.com
 0.0.0.0 via-escort.ru
 0.0.0.0 whatssexdate.net

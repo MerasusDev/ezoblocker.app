@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Dating
-# Domains: 823 | Updated: 2026-10-14
+# Domains: 845 | Updated: 2026-10-14
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/dating/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -226,6 +226,7 @@
 0.0.0.0 econatura-relax-chile.ueniweb.com
 0.0.0.0 edmonton.bonepage.com
 0.0.0.0 eentijuana.catalog.to
+0.0.0.0 efsaneescort35.shop
 0.0.0.0 efsaneescort67.shop
 0.0.0.0 eharmony.ca
 0.0.0.0 eharmony.co.uk
@@ -243,10 +244,13 @@
 0.0.0.0 elitislamievlilik.com
 0.0.0.0 emeraldchat.com
 0.0.0.0 emiratescort.com
+0.0.0.0 encuentros-bizkaia.com
+0.0.0.0 encuentros-cadiz.com
 0.0.0.0 eniyichat.com
 0.0.0.0 enterchatroom.com
 0.0.0.0 erotickychat.net
 0.0.0.0 erotik.markt.ch
+0.0.0.0 erzurumtrescort.com
 0.0.0.0 escort-argentina.com
 0.0.0.0 escort-directory.eu
 0.0.0.0 escort-directory.nl
@@ -277,6 +281,7 @@
 0.0.0.0 escortsandbabes.com.au
 0.0.0.0 escortservice-brugge.vip
 0.0.0.0 escortservice-helmond.nl
+0.0.0.0 escortsites.com
 0.0.0.0 escortutrecht.nl
 0.0.0.0 esohbet.net
 0.0.0.0 esohbet.net.tr
@@ -287,6 +292,7 @@
 0.0.0.0 eurogirlsescort.cz
 0.0.0.0 eurogirlsescort.fr
 0.0.0.0 eurogirlsescort.org
+0.0.0.0 europinkescortservices.com
 0.0.0.0 evinsohbet.com
 0.0.0.0 evlenmekisteyenerkekler.com
 0.0.0.0 evlilikilan.com
@@ -326,7 +332,9 @@
 0.0.0.0 gaigoivip.net
 0.0.0.0 gaito.uk
 0.0.0.0 gaymassage-tokyo.com
+0.0.0.0 gaymassage.au
 0.0.0.0 gb.banana-chat.com
+0.0.0.0 geilersexkontakt.com
 0.0.0.0 gelchat.net
 0.0.0.0 gemidos.tv
 0.0.0.0 gemidos69.com
@@ -341,6 +349,7 @@
 0.0.0.0 giant-stoixima-apg.aestheticon.gr
 0.0.0.0 girlsofabudhabi.com
 0.0.0.0 gleeden.com
+0.0.0.0 goessexdating.co.uk
 0.0.0.0 gonuldensevenler.com
 0.0.0.0 gr.atlasescorts.com
 0.0.0.0 greece.escortface.com
@@ -369,6 +378,7 @@
 0.0.0.0 hinge.co
 0.0.0.0 hiperalem.com
 0.0.0.0 hispano.orixon.org
+0.0.0.0 hkescort-org.pages.dev
 0.0.0.0 hobart.bonepage.com
 0.0.0.0 honeychat.app
 0.0.0.0 hongkongcupid.com
@@ -437,6 +447,7 @@
 0.0.0.0 locanto.ie
 0.0.0.0 locanto.space
 0.0.0.0 login-sugarbook.rivernotebook.com
+0.0.0.0 lokalesextreffen.de
 0.0.0.0 london-ont.bonepage.com
 0.0.0.0 loveplanet.ru
 0.0.0.0 lovescout24.de
@@ -449,7 +460,9 @@
 0.0.0.0 m.relaxchile.cl
 0.0.0.0 m.xlist.gr
 0.0.0.0 m.ymeet.me
+0.0.0.0 macaoescort.com
 0.0.0.0 magaseekcm.conohawing.com
+0.0.0.0 maiescort.com
 0.0.0.0 malaysia.escortface.com
 0.0.0.0 malaysiancupid.com
 0.0.0.0 mamba.ru
@@ -508,8 +521,10 @@
 0.0.0.0 namoroonline.com.br
 0.0.0.0 nasipse.com
 0.0.0.0 nastyhookups.com
+0.0.0.0 naughtydate.org
 0.0.0.0 nazfm.net
 0.0.0.0 nearbyhookups.co.uk
+0.0.0.0 netcasino-life-hisshoho.jp
 0.0.0.0 new-york.ondate.com
 0.0.0.0 ng.atlasescorts.com
 0.0.0.0 nigeriandating.com
@@ -619,6 +634,7 @@
 0.0.0.0 saudidate.com
 0.0.0.0 scambistipercaso.it
 0.0.0.0 scarletblue.com.au
+0.0.0.0 schnellesextreffen.de
 0.0.0.0 scruff.com
 0.0.0.0 seeking.com
 0.0.0.0 seitensprung-fibel.de
@@ -638,13 +654,18 @@
 0.0.0.0 sexchat.ru
 0.0.0.0 sexchatroom.de
 0.0.0.0 sexchatttttt.chatovod.com
+0.0.0.0 sexcontactgids.be
 0.0.0.0 sexecharleroi.be
 0.0.0.0 sexfriend.fr
 0.0.0.0 sexintim.ru
 0.0.0.0 sexjobs.nl
 0.0.0.0 sexkontakte.at
+0.0.0.0 sexkontaktehier.de
+0.0.0.0 sexkontaktevorort.de
+0.0.0.0 sexkontaktlokal.de
 0.0.0.0 sexopretoria.com
 0.0.0.0 sextreffen69.org
+0.0.0.0 sextreffenlokal.de
 0.0.0.0 shaadi.com
 0.0.0.0 shada-shatea.hotels-saudi-arabia.com
 0.0.0.0 shagle.com
@@ -776,6 +797,7 @@
 0.0.0.0 turkyeri.net
 0.0.0.0 uae.escortface.com
 0.0.0.0 uaeescort.com
+0.0.0.0 udaipurcallgirl.net
 0.0.0.0 uhmegle.com
 0.0.0.0 ukescorts.directory
 0.0.0.0 ukpunting.uk.com

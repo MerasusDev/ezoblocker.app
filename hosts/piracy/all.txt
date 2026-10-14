@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy
-# Domains: 820 | Updated: 2026-10-14
+# Domains: 874 | Updated: 2026-10-14
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/piracy/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -108,10 +108,14 @@
 0.0.0.0 cimaclub.ct.ws
 0.0.0.0 cimaclubsite.blogspot.com
 0.0.0.0 cinecalidad-0f9b.pages.dev
+0.0.0.0 cinecalidad-abf9.pages.dev
 0.0.0.0 cinecalidad-cojv.pages.dev
+0.0.0.0 cinecalidad-es26.pages.dev
 0.0.0.0 cinecalidad-iyz0.pages.dev
+0.0.0.0 cinecalidad-mf0t.pages.dev
 0.0.0.0 cinecalidad-p9qc.pages.dev
 0.0.0.0 cinecalidad-u0wv.pages.dev
+0.0.0.0 cinecalidad-xexj.pages.dev
 0.0.0.0 cinecalidad-ykut.pages.dev
 0.0.0.0 coflix1.live
 0.0.0.0 comprariptv.com
@@ -132,22 +136,30 @@
 0.0.0.0 cuevana-7ap5.pages.dev
 0.0.0.0 cuevana-e0a9.pages.dev
 0.0.0.0 cuevana-gx65.pages.dev
+0.0.0.0 cuevana-juh5.pages.dev
 0.0.0.0 cuevana-lxy4.pages.dev
 0.0.0.0 cuevana-rbk6.pages.dev
 0.0.0.0 cuevana-v793.pages.dev
 0.0.0.0 cuevana3-06kz.pages.dev
 0.0.0.0 cuevana3-1g9s.pages.dev
+0.0.0.0 cuevana3-4h0b.pages.dev
 0.0.0.0 cuevana3-4kij.pages.dev
+0.0.0.0 cuevana3-6vev.pages.dev
 0.0.0.0 cuevana3-79g.pages.dev
 0.0.0.0 cuevana3-99kc.pages.dev
 0.0.0.0 cuevana3-9ns.pages.dev
 0.0.0.0 cuevana3-an8.pages.dev
+0.0.0.0 cuevana3-d7s5.pages.dev
 0.0.0.0 cuevana3-grv3.pages.dev
 0.0.0.0 cuevana3-i8my.pages.dev
+0.0.0.0 cuevana3-idyx.pages.dev
+0.0.0.0 cuevana3-ioqy.pages.dev
+0.0.0.0 cuevana3-k1lh.pages.dev
 0.0.0.0 cuevana3-k6m3.pages.dev
 0.0.0.0 cuevana3-mfwc.pages.dev
 0.0.0.0 cuevana3-mlrt.pages.dev
 0.0.0.0 cuevana3-ovas.pages.dev
+0.0.0.0 cuevana3-resq.pages.dev
 0.0.0.0 cuevana3-rg8.pages.dev
 0.0.0.0 cuevana3-rnsa.pages.dev
 0.0.0.0 cuevana3-s2o.pages.dev
@@ -156,6 +168,7 @@
 0.0.0.0 cuevana3-uugr.pages.dev
 0.0.0.0 cuevana3-yeaf.pages.dev
 0.0.0.0 cuevana3-yscy.pages.dev
+0.0.0.0 cuevana3-zqrb.pages.dev
 0.0.0.0 cuevana3.boo
 0.0.0.0 cuevana3.re
 0.0.0.0 cuevana3.sc
@@ -218,6 +231,7 @@
 0.0.0.0 filmapik.rodeo
 0.0.0.0 filmdozu.com
 0.0.0.0 filmekseni.vip
+0.0.0.0 filmestorrents.biz
 0.0.0.0 filmifullizle.news
 0.0.0.0 filmiwebteizle.blogspot.com
 0.0.0.0 filmix.ac
@@ -238,9 +252,11 @@
 0.0.0.0 find-and-update.company-information.service.gov.uk
 0.0.0.0 firstrows.net
 0.0.0.0 firstrowsports.be
+0.0.0.0 flixfoxmovie.org
 0.0.0.0 flixmovie.online
 0.0.0.0 fmovies-free.to
 0.0.0.0 fmovies.supplies
+0.0.0.0 fmovies11.com
 0.0.0.0 fmoviezs.top
 0.0.0.0 footybite.com.co
 0.0.0.0 footybite.cyou
@@ -272,8 +288,10 @@
 0.0.0.0 fullprogramlarindir.tr
 0.0.0.0 futbolenvivocolombia.com
 0.0.0.0 futbolete.com
+0.0.0.0 futbolgratis.com.mx
 0.0.0.0 futbollibre.kim
 0.0.0.0 futbollibrefullhd.org
+0.0.0.0 futbollibrehd-tv.com
 0.0.0.0 futbollibreperu.org
 0.0.0.0 futbollibretv.ink
 0.0.0.0 futbollibretvhd.co
@@ -289,6 +307,7 @@
 0.0.0.0 fztvseries.ng
 0.0.0.0 getlive.pcb.com.pk
 0.0.0.0 getoziptv.com
+0.0.0.0 gipnozis-hdrezka.org
 0.0.0.0 gnula.buzz
 0.0.0.0 gnula.cc
 0.0.0.0 gnula.forum
@@ -372,6 +391,7 @@
 0.0.0.0 jestyayin.org
 0.0.0.0 jestyayingiris11.xyz
 0.0.0.0 jetfilmizle.now
+0.0.0.0 jkanimes-lat.pages.dev
 0.0.0.0 jobboard.simplifaster.com
 0.0.0.0 jp.videoproc.com
 0.0.0.0 justintv.co
@@ -448,6 +468,7 @@
 0.0.0.0 lk21.sa.com
 0.0.0.0 llsflwjo.riverpeak.lat
 0.0.0.0 lordfilm-hd.mirfilm.net
+0.0.0.0 lordfilm-top-kino.top
 0.0.0.0 lordfilm.fi
 0.0.0.0 lordfilms.pub
 0.0.0.0 lordfilms.pw
@@ -481,6 +502,7 @@
 0.0.0.0 mobile.coivl.net
 0.0.0.0 monoschinos2.net
 0.0.0.0 motchillk.now
+0.0.0.0 motphimchill.cam
 0.0.0.0 motphimchill.cc
 0.0.0.0 motphimchill.hair
 0.0.0.0 motphimchill.plus
@@ -496,12 +518,14 @@
 0.0.0.0 movierulz.center
 0.0.0.0 movierulzpk.pro
 0.0.0.0 moviesflixzip.xyz
+0.0.0.0 movieshd-v3.pages.dev
 0.0.0.0 mp3indirdur.com.tr
 0.0.0.0 mp3indirdur.pro
 0.0.0.0 muayded789.com
 0.0.0.0 multicanaisbr.com
 0.0.0.0 mycima-official.bitbucket.io
 0.0.0.0 mycima.watch
+0.0.0.0 myflixer--v2.pages.dev
 0.0.0.0 myflixer.com.co
 0.0.0.0 myiptvtelewizja.com
 0.0.0.0 mynetnaija.ng
@@ -520,6 +544,7 @@
 0.0.0.0 nflbites.today
 0.0.0.0 ngb.to.dewebc.com
 0.0.0.0 nontonfilm.hair
+0.0.0.0 noonootv47.store
 0.0.0.0 noonootv4k.shop
 0.0.0.0 noonootvs10.store
 0.0.0.0 nung2hdd.com
@@ -539,20 +564,27 @@
 0.0.0.0 pdfkitapkurdu.blogspot.com
 0.0.0.0 pdfkitapoku.org
 0.0.0.0 pelisflix-26m7.pages.dev
+0.0.0.0 pelisflix-2o5.pages.dev
 0.0.0.0 pelisflix-4sp8.pages.dev
 0.0.0.0 pelisflix-5uof.pages.dev
+0.0.0.0 pelisflix-9u53.pages.dev
+0.0.0.0 pelisflix-bmm5.pages.dev
 0.0.0.0 pelisflix-ea0l.pages.dev
+0.0.0.0 pelisflix-gj11.pages.dev
 0.0.0.0 pelisflix-k4bi.pages.dev
 0.0.0.0 pelisflix-nsbs.pages.dev
 0.0.0.0 pelisflix-q9ja.pages.dev
+0.0.0.0 pelisflix-qk6u.pages.dev
 0.0.0.0 pelisflix-qot.pages.dev
 0.0.0.0 pelisflix-rhb.pages.dev
 0.0.0.0 pelisflix-t5lt.pages.dev
 0.0.0.0 pelisflix-ttxn.pages.dev
 0.0.0.0 pelisflix-u56l.pages.dev
 0.0.0.0 pelisflix-yuv.pages.dev
+0.0.0.0 pelisflix-z281.pages.dev
 0.0.0.0 pelisflix-zcb.pages.dev
 0.0.0.0 pelispedia-7fkx.pages.dev
+0.0.0.0 pelispedia-c9cr.pages.dev
 0.0.0.0 pelispedia-hu2x.pages.dev
 0.0.0.0 pelispedia.mov
 0.0.0.0 pelisplus.garden
@@ -568,7 +600,9 @@
 0.0.0.0 pelisplusvip.com
 0.0.0.0 pelotalibreenvivo.cl
 0.0.0.0 pepelisplus-3za4.pages.dev
+0.0.0.0 pepelisplus-k0vb.pages.dev
 0.0.0.0 pepelisplus-uhek.pages.dev
+0.0.0.0 pepelisplus-xd21.pages.dev
 0.0.0.0 pezzottoiptv.com
 0.0.0.0 phimmoi.cat
 0.0.0.0 phimmoi.doraflixvn.com
@@ -601,6 +635,7 @@
 0.0.0.0 premierleague.com
 0.0.0.0 primewire-offcial.cyou
 0.0.0.0 primewire.gy
+0.0.0.0 primewirenetwork.com
 0.0.0.0 primewires.org
 0.0.0.0 produtor.adagri.ce.gov.br
 0.0.0.0 projectfreetv-official.lol
@@ -634,6 +669,7 @@
 0.0.0.0 saas.spochak.com
 0.0.0.0 scoreman123.com
 0.0.0.0 selcuksportshd.is
+0.0.0.0 series-subthai.xyz
 0.0.0.0 sflix.org
 0.0.0.0 sflixline.com
 0.0.0.0 shahid4u.courses
@@ -699,6 +735,7 @@
 0.0.0.0 superfilmizle.org
 0.0.0.0 supersportbet.com
 0.0.0.0 supersportschools.com
+0.0.0.0 supertorrentz.ru
 0.0.0.0 swissiptv.online
 0.0.0.0 swissiptv.tv
 0.0.0.0 t.matec.kr
@@ -722,6 +759,7 @@
 0.0.0.0 themoviesflix.dev
 0.0.0.0 thenetnaija.com.ng
 0.0.0.0 thenetnaija.ng
+0.0.0.0 thoiivietsub.pages.dev
 0.0.0.0 tirexo.al
 0.0.0.0 tools.tracemyip.org
 0.0.0.0 toonitalia.space
@@ -774,7 +812,11 @@
 0.0.0.0 warcenter.cz
 0.0.0.0 warez-bb.website
 0.0.0.0 wareztuga.io
+0.0.0.0 watchmovies.info
+0.0.0.0 watchmoviesonlinehere.com
 0.0.0.0 watchseries-3q89.pages.dev
+0.0.0.0 watchseries-6t48.pages.dev
+0.0.0.0 watchseries-dt3j.pages.dev
 0.0.0.0 watchseries-mkqw.pages.dev
 0.0.0.0 watchseries-yowo.pages.dev
 0.0.0.0 watchseries.net
@@ -792,6 +834,7 @@
 0.0.0.0 ww.sledujfilmy.io
 0.0.0.0 ww1.animefenix.vip
 0.0.0.0 ww1.pelis24.blog
+0.0.0.0 www-cpasbien.cc
 0.0.0.0 www-mangadex.org
 0.0.0.0 www.kino.nowytarg.pl
 0.0.0.0 www.tosho3704.tokyo-bousai.or.jp
@@ -810,16 +853,27 @@
 0.0.0.0 yaacinetv.com
 0.0.0.0 yabancidizi.news
 0.0.0.0 yalla-koora.club
+0.0.0.0 yalla-koora.world
+0.0.0.0 yalla-kora.top
 0.0.0.0 yalla4kora.blog
+0.0.0.0 yalla4kora.club
 0.0.0.0 yalla4kora.one
+0.0.0.0 yalla4kora.pro
 0.0.0.0 yalla4kora.top
+0.0.0.0 yallakoora.club
+0.0.0.0 yallakora.club
 0.0.0.0 yallakora.com
 0.0.0.0 yallakora.misrlinks.com
 0.0.0.0 yallakoraa.club
 0.0.0.0 yallakoraa.live
+0.0.0.0 yallakorapro.com
+0.0.0.0 yallakorastar.pro
 0.0.0.0 yallalives.net
 0.0.0.0 yallashoot-w11.pages.dev
+0.0.0.0 yallashoot-yacine.com
 0.0.0.0 yallashoot.id
+0.0.0.0 yallashoott.pro
+0.0.0.0 yesmovies-to.pages.dev
 0.0.0.0 yozm.wishket.com
 0.0.0.0 zalukaj-plus.pl
 0.0.0.0 zfilmizle.com

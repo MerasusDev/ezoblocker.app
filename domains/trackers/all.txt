@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Trackers
-# Domains: 180 | Updated: 2026-10-14
+# Domains: 184 | Updated: 2026-10-14
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/domains/trackers/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -46,6 +46,7 @@ cm4wrdj6o000ksamvz1gih4wu-signal.usehardal.com
 cm6gihhlq000aue9wkelb4ay3-signal.usehardal.com
 cmbq6kmg800096m3t13jha25u-signal.usehardal.com
 cmfnolvoa000f9eqwiaely3d5-signal.usehardal.com
+cname.adsu.ai
 cname.jitsu.com
 cname.trackgo.io
 cname.truemetrics.eu
@@ -96,6 +97,7 @@ mr-in.com
 mtra.in
 mytrackgo.com
 oghub.io
+opsone-analytics.ch
 out.seline.com
 package.leadjourney.io
 phoenix-childrens-domain.oursprivacy.com
@@ -116,6 +118,7 @@ redirect523.tagcommander.com
 redirect621.tagcommander.com
 redirect891.tagcommander.com
 register.af-sdk.net
+rockets666.com
 sage-dental.oursprivacy.com
 sanoma-sst.fi
 savvytrack.nl
@@ -176,6 +179,7 @@ trytagging.com
 us.i.posthog.com
 us.sgtm.space
 usercentrics-sst.io
+usercentrics.io
 utiq-aws.net
 webtrekk.net
 whitelabel.usermaven.com

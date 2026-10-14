@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Dating, ct
-! Domains: 39 | Updated: 2026-10-14
+! Domains: 61 | Updated: 2026-10-14
 ! Homepage: https://github.com/MerasusDev/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/dating/ct.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -17,15 +17,30 @@
 ||delhi-escorts.club^
 ||dhakavipescort.com^
 ||dogging-bh.top^
+||efsaneescort35.shop^
 ||efsaneescort67.shop^
+||encuentros-bizkaia.com^
+||encuentros-cadiz.com^
+||erzurumtrescort.com^
 ||escort-argentina.com^
 ||escortigramreviews.com^
 ||escortlady-hannover.de^
+||escortsites.com^
+||europinkescortservices.com^
 ||exchangeescort.xyz^
 ||faridabadcallgirl.com^
 ||gaymassage-tokyo.com^
+||gaymassage.au^
+||geilersexkontakt.com^
+||goessexdating.co.uk^
+||hkescort-org.pages.dev^
 ||hotgirlsescortsmallorca.com^
 ||locanto.space^
+||lokalesextreffen.de^
+||macaoescort.com^
+||maiescort.com^
+||naughtydate.org^
+||netcasino-life-hisshoho.jp^
 ||notten-papakatsu.jp^
 ||parejasliberales.com^
 ||perfectescort.xyz^
@@ -33,13 +48,20 @@
 ||privehuisdreamgirls.nl^
 ||romeescortgirls.com^
 ||scambistipercaso.it^
+||schnellesextreffen.de^
 ||seitensprung-ratgeber.de^
+||sexcontactgids.be^
+||sexkontaktehier.de^
+||sexkontaktevorort.de^
+||sexkontaktlokal.de^
 ||sextreffen69.org^
+||sextreffenlokal.de^
 ||skipthegames-usorg.pages.dev^
 ||special-room-sexdatexx.pages.dev^
 ||tokusen-mensesthe.com^
 ||tokyo-mensesthe-map.com^
 ||top-sugardating.com^
+||udaipurcallgirl.net^
 ||ukpunting.uk.com^
 ||via-escort.ru^
 ||whatssexdate.net^
