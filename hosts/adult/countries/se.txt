@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, Sweden (se)
-# Domains: 32 | Updated: 2026-10-14
+# Domains: 35 | Updated: 2026-10-14
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/adult/countries/se.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -9,6 +9,7 @@
 0.0.0.0 amorina3.se
 0.0.0.0 blup.se
 0.0.0.0 blushme.se
+0.0.0.0 chambersoflove.se
 0.0.0.0 desirel.se
 0.0.0.0 erotikbutiken.se
 0.0.0.0 erotikguiden.nu
@@ -26,9 +27,11 @@
 0.0.0.0 mshop.se
 0.0.0.0 passionerad.se
 0.0.0.0 passionerat.se
+0.0.0.0 porr93.com
 0.0.0.0 porrtube.com
 0.0.0.0 prospektly.se
 0.0.0.0 sexbutiker.se
+0.0.0.0 sexleksakeroutlet.se
 0.0.0.0 shoppingguidestockholm.se
 0.0.0.0 sinful.se
 0.0.0.0 svensk-porr.com

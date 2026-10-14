@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling, Sweden (se)
-# Domains: 13 | Updated: 2026-10-14
+# Domains: 15 | Updated: 2026-10-14
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/domains/gambling/countries/se.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -8,6 +8,7 @@ bethard.es
 casinia-online.eu
 casiniacasino.com.se
 casinomamma.com
+cyrusbonus.se
 expekt.dk
 ggaff.bet
 haku.vainu.com
@@ -16,4 +17,5 @@ nominiboards.com
 paf.lv
 rabonasports.org
 speltips.se
+svenskacasinosajten.se
 wp.catedu.es

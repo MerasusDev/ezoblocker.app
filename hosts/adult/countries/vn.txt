@@ -17,7 +17,6 @@
 0.0.0.0 dochoitinhduc4u.com
 0.0.0.0 dochoitinhducxtoy.com
 0.0.0.0 drloves.vn
-0.0.0.0 flower-emau.com
 0.0.0.0 foxietoy.com
 0.0.0.0 gunshop.vn
 0.0.0.0 htvc.com.vn
@@ -35,6 +34,7 @@
 0.0.0.0 nuhoangkhoaicam.vn
 0.0.0.0 oichin.net
 0.0.0.0 phim18vn.top
+0.0.0.0 phimnong.net
 0.0.0.0 phimsexvietsubx.blog
 0.0.0.0 rungrung.vn
 0.0.0.0 s1.sexheo.blog

@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Dating
-# Domains: 845 | Updated: 2026-10-14
+# Domains: 916 | Updated: 2026-10-14
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/lists/dating/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -24,6 +24,7 @@ ae.escortsbabes.com
 *.afrodosug.ru
 *.afspraakjes.com
 ai.updf.com
+aipchile.dgac.gob.cl
 akordy.kytary.cz
 *.alanyaescort.blog
 *.alemortam.net
@@ -31,6 +32,7 @@ almomaiz.free-sadad.com
 *.amizadecolorida.com
 *.amp-izmirbayaneskort.pages.dev
 *.annonce.cz
+anonim.samyeli.net
 anonymous-chat-stranger-chat.apk.gold
 app.chatbox.ai
 app.chatboxapp.ai
@@ -84,7 +86,10 @@ birmingham.chaosads.co.uk
 *.blackpeoplemeet.com
 *.blindid.app
 br.papinho.com
+braila.escorte66.com
+braila.escortela.net
 *.brazilcupid.com
+*.britishescortsdirectory.co.uk
 bucuresti.cylex.ro
 *.bumble.com
 *.bumble.com.tr
@@ -107,6 +112,7 @@ canada.escortface.com
 career.hyperconnect.com
 careers.pwd.org
 *.caribbeancupid.com
+*.carijodohclub.blogspot.com
 *.casadasinfieles.net
 casual.encounters.uk
 *.cennetim.com
@@ -115,6 +121,7 @@ chat.europnet.org
 *.chat.gen.tr
 chat.greek-chat.gr
 chat.irc.in.th
+chat.one.th
 chat.ptnet.org
 chat.romi.ai
 *.chatalya.com
@@ -129,6 +136,7 @@ chat.romi.ai
 *.chatciyiz.com
 *.chatciyiz.net
 *.chatdate.app
+*.chateacongente.com
 *.chateagratis.net
 *.chatealo.chat
 *.chathispano.com
@@ -139,6 +147,9 @@ chat.romi.ai
 *.chathub1.com
 *.chathubapp.com
 *.chatib.us
+*.chatindonesia.com
+*.chatindonesia.org
+*.chatinireland.com
 *.chatiw.com
 *.chatiw.im
 chatlady.rei35.com
@@ -169,6 +180,7 @@ chatta.echat.it
 *.chaturro.com
 *.chatvideo.fun
 *.chatville.com
+*.chatza.co.za
 *.cheap-london-escort.com
 *.checkerviet.cc
 chicago.bonepage.com
@@ -179,9 +191,12 @@ chicago.bonepage.com
 *.ciddievlen.com
 citizen.andamannicobar.gov.in
 *.cityheaven.net
+*.citysex.ru
+cl.tablago.com
 *.clover.co
 cluj-napoca.cylex.ro
 cluj-napoca.escortes.ro
+cname.minical.io
 *.coffeemeetsbagel.com
 *.colombiancupid.com
 *.commeetment.com
@@ -203,6 +218,7 @@ coomeet.apkgold.ae
 *.dardasha.com
 *.dardasha.net
 *.datingsitekiezen.nl
+deai.app-liv.jp
 *.deincamchat.de
 *.delhi-escorts.club
 delhi.idbf.in
@@ -235,6 +251,7 @@ eentijuana.catalog.to
 *.ehenho.com
 *.elchatcam.com
 *.elchatea.com
+elearning.uwks.ac.id
 *.elitask.com
 *.elitecupid.com
 *.eliteescortamsterdam.com
@@ -242,12 +259,15 @@ eentijuana.catalog.to
 *.elitepartner.de
 *.elitesingles.com
 *.elitislamievlilik.com
+em.umani.cx.ua
 *.emeraldchat.com
 *.emiratescort.com
 *.encuentros-bizkaia.com
 *.encuentros-cadiz.com
 *.eniyichat.com
+*.eniyiseslichat.com
 *.enterchatroom.com
+*.erosprepagos.com.co
 *.erotickychat.net
 erotik.markt.ch
 *.erzurumtrescort.com
@@ -274,6 +294,7 @@ escortathens.webnode.gr
 *.escorthub.org
 *.escortigramreviews.com
 *.escortlady-hannover.de
+*.escortmanila.com
 *.escortnews.be
 *.escortnews.com
 *.escortnews.eu
@@ -305,6 +326,7 @@ escortathens.webnode.gr
 f5oob2a6yj592gqy.e-creditreform.si
 *.faceflow.com
 faq.benesse.co.jp
+faq.nisshinfire.co.jp
 fargo-moorhead.bonepage.com
 fargo.myescort.network
 *.faridabadcallgirl.com
@@ -312,6 +334,8 @@ fargo.myescort.network
 *.feeld.co
 *.filipinaloves.com
 *.filipinocupid.com
+filmora.wondershare.com.ru
+find-and-update.company-information.service.gov.uk
 *.flingster.com
 *.flirt-style.ru
 *.flirt.ru
@@ -328,9 +352,14 @@ fruzo.apkpure.co.in
 *.fundacionchatlatino.org
 *.gabile.net
 *.gabilesohbet.net
+*.gaigoihaiphong.xyz
+*.gaigoihuekiemdinh.pro
 *.gaigoivc.now
 *.gaigoivip.net
 *.gaito.uk
+*.gaito16.fit
+*.gaito18.fit
+galati.escortela.net
 *.gaymassage-tokyo.com
 *.gaymassage.au
 gb.banana-chat.com
@@ -347,11 +376,13 @@ get.ashoo.io
 *.gevezesohbet.chat
 *.gevezeyeri.com
 giant-stoixima-apg.aestheticon.gr
+girlcall.forumvi.com
 *.girlsofabudhabi.com
 *.gleeden.com
 *.goessexdating.co.uk
 *.gonuldensevenler.com
 gr.atlasescorts.com
+*.grande-dame-begleit-escort.ch
 greece.escortface.com
 *.greekchat.com
 *.greekschat.com
@@ -389,12 +420,18 @@ iasi.escortepubli.com
 im.escortsbabes.com
 in.seekerpleasure.com
 ind.incallup.com
+india.escortface.com
 indian-call-girls-ajman-t7mq.b12sites.com
 *.indiancupid.com
 indiapostgdsonline.cept.gov.in
 *.indiaskokka.com
 *.indonesiancupid.com
+*.internationalsexguide.nl
 *.interracialcupid.com
+*.intim-dnepr.net
+*.intim-kiev.com
+*.intim-lvov.com
+*.intimdating.ru
 *.irishchat.net
 *.irishmirror.ie
 *.islamisohbet.com
@@ -420,6 +457,8 @@ karachi.nightgirlservice.com
 *.kenyancupid.com
 *.khaleejchat.co
 *.khaleejchat.com
+*.kiev-intimcity.nl
+kiev.moygorod.ua
 kitchener.bonepage.com
 *.klescortmalaysia.com
 *.knuddels.de
@@ -445,6 +484,7 @@ live.ajman.ac.ae
 livechat.sex-czech.cz
 *.locanto.com.mx
 *.locanto.ie
+*.locanto.org
 *.locanto.space
 login-sugarbook.rivernotebook.com
 *.lokalesextreffen.de
@@ -453,11 +493,14 @@ london-ont.bonepage.com
 *.lovescout24.de
 *.lovoo.com
 *.luxy.com
+luzern.studio-elite.ch
 m.appstory.co.kr
 m.dreamersforum.nl
 m.flirtkontakt.cz
 m.ghidul.ro
+m.maccosmetics.gr
 m.relaxchile.cl
+m.sweetglam.co.kr
 m.xlist.gr
 m.ymeet.me
 *.macaoescort.com
@@ -466,6 +509,7 @@ magaseekcm.conohawing.com
 malaysia.escortface.com
 *.malaysiancupid.com
 *.mamba.ru
+manabi.pref.aichi.jp
 *.manilaescort.com
 *.marathishaadi.com
 *.marokkaanse-datingsite.nl
@@ -482,6 +526,7 @@ meet-japan.bnextmedia.com
 *.meetic.pt
 *.meeticaffinity.pt
 *.meetme.com
+members.richlovelinks.com
 membre.jetunoo.fr
 *.menuplancul.com
 *.mexicancupid.com
@@ -516,6 +561,7 @@ mx.sustitutas.com
 *.mysugardaddy.nl
 mzansi-chatrooms.apk.gold
 *.mzansiescorts.com
+nagoya.rimokura.com
 *.naijachat.com
 *.naijalove.com.ng
 *.namoroonline.com.br
@@ -534,6 +580,7 @@ nove.tapky.info
 *.okcupid.com
 old.coacha.com
 *.omegla.chat
+*.omegle-fun.com
 *.omegle.chat
 *.omegle.com
 *.omegle.fm
@@ -558,11 +605,14 @@ opa.chat-room.gr
 *.opstarsite.com
 *.opview86.com
 *.opviewko.com
+osaka.chance.chat
+osaka.chatlady-mint.com
 ottawa.bonepage.com
 *.oudevrouwenchat.nl
 *.ourtime.com
 paak.adwento.com
 pakistan.escortface.com
+pakistan.videocall.network
 *.pakistanichatrooms.com
 *.pakistanichatrooms.com.pk
 *.pakistanichatrooms.pk
@@ -590,16 +640,19 @@ philippines.escortface.com
 *.plentyoffish.com
 *.pof.com
 portaleducacional.unisanta.br
+prahova.escortepubli.com
 *.prepagos.com
 *.pretoriaescorts.co.za
 *.private-sexkontakte.at
 *.privategirls.com.au
 *.privehuisdreamgirls.nl
+project.scichallenge.eu
 projects.avaza.com
 *.przeznaczeni.pl
 *.publi24.ro
 puebla.seductoras.mx
 puk.oobben.com
+*.punternet.com
 *.pussy-laufhaus.at
 *.putana74.net
 *.puticlubs.com
@@ -630,16 +683,19 @@ regina.bonepage.com
 *.saglamsohbet.com
 *.sahookup.com
 *.salasdechatgratis.org
+santiago.elsilencio.cl
 saskatoon.bonepage.com
 *.saudidate.com
 *.scambistipercaso.it
 *.scarletblue.com.au
 *.schnellesextreffen.de
+scorts.elfaroprepago.cl
 *.scruff.com
 *.seeking.com
 *.seitensprung-fibel.de
 *.seitensprung-ratgeber.de
 seo.imaiko.com
+service.link.link
 servicii.primariatm.ro
 *.seslichat.com
 *.seslidunya.com
@@ -657,6 +713,7 @@ sexchatttttt.chatovod.com
 *.sexcontactgids.be
 *.sexecharleroi.be
 *.sexfriend.fr
+*.sexguide.nl
 *.sexintim.ru
 *.sexjobs.nl
 *.sexkontakte.at
@@ -676,6 +733,7 @@ shada-shatea.hotels-saudi-arabia.com
 *.simpleescort.com
 *.simplymarriage.com
 simplymarry-matrimonial-app.apk.cafe
+*.sindonews.com
 *.singaporelovelinks.com
 *.singleboersen-aktuell.de
 *.singleboersen-vergleich.de
@@ -690,6 +748,7 @@ sisele.conab.gov.br
 *.skokka.pt
 *.skout.com
 *.slixa.com
+*.sohbet.love
 sohbet.mobildetek.com
 *.sohbet.net
 *.sohbet.org
@@ -726,6 +785,7 @@ story.s-oil.com
 *.strangerchat.live
 *.strangerline.io
 *.strangermeetup.com
+*.strangerschat.in
 *.stronyrandkowe.pl
 subdomainfinder.c99.nl
 *.sugarbook.com
@@ -739,7 +799,9 @@ subdomainfinder.c99.nl
 *.sugardaddymanchester.co.uk
 *.sugardaddyplanet.com
 *.supermekan.com
+*.svenskacams.se
 *.sverigedejt.se
+sweden.escortface.com
 *.swingers-247.co.uk
 *.swingers.club
 *.swingersclublist.com
@@ -749,6 +811,7 @@ subdomainfinder.c99.nl
 *.taimi.com
 *.talk2stranger.com
 *.talkrand.com
+*.talkwithstranger.co.uk
 *.talkwithstranger.com
 *.tamsohbet.chat
 *.tamsohbet.com
@@ -803,9 +866,12 @@ uae.escortface.com
 *.ukpunting.uk.com
 *.ukrainedate.com
 *.ukrprostitutki.com
+uppsala.boj.se
+uppsala.hjarnkoll.se
 urdu.chat.org.in
 us.ondate.com
 vancouver.bonepage.com
+vard.skane.se
 *.via-escort.ru
 *.vialetescortservice.nl
 victoria-bc.bonepage.com
@@ -820,7 +886,9 @@ victoria-bc.bonepage.com
 *.vivastreet.com
 *.vivastreet.ie
 *.wakuwaku-communications.com
+*.web-bazoocam.com
 web.chatapropo.ro
+web.vanessa-escort.ch
 webchat.5chat.it
 *.wellhello.com
 *.whatssexdate.net
@@ -833,15 +901,18 @@ wollongong.bonepage.com
 www.1.1.1.1.urlquery.net
 www.agro.basf.cz
 www.bucuresti.romaniachat.eu
+www.chis.regionstockholm.se
 www.contenuti.icribis.com
 www.es.adopte.app
 www.fr.locanto.be
 www.ogloszenia.nowy-sacz.pl
+www.sa.locanto.asia
 *.yazgulu.net
 *.yesbackpage.com
 *.youbride.jp
 yozm.wishket.com
 za.atlasescorts.com
+za.escortsbabes.com
 za.xtonight.com
 zap.struckd.com
 *.zcheckerviet.vip

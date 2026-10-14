@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling, Netherlands (nl)
-# Domains: 13 | Updated: 2026-10-14
+# Domains: 14 | Updated: 2026-10-14
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/gambling/countries/nl.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -11,6 +11,7 @@
 0.0.0.0 marathonbet.dk
 0.0.0.0 marathonbet.ec
 0.0.0.0 marathonbet.partners
+0.0.0.0 mybookmakers.nl
 0.0.0.0 playamopartners.com
 0.0.0.0 solcasino.com
 0.0.0.0 solcasino.es

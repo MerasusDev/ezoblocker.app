@@ -6,7 +6,6 @@
 # App: https://ezoblocker.app
 0.0.0.0 amanthy.com
 0.0.0.0 ayay.it
-0.0.0.0 azzporn.com
 0.0.0.0 belupa.com
 0.0.0.0 divertity.com
 0.0.0.0 hackerpornfest.com
@@ -19,4 +18,5 @@
 0.0.0.0 pepemio.com
 0.0.0.0 ragazzeonlyfans.it
 0.0.0.0 sexyshopqeros.it
+0.0.0.0 videochatitaliana.com
 0.0.0.0 yoxo.it

@@ -1,10 +1,11 @@
 ! Title: EZOBLOCKER Adult, Czechia (cz)
-! Domains: 28 | Updated: 2026-10-14
+! Domains: 33 | Updated: 2026-10-14
 ! Homepage: https://github.com/MerasusDev/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/adult/countries/cz.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 ! App: https://ezoblocker.app
 ||69shop.cz^
+||ceske-kurvicky.cz^
 ||czechcasting.tv^
 ||elektro-motor.cz^
 ||epoptavka.cz^
@@ -17,18 +18,22 @@
 ||forumnovakarolina.cz^
 ||hopnato.cz^
 ||intimm.cz^
+|kamery.humlnet.cz^
 |m.flirtkontakt.cz^
 |m.prague.lol^
 |mapy.atlasfirem.info^
 |novy-smichov.klepierre.cz^
 ||obchodumotyla.cz^
 ||porno-ceske.cz^
+||raveshop.cz^
 ||sexicekshop.cz^
 ||sexshop-erotic.cz^
 ||sexshop-sex.cz^
 ||sexshop.cz^
 ||sexshopik.cz^
 ||sexshopp.cz^
+||sheio.cz^
+||shopcom.cz^
 ||webac-vibro.com^
 ||willi.cz^
 ||yoo.cz^

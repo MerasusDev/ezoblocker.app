@@ -1,10 +1,12 @@
 # Title: EZOBLOCKER Gambling, Greece (gr)
-# Domains: 15 | Updated: 2026-10-14
+# Domains: 19 | Updated: 2026-10-14
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/lists/gambling/countries/gr.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
 *.7bit.com
+*.betmarket.gr
+*.betsson.gr
 *.betwinner.com.gh
 *.betwinner.global
 find-and-update.company-information.service.gov.uk
@@ -16,6 +18,8 @@ find-and-update.company-information.service.gov.uk
 *.novibet.it
 *.roobet.cyou
 *.roobet.jp
+*.sentragoal.gr
+*.sportbet.gr
 *.winmasters.com.cy
 *.xenacasinos.gr
 *.zet-cazino.gr

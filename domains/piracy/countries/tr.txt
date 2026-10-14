@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy, Türkiye (tr)
-# Domains: 90 | Updated: 2026-10-14
+# Domains: 92 | Updated: 2026-10-14
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/domains/piracy/countries/tr.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -17,7 +17,6 @@ dizigom.icu
 dizigom.li
 diziizle.click
 dizilab.to
-dizipalorijinal17.com
 diziyou.info
 diziyou.one
 diziyou.vip
@@ -64,6 +63,7 @@ minidiziizle.com
 mp3indirdur.com.tr
 mp3indirdur.pro
 netspor.co
+netsportv34.pro
 oyunindir.cafe
 oyunindir.club
 oyunindir.vip
@@ -82,6 +82,7 @@ taraftarium24-zeustv18.live
 taraftarium24-zeustv95.live
 taraftarium24.sx
 taraftarium24bjk20.com
+taraftarium24bjk22.com
 taraftarium24soturkiye.org
 taraftarium24turkiyetv.net
 torrentdevi.org
@@ -89,6 +90,7 @@ torrentoyunindir.co
 trdiziizle.tv
 ufilmizle.com
 ultra-realistic-mod.apk.cafe
+ultrafilmizle.org
 webteizle.buzz
 webteizle.info
 webteizle3.xyz

@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy, illegal sports streams
-# Domains: 240 | Updated: 2026-10-14
+# Domains: 263 | Updated: 2026-10-14
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/domains/piracy/piracy-sports.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -16,6 +16,7 @@ alkkoora.live
 api.sap.ce.gov.br
 ballzaa.com
 batangpinoy.psc.gov.ph
+bola365.today
 browse.tonton.com.my
 buffstreamsapp.com
 cakhia4.org
@@ -26,12 +27,14 @@ cakhiatvc.group
 cakhiaxs.tv
 canlimacizlet.altervista.org
 cepi.cb.ce.gov.br
+clare.gaa.ie
 crackstreams.ch
 crackstreams.guru
 crackstreams.in
 crackstreams.mx
 crackstreamsmax.site
 cricfree.beer
+cricketworld.com
 cricstream.mom
 crictime.com
 crictime.is
@@ -84,6 +87,8 @@ hesgoalhd.com
 hesgoals.nl
 hesgoals.rest
 home.sports.com
+icc-cricket.com
+info.rugbypass.tv
 isportsurge.ws
 jestyayin.org
 jestyayingiris11.xyz
@@ -101,7 +106,11 @@ kooora.com
 kooora.misrlinks.com
 kooora4live.quest
 kooora4live.website
+kooora4lives.one
 koora4live.today
+koora4stream.site
+koora4uyt.blogspot.com
+kooraforus.blogspot.com
 kooralive-koora.live
 kooralivematch.club
 koorashootnews.com
@@ -119,14 +128,17 @@ liveekoora.com
 livehd7.quest
 livehd71.live
 livehd71.top
+livekoora.com
 livekoora.today
 livesport.com
 livesport.ru
 livesport.ws
 livesportsbay.com
 livesportsontv.com
+livetv.club
 livetv.fr
 livetv.life
+livetv.tv-vlaanderen.be
 llsflwjo.riverpeak.lat
 m.acestream.net
 m.goalddlive.com
@@ -137,11 +149,13 @@ muayded789.com
 myvipbox.com
 nbabite.net
 netspor.co
+netsportv34.pro
 new.touchcric.com
 nflbite.is
 nflbites.today
 nyc-dsp1.kavanga.com
 ostoralivehd7.com
+pacman.live
 page.inplayer.com
 pelotalibreenvivo.cl
 pirlotv-futbol-en-vivo-directo.apps112.com
@@ -175,9 +189,11 @@ socolivev.co
 socolivezq.tv
 sp.supercell.jp
 sport.sky.ch
+sport168.app
 sportlive24.tv
 sportonline.cz
 sportsclub.sports.or.kr
+sportshub.com
 sportstream-365.com
 sportstream.hu
 sportstream.se
@@ -193,6 +209,7 @@ streameasttop.com
 streamonsport.lat
 streamsport.ie
 strims.com.pl
+suisse.moniptv.ch
 supersportbet.com
 supersportschools.com
 swissiptv.online
@@ -206,6 +223,7 @@ taraftarium24-zeustv18.live
 taraftarium24-zeustv95.live
 taraftarium24.sx
 taraftarium24bjk20.com
+taraftarium24bjk22.com
 taraftarium24soturkiye.org
 taraftarium24turkiyetv.net
 tarjetaroja.love
@@ -216,18 +234,23 @@ tarjetarojaonline.info
 tarjetarojaonline.pro
 tarjetarojatv.mobi
 totalsportek1.is
-totalsporteki.rest
 totalsportekplus.org
 tour.gra.uk.com
 tructiep90phuttv.club
+tv.makeevka.com
+tv.sfl.ch
 tvnsports.cjenm.com
 vegasportsnetwork.com
+video.fanstream.jp
 viet.jajag.me
 vipbox1.com
+vipbox2.com
+vipboxtvs.com
 vipleague.be
 vipleague.ro
 vipleague.stream
 viprow.pro
+watch.onesoccer.ca
 webboard.mol.go.th
 welcome.blasttv.ph
 xoilac1.help

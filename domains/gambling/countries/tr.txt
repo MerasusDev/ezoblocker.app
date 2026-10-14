@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling, Türkiye (tr)
-# Domains: 172 | Updated: 2026-10-14
+# Domains: 174 | Updated: 2026-10-14
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/domains/gambling/countries/tr.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -14,6 +14,7 @@ asyabahisgunceladres.com
 atlasbet889.com
 atlasbet892.com
 atlasbetbahis.com
+atlasbetku.cam
 bahisbonusu.com
 bahsegelgir.org
 baywin.org
@@ -40,8 +41,6 @@ betsafe.ee
 betsat-guncel-tr.com
 betsatgiris1.com
 betsmovegiris.co
-betsmoveresmi.blog
-betsmoves210.com
 betticketbet.com
 bettilt.partners
 bettiltlogin.com
@@ -58,6 +57,7 @@ bonusrehberi.org
 bonussokagi.com
 bonussultani.com
 canlibahiskazan.org
+canlicasino.im
 casinobonuscodes.nl
 casinomaxigir1.com
 celtabet.com.tr
@@ -80,6 +80,7 @@ grandpashabet-logins.vip
 highestcasinobonus.net
 hilbetim.net
 holiganbetapp.com
+hrdadeschools.net
 iddaa.com
 ikasbet.net
 imajbet.com
@@ -143,6 +144,7 @@ sekabet.guru
 senkazan1.pro
 shipstampsociety.com
 sonbahisgirislinki.live
+sugarstilettosstyle.com
 superbahis.guncel-giris.org
 superbahisyeniadresleri.com
 superbetin.ws

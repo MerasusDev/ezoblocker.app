@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, South Korea (kr)
-# Domains: 32 | Updated: 2026-10-14
+# Domains: 38 | Updated: 2026-10-14
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/adult/countries/kr.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -11,15 +11,19 @@
 0.0.0.0 brothercho.com
 0.0.0.0 bunnyroom.co.kr
 0.0.0.0 carlovemall.kr
+0.0.0.0 casanovamall.com
+0.0.0.0 conanddom.com
 0.0.0.0 freebody.co.kr
 0.0.0.0 joynjoy.com
 0.0.0.0 jupian.co.kr
 0.0.0.0 juso.one
+0.0.0.0 ladybox.kr
 0.0.0.0 loma-store.com
 0.0.0.0 love82.kr
 0.0.0.0 lovelylove.shop
 0.0.0.0 m.av19.org
 0.0.0.0 m.sexywoo.co.kr
+0.0.0.0 myloveyou.co.kr
 0.0.0.0 nightmall.co.kr
 0.0.0.0 nightmall.linkstory.co.kr
 0.0.0.0 onadb.net
@@ -31,7 +35,9 @@
 0.0.0.0 sensbody.co.kr
 0.0.0.0 sexypet.co.kr
 0.0.0.0 shyman.co.kr
+0.0.0.0 touchyourbody.com
 0.0.0.0 vavoomshop.co.kr
+0.0.0.0 xn--3v0bn15agnf.com
 0.0.0.0 xn--av19-eh4pq56h.com
 0.0.0.0 xn--o39an5bf2p1yd8xin3lwgv.com
 0.0.0.0 xshopkrmall.com

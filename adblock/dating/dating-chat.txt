@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Dating, chat rooms and random video chat
-! Domains: 306 | Updated: 2026-10-14
+! Domains: 339 | Updated: 2026-10-14
 ! Homepage: https://github.com/MerasusDev/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/dating/dating-chat.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -7,6 +7,7 @@
 ||321chat.com^
 |ab.211.ca^
 |ai.updf.com^
+|aipchile.dgac.gob.cl^
 |akordy.kytary.cz^
 ||alemortam.net^
 |almomaiz.free-sadad.com^
@@ -50,6 +51,7 @@
 ||chat.gen.tr^
 |chat.greek-chat.gr^
 |chat.irc.in.th^
+|chat.one.th^
 |chat.ptnet.org^
 |chat.romi.ai^
 ||chatalya.com^
@@ -64,6 +66,7 @@
 ||chatciyiz.com^
 ||chatciyiz.net^
 ||chatdate.app^
+||chateacongente.com^
 ||chateagratis.net^
 ||chatealo.chat^
 ||chathispano.com^
@@ -74,6 +77,9 @@
 ||chathub1.com^
 ||chathubapp.com^
 ||chatib.us^
+||chatindonesia.com^
+||chatindonesia.org^
+||chatinireland.com^
 ||chatiw.com^
 ||chatiw.im^
 |chatlady.rei35.com^
@@ -104,7 +110,9 @@
 ||chaturro.com^
 ||chatvideo.fun^
 ||chatville.com^
+||chatza.co.za^
 |cluj-napoca.cylex.ro^
+|cname.minical.io^
 |coomeet.apkgold.ae^
 ||coomeet.bitbucket.io^
 ||coomeet.chat^
@@ -112,14 +120,18 @@
 ||dalechatea.me^
 ||dardasha.com^
 ||dardasha.net^
+|deai.app-liv.jp^
 ||deincamchat.de^
 |djdongdoes.djsch.kr^
 ||dostyeri.org^
 ||elchatcam.com^
 ||elchatea.com^
+|elearning.uwks.ac.id^
 ||elitask.com^
+|em.umani.cx.ua^
 ||emeraldchat.com^
 ||eniyichat.com^
+||eniyiseslichat.com^
 ||enterchatroom.com^
 ||erotickychat.net^
 |erotik.markt.ch^
@@ -127,6 +139,8 @@
 ||evinsohbet.com^
 |f5oob2a6yj592gqy.e-creditreform.si^
 ||faceflow.com^
+|filmora.wondershare.com.ru^
+|find-and-update.company-information.service.gov.uk^
 ||flingster.com^
 ||flirtchat.ch^
 ||flirtchat.nl^
@@ -174,9 +188,12 @@
 |livechat.sex-czech.cz^
 |m.appstory.co.kr^
 |m.dreamersforum.nl^
+|m.maccosmetics.gr^
 |m.ymeet.me^
+|manabi.pref.aichi.jp^
 |meet-japan.bnextmedia.com^
 ||meetme.com^
+|members.richlovelinks.com^
 ||mirc.com.tr^
 ||mircalem.net^
 ||mircalem.org^
@@ -193,10 +210,12 @@
 ||mynet.bz^
 ||mynetsohbetsitesi.com^
 |mzansi-chatrooms.apk.gold^
+|nagoya.rimokura.com^
 ||naijachat.com^
 ||nazfm.net^
 |old.coacha.com^
 ||omegla.chat^
+||omegle-fun.com^
 ||omegle.chat^
 ||omegle.com^
 ||omegle.fm^
@@ -213,13 +232,17 @@
 ||omezy.io^
 ||onlinechatcity.com^
 |opa.chat-room.gr^
+|osaka.chance.chat^
+|osaka.chatlady-mint.com^
 ||oudevrouwenchat.nl^
+|pakistan.videocall.network^
 ||pakistanichatrooms.com^
 ||pakistanichatrooms.com.pk^
 ||pakistanichatrooms.pk^
 ||pandavideochat.com^
 ||pinoychat.net^
 |portaleducacional.unisanta.br^
+|project.scichallenge.eu^
 ||rakipsizsohbet.net^
 ||randkujemy.pl^
 ||randomchat.com^
@@ -232,6 +255,7 @@
 ||saglamsohbet.com^
 ||salasdechatgratis.org^
 |seo.imaiko.com^
+|service.link.link^
 ||seslichat.com^
 ||seslidunya.com^
 ||seslimirc.com^
@@ -249,6 +273,7 @@
 ||shagle.tv^
 ||siyahinci.net^
 ||skout.com^
+||sohbet.love^
 |sohbet.mobildetek.com^
 ||sohbet.vip^
 ||sohbetbahane.net^
@@ -269,11 +294,14 @@
 ||strangerchat.live^
 ||strangerline.io^
 ||strangermeetup.com^
+||strangerschat.in^
 |subdomainfinder.c99.nl^
 ||supermekan.com^
+||svenskacams.se^
 ||swisschat.org^
 ||talk2stranger.com^
 ||talkrand.com^
+||talkwithstranger.co.uk^
 ||talkwithstranger.com^
 ||tamsohbet.com^
 ||tchatche.com^
@@ -295,17 +323,22 @@
 ||turkusohbet.com^
 ||turkyeri.net^
 ||uhmegle.com^
+|uppsala.boj.se^
+|uppsala.hjarnkoll.se^
 |urdu.chat.org.in^
+|vard.skane.se^
 ||videochatar.com^
 ||videochatcolombia.com^
 ||videochatnl.com^
 ||videochatpt.com^
 ||videochatru.com^
 ||videollamada.com^
+||web-bazoocam.com^
 |web.chatapropo.ro^
 ||wireclub.com^
 |witness.blackmountaininstitute.org^
 |www.bucuresti.romaniachat.eu^
+|www.chis.regionstockholm.se^
 ||yazgulu.net^
 |yozm.wishket.com^
 |zap.struckd.com^

@@ -1,11 +1,12 @@
 # Title: EZOBLOCKER Dating, PK (pk)
-# Domains: 19 | Updated: 2026-10-14
+# Domains: 21 | Updated: 2026-10-14
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/domains/dating/countries/pk.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
 1escorts.net
 anonymous-chat-stranger-chat.apk.gold
+britishescortsdirectory.co.uk
 careers.pwd.org
 chatroomcorner.com
 chatrooms.com.pk
@@ -17,6 +18,7 @@ karachi.nightgirlservice.com
 mixchatroom.com
 paak.adwento.com
 pakistan.escortface.com
+pakistan.videocall.network
 pakistanichatrooms.com
 pakistanichatrooms.com.pk
 pakistanichatrooms.pk

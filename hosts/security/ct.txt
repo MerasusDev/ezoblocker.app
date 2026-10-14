@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Security, ct
-# Domains: 14,190 | Updated: 2026-10-14
+# Domains: 14,185 | Updated: 2026-10-14
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/security/ct.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -713,7 +713,6 @@
 0.0.0.0 alert-docusign.pages.dev
 0.0.0.0 alert-icloud.us.com
 0.0.0.0 alert.garant.ida.kraft-group.com
-0.0.0.0 alerta-appleid.info
 0.0.0.0 alertaciudadanatultitlan.mx
 0.0.0.0 alertadetran.pages.dev
 0.0.0.0 alerts.online.chaseonlinealerts.theuba.com.br
@@ -1061,9 +1060,6 @@
 0.0.0.0 audit-review-verification-office.pages.dev
 0.0.0.0 auh-coinbase-com-sign.pages.dev
 0.0.0.0 aukro-verification.sbs
-0.0.0.0 aupost.com-track-1p3n.ink
-0.0.0.0 aupost.com-track-3t5z.ink
-0.0.0.0 aupost.com-track-8o7a.ink
 0.0.0.0 auspost-custom-delivery.ph
 0.0.0.0 auth-bankofamericasupport-easywebusa.ph
 0.0.0.0 auth-bitbuy-login.pages.dev
@@ -6973,7 +6969,6 @@
 0.0.0.0 login.coinbase.com.exch-verify.cfd
 0.0.0.0 login.icloud7.pro
 0.0.0.0 login.microsoftonline-sharepoint.zelvantaaa.world
-0.0.0.0 login.onuris-my-sharepiont.com
 0.0.0.0 login.robinhood4good.online
 0.0.0.0 login.samsung-mobile.it
 0.0.0.0 login.sharepoint-auth-50e.workers.dev

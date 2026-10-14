@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Bypass
-! Domains: 122 | Updated: 2026-10-14
+! Domains: 135 | Updated: 2026-10-14
 ! Homepage: https://github.com/MerasusDev/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/bypass/all.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -14,12 +14,14 @@
 ||betternet.be^
 ||blockaway.ca^
 ||browsec.cx^
+||browsecvps.net^
 ||browsecvps.org^
 ||browserscan.net^
 |cameleo-xyz.webscorechecker.com^
 ||cameleo.org^
 |cloud.up4.cz^
 |cloudsupport.sequentum.com^
+|corp.omake.co.jp^
 ||ctunnel.com^
 |discourse.aosus.org^
 |doc.alvao.com^
@@ -40,17 +42,22 @@
 |helpcenter.trendlife.com^
 |helpdesk.iupat.org^
 ||hide-my-ip.net^
+||hideip.net^
 ||hideproxy.io^
 |hotspot-shield.ar.softmany.com^
+|hub.zlonov.ru^
 |insights.streamuktvabroad.com^
 ||ipfoxy.com^
 ||k-tunnel.net^
+|kb.biznetgio.com^
+|kb.cloudkilat.id^
 |kbm.slp-contents.com^
 ||kiotproxy.com^
 |kproxy-extension.softonic.nl^
 ||ktunneli.com^
 |lifestyle.assist-all.co.jp^
 ||lightningproxies.net^
+|maturita.cermat.cz^
 ||momoproxy.com^
 ||naijaproxy.com^
 ||novada.com^
@@ -59,12 +66,14 @@
 ||okeyproxy.com^
 ||okkproxy.com^
 |panduan.opendesa.id^
+|post.malltail.com^
 ||powertunnel.org^
 |prime.changngocgia.com^
 ||proton.me^
 ||proxy-checker.org^
 ||proxy302.com^
 ||proxy6.net^
+|proxyarab-vpn.freedown.io^
 ||proxycoupons.com^
 ||proxynet.io^
 ||proxysale.com^
@@ -116,13 +125,17 @@
 ||unblockd.info^
 ||unblockedgames66.gitlab.io^
 ||unblockvideos.com^
+|unblockyoutube.enic.pk^
 ||unblockyoutube.video^
 ||v2ray-macos-arm64-v8a.zip^
 |vpn-proxy-master.en.softmany.com^
 |vpn.g-l.ch^
 |vpngate.4d.workers.dev^
+||vpnki.ru^
 ||websiteunblocker.io^
 ||websiteunblocker.net^
+|wiki5.ispadmin.eu^
 |www93.juarez.gob.mx^
 ||yasaksiteleregiris.org^
+|yozm.wishket.com^
 |zend2.rwiki.jp^

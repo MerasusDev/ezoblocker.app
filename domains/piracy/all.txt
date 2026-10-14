@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy
-# Domains: 874 | Updated: 2026-10-14
+# Domains: 933 | Updated: 2026-10-14
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/domains/piracy/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -11,6 +11,7 @@
 1337x.com.im
 1kuttymovies.pro
 2fmovies.net
+4kiptvireland.irish
 6stream.net
 90phut.dev
 90phutt.co
@@ -39,7 +40,12 @@ aguaevida.sead.pi.gov.br
 alkkoora.live
 anime4up.bond
 anime4up.rest
+anime4you.01.ma
 animefire.apkcafe.pt
+animeflv.ar
+animeflv.chatovod.com
+animeflv.my
+animeflv.one
 animeflv.or.at
 animepahe.ch
 animepahe.net
@@ -80,12 +86,15 @@ batangpinoy.psc.gov.ph
 beoutq.tv
 besteiptvabonnement.com
 bestiptv-ireland.irish
+bestiptvireland.net
+bestiptvireland.store
 betteranime.com
 betteranime.io
 bflix.gold
 bflix.mx
 biblioteca.conab.gov.br
 bioskop-keren.com
+bola365.today
 bolly4uz.com
 bombuj.si
 browse.tonton.com.my
@@ -98,10 +107,12 @@ cakhiatv.fit
 cakhiatvc.group
 cakhiaxs.tv
 canlimacizlet.altervista.org
+cb01official.uno
 ccuevana.today
 cepi.cb.ce.gov.br
 cfcmd.sookmyung.ac.kr
 cgboard.raysworld.ch
+chunga.inpiad.co.kr
 cima4u-offcial.cyou
 cima4u.app
 cima4u.college
@@ -117,6 +128,7 @@ cinecalidad-p9qc.pages.dev
 cinecalidad-u0wv.pages.dev
 cinecalidad-xexj.pages.dev
 cinecalidad-ykut.pages.dev
+clare.gaa.ie
 coflix1.live
 comprariptv.com
 compucalitv.lol
@@ -128,6 +140,7 @@ crackstreams.in
 crackstreams.mx
 crackstreamsmax.site
 cricfree.beer
+cricketworld.com
 cricstream.mom
 crictime.com
 crictime.is
@@ -202,7 +215,6 @@ dizigom.li
 diziizle.click
 diziizle.wiki
 dizilab.to
-dizipalorijinal17.com
 diziyou.info
 diziyou.one
 diziyou.vip
@@ -338,13 +350,14 @@ hdfilm-izle.website.org
 hdfilmcehennemi.nl
 hdfilmcehennemi.one
 hdfilmcehennemi4.co
-hdfilmcehennemiv4.com
 hdfilmizle.live
 hdfilmizle.to
 hdfilmizlede.cc
 hdfilmizlede.org
 hdfilmizlesende.com
 hdfilmizlesene.to
+hdhub4u.bi
+hdhub4udl.app
 hdrezka.fi
 hdrezka.my
 hdrezka.pl
@@ -359,14 +372,21 @@ hesgoals.nl
 hesgoals.rest
 hintfilmizle.com
 home.sports.com
+icc-cricket.com
 icuevana3.cam
 ikinogo.io
+info.rugbypass.tv
 iptv-abonnement-france.youcan.store
 iptv-portugal.youcan.store
 iptvaustralia.app
 iptvaustralia.com.au
 iptvbrasil.com.br
+iptvcanada.cc
+iptvcanada.io
+iptvcanada.tv
 iptvcanada8k.ca
+iptvcanadacofficiel.ca
+iptvcanadian.com
 iptvdeutschland24.com
 iptvespanatv.pro
 iptvireland-4k.irish
@@ -379,6 +399,7 @@ iptvpolska24.pl
 iptvpolska4k.pl
 iptvportugal.com.pt
 iptvukservice.com
+irishiptv.irish
 isaimini.beauty
 isaimini.doctor
 isaimini.men
@@ -404,6 +425,7 @@ justintvturkiyesh.vip
 katei.labo.jp
 kickzone.click
 kickzone.in
+kingsmanga.net
 kinogo.cc
 kinogo.is
 kinogo.org
@@ -426,7 +448,11 @@ kooora.com
 kooora.misrlinks.com
 kooora4live.quest
 kooora4live.website
+kooora4lives.one
 koora4live.today
+koora4stream.site
+koora4uyt.blogspot.com
+kooraforus.blogspot.com
 kooralive-koora.live
 kooralivematch.club
 koorashootnews.com
@@ -456,6 +482,7 @@ liveekoora.com
 livehd7.quest
 livehd71.live
 livehd71.top
+livekoora.com
 livekoora.today
 livekora360.com
 livesport.com
@@ -463,8 +490,10 @@ livesport.ru
 livesport.ws
 livesportsbay.com
 livesportsontv.com
+livetv.club
 livetv.fr
 livetv.life
+livetv.tv-vlaanderen.be
 lk21.sa.com
 llsflwjo.riverpeak.lat
 lordfilm-hd.mirfilm.net
@@ -482,8 +511,10 @@ mangadex.net
 mangadex.one
 mangadex.org.uk
 mangaeden.org
+mangakakalot-manga-webtoon.softonic.jp
 mangakakalot.to
 mangaraw.top
+mangathaiplus.com
 maxcine.com.br
 mecze24.pl
 megafilmeseserieshd.vip
@@ -497,7 +528,9 @@ methstreams.digital
 meuiptvportugal.com
 minidiziizle.com
 miotv-live-tv-stream.softonic.jp
+mkvcinemaapp.com.in
 mkvcinemas.com.w3snoop.com
+mkvcinemas.org
 mlbbite.plus
 mobile.coivl.net
 monoschinos2.net
@@ -537,6 +570,7 @@ nbabite.net
 neizlemeliyiz.cc
 netnaija.top
 netspor.co
+netsportv34.pro
 new.touchcric.com
 newtoki.work
 newtoki1.org
@@ -547,10 +581,13 @@ nontonfilm.hair
 noonootv47.store
 noonootv4k.shop
 noonootvs10.store
+northiptv.com
 nung2hdd.com
 nyc-dsp1.kavanga.com
 online.tainiothiki.gr
 ostoralivehd7.com
+otakudesu.blog
+otakudesu.io
 otakushinden.com
 oxtorrent.art
 oxtorrent.site
@@ -558,6 +595,7 @@ oyunindir.cafe
 oyunindir.club
 oyunindir.vip
 oziptv.com
+pacman.live
 page.inplayer.com
 pandora.net
 papystreaming.one
@@ -638,6 +676,7 @@ primewire.gy
 primewirenetwork.com
 primewires.org
 produtor.adagri.ce.gov.br
+proiptvcanada.ca
 projectfreetv-official.lol
 projectfreetvm.lol
 pusatfilm.id
@@ -647,6 +686,8 @@ rarbg.bg
 rawdevart.art
 rbdflix.com
 real-couchtuner.com
+rebahinfilm.myr.id
+rebahinxxi3.mom
 redecanais.in
 redecanaishd.qpon
 redecanaishd1.online
@@ -667,9 +708,13 @@ rojadirectatvmas.org
 rutracker-net.ru
 s1s.designq.kr
 saas.spochak.com
+samehadaku.care
+samehadaku.io
+samehadaku.li
 scoreman123.com
 selcuksportshd.is
 series-subthai.xyz
+seriestreaming.live
 sflix.org
 sflixline.com
 shahid4u.courses
@@ -677,6 +722,7 @@ shahid4u.energy
 shahid4you.com
 shinden.eu
 shinden.pl
+show.sky.ch
 sia.aracati.ce.gov.br
 siamsport.co.th
 sinemafilmizle.com.tr
@@ -712,9 +758,11 @@ sonhdfilm.net
 sp.supercell.jp
 spolecznosc.payload.pl
 sport.sky.ch
+sport168.app
 sportlive24.tv
 sportonline.cz
 sportsclub.sports.or.kr
+sportshub.com
 sportstream-365.com
 sportstream.hu
 sportstream.se
@@ -731,6 +779,7 @@ streamkiste.al
 streamonsport.lat
 streamsport.ie
 strims.com.pl
+suisse.moniptv.ch
 sukebei.nyaa.mom
 superfilmizle.org
 supersportbet.com
@@ -747,6 +796,7 @@ taraftarium24-zeustv18.live
 taraftarium24-zeustv95.live
 taraftarium24.sx
 taraftarium24bjk20.com
+taraftarium24bjk22.com
 taraftarium24soturkiye.org
 taraftarium24turkiyetv.net
 tarjetaroja.love
@@ -773,7 +823,6 @@ torrentleech.pages.dev
 torrentoyunindir.co
 totalsportek-cyou.pages.dev
 totalsportek1.is
-totalsporteki.rest
 totalsportekplus.org
 tour.gra.uk.com
 trdiziizle.tv
@@ -781,22 +830,30 @@ tributario.piracicaba.sp.gov.br
 tructiep90phuttv.club
 tugaiptv.com
 tugaiptvbest.net
+tv.makeevka.com
+tv.sfl.ch
 tvmon.com.co
 tvmon1.com
 tvmons.org
 tvnsports.cjenm.com
 uaserials.me
+uaserials.my
 uaserials.vip
 ufilmizle.com
 ultra-realistic-mod.apk.cafe
+ultrafilmizle.org
 usenet1.de
 usenetreviewz.com
 v2-sportsurge.life
+vegamovies.gt.tc
 vegasportsnetwork.com
+video.fanstream.jp
 video.mediaio.net
 video.tunefab.jp
 viet.jajag.me
 vipbox1.com
+vipbox2.com
+vipboxtvs.com
 vipleague.be
 vipleague.ro
 vipleague.stream
@@ -812,6 +869,7 @@ waploaded.com
 warcenter.cz
 warez-bb.website
 wareztuga.io
+watch.onesoccer.ca
 watchmovies.info
 watchmoviesonlinehere.com
 watchseries-3q89.pages.dev
@@ -823,6 +881,7 @@ watchseries.net
 watchseriesfree.watch
 web.greekiptv.com
 web.iptvsolutions.nl
+web.topcinema.io
 webboard.mol.go.th
 webteizle.buzz
 webteizle.info

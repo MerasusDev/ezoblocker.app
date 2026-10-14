@@ -1,9 +1,10 @@
 # Title: EZOBLOCKER Dating, Türkiye (tr)
-# Domains: 113 | Updated: 2026-10-14
+# Domains: 116 | Updated: 2026-10-14
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/dating/countries/tr.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
+0.0.0.0 anonim.samyeli.net
 0.0.0.0 asiandating.com
 0.0.0.0 askalemi.net
 0.0.0.0 azarlive.com
@@ -68,6 +69,7 @@
 0.0.0.0 nikahplus.com
 0.0.0.0 okcupid.com
 0.0.0.0 omegla.chat
+0.0.0.0 omegle-fun.com
 0.0.0.0 omegle.chat
 0.0.0.0 omegle.com
 0.0.0.0 omegleweb.com
@@ -116,4 +118,5 @@
 0.0.0.0 turksohbet.net
 0.0.0.0 turkusohbet.com
 0.0.0.0 turkyeri.net
+0.0.0.0 web-bazoocam.com
 0.0.0.0 zap.struckd.com

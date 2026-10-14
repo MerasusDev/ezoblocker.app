@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy, Thailand (th)
-# Domains: 14 | Updated: 2026-10-14
+# Domains: 17 | Updated: 2026-10-14
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/piracy/countries/th.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -8,13 +8,16 @@
 0.0.0.0 doonungfree.com
 0.0.0.0 kickzone.click
 0.0.0.0 kickzone.in
+0.0.0.0 kingsmanga.net
 0.0.0.0 liveball.sx
 0.0.0.0 m.goalddlive.com
+0.0.0.0 mangathaiplus.com
 0.0.0.0 movie2freehd.com
 0.0.0.0 movie44.affordability-test.css.uwb.edu
 0.0.0.0 movie44.com
 0.0.0.0 muayded789.com
 0.0.0.0 nung2hdd.com
 0.0.0.0 siamsport.co.th
+0.0.0.0 sport168.app
 0.0.0.0 sportstream.hu
 0.0.0.0 webboard.mol.go.th

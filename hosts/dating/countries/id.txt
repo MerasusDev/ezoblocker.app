@@ -1,11 +1,15 @@
 # Title: EZOBLOCKER Dating, Indonesia (id)
-# Domains: 5 | Updated: 2026-10-14
+# Domains: 9 | Updated: 2026-10-14
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/dating/countries/id.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
 0.0.0.0 app.chatib.chat
+0.0.0.0 chatindonesia.com
+0.0.0.0 chatindonesia.org
 0.0.0.0 chatous.com
+0.0.0.0 elearning.uwks.ac.id
 0.0.0.0 jodohkristen.com
 0.0.0.0 omegle.fun
 0.0.0.0 shagle.tv
+0.0.0.0 sindonews.com

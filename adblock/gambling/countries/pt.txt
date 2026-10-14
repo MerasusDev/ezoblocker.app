@@ -1,12 +1,15 @@
 ! Title: EZOBLOCKER Gambling, Portugal (pt)
-! Domains: 12 | Updated: 2026-10-14
+! Domains: 17 | Updated: 2026-10-14
 ! Homepage: https://github.com/MerasusDev/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/gambling/countries/pt.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 ! App: https://ezoblocker.app
+||22bet-app-pt.com^
 ||apostalegal.pt^
+||apostas-portugal.net^
 |betboo.jogo.com.br^
 ||betcris.io^
+||betwin-pt.com^
 ||frankcasino.se^
 ||kto-group.com^
 ||ktoaffiliatesbr.com^
@@ -15,4 +18,6 @@
 ||melhorbingo.com^
 ||mostbet-casino-online.com.pt^
 ||mostbetjoga-pt.com^
+||nostrabet.pt^
+||paginasdojogo.com^
 ||sites-de-apostas.net^

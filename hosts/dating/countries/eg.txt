@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Dating, Egypt (eg)
-# Domains: 4 | Updated: 2026-10-14
+# Domains: 7 | Updated: 2026-10-14
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/dating/countries/eg.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -7,4 +7,7 @@
 0.0.0.0 almomaiz.free-sadad.com
 0.0.0.0 arabchat.mobi
 0.0.0.0 arabchatting.com
+0.0.0.0 find-and-update.company-information.service.gov.uk
 0.0.0.0 myegyptchat.com
+0.0.0.0 project.scichallenge.eu
+0.0.0.0 www.sa.locanto.asia

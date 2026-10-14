@@ -1,10 +1,11 @@
 # Title: EZOBLOCKER Piracy, Indonesia (id)
-# Domains: 10 | Updated: 2026-10-14
+# Domains: 18 | Updated: 2026-10-14
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/piracy/countries/id.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
 0.0.0.0 bioskop-keren.com
+0.0.0.0 bola365.today
 0.0.0.0 csirt.banjarmasinkota.go.id
 0.0.0.0 drakorid.co
 0.0.0.0 hasad.nadsoft.co
@@ -12,5 +13,12 @@
 0.0.0.0 livebola.com
 0.0.0.0 livebola.net
 0.0.0.0 llsflwjo.riverpeak.lat
+0.0.0.0 otakudesu.blog
+0.0.0.0 otakudesu.io
 0.0.0.0 pusatfilm.id
+0.0.0.0 rebahinfilm.myr.id
+0.0.0.0 rebahinxxi3.mom
+0.0.0.0 samehadaku.care
+0.0.0.0 samehadaku.io
+0.0.0.0 samehadaku.li
 0.0.0.0 yallalives.net

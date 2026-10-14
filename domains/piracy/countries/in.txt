@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy, India (in)
-# Domains: 24 | Updated: 2026-10-14
+# Domains: 29 | Updated: 2026-10-14
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/domains/piracy/countries/in.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -13,6 +13,8 @@ filmyzilla76.in
 footybite.cyou
 footybite.skin
 footybites.biz
+hdhub4u.bi
+hdhub4udl.app
 isaimini.beauty
 isaimini.doctor
 isaimini.men
@@ -24,7 +26,10 @@ kuttymovies.ai.in
 kuttymovies.im
 kuttymovies.vip
 kuttymovies.win
+mkvcinemaapp.com.in
+mkvcinemas.org
 movierulz.casa
 movierulz.center
 movierulzpk.pro
 new.touchcric.com
+vegamovies.gt.tc

@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Adult, Chile (cl)
-! Domains: 27 | Updated: 2026-10-14
+! Domains: 32 | Updated: 2026-10-14
 ! Homepage: https://github.com/MerasusDev/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/adult/countries/cl.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -11,6 +11,7 @@
 ||duosexshop.cl^
 ||japijane.cl^
 ||jenylove.cl^
+||moira.cl^
 ||ohmylove.cl^
 ||ovejanegraboutique.cl^
 ||puntosexshop.com.ar^
@@ -18,16 +19,20 @@
 ||secretosdeamor.cl^
 ||sexram.cl^
 ||sexshop-online.cl^
+||sexshop-santiago.cl^
 ||sexshop.cl^
 ||sexshop.com.ar^
 ||sexshopadomicilio.cl^
 ||sexshopconcepcion.cl^
 ||sexshopgallery.cl^
 ||sexshopmayorista.cl^
+||sexshopofertas.cl^
 ||sexshopsomosplacer.cl^
 ||sexshoptouchme.cl^
 ||sexshopvalparaiso.cl^
 ||sexshopvina.cl^
+||sexyshop.cl^
 ||talcasexshop.cl^
+||valledelplacer.cl^
 |venusexx.ueniweb.com^
 ||zonahotsexshop.cl^

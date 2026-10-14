@@ -1,11 +1,12 @@
 # Title: EZOBLOCKER Bypass, Egypt (eg)
-# Domains: 6 | Updated: 2026-10-14
+# Domains: 7 | Updated: 2026-10-14
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/bypass/countries/eg.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
 0.0.0.0 discourse.aosus.org
 0.0.0.0 hotspot-shield.ar.softmany.com
+0.0.0.0 proxyarab-vpn.freedown.io
 0.0.0.0 psiphon.ar.softmany.com
 0.0.0.0 torprojectstatus.org
 0.0.0.0 tunnelbear.ar.softmany.com

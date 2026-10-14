@@ -1,13 +1,16 @@
 # Title: EZOBLOCKER Adult, Türkiye (tr)
-# Domains: 161 | Updated: 2026-10-14
+# Domains: 177 | Updated: 2026-10-14
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/lists/adult/countries/tr.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
 *.112sexshop.com
 *.31keyifliseyirler32.shop
+*.31vqkticx7.cfd
+*.31vqkticx7.click
 66seks-hikayeleri.yeahh.com
 *.adamandeva.shop
+admission.npu.ac.th
 *.adulttoybox.biz
 *.agorshop.com
 *.alanyaredescot.vip
@@ -17,6 +20,7 @@
 *.antalyamood.com
 *.antalyasexshop.com
 *.armonishop.com
+*.arzumshop.com.tr
 *.atasehiraktif.click
 *.atasehirescort8.uno
 *.atasehirescortlari.com
@@ -36,17 +40,19 @@
 *.cinselsohbetet.net
 *.codemel.ink
 *.colakyapitrabzon.com
+*.corner69.hr
 *.dame.com
-*.denizliescortnews.com
 *.dialogistanbul.com
 *.discreetlife.ca
 *.diyarbakirescortkuz.xyz
 *.diyarbakirescorts.org
 *.diyarbakirtastuglakaplama.com
 *.doeda.baby
+*.doeda104.click
 *.doedahd.com
 *.elitescorthatun.com
 *.eromega.com
+*.eros.hr
 *.erotikfilmizle18.cc
 *.erotikmagazam.com
 *.erotikshop.com.tr
@@ -113,7 +119,11 @@ onlineedistrict.amtron.in
 *.papimlor.site
 *.papyonshop.com
 *.pendikseksshop.com
+*.porno80cd.site
 *.porno900.click
+*.pornocudayi56.com
+*.pornoizlehane.com
+*.pornolou.skin
 *.positive-vibrations.hr
 *.pureloveshop.com.tr
 *.rainvipxescort.net
@@ -128,6 +138,7 @@ onlineedistrict.amtron.in
 *.sertturkceseks.cyou
 *.sexhatti.me
 *.sexhattiniz.com
+*.sexshopa.com
 *.sexshopankara.com
 *.sexshopist.com
 *.sexsohbet.site
@@ -148,10 +159,12 @@ onlineedistrict.amtron.in
 *.turkceerotikfilmcx.cfd
 *.turkifsa.blog
 *.turkifsa.cc
+*.turkifsa93.com
 *.turkifsaarsivivip.xyz
 *.turkifsaclub211.sbs
 *.turkifsami.net
 *.turkifsatube20.xyz
+*.turkifsatube24.xyz
 *.turkzzers.net
 *.umraniyeescort11.uno
 *.upslut.blog
@@ -165,3 +178,6 @@ wvw.betim-guncelgiris.live
 *.yasakelmam.com
 *.yetiskin.org
 *.yetiskinsohbet.com.tr
+*.yoshikkeh.com
+*.zevkdolu36.com
+*.zevkdolu39.com

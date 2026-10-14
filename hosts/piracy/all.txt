@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy
-# Domains: 874 | Updated: 2026-10-14
+# Domains: 933 | Updated: 2026-10-14
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/piracy/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -11,6 +11,7 @@
 0.0.0.0 1337x.com.im
 0.0.0.0 1kuttymovies.pro
 0.0.0.0 2fmovies.net
+0.0.0.0 4kiptvireland.irish
 0.0.0.0 6stream.net
 0.0.0.0 90phut.dev
 0.0.0.0 90phutt.co
@@ -39,7 +40,12 @@
 0.0.0.0 alkkoora.live
 0.0.0.0 anime4up.bond
 0.0.0.0 anime4up.rest
+0.0.0.0 anime4you.01.ma
 0.0.0.0 animefire.apkcafe.pt
+0.0.0.0 animeflv.ar
+0.0.0.0 animeflv.chatovod.com
+0.0.0.0 animeflv.my
+0.0.0.0 animeflv.one
 0.0.0.0 animeflv.or.at
 0.0.0.0 animepahe.ch
 0.0.0.0 animepahe.net
@@ -80,12 +86,15 @@
 0.0.0.0 beoutq.tv
 0.0.0.0 besteiptvabonnement.com
 0.0.0.0 bestiptv-ireland.irish
+0.0.0.0 bestiptvireland.net
+0.0.0.0 bestiptvireland.store
 0.0.0.0 betteranime.com
 0.0.0.0 betteranime.io
 0.0.0.0 bflix.gold
 0.0.0.0 bflix.mx
 0.0.0.0 biblioteca.conab.gov.br
 0.0.0.0 bioskop-keren.com
+0.0.0.0 bola365.today
 0.0.0.0 bolly4uz.com
 0.0.0.0 bombuj.si
 0.0.0.0 browse.tonton.com.my
@@ -98,10 +107,12 @@
 0.0.0.0 cakhiatvc.group
 0.0.0.0 cakhiaxs.tv
 0.0.0.0 canlimacizlet.altervista.org
+0.0.0.0 cb01official.uno
 0.0.0.0 ccuevana.today
 0.0.0.0 cepi.cb.ce.gov.br
 0.0.0.0 cfcmd.sookmyung.ac.kr
 0.0.0.0 cgboard.raysworld.ch
+0.0.0.0 chunga.inpiad.co.kr
 0.0.0.0 cima4u-offcial.cyou
 0.0.0.0 cima4u.app
 0.0.0.0 cima4u.college
@@ -117,6 +128,7 @@
 0.0.0.0 cinecalidad-u0wv.pages.dev
 0.0.0.0 cinecalidad-xexj.pages.dev
 0.0.0.0 cinecalidad-ykut.pages.dev
+0.0.0.0 clare.gaa.ie
 0.0.0.0 coflix1.live
 0.0.0.0 comprariptv.com
 0.0.0.0 compucalitv.lol
@@ -128,6 +140,7 @@
 0.0.0.0 crackstreams.mx
 0.0.0.0 crackstreamsmax.site
 0.0.0.0 cricfree.beer
+0.0.0.0 cricketworld.com
 0.0.0.0 cricstream.mom
 0.0.0.0 crictime.com
 0.0.0.0 crictime.is
@@ -202,7 +215,6 @@
 0.0.0.0 diziizle.click
 0.0.0.0 diziizle.wiki
 0.0.0.0 dizilab.to
-0.0.0.0 dizipalorijinal17.com
 0.0.0.0 diziyou.info
 0.0.0.0 diziyou.one
 0.0.0.0 diziyou.vip
@@ -338,13 +350,14 @@
 0.0.0.0 hdfilmcehennemi.nl
 0.0.0.0 hdfilmcehennemi.one
 0.0.0.0 hdfilmcehennemi4.co
-0.0.0.0 hdfilmcehennemiv4.com
 0.0.0.0 hdfilmizle.live
 0.0.0.0 hdfilmizle.to
 0.0.0.0 hdfilmizlede.cc
 0.0.0.0 hdfilmizlede.org
 0.0.0.0 hdfilmizlesende.com
 0.0.0.0 hdfilmizlesene.to
+0.0.0.0 hdhub4u.bi
+0.0.0.0 hdhub4udl.app
 0.0.0.0 hdrezka.fi
 0.0.0.0 hdrezka.my
 0.0.0.0 hdrezka.pl
@@ -359,14 +372,21 @@
 0.0.0.0 hesgoals.rest
 0.0.0.0 hintfilmizle.com
 0.0.0.0 home.sports.com
+0.0.0.0 icc-cricket.com
 0.0.0.0 icuevana3.cam
 0.0.0.0 ikinogo.io
+0.0.0.0 info.rugbypass.tv
 0.0.0.0 iptv-abonnement-france.youcan.store
 0.0.0.0 iptv-portugal.youcan.store
 0.0.0.0 iptvaustralia.app
 0.0.0.0 iptvaustralia.com.au
 0.0.0.0 iptvbrasil.com.br
+0.0.0.0 iptvcanada.cc
+0.0.0.0 iptvcanada.io
+0.0.0.0 iptvcanada.tv
 0.0.0.0 iptvcanada8k.ca
+0.0.0.0 iptvcanadacofficiel.ca
+0.0.0.0 iptvcanadian.com
 0.0.0.0 iptvdeutschland24.com
 0.0.0.0 iptvespanatv.pro
 0.0.0.0 iptvireland-4k.irish
@@ -379,6 +399,7 @@
 0.0.0.0 iptvpolska4k.pl
 0.0.0.0 iptvportugal.com.pt
 0.0.0.0 iptvukservice.com
+0.0.0.0 irishiptv.irish
 0.0.0.0 isaimini.beauty
 0.0.0.0 isaimini.doctor
 0.0.0.0 isaimini.men
@@ -404,6 +425,7 @@
 0.0.0.0 katei.labo.jp
 0.0.0.0 kickzone.click
 0.0.0.0 kickzone.in
+0.0.0.0 kingsmanga.net
 0.0.0.0 kinogo.cc
 0.0.0.0 kinogo.is
 0.0.0.0 kinogo.org
@@ -426,7 +448,11 @@
 0.0.0.0 kooora.misrlinks.com
 0.0.0.0 kooora4live.quest
 0.0.0.0 kooora4live.website
+0.0.0.0 kooora4lives.one
 0.0.0.0 koora4live.today
+0.0.0.0 koora4stream.site
+0.0.0.0 koora4uyt.blogspot.com
+0.0.0.0 kooraforus.blogspot.com
 0.0.0.0 kooralive-koora.live
 0.0.0.0 kooralivematch.club
 0.0.0.0 koorashootnews.com
@@ -456,6 +482,7 @@
 0.0.0.0 livehd7.quest
 0.0.0.0 livehd71.live
 0.0.0.0 livehd71.top
+0.0.0.0 livekoora.com
 0.0.0.0 livekoora.today
 0.0.0.0 livekora360.com
 0.0.0.0 livesport.com
@@ -463,8 +490,10 @@
 0.0.0.0 livesport.ws
 0.0.0.0 livesportsbay.com
 0.0.0.0 livesportsontv.com
+0.0.0.0 livetv.club
 0.0.0.0 livetv.fr
 0.0.0.0 livetv.life
+0.0.0.0 livetv.tv-vlaanderen.be
 0.0.0.0 lk21.sa.com
 0.0.0.0 llsflwjo.riverpeak.lat
 0.0.0.0 lordfilm-hd.mirfilm.net
@@ -482,8 +511,10 @@
 0.0.0.0 mangadex.one
 0.0.0.0 mangadex.org.uk
 0.0.0.0 mangaeden.org
+0.0.0.0 mangakakalot-manga-webtoon.softonic.jp
 0.0.0.0 mangakakalot.to
 0.0.0.0 mangaraw.top
+0.0.0.0 mangathaiplus.com
 0.0.0.0 maxcine.com.br
 0.0.0.0 mecze24.pl
 0.0.0.0 megafilmeseserieshd.vip
@@ -497,7 +528,9 @@
 0.0.0.0 meuiptvportugal.com
 0.0.0.0 minidiziizle.com
 0.0.0.0 miotv-live-tv-stream.softonic.jp
+0.0.0.0 mkvcinemaapp.com.in
 0.0.0.0 mkvcinemas.com.w3snoop.com
+0.0.0.0 mkvcinemas.org
 0.0.0.0 mlbbite.plus
 0.0.0.0 mobile.coivl.net
 0.0.0.0 monoschinos2.net
@@ -537,6 +570,7 @@
 0.0.0.0 neizlemeliyiz.cc
 0.0.0.0 netnaija.top
 0.0.0.0 netspor.co
+0.0.0.0 netsportv34.pro
 0.0.0.0 new.touchcric.com
 0.0.0.0 newtoki.work
 0.0.0.0 newtoki1.org
@@ -547,10 +581,13 @@
 0.0.0.0 noonootv47.store
 0.0.0.0 noonootv4k.shop
 0.0.0.0 noonootvs10.store
+0.0.0.0 northiptv.com
 0.0.0.0 nung2hdd.com
 0.0.0.0 nyc-dsp1.kavanga.com
 0.0.0.0 online.tainiothiki.gr
 0.0.0.0 ostoralivehd7.com
+0.0.0.0 otakudesu.blog
+0.0.0.0 otakudesu.io
 0.0.0.0 otakushinden.com
 0.0.0.0 oxtorrent.art
 0.0.0.0 oxtorrent.site
@@ -558,6 +595,7 @@
 0.0.0.0 oyunindir.club
 0.0.0.0 oyunindir.vip
 0.0.0.0 oziptv.com
+0.0.0.0 pacman.live
 0.0.0.0 page.inplayer.com
 0.0.0.0 pandora.net
 0.0.0.0 papystreaming.one
@@ -638,6 +676,7 @@
 0.0.0.0 primewirenetwork.com
 0.0.0.0 primewires.org
 0.0.0.0 produtor.adagri.ce.gov.br
+0.0.0.0 proiptvcanada.ca
 0.0.0.0 projectfreetv-official.lol
 0.0.0.0 projectfreetvm.lol
 0.0.0.0 pusatfilm.id
@@ -647,6 +686,8 @@
 0.0.0.0 rawdevart.art
 0.0.0.0 rbdflix.com
 0.0.0.0 real-couchtuner.com
+0.0.0.0 rebahinfilm.myr.id
+0.0.0.0 rebahinxxi3.mom
 0.0.0.0 redecanais.in
 0.0.0.0 redecanaishd.qpon
 0.0.0.0 redecanaishd1.online
@@ -667,9 +708,13 @@
 0.0.0.0 rutracker-net.ru
 0.0.0.0 s1s.designq.kr
 0.0.0.0 saas.spochak.com
+0.0.0.0 samehadaku.care
+0.0.0.0 samehadaku.io
+0.0.0.0 samehadaku.li
 0.0.0.0 scoreman123.com
 0.0.0.0 selcuksportshd.is
 0.0.0.0 series-subthai.xyz
+0.0.0.0 seriestreaming.live
 0.0.0.0 sflix.org
 0.0.0.0 sflixline.com
 0.0.0.0 shahid4u.courses
@@ -677,6 +722,7 @@
 0.0.0.0 shahid4you.com
 0.0.0.0 shinden.eu
 0.0.0.0 shinden.pl
+0.0.0.0 show.sky.ch
 0.0.0.0 sia.aracati.ce.gov.br
 0.0.0.0 siamsport.co.th
 0.0.0.0 sinemafilmizle.com.tr
@@ -712,9 +758,11 @@
 0.0.0.0 sp.supercell.jp
 0.0.0.0 spolecznosc.payload.pl
 0.0.0.0 sport.sky.ch
+0.0.0.0 sport168.app
 0.0.0.0 sportlive24.tv
 0.0.0.0 sportonline.cz
 0.0.0.0 sportsclub.sports.or.kr
+0.0.0.0 sportshub.com
 0.0.0.0 sportstream-365.com
 0.0.0.0 sportstream.hu
 0.0.0.0 sportstream.se
@@ -731,6 +779,7 @@
 0.0.0.0 streamonsport.lat
 0.0.0.0 streamsport.ie
 0.0.0.0 strims.com.pl
+0.0.0.0 suisse.moniptv.ch
 0.0.0.0 sukebei.nyaa.mom
 0.0.0.0 superfilmizle.org
 0.0.0.0 supersportbet.com
@@ -747,6 +796,7 @@
 0.0.0.0 taraftarium24-zeustv95.live
 0.0.0.0 taraftarium24.sx
 0.0.0.0 taraftarium24bjk20.com
+0.0.0.0 taraftarium24bjk22.com
 0.0.0.0 taraftarium24soturkiye.org
 0.0.0.0 taraftarium24turkiyetv.net
 0.0.0.0 tarjetaroja.love
@@ -773,7 +823,6 @@
 0.0.0.0 torrentoyunindir.co
 0.0.0.0 totalsportek-cyou.pages.dev
 0.0.0.0 totalsportek1.is
-0.0.0.0 totalsporteki.rest
 0.0.0.0 totalsportekplus.org
 0.0.0.0 tour.gra.uk.com
 0.0.0.0 trdiziizle.tv
@@ -781,22 +830,30 @@
 0.0.0.0 tructiep90phuttv.club
 0.0.0.0 tugaiptv.com
 0.0.0.0 tugaiptvbest.net
+0.0.0.0 tv.makeevka.com
+0.0.0.0 tv.sfl.ch
 0.0.0.0 tvmon.com.co
 0.0.0.0 tvmon1.com
 0.0.0.0 tvmons.org
 0.0.0.0 tvnsports.cjenm.com
 0.0.0.0 uaserials.me
+0.0.0.0 uaserials.my
 0.0.0.0 uaserials.vip
 0.0.0.0 ufilmizle.com
 0.0.0.0 ultra-realistic-mod.apk.cafe
+0.0.0.0 ultrafilmizle.org
 0.0.0.0 usenet1.de
 0.0.0.0 usenetreviewz.com
 0.0.0.0 v2-sportsurge.life
+0.0.0.0 vegamovies.gt.tc
 0.0.0.0 vegasportsnetwork.com
+0.0.0.0 video.fanstream.jp
 0.0.0.0 video.mediaio.net
 0.0.0.0 video.tunefab.jp
 0.0.0.0 viet.jajag.me
 0.0.0.0 vipbox1.com
+0.0.0.0 vipbox2.com
+0.0.0.0 vipboxtvs.com
 0.0.0.0 vipleague.be
 0.0.0.0 vipleague.ro
 0.0.0.0 vipleague.stream
@@ -812,6 +869,7 @@
 0.0.0.0 warcenter.cz
 0.0.0.0 warez-bb.website
 0.0.0.0 wareztuga.io
+0.0.0.0 watch.onesoccer.ca
 0.0.0.0 watchmovies.info
 0.0.0.0 watchmoviesonlinehere.com
 0.0.0.0 watchseries-3q89.pages.dev
@@ -823,6 +881,7 @@
 0.0.0.0 watchseriesfree.watch
 0.0.0.0 web.greekiptv.com
 0.0.0.0 web.iptvsolutions.nl
+0.0.0.0 web.topcinema.io
 0.0.0.0 webboard.mol.go.th
 0.0.0.0 webteizle.buzz
 0.0.0.0 webteizle.info

@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling, Türkiye (tr)
-# Domains: 172 | Updated: 2026-10-14
+# Domains: 174 | Updated: 2026-10-14
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/gambling/countries/tr.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -14,6 +14,7 @@
 0.0.0.0 atlasbet889.com
 0.0.0.0 atlasbet892.com
 0.0.0.0 atlasbetbahis.com
+0.0.0.0 atlasbetku.cam
 0.0.0.0 bahisbonusu.com
 0.0.0.0 bahsegelgir.org
 0.0.0.0 baywin.org
@@ -40,8 +41,6 @@
 0.0.0.0 betsat-guncel-tr.com
 0.0.0.0 betsatgiris1.com
 0.0.0.0 betsmovegiris.co
-0.0.0.0 betsmoveresmi.blog
-0.0.0.0 betsmoves210.com
 0.0.0.0 betticketbet.com
 0.0.0.0 bettilt.partners
 0.0.0.0 bettiltlogin.com
@@ -58,6 +57,7 @@
 0.0.0.0 bonussokagi.com
 0.0.0.0 bonussultani.com
 0.0.0.0 canlibahiskazan.org
+0.0.0.0 canlicasino.im
 0.0.0.0 casinobonuscodes.nl
 0.0.0.0 casinomaxigir1.com
 0.0.0.0 celtabet.com.tr
@@ -80,6 +80,7 @@
 0.0.0.0 highestcasinobonus.net
 0.0.0.0 hilbetim.net
 0.0.0.0 holiganbetapp.com
+0.0.0.0 hrdadeschools.net
 0.0.0.0 iddaa.com
 0.0.0.0 ikasbet.net
 0.0.0.0 imajbet.com
@@ -143,6 +144,7 @@
 0.0.0.0 senkazan1.pro
 0.0.0.0 shipstampsociety.com
 0.0.0.0 sonbahisgirislinki.live
+0.0.0.0 sugarstilettosstyle.com
 0.0.0.0 superbahis.guncel-giris.org
 0.0.0.0 superbahisyeniadresleri.com
 0.0.0.0 superbetin.ws

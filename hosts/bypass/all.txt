@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Bypass
-# Domains: 122 | Updated: 2026-10-14
+# Domains: 135 | Updated: 2026-10-14
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/bypass/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -14,12 +14,14 @@
 0.0.0.0 betternet.be
 0.0.0.0 blockaway.ca
 0.0.0.0 browsec.cx
+0.0.0.0 browsecvps.net
 0.0.0.0 browsecvps.org
 0.0.0.0 browserscan.net
 0.0.0.0 cameleo-xyz.webscorechecker.com
 0.0.0.0 cameleo.org
 0.0.0.0 cloud.up4.cz
 0.0.0.0 cloudsupport.sequentum.com
+0.0.0.0 corp.omake.co.jp
 0.0.0.0 ctunnel.com
 0.0.0.0 discourse.aosus.org
 0.0.0.0 doc.alvao.com
@@ -40,17 +42,22 @@
 0.0.0.0 helpcenter.trendlife.com
 0.0.0.0 helpdesk.iupat.org
 0.0.0.0 hide-my-ip.net
+0.0.0.0 hideip.net
 0.0.0.0 hideproxy.io
 0.0.0.0 hotspot-shield.ar.softmany.com
+0.0.0.0 hub.zlonov.ru
 0.0.0.0 insights.streamuktvabroad.com
 0.0.0.0 ipfoxy.com
 0.0.0.0 k-tunnel.net
+0.0.0.0 kb.biznetgio.com
+0.0.0.0 kb.cloudkilat.id
 0.0.0.0 kbm.slp-contents.com
 0.0.0.0 kiotproxy.com
 0.0.0.0 kproxy-extension.softonic.nl
 0.0.0.0 ktunneli.com
 0.0.0.0 lifestyle.assist-all.co.jp
 0.0.0.0 lightningproxies.net
+0.0.0.0 maturita.cermat.cz
 0.0.0.0 momoproxy.com
 0.0.0.0 naijaproxy.com
 0.0.0.0 novada.com
@@ -59,12 +66,14 @@
 0.0.0.0 okeyproxy.com
 0.0.0.0 okkproxy.com
 0.0.0.0 panduan.opendesa.id
+0.0.0.0 post.malltail.com
 0.0.0.0 powertunnel.org
 0.0.0.0 prime.changngocgia.com
 0.0.0.0 proton.me
 0.0.0.0 proxy-checker.org
 0.0.0.0 proxy302.com
 0.0.0.0 proxy6.net
+0.0.0.0 proxyarab-vpn.freedown.io
 0.0.0.0 proxycoupons.com
 0.0.0.0 proxynet.io
 0.0.0.0 proxysale.com
@@ -116,13 +125,17 @@
 0.0.0.0 unblockd.info
 0.0.0.0 unblockedgames66.gitlab.io
 0.0.0.0 unblockvideos.com
+0.0.0.0 unblockyoutube.enic.pk
 0.0.0.0 unblockyoutube.video
 0.0.0.0 v2ray-macos-arm64-v8a.zip
 0.0.0.0 vpn-proxy-master.en.softmany.com
 0.0.0.0 vpn.g-l.ch
 0.0.0.0 vpngate.4d.workers.dev
+0.0.0.0 vpnki.ru
 0.0.0.0 websiteunblocker.io
 0.0.0.0 websiteunblocker.net
+0.0.0.0 wiki5.ispadmin.eu
 0.0.0.0 www93.juarez.gob.mx
 0.0.0.0 yasaksiteleregiris.org
+0.0.0.0 yozm.wishket.com
 0.0.0.0 zend2.rwiki.jp

@@ -1,14 +1,18 @@
 ! Title: EZOBLOCKER Dating, Romania (ro)
-! Domains: 9 | Updated: 2026-10-14
+! Domains: 13 | Updated: 2026-10-14
 ! Homepage: https://github.com/MerasusDev/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/dating/countries/ro.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 ! App: https://ezoblocker.app
+|braila.escorte66.com^
+|braila.escortela.net^
 |bucuresti.cylex.ro^
 |cluj-napoca.cylex.ro^
 |cluj-napoca.escortes.ro^
+|galati.escortela.net^
 |iasi.escortepubli.com^
 |m.ghidul.ro^
+|prahova.escortepubli.com^
 ||publi24.ro^
 |servicii.primariatm.ro^
 |web.chatapropo.ro^

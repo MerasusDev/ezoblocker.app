@@ -1,9 +1,12 @@
 ! Title: EZOBLOCKER Gambling, India (in)
-! Domains: 23 | Updated: 2026-10-14
+! Domains: 29 | Updated: 2026-10-14
 ! Homepage: https://github.com/MerasusDev/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/gambling/countries/in.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 ! App: https://ezoblocker.app
+||bigbaazi.pro^
+||casinohex.in^
+||casinokhajana.com^
 ||cricbet99.ai^
 ||cricbet99.biz^
 ||cricbet99.cool^
@@ -13,6 +16,7 @@
 |indiapostgdsonline.cept.gov.in^
 ||indibetz.in^
 ||jeetwin.org.in^
+||justgamblers.com^
 ||mahadevbook.game^
 |mumbai.infoisinfo.co.in^
 |pink-city.infoisinfo.co.in^
@@ -20,10 +24,12 @@
 ||purewin.casino^
 ||purewin.lk^
 ||purewincasino.in^
+||rajabets.net^
 ||reddyannanofficial.com^
 ||skyexchange.com.pk^
 ||skyexchange.social^
 ||skyexchnew.com^
 ||tigerexch.ing^
+||wazamba-kaszino.com^
 ||world-777.site^
 ||world777.now^

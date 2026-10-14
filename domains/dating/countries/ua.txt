@@ -1,15 +1,21 @@
 # Title: EZOBLOCKER Dating, Ukraine (ua)
-# Domains: 9 | Updated: 2026-10-14
+# Domains: 15 | Updated: 2026-10-14
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/domains/dating/countries/ua.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
 chatua.com.ua
+em.umani.cx.ua
 escort-ua.com
 escort.club
 escort.com.ua
 escortnews.com
 escortnews.eu
 forum2.live-show.com
+intim-dnepr.net
+intim-kiev.com
+intim-lvov.com
+kiev-intimcity.nl
+kiev.moygorod.ua
 topescort.com
 ukrprostitutki.com

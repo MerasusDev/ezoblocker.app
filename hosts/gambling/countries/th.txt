@@ -1,9 +1,12 @@
 # Title: EZOBLOCKER Gambling, Thailand (th)
-# Domains: 16 | Updated: 2026-10-14
+# Domains: 20 | Updated: 2026-10-14
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/gambling/countries/th.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
+0.0.0.0 123-bets.org
+0.0.0.0 amb888vip.ec.principia.edu
+0.0.0.0 dinosaurcoffee.com
 0.0.0.0 joker123myanmar.com
 0.0.0.0 lucabet.net
 0.0.0.0 lucabet168.connect.olgchs.org
@@ -15,6 +18,7 @@
 0.0.0.0 royalonline1688.com
 0.0.0.0 sbfplay.spa.infratest.lrworld.com
 0.0.0.0 sbfplay997.cc
+0.0.0.0 seabet333.bet
 0.0.0.0 ufa191ab.com
 0.0.0.0 ufa365.solutions
 0.0.0.0 ufabet888-login.app.anabb.org.br
