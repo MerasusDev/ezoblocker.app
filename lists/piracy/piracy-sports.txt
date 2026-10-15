@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy, illegal sports streams
-# Domains: 263 | Updated: 2026-10-14
+# Domains: 262 | Updated: 2026-10-15
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/lists/piracy/piracy-sports.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -223,7 +223,6 @@ t.matec.kr
 *.taraftarium24-zeustv95.live
 *.taraftarium24.sx
 *.taraftarium24bjk20.com
-*.taraftarium24bjk22.com
 *.taraftarium24soturkiye.org
 *.taraftarium24turkiyetv.net
 *.tarjetaroja.love

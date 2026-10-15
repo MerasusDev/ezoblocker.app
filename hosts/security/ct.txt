@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Security, ct
-# Domains: 14,185 | Updated: 2026-10-14
+# Domains: 14,186 | Updated: 2026-10-15
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/security/ct.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -6968,6 +6968,7 @@
 0.0.0.0 login-x-coinbase.pages.dev
 0.0.0.0 login.coinbase.com.exch-verify.cfd
 0.0.0.0 login.icloud7.pro
+0.0.0.0 login.microsofft.cc
 0.0.0.0 login.microsoftonline-sharepoint.zelvantaaa.world
 0.0.0.0 login.robinhood4good.online
 0.0.0.0 login.samsung-mobile.it

@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Adult
-! Domains: 1,551 | Updated: 2026-10-14
+! Domains: 1,549 | Updated: 2026-10-15
 ! Homepage: https://github.com/MerasusDev/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/adult/all.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -1030,12 +1030,10 @@
 ||porno900.click^
 ||pornobanka.com^
 ||pornocolombiano.net^
-||pornocudayi56.com^
 ||pornoizlehane.com^
 ||pornoklub.com^
 ||pornolik.pl^
 ||pornoload.com^
-||pornolou.skin^
 ||pornonu.nl^
 |pornoromania.3xforum.ro^
 ||pornorusskoe.best^

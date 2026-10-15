@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling, ct
-# Domains: 289,049 | Updated: 2026-10-14
+# Domains: 289,024 | Updated: 2026-10-15
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/domains/gambling/ct.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -1059,6 +1059,7 @@
 128slotoro.bet
 128sportsbet.com
 1290bets10.com
+1290mariobet.com
 1291bets10.com
 1292bets10.com
 1293bets10.com
@@ -2235,7 +2236,6 @@
 1slotoro.bet
 1slotoro.pl
 1slotrush.nl
-1slots.co
 1slottica.cl
 1spin4win-apostas.pages.dev
 1spin4win-apuestas.pages.dev
@@ -12337,7 +12337,6 @@
 888casino.sa.com
 888casino.se.net
 888casino.sx
-888casino.tech
 888casino.uk.net
 888casino.world
 888casino11.com
@@ -14865,7 +14864,6 @@ activate-kzboostwin.top
 activate-kzboostwin.xyz
 activate-lucky-reward-phmacao-page.shop
 active-casino.com
-activity-qqpoker.com
 actotoslot.com
 actt-servizi.it
 actus-slot-gacor.pages.dev
@@ -23455,7 +23453,6 @@ atmrgreen.com
 atom-8977-casino.pages.dev
 atom-cas1no777-casino.pages.dev
 atom-casino-official.buzz
-atom-casino-ru.vip
 atom-casino.art
 atom-casino.fun
 atom-casino.gay
@@ -27356,7 +27353,6 @@ baris4d-slotgacor.pages.dev
 baritoutarakab-slot-gacor.pages.dev
 barkervillecoalition.com
 barnevogn-test.dk
-baronacasinoonline.biz
 barrelcovia.com
 barrie-casino.ca
 barriecasino.ca
@@ -45936,7 +45932,6 @@ bohocasinopromo.net
 bohocasinos-au.com
 bohocasinos.ca
 bohocasinos.de.com
-bohocasinos.win
 bohocasinoslots.com
 bohoocasino.ca
 bohoocasinoau.com
@@ -59389,7 +59384,6 @@ casino-roulettino.it
 casino-round.com
 casino-rox-official.net
 casino-rox-official.online
-casino-rox.best
 casino-rox.bond
 casino-rox.cfd
 casino-rox.top
@@ -60382,7 +60376,6 @@ casino-topx-name.pages.dev
 casino-topx-net.pages.dev
 casino-topx-online.pages.dev
 casino-topx-org.pages.dev
-casino-topx.biz
 casino-topx.info
 casino-topx.net
 casino-topx.online
@@ -60920,7 +60913,6 @@ casino-weiss.org
 casino-welcome-bonus-offers.pages.dev
 casino-welcome-bonus.online
 casino-welcomebonus.net
-casino-well.com
 casino-welle.de
 casino-wellington-belgique.com
 casino-welt.com
@@ -69956,7 +69948,6 @@ casinolevant.so
 casinolevant.vu
 casinolevant1.com
 casinolevant1.fr
-casinolevant1435.vip
 casinolevant701.com
 casinolevantadres.net
 casinolevantadres.top
@@ -95173,7 +95164,6 @@ daftaridnpoker-4y3.pages.dev
 daftaridnpoker.net
 daftaridnpoker.pages.dev
 daftarjudicasino.com
-daftarjudionlinecasinosbobet.com
 daftarlinksitustoto.com
 daftarlinkslotgacor.com
 daftarlinkslotgacor.pages.dev
@@ -122531,7 +122521,6 @@ granmadrid-casino.com
 granmadrid-casino.es
 granmadridcasino-es.eu.com
 granmadridcasino.es
-granpampa-casino.world
 granposeidoncasino.org
 gransino-1.nl
 gransino-amp.com
@@ -139264,7 +139253,6 @@ joyacasino.uy
 joycasino-001.top
 joycasino-0h2p.top
 joycasino-0ra0.top
-joycasino-109.click
 joycasino-1141.top
 joycasino-154.top
 joycasino-167.top
@@ -149687,7 +149675,6 @@ leon-casino-rthed.top
 leon-casino-taw0p.sbs
 leon-casino-tr.com
 leon-casino-vhod.ru
-leon-casino-z1rge.cfd
 leon-casino-zerkalo.ru
 leon-casino.bet
 leon-casino.casino
@@ -150750,7 +150737,6 @@ lexcasino-tip4.top
 lexcasino-xux.online
 lexcasino-xux.ru
 lexcasino-xxy.ru
-lexcasino-zerkalo-mcif993.buzz
 lexcasino.am
 lexcasino.co
 lexcasino.co.am
@@ -181766,7 +181752,6 @@ ninecasino.cz
 ninecasino.ec
 ninecasino.fr
 ninecasino.fyi
-ninecasino.global
 ninecasino.hu.net
 ninecasino.in.net
 ninecasino.jp
@@ -191415,6 +191400,7 @@ onwin4503.com
 onwin4504.com
 onwin4505.com
 onwin4507.com
+onwin5903.com
 onwin846.com
 onwincasino.co
 onwincasino.co.uk
@@ -191652,7 +191638,6 @@ oroargentovirgola.it
 orobet-ar.bet
 orobet-ar.net
 orobet-argentina.com
-orobet-casino.bond
 orobet-casino.cl
 orobet-chile.cl
 orobet-chile.com
@@ -194344,7 +194329,6 @@ partner-group.kz
 partner-resmi-situs-gacor-slot-depo-10k-hari-ini.pages.dev
 partner-strategis-slot-gacor.pages.dev
 partnerkicasino.com
-partners-casino.com
 partners-vavada.com
 partners-vavada.net
 partners1xcasino.com
@@ -201083,7 +201067,6 @@ pixeleb-naikslotgacor.pages.dev
 pixiecasino.com
 pixiubetslot.com
 pixupplay.tech
-pixycasino.com
 pizhankalib.ru
 pizza-slot88-slot777.pages.dev
 pizza-venezia.be
@@ -205065,7 +205048,6 @@ pokerrankingbet.com
 pokerrummyteenpatti.com
 pokerslotcasino.online
 pokerslotcasino.uk
-pokerslotgacor.com
 pokerstar-casino.org
 pokerstarcasino.at
 pokerstarcasino.co.at
@@ -207960,7 +207942,6 @@ promo-riobet.icu
 promo-sports-betting.com
 promo-topcasino.icu
 promo1-mostbet.com
-promo247casino.com
 promobetwinner.com
 promobonuscode.com
 promobonusjudionline-com.pages.dev
@@ -212688,7 +212669,6 @@ realzcasino.win
 realzcasino1-it.pages.dev
 realzcasino1.it
 realzcasinoaccesso-com.pages.dev
-realzcasinoaccesso.com
 realzcasinoau-com.pages.dev
 realzcasinoau.com
 realzcasinoaustralia.com
@@ -217329,7 +217309,6 @@ robocats-au.com
 robocats-com-pl-52795.pages.dev
 robocats-de.de
 robocats-gr.pages.dev
-robocats.casino
 robocats.eu.com
 robocatsgr.com
 robocatt-casino.it
@@ -235145,7 +235124,6 @@ slotsgem-casino.co.it
 slotsgem-casino.de
 slotsgem-casino.games
 slotsgem-casino.hu.net
-slotsgem-casino.online
 slotsgem-casino.org.es
 slotsgem-casino.pro
 slotsgem-casino.pt
@@ -240832,7 +240810,6 @@ spinbetter-casino-bonus.life
 spinbetter-casino-ca-31h.pages.dev
 spinbetter-casino-cesko.cz
 spinbetter-casino-ch.ch
-spinbetter-casino-ch.com
 spinbetter-casino-com.pl
 spinbetter-casino-cz.eu.com
 spinbetter-casino-es.com
@@ -248092,7 +248069,6 @@ starda-casino-be.com
 starda-casino-br.com
 starda-casino-cz.com
 starda-casino-megaprogram4.top
-starda-casino-mvrosmol11.online
 starda-casino-offiziell.de
 starda-casino-online.at
 starda-casino.bet
@@ -284649,7 +284625,6 @@ wynscasino-online.com
 wynscasino-online.nl
 wynscasino-pt.pages.dev
 wynscasino-spielen-com.pages.dev
-wynscasino-spielen.com
 wynscasino.app
 wynscasino.at
 wynscasino.ca
@@ -284693,7 +284668,6 @@ wynscasinoit-com.pages.dev
 wynscasinonl-com.pages.dev
 wynscasinoo.pl
 wynscasinoonline-com.pages.dev
-wynscasinoonline.com
 wynscasinopokies.com
 wynscasinos-de.com
 wynscasinos-fr.com
@@ -286037,6 +286011,7 @@ yenicasinositeleri.com
 yenidenemebonusu.biz
 yenidenemebonusu.net
 yenidenemebonusu.org
+yenigirismariobet.com
 yeniguvenilirdenemebonusu.vip
 yeniperabet.org
 yenislotbar.com

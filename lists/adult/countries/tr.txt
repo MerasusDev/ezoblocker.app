@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, Türkiye (tr)
-# Domains: 177 | Updated: 2026-10-14
+# Domains: 175 | Updated: 2026-10-15
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/lists/adult/countries/tr.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -121,9 +121,7 @@ onlineedistrict.amtron.in
 *.pendikseksshop.com
 *.porno80cd.site
 *.porno900.click
-*.pornocudayi56.com
 *.pornoizlehane.com
-*.pornolou.skin
 *.positive-vibrations.hr
 *.pureloveshop.com.tr
 *.rainvipxescort.net

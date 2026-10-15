@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling
-# Domains: 289,952 | Updated: 2026-10-14
+# Domains: 289,927 | Updated: 2026-10-15
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/gambling/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -1063,6 +1063,7 @@
 0.0.0.0 128slotoro.bet
 0.0.0.0 128sportsbet.com
 0.0.0.0 1290bets10.com
+0.0.0.0 1290mariobet.com
 0.0.0.0 1291bets10.com
 0.0.0.0 1292bets10.com
 0.0.0.0 1293bets10.com
@@ -2242,7 +2243,6 @@
 0.0.0.0 1slotoro.bet
 0.0.0.0 1slotoro.pl
 0.0.0.0 1slotrush.nl
-0.0.0.0 1slots.co
 0.0.0.0 1slottica.cl
 0.0.0.0 1spin4win-apostas.pages.dev
 0.0.0.0 1spin4win-apuestas.pages.dev
@@ -12374,7 +12374,6 @@
 0.0.0.0 888casino.sa.com
 0.0.0.0 888casino.se.net
 0.0.0.0 888casino.sx
-0.0.0.0 888casino.tech
 0.0.0.0 888casino.uk.net
 0.0.0.0 888casino.world
 0.0.0.0 888casino11.com
@@ -14909,7 +14908,6 @@
 0.0.0.0 activate-kzboostwin.xyz
 0.0.0.0 activate-lucky-reward-phmacao-page.shop
 0.0.0.0 active-casino.com
-0.0.0.0 activity-qqpoker.com
 0.0.0.0 actotoslot.com
 0.0.0.0 actt-servizi.it
 0.0.0.0 actus-slot-gacor.pages.dev
@@ -23528,7 +23526,6 @@
 0.0.0.0 atom-8977-casino.pages.dev
 0.0.0.0 atom-cas1no777-casino.pages.dev
 0.0.0.0 atom-casino-official.buzz
-0.0.0.0 atom-casino-ru.vip
 0.0.0.0 atom-casino.art
 0.0.0.0 atom-casino.fun
 0.0.0.0 atom-casino.gay
@@ -27441,7 +27438,6 @@
 0.0.0.0 baritoutarakab-slot-gacor.pages.dev
 0.0.0.0 barkervillecoalition.com
 0.0.0.0 barnevogn-test.dk
-0.0.0.0 baronacasinoonline.biz
 0.0.0.0 barrelcovia.com
 0.0.0.0 barrie-casino.ca
 0.0.0.0 barriecasino.ca
@@ -46146,7 +46142,6 @@
 0.0.0.0 bohocasinos-au.com
 0.0.0.0 bohocasinos.ca
 0.0.0.0 bohocasinos.de.com
-0.0.0.0 bohocasinos.win
 0.0.0.0 bohocasinoslots.com
 0.0.0.0 bohoocasino.ca
 0.0.0.0 bohoocasinoau.com
@@ -59646,7 +59641,6 @@
 0.0.0.0 casino-round.com
 0.0.0.0 casino-rox-official.net
 0.0.0.0 casino-rox-official.online
-0.0.0.0 casino-rox.best
 0.0.0.0 casino-rox.bond
 0.0.0.0 casino-rox.cfd
 0.0.0.0 casino-rox.top
@@ -60640,7 +60634,6 @@
 0.0.0.0 casino-topx-net.pages.dev
 0.0.0.0 casino-topx-online.pages.dev
 0.0.0.0 casino-topx-org.pages.dev
-0.0.0.0 casino-topx.biz
 0.0.0.0 casino-topx.info
 0.0.0.0 casino-topx.net
 0.0.0.0 casino-topx.online
@@ -61178,7 +61171,6 @@
 0.0.0.0 casino-welcome-bonus-offers.pages.dev
 0.0.0.0 casino-welcome-bonus.online
 0.0.0.0 casino-welcomebonus.net
-0.0.0.0 casino-well.com
 0.0.0.0 casino-welle.de
 0.0.0.0 casino-wellington-belgique.com
 0.0.0.0 casino-welt.com
@@ -70221,7 +70213,6 @@
 0.0.0.0 casinolevant.vu
 0.0.0.0 casinolevant1.com
 0.0.0.0 casinolevant1.fr
-0.0.0.0 casinolevant1435.vip
 0.0.0.0 casinolevant701.com
 0.0.0.0 casinolevantadres.net
 0.0.0.0 casinolevantadres.top
@@ -95479,7 +95470,6 @@
 0.0.0.0 daftaridnpoker.net
 0.0.0.0 daftaridnpoker.pages.dev
 0.0.0.0 daftarjudicasino.com
-0.0.0.0 daftarjudionlinecasinosbobet.com
 0.0.0.0 daftarlinksitustoto.com
 0.0.0.0 daftarlinkslotgacor.com
 0.0.0.0 daftarlinkslotgacor.pages.dev
@@ -122914,7 +122904,6 @@
 0.0.0.0 granmadrid-casino.es
 0.0.0.0 granmadridcasino-es.eu.com
 0.0.0.0 granmadridcasino.es
-0.0.0.0 granpampa-casino.world
 0.0.0.0 granposeidoncasino.org
 0.0.0.0 gransino-1.nl
 0.0.0.0 gransino-amp.com
@@ -139689,7 +139678,6 @@
 0.0.0.0 joycasino-001.top
 0.0.0.0 joycasino-0h2p.top
 0.0.0.0 joycasino-0ra0.top
-0.0.0.0 joycasino-109.click
 0.0.0.0 joycasino-1141.top
 0.0.0.0 joycasino-154.top
 0.0.0.0 joycasino-167.top
@@ -150144,7 +150132,6 @@
 0.0.0.0 leon-casino-taw0p.sbs
 0.0.0.0 leon-casino-tr.com
 0.0.0.0 leon-casino-vhod.ru
-0.0.0.0 leon-casino-z1rge.cfd
 0.0.0.0 leon-casino-zerkalo.ru
 0.0.0.0 leon-casino.bet
 0.0.0.0 leon-casino.casino
@@ -151210,7 +151197,6 @@
 0.0.0.0 lexcasino-xux.online
 0.0.0.0 lexcasino-xux.ru
 0.0.0.0 lexcasino-xxy.ru
-0.0.0.0 lexcasino-zerkalo-mcif993.buzz
 0.0.0.0 lexcasino.am
 0.0.0.0 lexcasino.co
 0.0.0.0 lexcasino.co.am
@@ -182338,7 +182324,6 @@
 0.0.0.0 ninecasino.ec
 0.0.0.0 ninecasino.fr
 0.0.0.0 ninecasino.fyi
-0.0.0.0 ninecasino.global
 0.0.0.0 ninecasino.hu.net
 0.0.0.0 ninecasino.in.net
 0.0.0.0 ninecasino.jp
@@ -192018,6 +192003,7 @@
 0.0.0.0 onwin4504.com
 0.0.0.0 onwin4505.com
 0.0.0.0 onwin4507.com
+0.0.0.0 onwin5903.com
 0.0.0.0 onwin846.com
 0.0.0.0 onwincasino.co
 0.0.0.0 onwincasino.co.uk
@@ -192259,7 +192245,6 @@
 0.0.0.0 orobet-ar.bet
 0.0.0.0 orobet-ar.net
 0.0.0.0 orobet-argentina.com
-0.0.0.0 orobet-casino.bond
 0.0.0.0 orobet-casino.cl
 0.0.0.0 orobet-chile.cl
 0.0.0.0 orobet-chile.com
@@ -194964,7 +194949,6 @@
 0.0.0.0 partner-resmi-situs-gacor-slot-depo-10k-hari-ini.pages.dev
 0.0.0.0 partner-strategis-slot-gacor.pages.dev
 0.0.0.0 partnerkicasino.com
-0.0.0.0 partners-casino.com
 0.0.0.0 partners-vavada.com
 0.0.0.0 partners-vavada.net
 0.0.0.0 partners1xcasino.com
@@ -201722,7 +201706,6 @@
 0.0.0.0 pixiecasino.com
 0.0.0.0 pixiubetslot.com
 0.0.0.0 pixupplay.tech
-0.0.0.0 pixycasino.com
 0.0.0.0 pizhankalib.ru
 0.0.0.0 pizza-slot88-slot777.pages.dev
 0.0.0.0 pizza-venezia.be
@@ -205710,7 +205693,6 @@
 0.0.0.0 pokerrummyteenpatti.com
 0.0.0.0 pokerslotcasino.online
 0.0.0.0 pokerslotcasino.uk
-0.0.0.0 pokerslotgacor.com
 0.0.0.0 pokerstar-casino.org
 0.0.0.0 pokerstarcasino.at
 0.0.0.0 pokerstarcasino.co.at
@@ -208618,7 +208600,6 @@
 0.0.0.0 promo-sports-betting.com
 0.0.0.0 promo-topcasino.icu
 0.0.0.0 promo1-mostbet.com
-0.0.0.0 promo247casino.com
 0.0.0.0 promobetwinner.com
 0.0.0.0 promobonuscode.com
 0.0.0.0 promobonusjudionline-com.pages.dev
@@ -213373,7 +213354,6 @@
 0.0.0.0 realzcasino1-it.pages.dev
 0.0.0.0 realzcasino1.it
 0.0.0.0 realzcasinoaccesso-com.pages.dev
-0.0.0.0 realzcasinoaccesso.com
 0.0.0.0 realzcasinoau-com.pages.dev
 0.0.0.0 realzcasinoau.com
 0.0.0.0 realzcasinoaustralia.com
@@ -218027,7 +218007,6 @@
 0.0.0.0 robocats-com-pl-52795.pages.dev
 0.0.0.0 robocats-de.de
 0.0.0.0 robocats-gr.pages.dev
-0.0.0.0 robocats.casino
 0.0.0.0 robocats.eu.com
 0.0.0.0 robocatsgr.com
 0.0.0.0 robocatt-casino.it
@@ -235882,7 +235861,6 @@
 0.0.0.0 slotsgem-casino.de
 0.0.0.0 slotsgem-casino.games
 0.0.0.0 slotsgem-casino.hu.net
-0.0.0.0 slotsgem-casino.online
 0.0.0.0 slotsgem-casino.org.es
 0.0.0.0 slotsgem-casino.pro
 0.0.0.0 slotsgem-casino.pt
@@ -241591,7 +241569,6 @@
 0.0.0.0 spinbetter-casino-ca-31h.pages.dev
 0.0.0.0 spinbetter-casino-cesko.cz
 0.0.0.0 spinbetter-casino-ch.ch
-0.0.0.0 spinbetter-casino-ch.com
 0.0.0.0 spinbetter-casino-com.pl
 0.0.0.0 spinbetter-casino-cz.eu.com
 0.0.0.0 spinbetter-casino-es.com
@@ -248858,7 +248835,6 @@
 0.0.0.0 starda-casino-br.com
 0.0.0.0 starda-casino-cz.com
 0.0.0.0 starda-casino-megaprogram4.top
-0.0.0.0 starda-casino-mvrosmol11.online
 0.0.0.0 starda-casino-offiziell.de
 0.0.0.0 starda-casino-online.at
 0.0.0.0 starda-casino.bet
@@ -285533,7 +285509,6 @@
 0.0.0.0 wynscasino-online.nl
 0.0.0.0 wynscasino-pt.pages.dev
 0.0.0.0 wynscasino-spielen-com.pages.dev
-0.0.0.0 wynscasino-spielen.com
 0.0.0.0 wynscasino.app
 0.0.0.0 wynscasino.at
 0.0.0.0 wynscasino.ca
@@ -285577,7 +285552,6 @@
 0.0.0.0 wynscasinonl-com.pages.dev
 0.0.0.0 wynscasinoo.pl
 0.0.0.0 wynscasinoonline-com.pages.dev
-0.0.0.0 wynscasinoonline.com
 0.0.0.0 wynscasinopokies.com
 0.0.0.0 wynscasinos-de.com
 0.0.0.0 wynscasinos-fr.com
@@ -286930,6 +286904,7 @@
 0.0.0.0 yenidenemebonusu.biz
 0.0.0.0 yenidenemebonusu.net
 0.0.0.0 yenidenemebonusu.org
+0.0.0.0 yenigirismariobet.com
 0.0.0.0 yeniguvenilirdenemebonusu.vip
 0.0.0.0 yeniperabet.org
 0.0.0.0 yenislotbar.com
