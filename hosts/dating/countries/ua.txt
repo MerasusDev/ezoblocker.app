@@ -1,10 +1,13 @@
 # Title: EZOBLOCKER Dating, Ukraine (ua)
-# Domains: 15 | Updated: 2026-10-15
+# Domains: 27 | Updated: 2026-10-15
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/dating/countries/ua.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
+0.0.0.0 chat.vinbazar.com
 0.0.0.0 chatua.com.ua
+0.0.0.0 chernigov.kek-sik.com
+0.0.0.0 chernigov.sexysluts24.com
 0.0.0.0 em.umani.cx.ua
 0.0.0.0 escort-ua.com
 0.0.0.0 escort.club
@@ -14,8 +17,17 @@
 0.0.0.0 forum2.live-show.com
 0.0.0.0 intim-dnepr.net
 0.0.0.0 intim-kiev.com
+0.0.0.0 intim-kr.com
 0.0.0.0 intim-lvov.com
+0.0.0.0 intim-nik.com
+0.0.0.0 intim-poltava.net
+0.0.0.0 intim-uslugi.info
+0.0.0.0 intim-vin.com
+0.0.0.0 intim-zp.net
+0.0.0.0 intimok.com
 0.0.0.0 kiev-intimcity.nl
 0.0.0.0 kiev.moygorod.ua
+0.0.0.0 luck.kek-sik.com
 0.0.0.0 topescort.com
 0.0.0.0 ukrprostitutki.com
+0.0.0.0 zaporojskiy-chat.fosite.ru

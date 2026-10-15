@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Gambling, Türkiye (tr)
-! Domains: 174 | Updated: 2026-10-15
+! Domains: 182 | Updated: 2026-10-15
 ! Homepage: https://github.com/MerasusDev/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/gambling/countries/tr.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -7,6 +7,7 @@
 ||1334bets10.com^
 ||1427betvole.com^
 ||41betmatik.com^
+||805piabet.com^
 ||anadolucasino.blog^
 ||anadolucasinoblog2.com^
 ||asyabahisdogrugiris.com^
@@ -15,6 +16,8 @@
 ||atlasbet892.com^
 ||atlasbetbahis.com^
 ||atlasbetku.cam^
+||atlasbonus.me^
+||australia-bigbassbonanza.com^
 ||bahisbonusu.com^
 ||bahsegelgir.org^
 ||baywin.org^
@@ -38,7 +41,6 @@
 ||betpas.rest^
 ||betpasbahis.com^
 ||betsafe.ee^
-||betsat-guncel-tr.com^
 ||betsatgiris1.com^
 ||betsmovegiris.co^
 ||betticketbet.com^
@@ -70,6 +72,7 @@
 ||ejovoc.org^
 ||elexbet20.com^
 ||eniyibahisforum3.com^
+||favorisitesi.com^
 ||funbahisyeni.com^
 ||galabet-giris-adresi.xyz^
 ||garantiweb.com^
@@ -86,6 +89,7 @@
 ||imajbet.com^
 ||imajbetapp.com^
 ||jetbahis.co^
+||kingdenemebonusu.com^
 ||kodikosbonus.com^
 ||kralbet.com^
 ||kralbetgunceltr.com^
@@ -106,6 +110,7 @@
 ||maxwin.gen.tr^
 ||megabahis.asia^
 ||megabahis.com^
+|menu.aubslounge.com^
 |merit-lefkosa-hotel-casino.cyprushotel.net^
 ||meritking-gercekgiris.com^
 ||meritking.news^
@@ -128,8 +133,10 @@
 ||parsecawards.com^
 ||perabet-giris.net^
 ||piabet.org^
+||piegaming.com^
 ||pinbahisgiris.site^
 ||pinfa159.com^
+||playnj.com^
 ||polobetgiris.co^
 ||quantonics.com^
 ||ramadabetgir.com^
@@ -144,6 +151,7 @@
 ||senkazan1.pro^
 ||shipstampsociety.com^
 ||sonbahisgirislinki.live^
+||spinazonke.io^
 ||sugarstilettosstyle.com^
 |superbahis.guncel-giris.org^
 ||superbahisyeniadresleri.com^
@@ -173,8 +181,8 @@
 ||wang368.net^
 |was.orangebeauty.com^
 |we.medplusimmediatecare.com^
+||whichbingo.co.uk^
 |wo.friendshipfordlenoir.com^
 ||wonderscope.com^
 |ws.christostogo.com^
 |wu.borderlandsbrewing.com^
-||yeniden-betwoon-giris.vip^

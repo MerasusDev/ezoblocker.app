@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult
-# Domains: 1,549 | Updated: 2026-10-15
+# Domains: 1,593 | Updated: 2026-10-15
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/lists/adult/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -8,6 +8,7 @@
 *.112sexshop.com
 *.11hentai.com
 *.121heiliao.top
+*.123sexo.cl
 *.16heiliao.com
 *.18japaneseporn.com
 *.18plus.com.ua
@@ -38,6 +39,7 @@ academy.sormas.org
 admission.npu.ac.th
 *.adult-superstore.com
 *.adultcamadvice.com
+*.adultcamreviewer.com
 *.adulteriosexshop.com
 *.adultfantasy.ie
 *.adultgoods-sale.com
@@ -114,6 +116,7 @@ app.catchtable.co.kr
 *.ascpp.site
 *.asexshop.gr
 *.ask4porn.com
+*.askimyavas201.live
 *.asosloja.com.br
 *.asoytube.com
 *.at-usagiya.com
@@ -137,6 +140,7 @@ app.catchtable.co.kr
 *.avthaisub.org
 *.ayay.it
 *.aysexshop.mx
+*.babylonloveshop.be
 *.babylonloveshop.com
 *.baisergratuitement.be
 *.balisexstore.com
@@ -145,6 +149,7 @@ app.catchtable.co.kr
 *.bananamall.kr
 *.bangkokadult.net
 *.bangover.com.ar
+banyuwangi.jatimtimes.com
 *.baocaosuhanoi.vn
 *.baocaosuhp.com
 *.baumwollseil.de
@@ -185,6 +190,7 @@ app.catchtable.co.kr
 *.bodyhouse.fr
 *.bokep88.pages.dev
 *.bokepcrotindobokep.pages.dev
+*.bokepidaman.com
 *.bokepindo.lat
 *.bokepindo.makeup
 *.bokepindo.tokyo
@@ -198,6 +204,7 @@ app.catchtable.co.kr
 *.boobies.fyi
 *.boozyshop.be
 *.bordell.com
+botolempangan.berdesa.id
 *.bousens.com
 *.boutique-bizarre.de
 *.boutique-erotique.fr
@@ -211,6 +218,7 @@ app.catchtable.co.kr
 *.bunnyroom.co.kr
 *.busty-osaka-estama.com
 *.buttman.com.ar
+*.buttplug.io
 *.byann.pl
 *.byplay.es
 *.cake-mayoreo.com
@@ -218,8 +226,8 @@ app.catchtable.co.kr
 *.camerinsite.com
 *.camsexdeutsch.com
 *.camsodagear.com
+*.camstargirl.com
 *.canadiantubeflies.com
-*.canlisex48.site
 *.canlisexsohbethatti.net
 *.caramelodulce.com.ar
 *.carlovemall.kr
@@ -233,6 +241,7 @@ catalogo.treinta.co
 channel.beep-shop.com
 *.charnel-club.be
 chat.europnet.org
+*.chaturbate.com.es
 *.cherry.ch
 *.cherrybanana.com.au
 *.christineleduc.be
@@ -299,7 +308,10 @@ couplestoythailand.family.blog
 *.denizlipen.com
 *.depaarsekeizerin.nl
 *.desihoes.com
+*.desimms.co.in
+*.desimms.com
 *.desimms.in
+*.desimmsvideo.com
 *.desirel.at
 *.desirel.be
 *.desirel.gr
@@ -456,6 +468,7 @@ fantastik-seks-hikayeleri-6.yeahh.com
 *.fantezie.ro
 *.farmamix.com.ar
 *.fashionboutix.ch
+*.fashionwalker.com
 *.fetchshop.co.uk
 *.fethiyeescorts1.site
 *.filipinaladyboys.com
@@ -464,6 +477,7 @@ fantastik-seks-hikayeleri-6.yeahh.com
 find-and-update.company-information.service.gov.uk
 *.findshop.co
 *.flagranti.cz
+*.flagranti.sk
 *.fleshlight.eu
 *.fleshlighttoy.pk
 *.fleshtoys.pk
@@ -495,6 +509,7 @@ gavle.cylex.se
 *.geile-mdchen-ficken-geile-alte-frauen-pornos.pages.dev
 *.ginza-soleil.com
 *.ginza-soleil.jp
+*.gizliyanim.com
 *.gloryholeuk.com
 *.goodvibres.com.br
 *.goota.com.ar
@@ -619,6 +634,7 @@ info.uru.ac.th
 *.javnhe.tv
 *.javtoys.com
 *.jenylove.cl
+*.jenylovemayorista.cl
 *.jiglyescorts.com
 *.jokerfilmizle.org
 *.jokershop.com.tr
@@ -642,6 +658,7 @@ info.uru.ac.th
 *.kamababa15.com
 *.kamasutra.com
 kamery.humlnet.cz
+*.kandup.jp
 *.katthelabel.com
 *.kayseriescort.one
 *.kayseriescortun.shop
@@ -652,6 +669,7 @@ kamery.humlnet.cz
 *.kemono.cv
 *.khocliphot.com
 *.kidsister.ca
+*.kimholland.nl
 *.kimonohana.com
 *.kingbokep.coupons
 *.kingbokep.in.net
@@ -711,6 +729,7 @@ kirov.fooby.ru
 *.livesforce.com
 *.lizzybliss.co.za
 *.loanluan.pages.dev
+*.localamateurporn.com
 *.lojadodesejo.com.br
 *.lojadodesejo.pt
 *.lojadoprazer.com.br
@@ -719,6 +738,7 @@ kirov.fooby.ru
 *.lolatoys.com
 *.lolipop.com.mx
 *.lolitasapata.com
+*.lolitashop.com.tr
 *.loma-store.com
 *.losplaceresdelola.com
 *.loungerie.com.br
@@ -740,7 +760,9 @@ kirov.fooby.ru
 *.lovegoods.org
 *.lovehoney.ca
 *.lovehoney.co
+*.lovehoney.co.nz
 *.lovehoney.com.au
+*.lovehoney.fr
 *.lovehoney.net
 *.lovehoneyforum.com
 *.lovehoneygroup.com
@@ -751,6 +773,7 @@ kirov.fooby.ru
 *.lovelytoysfactory.com
 *.lovemarket.net
 *.lovemate.com
+*.lovepiececlub-shop.com
 *.lovers.rs
 *.loversshop.com.au
 *.loversstores.com
@@ -814,6 +837,7 @@ m.sexywoo.co.kr
 *.mammothcoffee.com
 *.mamuski.de
 mapy.atlasfirem.info
+*.mariesuelingerie.ie
 *.markamama.com.tr
 market.regroup.gr
 *.marmarisescortvip.top
@@ -856,6 +880,7 @@ mirror.kumi.systems
 mobil.yalovapusula.com
 *.mobilcinselsohbet.com
 *.mobilerotik.net
+*.mobilexh.life
 modelcenter.lj.com
 *.modernlove.pl
 *.moira.cl
@@ -863,6 +888,7 @@ modelcenter.lj.com
 *.monprince.ca
 *.moodsexshop.co.uk
 *.moodtime.co.za
+mooreok.govbuilt.com
 *.morethanlove.se
 *.mozaka.com
 *.mrlove.ch
@@ -871,6 +897,7 @@ modelcenter.lj.com
 msk.ros-spravka.ru
 *.mundoerotico.es
 *.mupvn.co.uk
+*.mutva.com
 *.mycamstars.com
 *.myloveyou.co.kr
 *.mymuse.in
@@ -949,11 +976,13 @@ onlineedistrict.amtron.in
 *.ontopoflove.nl
 ooh.enbrevubca.blog
 *.openingstijden.nl
+*.ophelialingerie.ie
 *.oppsystore.com
 *.orchidtoys.com
 *.orient-herrin-kader.de
 *.orionsexshop.com.co
 *.orionversand.ch
+*.oscarshop.net
 *.other-nature.de
 *.ousadias.pt
 *.outonthestreet.ca
@@ -987,6 +1016,7 @@ ooh.enbrevubca.blog
 *.picansex.com
 *.pinayflix.blog
 *.pinayflix.gl
+*.pinayot.org
 *.pinkboxb2b.com
 *.pinkboxshop.com
 *.pinkbunny.ph
@@ -1091,6 +1121,7 @@ rosetoyshop.bentoweb.com
 *.rotlicht-hamburg.com
 *.ruedesplaisirs.com
 *.rungrung.vn
+*.ruzovyslon.sk
 *.s-shop24.ru
 *.s-world.at
 s1.sexheo.blog
@@ -1264,6 +1295,9 @@ sdnkalisegoro.dikdas.semarangkota.go.id
 *.sexvietdam.blog
 *.sexwell.bg
 *.sexyavenue.com
+*.sexyelephant.hr
+*.sexyelephant.ro
+*.sexyelephant.si
 *.sexygameruay.game
 *.sexyland.com.au
 *.sexyliving.com
@@ -1313,8 +1347,10 @@ shhhsexshop.kyte.site
 *.sinful.ch
 *.sinful.co.uk
 *.sinful.de
+*.sinful.dk
 *.sinful.fr
 *.sinful.nl
+*.sinful.no
 *.sinful.se
 *.sinfulgroup.com
 *.sisliescort.site
@@ -1325,6 +1361,7 @@ shhhsexshop.kyte.site
 *.sklep-strefaintymna.pl
 *.sklepeuforia.pl
 *.sluttygram.com
+*.sm003.com
 *.smartsextoys.ru
 *.smashme.de
 *.smokenmirror.co.uk
@@ -1355,6 +1392,7 @@ shhhsexshop.kyte.site
 *.studescort.com
 *.styleplanet.com
 *.superlove.ro
+*.susurrosintimos.es
 *.svensk-porr.com
 *.sweetiesexshop.com.ua
 *.taboo.se
@@ -1432,11 +1470,13 @@ shhhsexshop.kyte.site
 *.tuerotica.com
 *.tulipan.pl
 *.turkceerotikfilmcx.cfd
+*.turkhub150.cfd
 *.turkifsa.blog
 *.turkifsa.cc
 *.turkifsa93.com
 *.turkifsaarsivivip.xyz
 *.turkifsaclub211.sbs
+*.turkifsahane.com
 *.turkifsami.net
 *.turkifsatube20.xyz
 *.turkifsatube24.xyz
@@ -1450,6 +1490,7 @@ shhhsexshop.kyte.site
 *.untamed.love
 *.upskirt-asian-girl.lol
 *.upslut.blog
+uqxzif.extracontent.fr
 *.usagi-shop.com
 *.usagi-ya.co.jp
 *.useprivly.com
@@ -1494,12 +1535,15 @@ venusexx.ueniweb.com
 *.vuxenkul.se
 *.wanghongheiliao-45.pages.dev
 *.we-vibe.com
+*.web-x-cam.nl
 *.webac-vibro.com
 *.webcam-sex.nl
 *.webcam.vlaanderen
+*.webcamsex.deals
 *.webcamsex4u.co.uk
 *.webhentai.com
 *.webxcams.eu
+*.webxcams.nl
 *.welcomelover.com
 *.wetforher.com
 *.wham.mx

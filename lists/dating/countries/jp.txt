@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Dating, Japan (jp)
-# Domains: 28 | Updated: 2026-10-15
+# Domains: 37 | Updated: 2026-10-15
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/lists/dating/countries/jp.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -15,20 +15,29 @@ faq.nisshinfire.co.jp
 *.fujoho.jp
 *.happymail.co.jp
 *.happymail.jp
+*.heaven.jpn.com
+hitoduma.derikura.com
 *.honeychat.app
+machicon.um-club.jp
 magaseekcm.conohawing.com
 manabi.pref.aichi.jp
 meet-japan.bnextmedia.com
 *.myhoneychat.com
 nagoya.rimokura.com
 old.coacha.com
+*.om-konkatsu.com
 *.omiai-jp.com
 osaka.chance.chat
 osaka.chatlady-mint.com
+osaka.club-valentine.com
 *.pcmax.jp
 *.roomchat.site
+sakai.club-rare.jp
+sapporo.chance.chat
 service.link.link
 *.strangerchat.live
 *.tapple.me
+toyohashi.merst.com
 *.wakuwaku-communications.com
+*.yoasobi-heaven.com
 *.youbride.jp

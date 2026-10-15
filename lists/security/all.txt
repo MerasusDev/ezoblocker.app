@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Security
-# Domains: 14,186 | Updated: 2026-10-15
+# Domains: 14,183 | Updated: 2026-10-15
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/lists/security/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -665,7 +665,6 @@ activate.ecobank-ng.ws
 *.airbnb-businessinquiries-policy.org.ph
 airbnb-face-verification.codewithsachintha.com
 *.airbnb-login-signup-page.pages.dev
-*.airbnb-login5617.live
 *.airbnb-order.shop
 airbnb-verification-email.fanduelsportsnetworj.com
 *.airdrop-checker-walletconnect.pages.dev
@@ -713,6 +712,7 @@ aktivasi-pemulihanxakun-shopee.spexc9.my.id
 *.alert-docusign.pages.dev
 *.alert-icloud.us.com
 alert.garant.ida.kraft-group.com
+*.alerta-appleid.info
 *.alertaciudadanatultitlan.mx
 *.alertadetran.pages.dev
 alerts.online.chaseonlinealerts.theuba.com.br
@@ -1223,7 +1223,6 @@ authentik-admin.bank.stanic.io
 *.auths-coinbase-en.pages.dev
 *.auths-coinbase-login-awi.pages.dev
 *.auths-coinbase-pro.pages.dev
-*.auths-coinbase.com
 *.auths-coins-us.pages.dev
 *.auths-com-metamsk.pages.dev
 *.auths-com-uphold.pages.dev
@@ -2232,7 +2231,6 @@ coinbase-request-verification.fanduelsprtsnetwork.com
 *.coinbase-wallet-sigm.pages.dev
 *.coinbase-wallet-sign.pages.dev
 *.coinbase-wallet-vs-metamask.pages.dev
-*.coinbase-wallet.app
 *.coinbase-wallet.pages.dev
 *.coinbase-web-logn.pages.dev
 *.coinbase-web3-logn.pages.dev
@@ -2267,7 +2265,6 @@ coinbaseidentityverification.fanduelsportsnetworkk.com
 *.coinbasesupport-github-io.pages.dev
 *.coinbasesupport-usa.pages.dev
 *.coinbasesupport.pages.dev
-*.coinbasesupport.us
 *.coinbasesupporter.pages.dev
 *.coinbasesupports.pages.dev
 *.coinbaspro-lgin.pages.dev

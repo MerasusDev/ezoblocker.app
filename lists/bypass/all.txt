@@ -1,17 +1,20 @@
 # Title: EZOBLOCKER Bypass
-# Domains: 135 | Updated: 2026-10-15
+# Domains: 145 | Updated: 2026-10-15
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/lists/bypass/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
 *.9japroxy.com
 a.v2ray.cx
+*.adguard-dns.io
+*.adguard.com
 app.cyberyozh.com
 *.aproxy.com
 apt.izzysoft.de
 bbs.clashhub.net
 *.bestproxy.com
 *.betternet.be
+bicto.bangsamoro.gov.ph
 *.blockaway.ca
 *.browsec.cx
 *.browsecvps.net
@@ -25,9 +28,11 @@ corp.omake.co.jp
 *.ctunnel.com
 discourse.aosus.org
 doc.alvao.com
+drive.mke.gov.tr
 *.dtunnel.net
 *.eliteproxyswitcher.com
 endian.eth0.com.br
+eservices.joburg.org.za
 *.express-vpn.app
 *.expressrefer.com
 find-and-update.company-information.service.gov.uk
@@ -55,6 +60,7 @@ kbm.slp-contents.com
 *.kiotproxy.com
 kproxy-extension.softonic.nl
 *.ktunneli.com
+learn.totem-project.org
 lifestyle.assist-all.co.jp
 *.lightningproxies.net
 maturita.cermat.cz
@@ -92,6 +98,7 @@ psiphon.sooftware.com
 *.shadowsocks.com
 *.shadowsocks.nz
 *.shield-way.com
+shinobi-vpn-gtm-noload.apk.cafe
 *.siamproxy.com
 *.smartproxy.ai
 *.smartproxy.cn
@@ -111,10 +118,12 @@ snap-vpn.softmany.com
 *.softether.jp
 *.softether.org
 *.swissvpn.co
+talk.getindico.io
 tools.tracemyip.org
 *.torprojectstatus.org
 *.tradeproxy.vn
 tunnelbear.ar.softmany.com
+*.tunproxy.com
 ultrasurf-security-privacy-unblock-vpn.softonic.jp
 *.ultrasurf-vpn.pages.dev
 ultrasurf.ar.softmany.com
@@ -138,4 +147,5 @@ wiki5.ispadmin.eu
 www93.juarez.gob.mx
 *.yasaksiteleregiris.org
 yozm.wishket.com
+*.zapret.vercel.app
 zend2.rwiki.jp

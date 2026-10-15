@@ -1,17 +1,20 @@
 # Title: EZOBLOCKER Bypass
-# Domains: 135 | Updated: 2026-10-15
+# Domains: 145 | Updated: 2026-10-15
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/bypass/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
 0.0.0.0 9japroxy.com
 0.0.0.0 a.v2ray.cx
+0.0.0.0 adguard-dns.io
+0.0.0.0 adguard.com
 0.0.0.0 app.cyberyozh.com
 0.0.0.0 aproxy.com
 0.0.0.0 apt.izzysoft.de
 0.0.0.0 bbs.clashhub.net
 0.0.0.0 bestproxy.com
 0.0.0.0 betternet.be
+0.0.0.0 bicto.bangsamoro.gov.ph
 0.0.0.0 blockaway.ca
 0.0.0.0 browsec.cx
 0.0.0.0 browsecvps.net
@@ -25,9 +28,11 @@
 0.0.0.0 ctunnel.com
 0.0.0.0 discourse.aosus.org
 0.0.0.0 doc.alvao.com
+0.0.0.0 drive.mke.gov.tr
 0.0.0.0 dtunnel.net
 0.0.0.0 eliteproxyswitcher.com
 0.0.0.0 endian.eth0.com.br
+0.0.0.0 eservices.joburg.org.za
 0.0.0.0 express-vpn.app
 0.0.0.0 expressrefer.com
 0.0.0.0 find-and-update.company-information.service.gov.uk
@@ -55,6 +60,7 @@
 0.0.0.0 kiotproxy.com
 0.0.0.0 kproxy-extension.softonic.nl
 0.0.0.0 ktunneli.com
+0.0.0.0 learn.totem-project.org
 0.0.0.0 lifestyle.assist-all.co.jp
 0.0.0.0 lightningproxies.net
 0.0.0.0 maturita.cermat.cz
@@ -92,6 +98,7 @@
 0.0.0.0 shadowsocks.com
 0.0.0.0 shadowsocks.nz
 0.0.0.0 shield-way.com
+0.0.0.0 shinobi-vpn-gtm-noload.apk.cafe
 0.0.0.0 siamproxy.com
 0.0.0.0 smartproxy.ai
 0.0.0.0 smartproxy.cn
@@ -111,10 +118,12 @@
 0.0.0.0 softether.jp
 0.0.0.0 softether.org
 0.0.0.0 swissvpn.co
+0.0.0.0 talk.getindico.io
 0.0.0.0 tools.tracemyip.org
 0.0.0.0 torprojectstatus.org
 0.0.0.0 tradeproxy.vn
 0.0.0.0 tunnelbear.ar.softmany.com
+0.0.0.0 tunproxy.com
 0.0.0.0 ultrasurf-security-privacy-unblock-vpn.softonic.jp
 0.0.0.0 ultrasurf-vpn.pages.dev
 0.0.0.0 ultrasurf.ar.softmany.com
@@ -138,4 +147,5 @@
 0.0.0.0 www93.juarez.gob.mx
 0.0.0.0 yasaksiteleregiris.org
 0.0.0.0 yozm.wishket.com
+0.0.0.0 zapret.vercel.app
 0.0.0.0 zend2.rwiki.jp

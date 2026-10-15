@@ -1,11 +1,12 @@
 # Title: EZOBLOCKER Adult, adult shops
-# Domains: 986 | Updated: 2026-10-15
+# Domains: 1,008 | Updated: 2026-10-15
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/adult/adult-shop.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
 0.0.0.0 1001noites.com
 0.0.0.0 112sexshop.com
+0.0.0.0 123sexo.cl
 0.0.0.0 18plus.com.ua
 0.0.0.0 1a-erotikshops.de
 0.0.0.0 4love.ro
@@ -80,6 +81,7 @@
 0.0.0.0 avenue-privee.com
 0.0.0.0 ayay.it
 0.0.0.0 aysexshop.mx
+0.0.0.0 babylonloveshop.be
 0.0.0.0 babylonloveshop.com
 0.0.0.0 balisexstore.com
 0.0.0.0 ballsonline.co.uk
@@ -123,6 +125,7 @@
 0.0.0.0 brothercho.com
 0.0.0.0 bunnyroom.co.kr
 0.0.0.0 buttman.com.ar
+0.0.0.0 buttplug.io
 0.0.0.0 byann.pl
 0.0.0.0 byplay.es
 0.0.0.0 cake-mayoreo.com
@@ -274,10 +277,12 @@
 0.0.0.0 fantezie.ro
 0.0.0.0 farmamix.com.ar
 0.0.0.0 fashionboutix.ch
+0.0.0.0 fashionwalker.com
 0.0.0.0 fetchshop.co.uk
 0.0.0.0 find-and-update.company-information.service.gov.uk
 0.0.0.0 findshop.co
 0.0.0.0 flagranti.cz
+0.0.0.0 flagranti.sk
 0.0.0.0 fleshlight.eu
 0.0.0.0 fleshlighttoy.pk
 0.0.0.0 fleshtoys.pk
@@ -297,6 +302,7 @@
 0.0.0.0 gavle.cylex.se
 0.0.0.0 ginza-soleil.com
 0.0.0.0 ginza-soleil.jp
+0.0.0.0 gizliyanim.com
 0.0.0.0 goodvibres.com.br
 0.0.0.0 goota.com.ar
 0.0.0.0 gorgeous-berlin.de
@@ -343,6 +349,7 @@
 0.0.0.0 japijane.cl
 0.0.0.0 javtoys.com
 0.0.0.0 jenylove.cl
+0.0.0.0 jenylovemayorista.cl
 0.0.0.0 jokershop.com.tr
 0.0.0.0 joujou.com.au
 0.0.0.0 joydivision.de
@@ -358,6 +365,7 @@
 0.0.0.0 kaamastra.com
 0.0.0.0 kachondiux.com
 0.0.0.0 kamasutra.com
+0.0.0.0 kandup.jp
 0.0.0.0 katthelabel.com
 0.0.0.0 kazanova.shop
 0.0.0.0 kazanova.su
@@ -410,6 +418,7 @@
 0.0.0.0 lolamontez.co.za
 0.0.0.0 lolatoys.com
 0.0.0.0 lolipop.com.mx
+0.0.0.0 lolitashop.com.tr
 0.0.0.0 loma-store.com
 0.0.0.0 losplaceresdelola.com
 0.0.0.0 loungerie.com.br
@@ -431,7 +440,9 @@
 0.0.0.0 lovegoods.org
 0.0.0.0 lovehoney.ca
 0.0.0.0 lovehoney.co
+0.0.0.0 lovehoney.co.nz
 0.0.0.0 lovehoney.com.au
+0.0.0.0 lovehoney.fr
 0.0.0.0 lovehoney.net
 0.0.0.0 lovehoneyforum.com
 0.0.0.0 lovehoneygroup.com
@@ -442,6 +453,7 @@
 0.0.0.0 lovelytoysfactory.com
 0.0.0.0 lovemarket.net
 0.0.0.0 lovemate.com
+0.0.0.0 lovepiececlub-shop.com
 0.0.0.0 lovers.rs
 0.0.0.0 loversshop.com.au
 0.0.0.0 loversstores.com
@@ -493,6 +505,7 @@
 0.0.0.0 makeup.pl
 0.0.0.0 mallux.de
 0.0.0.0 mammothcoffee.com
+0.0.0.0 mariesuelingerie.ie
 0.0.0.0 markamama.com.tr
 0.0.0.0 market.regroup.gr
 0.0.0.0 martshop.pk
@@ -578,10 +591,12 @@
 0.0.0.0 online-shop.at
 0.0.0.0 ontopoflove.nl
 0.0.0.0 openingstijden.nl
+0.0.0.0 ophelialingerie.ie
 0.0.0.0 oppsystore.com
 0.0.0.0 orchidtoys.com
 0.0.0.0 orionsexshop.com.co
 0.0.0.0 orionversand.ch
+0.0.0.0 oscarshop.net
 0.0.0.0 other-nature.de
 0.0.0.0 ousadias.pt
 0.0.0.0 outonthestreet.ca
@@ -661,6 +676,7 @@
 0.0.0.0 rosetoyshop.bentoweb.com
 0.0.0.0 ruedesplaisirs.com
 0.0.0.0 rungrung.vn
+0.0.0.0 ruzovyslon.sk
 0.0.0.0 s-shop24.ru
 0.0.0.0 s-world.at
 0.0.0.0 s69.com.ua
@@ -802,6 +818,9 @@
 0.0.0.0 sextoyuae.store
 0.0.0.0 sexwell.bg
 0.0.0.0 sexyavenue.com
+0.0.0.0 sexyelephant.hr
+0.0.0.0 sexyelephant.ro
+0.0.0.0 sexyelephant.si
 0.0.0.0 sexyland.com.au
 0.0.0.0 sexyliving.com
 0.0.0.0 sexypet.co.kr
@@ -848,8 +867,10 @@
 0.0.0.0 sinful.ch
 0.0.0.0 sinful.co.uk
 0.0.0.0 sinful.de
+0.0.0.0 sinful.dk
 0.0.0.0 sinful.fr
 0.0.0.0 sinful.nl
+0.0.0.0 sinful.no
 0.0.0.0 sinful.se
 0.0.0.0 sinfulgroup.com
 0.0.0.0 sitereview.ro
@@ -872,6 +893,7 @@
 0.0.0.0 stripmag.ru
 0.0.0.0 styleplanet.com
 0.0.0.0 superlove.ro
+0.0.0.0 susurrosintimos.es
 0.0.0.0 sweetiesexshop.com.ua
 0.0.0.0 taboo.se
 0.0.0.0 tabushop.com.ar

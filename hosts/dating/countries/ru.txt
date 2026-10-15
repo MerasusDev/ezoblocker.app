@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Dating, Russia (ru)
-# Domains: 24 | Updated: 2026-10-15
+# Domains: 78 | Updated: 2026-10-15
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/dating/countries/ru.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -9,22 +9,76 @@
 0.0.0.0 balashikha.fooby.ru
 0.0.0.0 camruletka.com
 0.0.0.0 chatroulette.ru
+0.0.0.0 chelyabinsk1.5intim.com
 0.0.0.0 citysex.ru
+0.0.0.0 dosug-omsk.net
+0.0.0.0 dosug.relax-kzn.top
+0.0.0.0 dosug777-go.com
+0.0.0.0 dosugbar34.org
+0.0.0.0 dosugbar72.com
+0.0.0.0 dosugbarchl.com
+0.0.0.0 dosugbarizh.com
+0.0.0.0 dosugbarnnv.info
+0.0.0.0 dosugbaroms.com
+0.0.0.0 dosugbarsam.org
 0.0.0.0 dosugcz-ru.ru
+0.0.0.0 dosugkazani.ru
+0.0.0.0 dosugkrasnoyarsk.ru
 0.0.0.0 dosugmebel.ru
+0.0.0.0 dosugnovosib1.com
+0.0.0.0 dosugomska.ru
+0.0.0.0 dosugperm.ru
+0.0.0.0 dosugrost.com
+0.0.0.0 dosugsamara.biz
+0.0.0.0 dosugsaratova.ru
+0.0.0.0 dosugtolyatti.ru
+0.0.0.0 dosugvolgograda.ru
+0.0.0.0 dosugvoronezha.ru
 0.0.0.0 filmora.wondershare.com.ru
 0.0.0.0 flirt-style.ru
 0.0.0.0 flirt.ru
+0.0.0.0 fotostrana.ru
 0.0.0.0 get.ashoo.io
+0.0.0.0 get.ashoo.me
 0.0.0.0 intimdating.ru
+0.0.0.0 kazan.artmetall26.ru
+0.0.0.0 kazan1.5intim.com
+0.0.0.0 krasnodarindividualki.com
 0.0.0.0 loveplanet.ru
+0.0.0.0 m.intimatlas.cz
 0.0.0.0 mamba.ru
+0.0.0.0 mob.badanga.org
+0.0.0.0 perm.5intim.com
+0.0.0.0 prm.inozemdesign.ru
+0.0.0.0 prm.interactive-development.ru
+0.0.0.0 prostitutki.cool
+0.0.0.0 prostitutki.cx
+0.0.0.0 prostitutki.in
+0.0.0.0 prostitutki.uk
+0.0.0.0 prostitutkiizhevskagoal.net
+0.0.0.0 prostitutkinovosibirsk.ru
+0.0.0.0 prostitutkirostovaget.com
+0.0.0.0 prostitutkisamary.me
+0.0.0.0 prostitutkivlg.com
+0.0.0.0 prostitutkivoronezh.com
 0.0.0.0 putana74.net
+0.0.0.0 putanamama-vlg.top
 0.0.0.0 randomchat.com
 0.0.0.0 ruletka.chat
+0.0.0.0 rusdosug.com
+0.0.0.0 rusdosug.su
+0.0.0.0 rusdosug.xyz
+0.0.0.0 sam.inozemdesign.ru
+0.0.0.0 sam.interactive-development.ru
+0.0.0.0 samara-chat.ru.gg
 0.0.0.0 seo.imaiko.com
+0.0.0.0 sex-znakomstva.ru
 0.0.0.0 sexchat.ru
 0.0.0.0 sexchatttttt.chatovod.com
 0.0.0.0 sexintim.ru
+0.0.0.0 tolyatti.artmetall26.ru
+0.0.0.0 tolyatti.sexysluts24.com
+0.0.0.0 tyumen.sexysluts24.com
+0.0.0.0 ufa.art-septik.ru
 0.0.0.0 videochatru.com
 0.0.0.0 znakomstva.ru

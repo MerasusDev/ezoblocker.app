@@ -1,8 +1,10 @@
 # Title: EZOBLOCKER Bypass, Russia (ru)
-# Domains: 2 | Updated: 2026-10-15
+# Domains: 4 | Updated: 2026-10-15
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/bypass/countries/ru.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
+0.0.0.0 drive.mke.gov.tr
 0.0.0.0 hub.zlonov.ru
 0.0.0.0 vpnki.ru
+0.0.0.0 zapret.vercel.app

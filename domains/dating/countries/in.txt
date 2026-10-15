@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Dating, India (in)
-# Domains: 24 | Updated: 2026-10-15
+# Domains: 29 | Updated: 2026-10-15
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/domains/dating/countries/in.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -11,8 +11,11 @@ chatrandom.net
 citizen.andamannicobar.gov.in
 delhi.idbf.in
 fruzo.apkpure.co.in
+ghaziabad.cherrygirls.net
 i.streetgirls69.com
+in.loquovip.com
 in.seekerpleasure.com
+in.zuli.in
 ind.incallup.com
 india.escortface.com
 indiaskokka.com
@@ -22,9 +25,11 @@ marathishaadi.com
 monkey.app
 mumbai.selectyourgirls.com
 omegloo.com
+patna.nehamari.com
 quackquack.in
 shaadi.com
 simplymarriage.com
 simplymarry-matrimonial-app.apk.cafe
 skokka.co.in
 trulymadly.com
+www.chatting.chatkaro.in

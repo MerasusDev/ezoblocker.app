@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, Netherlands (nl)
-# Domains: 31 | Updated: 2026-10-15
+# Domains: 35 | Updated: 2026-10-15
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/lists/adult/countries/nl.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -14,6 +14,7 @@
 *.erotictreasure.nl
 *.evenflirten.nl
 *.islive.com
+*.kimholland.nl
 *.kinkytijd.nl
 *.meidenvanholland.nl
 *.mince.nl
@@ -35,3 +36,6 @@
 *.shoppie.nl
 *.sinful.nl
 *.tesstesst.nl
+*.web-x-cam.nl
+*.webcamsex.deals
+*.webxcams.nl

@@ -1,21 +1,43 @@
 ! Title: EZOBLOCKER Dating, Ireland (ie)
-! Domains: 15 | Updated: 2026-10-15
+! Domains: 37 | Updated: 2026-10-15
 ! Homepage: https://github.com/MerasusDev/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/dating/countries/ie.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 ! App: https://ezoblocker.app
+|athlone-escorts.kinoxit.ru^
+|bray.kubuchet.ru^
+|carlow.level-web.ru^
 ||chatinireland.com^
+|clonmel.level-web.ru^
+||cupidescorts.co.uk^
+||empirescort.com^
 ||escort-ireland.com^
 ||escorthub.org^
 ||escortrankings.uk^
+||escorts-ie.eu^
+||escortsireland.eu^
+||escortsnearby.com^
+||happyescorts.com^
+|ie.xtonight.com^
+|ireland.redhotsocial.com^
 ||irishchat.net^
 ||irishmirror.ie^
+|kilkenny.level-web.ru^
 ||locanto.ie^
+|mullingar.level-web.ru^
+|navan.kubuchet.ru^
+|newbridge-escorts.alsilk.ru^
+|newbridge.level-web.ru^
+|parenthub.brillfrc.ie^
 ||pingadults.com^
+|portlaoise.superiorcleanerssc.com^
 ||punternet.com^
 ||simpleescort.com^
 ||strangermeetup.com^
 ||strangerschat.in^
 ||talkwithstranger.co.uk^
 ||vivastreet.ie^
+|waterford.swiftweb.ru^
+|wexford-escorts.kinoxit.ru^
+|wexford.kubuchet.ru^
 |witness.blackmountaininstitute.org^

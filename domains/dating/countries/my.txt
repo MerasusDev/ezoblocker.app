@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Dating, Malaysia (my)
-# Domains: 12 | Updated: 2026-10-15
+# Domains: 13 | Updated: 2026-10-15
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/domains/dating/countries/my.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -12,6 +12,7 @@ klescortmalaysia.com
 login-sugarbook.rivernotebook.com
 malaysia.escortface.com
 mitoclanchat.chatovod.com
+my386751-jabatan-pendaftaran-negara-kota-kinabalu-sabah.contact.page
 myjodoh.net
 sugarbook.com
 sugarbookapp.com

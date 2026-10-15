@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, Türkiye (tr)
-# Domains: 175 | Updated: 2026-10-15
+# Domains: 183 | Updated: 2026-10-15
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/lists/adult/countries/tr.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -21,6 +21,7 @@ admission.npu.ac.th
 *.antalyasexshop.com
 *.armonishop.com
 *.arzumshop.com.tr
+*.askimyavas201.live
 *.atasehiraktif.click
 *.atasehirescort8.uno
 *.atasehirescortlari.com
@@ -71,6 +72,7 @@ fantastik-seks-hikayeleri-6.yeahh.com
 *.filmkuzusu.vip
 *.gaziantepbayanescort.com
 *.gaziantepbayanlar.com
+*.gizliyanim.com
 *.hdabla.one
 *.hentaiadam.com
 *.honeybirdette.com
@@ -98,6 +100,7 @@ fantastik-seks-hikayeleri-6.yeahh.com
 *.kusadasiindeks.com
 *.lcwaikiki.de
 *.linfini.co
+*.lolitashop.com.tr
 *.lovelysins.com
 *.loversstores.com
 *.lucky-bull.hr
@@ -112,9 +115,12 @@ fantastik-seks-hikayeleri-6.yeahh.com
 mobil.yalovapusula.com
 *.mobilcinselsohbet.com
 *.mobilerotik.net
+*.mobilexh.life
+*.mutva.com
 *.nazira1.wtf
 *.noktashop.com.tr
 onlineedistrict.amtron.in
+*.oscarshop.net
 *.papelerias.com.es
 *.papimlor.site
 *.papyonshop.com
@@ -155,11 +161,13 @@ onlineedistrict.amtron.in
 *.terbiyesizzler.com
 *.theeskisehir.com
 *.turkceerotikfilmcx.cfd
+*.turkhub150.cfd
 *.turkifsa.blog
 *.turkifsa.cc
 *.turkifsa93.com
 *.turkifsaarsivivip.xyz
 *.turkifsaclub211.sbs
+*.turkifsahane.com
 *.turkifsami.net
 *.turkifsatube20.xyz
 *.turkifsatube24.xyz

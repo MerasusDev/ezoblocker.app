@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Piracy
-! Domains: 932 | Updated: 2026-10-15
+! Domains: 954 | Updated: 2026-10-15
 ! Homepage: https://github.com/MerasusDev/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/piracy/all.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -13,6 +13,7 @@
 ||2fmovies.net^
 ||4kiptvireland.irish^
 ||6stream.net^
+||7msport.com^
 ||90phut.dev^
 ||90phutt.co^
 ||90phutzas.tv^
@@ -61,6 +62,8 @@
 ||aniwatch.com.bz^
 ||aniwatchtv.ro^
 ||aniwatchtv.ws^
+||anoboy.be^
+||anoboy.forum^
 |api.sap.ce.gov.br^
 ||apkdayi.com^
 |app.plastiks.io^
@@ -107,6 +110,7 @@
 ||cakhiatvc.group^
 ||cakhiaxs.tv^
 ||canlimacizlet.altervista.org^
+||cb01.channel^
 ||cb01official.uno^
 ||ccuevana.today^
 |cepi.cb.ce.gov.br^
@@ -129,7 +133,6 @@
 ||cinecalidad-xexj.pages.dev^
 ||cinecalidad-ykut.pages.dev^
 |clare.gaa.ie^
-||coflix1.live^
 ||comprariptv.com^
 ||compucalitv.lol^
 ||compucalitv.tv^
@@ -221,6 +224,7 @@
 |dnsrepo.noc.org^
 ||dontorrent.blog^
 ||dontorrent.club^
+||doonung2u.blogspot.com^
 ||doonungfree.com^
 ||drakorid.co^
 ||egybesstt.baby^
@@ -288,6 +292,7 @@
 ||freesport.com^
 ||freesportscap.com^
 |french.visitkorea.or.kr^
+|ftp.wpc.or.kr^
 ||fullfilmizle.fit^
 ||fullfilmizlesene.org^
 ||fullhdfilmizlesene.co^
@@ -317,6 +322,7 @@
 ||fzmovies.ng^
 ||fztvseries.live^
 ||fztvseries.ng^
+|game-23.adhijasa.com^
 |getlive.pcb.com.pk^
 ||getoziptv.com^
 ||gipnozis-hdrezka.org^
@@ -376,6 +382,7 @@
 ||icuevana3.cam^
 ||ikinogo.io^
 |info.rugbypass.tv^
+|inpiad60.inpiad.co.kr^
 |iptv-abonnement-france.youcan.store^
 |iptv-portugal.youcan.store^
 ||iptvaustralia.app^
@@ -392,12 +399,14 @@
 ||iptvireland-4k.irish^
 ||iptvireland.homes^
 ||iptvireland.io^
+||iptvirelandpro.irish^
 ||iptvlatinoamerica.us^
 ||iptvmexico.us^
 ||iptvnederland.nl^
 ||iptvpolska24.pl^
 ||iptvpolska4k.pl^
 ||iptvportugal.com.pt^
+||iptvsmarter.irish^
 ||iptvukservice.com^
 ||irishiptv.irish^
 ||isaimini.beauty^
@@ -409,6 +418,7 @@
 ||isaiminix.com^
 ||isportsurge.ws^
 |it-ord.computersweden.se^
+|jateng.bulat.co.id^
 ||jestyayin.org^
 ||jestyayingiris11.xyz^
 ||jetfilmizle.now^
@@ -485,6 +495,8 @@
 ||livekoora.com^
 ||livekoora.today^
 ||livekora360.com^
+||livescore.co.kr^
+||livescore.in^
 ||livesport.com^
 ||livesport.ru^
 ||livesport.ws^
@@ -583,8 +595,11 @@
 ||noonootvs10.store^
 ||northiptv.com^
 ||nung2hdd.com^
+||nungfree4k.com^
 |nyc-dsp1.kavanga.com^
 |online.tainiothiki.gr^
+||oploverz.ch^
+||oploverz.site^
 ||ostoralivehd7.com^
 ||otakudesu.blog^
 ||otakudesu.io^
@@ -653,6 +668,8 @@
 |phutu.forumvi.com^
 ||pinoyanimegroup.com^
 ||pinoyanimetambayan.blogspot.com^
+||pinoyflix1.su^
+||pinoyflixtambayan.net^
 ||pinoymoviepedia.ru^
 ||pinoymovieshub.org^
 ||piratebayproxylist.github.io^
@@ -681,6 +698,7 @@
 ||projectfreetvm.lol^
 ||pusatfilm.id^
 ||putlocker-du55.pages.dev^
+||quicksportstv.com^
 ||rapidgators.net^
 ||rarbg.bg^
 ||rawdevart.art^
@@ -725,8 +743,10 @@
 |show.sky.ch^
 |sia.aracati.ce.gov.br^
 ||siamsport.co.th^
+|silsigan-toto-saiteu-jip.hogal.co.kr^
 ||sinemafilmizle.com.tr^
 |sismrae.sead.pi.gov.br^
+||smartiptv.irish^
 ||smartiptvabo.com^
 ||soap2day4.me^
 ||soap2days.ac^
@@ -891,6 +911,7 @@
 ||worldfree4u.events^
 |ww.sledujfilmy.io^
 |ww1.animefenix.vip^
+|ww1.hindimovies.to^
 |ww1.pelis24.blog^
 ||www-cpasbien.cc^
 ||www-mangadex.org^
@@ -927,6 +948,7 @@
 ||yallakorapro.com^
 ||yallakorastar.pro^
 ||yallalives.net^
+||yallas.store^
 ||yallashoot-w11.pages.dev^
 ||yallashoot-yacine.com^
 ||yallashoot.id^

@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy, Philippines (ph)
-# Domains: 8 | Updated: 2026-10-15
+# Domains: 10 | Updated: 2026-10-15
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/lists/piracy/countries/ph.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -9,6 +9,8 @@ batangpinoy.psc.gov.ph
 *.pacman.live
 *.pinoyanimegroup.com
 *.pinoyanimetambayan.blogspot.com
+*.pinoyflix1.su
+*.pinoyflixtambayan.net
 *.pinoymoviepedia.ru
 *.pinoymovieshub.org
 welcome.blasttv.ph

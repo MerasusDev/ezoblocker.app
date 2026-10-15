@@ -1,27 +1,42 @@
 # Title: EZOBLOCKER Dating, PK (pk)
-# Domains: 21 | Updated: 2026-10-15
+# Domains: 36 | Updated: 2026-10-15
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/dating/countries/pk.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
 0.0.0.0 1escorts.net
 0.0.0.0 anonymous-chat-stranger-chat.apk.gold
+0.0.0.0 atlasescorts.com
+0.0.0.0 booking.appointy.com
 0.0.0.0 britishescortsdirectory.co.uk
+0.0.0.0 callgirls.xcanto.com
 0.0.0.0 careers.pwd.org
 0.0.0.0 chatroomcorner.com
 0.0.0.0 chatrooms.com.pk
 0.0.0.0 chatrooms.pk
 0.0.0.0 chatroomspk.com
+0.0.0.0 chatroomvista.com
+0.0.0.0 dostichatroom.com
+0.0.0.0 escortsbabes.com
 0.0.0.0 friendschatroom.net
 0.0.0.0 gupshupzone.chatovod.com
+0.0.0.0 hub.xcanto.com
 0.0.0.0 karachi.nightgirlservice.com
+0.0.0.0 karachichatroom.net
+0.0.0.0 meet.xcanto.com
 0.0.0.0 mixchatroom.com
+0.0.0.0 mixpakichatroom.com
 0.0.0.0 paak.adwento.com
+0.0.0.0 pakichatrooms.com
 0.0.0.0 pakistan.escortface.com
 0.0.0.0 pakistan.videocall.network
 0.0.0.0 pakistanichatrooms.com
 0.0.0.0 pakistanichatrooms.com.pk
+0.0.0.0 pakistanichatrooms.enic.pk
 0.0.0.0 pakistanichatrooms.pk
 0.0.0.0 pakistaniescortservices.com
+0.0.0.0 pek.zelliey.com
+0.0.0.0 profiles.d8u.com
 0.0.0.0 puk.oobben.com
+0.0.0.0 swingers.theadulthub.com
 0.0.0.0 urdu.chat.org.in

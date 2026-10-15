@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Dating, chat rooms and random video chat
-# Domains: 339 | Updated: 2026-10-15
+# Domains: 360 | Updated: 2026-10-15
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/domains/dating/dating-chat.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -50,10 +50,12 @@ cennetim.com
 chat.europnet.org
 chat.gen.tr
 chat.greek-chat.gr
+chat.hours.gr
 chat.irc.in.th
 chat.one.th
 chat.ptnet.org
 chat.romi.ai
+chat.vinbazar.com
 chatalya.com
 chatarab.chat
 chatarab.net
@@ -85,12 +87,14 @@ chatiw.im
 chatlady.rei35.com
 chatlatinos.cl
 chatlibertingratuit.fr
+chatmate.io
 chatmate.tv
 chatonline.pt
 chatous.com
 chatpia.jp
 chatrandom.com
 chatrandom.net
+chatroom.j471n.in
 chatroom.nl
 chatroom2000.de
 chatroomcorner.com
@@ -98,6 +102,7 @@ chatrooms.com.pk
 chatrooms.global
 chatrooms.pk
 chatroomspk.com
+chatroomvista.com
 chatroulette.com
 chatroulette.ru
 chatspin.com
@@ -123,7 +128,9 @@ dardasha.net
 deai.app-liv.jp
 deincamchat.de
 djdongdoes.djsch.kr
+dostichatroom.com
 dostyeri.org
+e-learning.srru.ac.th
 elchatcam.com
 elchatea.com
 elearning.uwks.ac.id
@@ -174,6 +181,7 @@ kalbim.net
 kalbiminsesi.net
 kaliteliortam.com
 kambichat.chatovod.com
+karachichatroom.net
 kariyerpanel.com
 khaleejchat.co
 khaleejchat.com
@@ -188,6 +196,8 @@ live.ajman.ac.ae
 livechat.sex-czech.cz
 m.appstory.co.kr
 m.dreamersforum.nl
+m.gagalive.com
+m.jlmaeil.com
 m.maccosmetics.gr
 m.ymeet.me
 manabi.pref.aichi.jp
@@ -200,11 +210,13 @@ mircalem.org
 mirctr.net
 mitoclanchat.chatovod.com
 mixchatroom.com
+mixpakichatroom.com
 mobilseslisohbet.net
 mobilsobe.com
 monkey.app
 muhabbet.org
 muhabbetiniz.net
+my386751-jabatan-pendaftaran-negara-kota-kinabalu-sabah.contact.page
 myegyptchat.com
 myhoneychat.com
 mynet.bz
@@ -213,6 +225,7 @@ mzansi-chatrooms.apk.gold
 nagoya.rimokura.com
 naijachat.com
 nazfm.net
+ntu.ff.or.kr
 old.coacha.com
 omegla.chat
 omegle-fun.com
@@ -235,11 +248,15 @@ opa.chat-room.gr
 osaka.chance.chat
 osaka.chatlady-mint.com
 oudevrouwenchat.nl
+pakichatrooms.com
 pakistan.videocall.network
 pakistanichatrooms.com
 pakistanichatrooms.com.pk
+pakistanichatrooms.enic.pk
 pakistanichatrooms.pk
 pandavideochat.com
+panduan.sekolah.mu
+parenthub.brillfrc.ie
 pinoychat.net
 portaleducacional.unisanta.br
 project.scichallenge.eu
@@ -254,6 +271,8 @@ roomchat.site
 ruletka.chat
 saglamsohbet.com
 salasdechatgratis.org
+samara-chat.ru.gg
+sapporo.chance.chat
 seo.imaiko.com
 service.link.link
 seslichat.com
@@ -338,8 +357,10 @@ web.chatapropo.ro
 wireclub.com
 witness.blackmountaininstitute.org
 www.bucuresti.romaniachat.eu
+www.chatting.chatkaro.in
 www.chis.regionstockholm.se
 yazgulu.net
 yozm.wishket.com
 zap.struckd.com
+zaporojskiy-chat.fosite.ru
 zurna.net

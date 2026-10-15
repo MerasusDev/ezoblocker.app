@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Dating, chat rooms and random video chat
-# Domains: 339 | Updated: 2026-10-15
+# Domains: 360 | Updated: 2026-10-15
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/dating/dating-chat.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -50,10 +50,12 @@
 0.0.0.0 chat.europnet.org
 0.0.0.0 chat.gen.tr
 0.0.0.0 chat.greek-chat.gr
+0.0.0.0 chat.hours.gr
 0.0.0.0 chat.irc.in.th
 0.0.0.0 chat.one.th
 0.0.0.0 chat.ptnet.org
 0.0.0.0 chat.romi.ai
+0.0.0.0 chat.vinbazar.com
 0.0.0.0 chatalya.com
 0.0.0.0 chatarab.chat
 0.0.0.0 chatarab.net
@@ -85,12 +87,14 @@
 0.0.0.0 chatlady.rei35.com
 0.0.0.0 chatlatinos.cl
 0.0.0.0 chatlibertingratuit.fr
+0.0.0.0 chatmate.io
 0.0.0.0 chatmate.tv
 0.0.0.0 chatonline.pt
 0.0.0.0 chatous.com
 0.0.0.0 chatpia.jp
 0.0.0.0 chatrandom.com
 0.0.0.0 chatrandom.net
+0.0.0.0 chatroom.j471n.in
 0.0.0.0 chatroom.nl
 0.0.0.0 chatroom2000.de
 0.0.0.0 chatroomcorner.com
@@ -98,6 +102,7 @@
 0.0.0.0 chatrooms.global
 0.0.0.0 chatrooms.pk
 0.0.0.0 chatroomspk.com
+0.0.0.0 chatroomvista.com
 0.0.0.0 chatroulette.com
 0.0.0.0 chatroulette.ru
 0.0.0.0 chatspin.com
@@ -123,7 +128,9 @@
 0.0.0.0 deai.app-liv.jp
 0.0.0.0 deincamchat.de
 0.0.0.0 djdongdoes.djsch.kr
+0.0.0.0 dostichatroom.com
 0.0.0.0 dostyeri.org
+0.0.0.0 e-learning.srru.ac.th
 0.0.0.0 elchatcam.com
 0.0.0.0 elchatea.com
 0.0.0.0 elearning.uwks.ac.id
@@ -174,6 +181,7 @@
 0.0.0.0 kalbiminsesi.net
 0.0.0.0 kaliteliortam.com
 0.0.0.0 kambichat.chatovod.com
+0.0.0.0 karachichatroom.net
 0.0.0.0 kariyerpanel.com
 0.0.0.0 khaleejchat.co
 0.0.0.0 khaleejchat.com
@@ -188,6 +196,8 @@
 0.0.0.0 livechat.sex-czech.cz
 0.0.0.0 m.appstory.co.kr
 0.0.0.0 m.dreamersforum.nl
+0.0.0.0 m.gagalive.com
+0.0.0.0 m.jlmaeil.com
 0.0.0.0 m.maccosmetics.gr
 0.0.0.0 m.ymeet.me
 0.0.0.0 manabi.pref.aichi.jp
@@ -200,11 +210,13 @@
 0.0.0.0 mirctr.net
 0.0.0.0 mitoclanchat.chatovod.com
 0.0.0.0 mixchatroom.com
+0.0.0.0 mixpakichatroom.com
 0.0.0.0 mobilseslisohbet.net
 0.0.0.0 mobilsobe.com
 0.0.0.0 monkey.app
 0.0.0.0 muhabbet.org
 0.0.0.0 muhabbetiniz.net
+0.0.0.0 my386751-jabatan-pendaftaran-negara-kota-kinabalu-sabah.contact.page
 0.0.0.0 myegyptchat.com
 0.0.0.0 myhoneychat.com
 0.0.0.0 mynet.bz
@@ -213,6 +225,7 @@
 0.0.0.0 nagoya.rimokura.com
 0.0.0.0 naijachat.com
 0.0.0.0 nazfm.net
+0.0.0.0 ntu.ff.or.kr
 0.0.0.0 old.coacha.com
 0.0.0.0 omegla.chat
 0.0.0.0 omegle-fun.com
@@ -235,11 +248,15 @@
 0.0.0.0 osaka.chance.chat
 0.0.0.0 osaka.chatlady-mint.com
 0.0.0.0 oudevrouwenchat.nl
+0.0.0.0 pakichatrooms.com
 0.0.0.0 pakistan.videocall.network
 0.0.0.0 pakistanichatrooms.com
 0.0.0.0 pakistanichatrooms.com.pk
+0.0.0.0 pakistanichatrooms.enic.pk
 0.0.0.0 pakistanichatrooms.pk
 0.0.0.0 pandavideochat.com
+0.0.0.0 panduan.sekolah.mu
+0.0.0.0 parenthub.brillfrc.ie
 0.0.0.0 pinoychat.net
 0.0.0.0 portaleducacional.unisanta.br
 0.0.0.0 project.scichallenge.eu
@@ -254,6 +271,8 @@
 0.0.0.0 ruletka.chat
 0.0.0.0 saglamsohbet.com
 0.0.0.0 salasdechatgratis.org
+0.0.0.0 samara-chat.ru.gg
+0.0.0.0 sapporo.chance.chat
 0.0.0.0 seo.imaiko.com
 0.0.0.0 service.link.link
 0.0.0.0 seslichat.com
@@ -338,8 +357,10 @@
 0.0.0.0 wireclub.com
 0.0.0.0 witness.blackmountaininstitute.org
 0.0.0.0 www.bucuresti.romaniachat.eu
+0.0.0.0 www.chatting.chatkaro.in
 0.0.0.0 www.chis.regionstockholm.se
 0.0.0.0 yazgulu.net
 0.0.0.0 yozm.wishket.com
 0.0.0.0 zap.struckd.com
+0.0.0.0 zaporojskiy-chat.fosite.ru
 0.0.0.0 zurna.net

@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy, South Korea (kr)
-# Domains: 18 | Updated: 2026-10-15
+# Domains: 24 | Updated: 2026-10-15
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/lists/piracy/countries/kr.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -9,11 +9,17 @@ cfcmd.sookmyung.ac.kr
 chunga.inpiad.co.kr
 filmora.wondershare.kr
 french.visitkorea.or.kr
+ftp.wpc.or.kr
+inpiad60.inpiad.co.kr
+*.livescore.co.kr
+*.livescore.in
 *.newtoki.work
 *.newtoki1.org
+*.quicksportstv.com
 s1s.designq.kr
 saas.spochak.com
 *.scoreman123.com
+silsigan-toto-saiteu-jip.hogal.co.kr
 sportsclub.sports.or.kr
 t.matec.kr
 *.tvmon.com.co

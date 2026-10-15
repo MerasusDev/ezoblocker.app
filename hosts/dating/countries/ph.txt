@@ -1,18 +1,23 @@
 # Title: EZOBLOCKER Dating, Philippines (ph)
-# Domains: 12 | Updated: 2026-10-15
+# Domains: 17 | Updated: 2026-10-15
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/dating/countries/ph.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
+0.0.0.0 bacolodph.assortlist.com
+0.0.0.0 cagayandeoroph.assortlist.com
+0.0.0.0 chatmate.io
 0.0.0.0 chatmate.tv
 0.0.0.0 chatrooms.global
 0.0.0.0 escortmanila.com
 0.0.0.0 filipinaloves.com
 0.0.0.0 filipinocupid.com
 0.0.0.0 manilaescort.com
+0.0.0.0 marikinaph.assortlist.com
 0.0.0.0 members.richlovelinks.com
-0.0.0.0 ph.atlasescorts.com
-0.0.0.0 ph.escortsbabes.com
+0.0.0.0 paranaquecityph.assortlist.com
 0.0.0.0 philippines.escortface.com
 0.0.0.0 pinalove.com
 0.0.0.0 pinoychat.net
+0.0.0.0 subicph.assortlist.com
+0.0.0.0 valenzuelaph.assortlist.com

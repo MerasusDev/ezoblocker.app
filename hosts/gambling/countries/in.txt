@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling, India (in)
-# Domains: 29 | Updated: 2026-10-15
+# Domains: 30 | Updated: 2026-10-15
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/gambling/countries/in.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -29,6 +29,7 @@
 0.0.0.0 skyexchange.com.pk
 0.0.0.0 skyexchange.social
 0.0.0.0 skyexchnew.com
+0.0.0.0 thetiis.com
 0.0.0.0 tigerexch.ing
 0.0.0.0 wazamba-kaszino.com
 0.0.0.0 world-777.site

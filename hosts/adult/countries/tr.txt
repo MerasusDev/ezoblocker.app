@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, Türkiye (tr)
-# Domains: 175 | Updated: 2026-10-15
+# Domains: 183 | Updated: 2026-10-15
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/adult/countries/tr.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -21,6 +21,7 @@
 0.0.0.0 antalyasexshop.com
 0.0.0.0 armonishop.com
 0.0.0.0 arzumshop.com.tr
+0.0.0.0 askimyavas201.live
 0.0.0.0 atasehiraktif.click
 0.0.0.0 atasehirescort8.uno
 0.0.0.0 atasehirescortlari.com
@@ -71,6 +72,7 @@
 0.0.0.0 filmkuzusu.vip
 0.0.0.0 gaziantepbayanescort.com
 0.0.0.0 gaziantepbayanlar.com
+0.0.0.0 gizliyanim.com
 0.0.0.0 hdabla.one
 0.0.0.0 hentaiadam.com
 0.0.0.0 honeybirdette.com
@@ -98,6 +100,7 @@
 0.0.0.0 kusadasiindeks.com
 0.0.0.0 lcwaikiki.de
 0.0.0.0 linfini.co
+0.0.0.0 lolitashop.com.tr
 0.0.0.0 lovelysins.com
 0.0.0.0 loversstores.com
 0.0.0.0 lucky-bull.hr
@@ -112,9 +115,12 @@
 0.0.0.0 mobil.yalovapusula.com
 0.0.0.0 mobilcinselsohbet.com
 0.0.0.0 mobilerotik.net
+0.0.0.0 mobilexh.life
+0.0.0.0 mutva.com
 0.0.0.0 nazira1.wtf
 0.0.0.0 noktashop.com.tr
 0.0.0.0 onlineedistrict.amtron.in
+0.0.0.0 oscarshop.net
 0.0.0.0 papelerias.com.es
 0.0.0.0 papimlor.site
 0.0.0.0 papyonshop.com
@@ -155,11 +161,13 @@
 0.0.0.0 terbiyesizzler.com
 0.0.0.0 theeskisehir.com
 0.0.0.0 turkceerotikfilmcx.cfd
+0.0.0.0 turkhub150.cfd
 0.0.0.0 turkifsa.blog
 0.0.0.0 turkifsa.cc
 0.0.0.0 turkifsa93.com
 0.0.0.0 turkifsaarsivivip.xyz
 0.0.0.0 turkifsaclub211.sbs
+0.0.0.0 turkifsahane.com
 0.0.0.0 turkifsami.net
 0.0.0.0 turkifsatube20.xyz
 0.0.0.0 turkifsatube24.xyz

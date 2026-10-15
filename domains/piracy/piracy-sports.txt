@@ -1,10 +1,11 @@
 # Title: EZOBLOCKER Piracy, illegal sports streams
-# Domains: 262 | Updated: 2026-10-15
+# Domains: 268 | Updated: 2026-10-15
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/domains/piracy/piracy-sports.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
 6stream.net
+7msport.com
 90phut.dev
 90phutt.co
 90phutzas.tv
@@ -130,6 +131,8 @@ livehd71.live
 livehd71.top
 livekoora.com
 livekoora.today
+livescore.co.kr
+livescore.in
 livesport.com
 livesport.ru
 livesport.ws
@@ -167,6 +170,7 @@ pirlotv.win
 pirlotv1.live
 pirlotvv.org
 premierleague.com
+quicksportstv.com
 rojadirect.best
 rojadirecta.cash
 rojadirecta.cloud
@@ -178,6 +182,7 @@ saas.spochak.com
 scoreman123.com
 selcuksportshd.is
 siamsport.co.th
+silsigan-toto-saiteu-jip.hogal.co.kr
 socolive-bd-tv.art
 socolive-tv.quest
 socolive1.nl
@@ -265,4 +270,5 @@ xoilaczcd.tv
 yallakora.com
 yallakora.misrlinks.com
 yallalives.net
+yallas.store
 yallashoot.id

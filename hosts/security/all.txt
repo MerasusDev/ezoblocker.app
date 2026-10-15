@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Security
-# Domains: 14,186 | Updated: 2026-10-15
+# Domains: 14,183 | Updated: 2026-10-15
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/security/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -665,7 +665,6 @@
 0.0.0.0 airbnb-businessinquiries-policy.org.ph
 0.0.0.0 airbnb-face-verification.codewithsachintha.com
 0.0.0.0 airbnb-login-signup-page.pages.dev
-0.0.0.0 airbnb-login5617.live
 0.0.0.0 airbnb-order.shop
 0.0.0.0 airbnb-verification-email.fanduelsportsnetworj.com
 0.0.0.0 airdrop-checker-walletconnect.pages.dev
@@ -713,6 +712,7 @@
 0.0.0.0 alert-docusign.pages.dev
 0.0.0.0 alert-icloud.us.com
 0.0.0.0 alert.garant.ida.kraft-group.com
+0.0.0.0 alerta-appleid.info
 0.0.0.0 alertaciudadanatultitlan.mx
 0.0.0.0 alertadetran.pages.dev
 0.0.0.0 alerts.online.chaseonlinealerts.theuba.com.br
@@ -1223,7 +1223,6 @@
 0.0.0.0 auths-coinbase-en.pages.dev
 0.0.0.0 auths-coinbase-login-awi.pages.dev
 0.0.0.0 auths-coinbase-pro.pages.dev
-0.0.0.0 auths-coinbase.com
 0.0.0.0 auths-coins-us.pages.dev
 0.0.0.0 auths-com-metamsk.pages.dev
 0.0.0.0 auths-com-uphold.pages.dev
@@ -2232,7 +2231,6 @@
 0.0.0.0 coinbase-wallet-sigm.pages.dev
 0.0.0.0 coinbase-wallet-sign.pages.dev
 0.0.0.0 coinbase-wallet-vs-metamask.pages.dev
-0.0.0.0 coinbase-wallet.app
 0.0.0.0 coinbase-wallet.pages.dev
 0.0.0.0 coinbase-web-logn.pages.dev
 0.0.0.0 coinbase-web3-logn.pages.dev
@@ -2267,7 +2265,6 @@
 0.0.0.0 coinbasesupport-github-io.pages.dev
 0.0.0.0 coinbasesupport-usa.pages.dev
 0.0.0.0 coinbasesupport.pages.dev
-0.0.0.0 coinbasesupport.us
 0.0.0.0 coinbasesupporter.pages.dev
 0.0.0.0 coinbasesupports.pages.dev
 0.0.0.0 coinbaspro-lgin.pages.dev

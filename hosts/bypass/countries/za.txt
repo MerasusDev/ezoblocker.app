@@ -1,8 +1,10 @@
 # Title: EZOBLOCKER Bypass, South Africa (za)
-# Domains: 2 | Updated: 2026-10-15
+# Domains: 4 | Updated: 2026-10-15
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/bypass/countries/za.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
 0.0.0.0 blockaway.ca
+0.0.0.0 eservices.joburg.org.za
 0.0.0.0 freevpn.edu.pl
+0.0.0.0 learn.totem-project.org

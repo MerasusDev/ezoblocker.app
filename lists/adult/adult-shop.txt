@@ -1,11 +1,12 @@
 # Title: EZOBLOCKER Adult, adult shops
-# Domains: 986 | Updated: 2026-10-15
+# Domains: 1,008 | Updated: 2026-10-15
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/lists/adult/adult-shop.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
 *.1001noites.com
 *.112sexshop.com
+*.123sexo.cl
 *.18plus.com.ua
 *.1a-erotikshops.de
 *.4love.ro
@@ -80,6 +81,7 @@ annuaire-entreprises.data.gouv.fr
 *.avenue-privee.com
 *.ayay.it
 *.aysexshop.mx
+*.babylonloveshop.be
 *.babylonloveshop.com
 *.balisexstore.com
 *.ballsonline.co.uk
@@ -123,6 +125,7 @@ annuaire-entreprises.data.gouv.fr
 *.brothercho.com
 *.bunnyroom.co.kr
 *.buttman.com.ar
+*.buttplug.io
 *.byann.pl
 *.byplay.es
 *.cake-mayoreo.com
@@ -274,10 +277,12 @@ couplestoythailand.family.blog
 *.fantezie.ro
 *.farmamix.com.ar
 *.fashionboutix.ch
+*.fashionwalker.com
 *.fetchshop.co.uk
 find-and-update.company-information.service.gov.uk
 *.findshop.co
 *.flagranti.cz
+*.flagranti.sk
 *.fleshlight.eu
 *.fleshlighttoy.pk
 *.fleshtoys.pk
@@ -297,6 +302,7 @@ frutoproibido.pai.pt
 gavle.cylex.se
 *.ginza-soleil.com
 *.ginza-soleil.jp
+*.gizliyanim.com
 *.goodvibres.com.br
 *.goota.com.ar
 *.gorgeous-berlin.de
@@ -343,6 +349,7 @@ hamburg.mitvergnuegen.com
 *.japijane.cl
 *.javtoys.com
 *.jenylove.cl
+*.jenylovemayorista.cl
 *.jokershop.com.tr
 *.joujou.com.au
 *.joydivision.de
@@ -358,6 +365,7 @@ hamburg.mitvergnuegen.com
 *.kaamastra.com
 *.kachondiux.com
 *.kamasutra.com
+*.kandup.jp
 *.katthelabel.com
 *.kazanova.shop
 *.kazanova.su
@@ -410,6 +418,7 @@ kirov.fooby.ru
 *.lolamontez.co.za
 *.lolatoys.com
 *.lolipop.com.mx
+*.lolitashop.com.tr
 *.loma-store.com
 *.losplaceresdelola.com
 *.loungerie.com.br
@@ -431,7 +440,9 @@ kirov.fooby.ru
 *.lovegoods.org
 *.lovehoney.ca
 *.lovehoney.co
+*.lovehoney.co.nz
 *.lovehoney.com.au
+*.lovehoney.fr
 *.lovehoney.net
 *.lovehoneyforum.com
 *.lovehoneygroup.com
@@ -442,6 +453,7 @@ kirov.fooby.ru
 *.lovelytoysfactory.com
 *.lovemarket.net
 *.lovemate.com
+*.lovepiececlub-shop.com
 *.lovers.rs
 *.loversshop.com.au
 *.loversstores.com
@@ -493,6 +505,7 @@ m.sexywoo.co.kr
 *.makeup.pl
 *.mallux.de
 *.mammothcoffee.com
+*.mariesuelingerie.ie
 *.markamama.com.tr
 market.regroup.gr
 *.martshop.pk
@@ -578,10 +591,12 @@ old.spot.ph
 *.online-shop.at
 *.ontopoflove.nl
 *.openingstijden.nl
+*.ophelialingerie.ie
 *.oppsystore.com
 *.orchidtoys.com
 *.orionsexshop.com.co
 *.orionversand.ch
+*.oscarshop.net
 *.other-nature.de
 *.ousadias.pt
 *.outonthestreet.ca
@@ -661,6 +676,7 @@ prinz-eisenherz.buchkatalog.de
 rosetoyshop.bentoweb.com
 *.ruedesplaisirs.com
 *.rungrung.vn
+*.ruzovyslon.sk
 *.s-shop24.ru
 *.s-world.at
 *.s69.com.ua
@@ -802,6 +818,9 @@ sdnkalisegoro.dikdas.semarangkota.go.id
 *.sextoyuae.store
 *.sexwell.bg
 *.sexyavenue.com
+*.sexyelephant.hr
+*.sexyelephant.ro
+*.sexyelephant.si
 *.sexyland.com.au
 *.sexyliving.com
 *.sexypet.co.kr
@@ -848,8 +867,10 @@ shhhsexshop.kyte.site
 *.sinful.ch
 *.sinful.co.uk
 *.sinful.de
+*.sinful.dk
 *.sinful.fr
 *.sinful.nl
+*.sinful.no
 *.sinful.se
 *.sinfulgroup.com
 *.sitereview.ro
@@ -872,6 +893,7 @@ shhhsexshop.kyte.site
 *.stripmag.ru
 *.styleplanet.com
 *.superlove.ro
+*.susurrosintimos.es
 *.sweetiesexshop.com.ua
 *.taboo.se
 *.tabushop.com.ar

@@ -1,9 +1,10 @@
 # Title: EZOBLOCKER Dating, Romania (ro)
-# Domains: 13 | Updated: 2026-10-15
+# Domains: 17 | Updated: 2026-10-15
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/lists/dating/countries/ro.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
+botosani.escortes.ro
 braila.escorte66.com
 braila.escortela.net
 bucuresti.cylex.ro
@@ -12,8 +13,11 @@ cluj-napoca.escortes.ro
 galati.escortela.net
 iasi.escortepubli.com
 m.ghidul.ro
+maramures.abcescorte.com
+maramures.escorte66.com
 prahova.escortepubli.com
 *.publi24.ro
+satu-mare.abcescorte.com
 servicii.primariatm.ro
 web.chatapropo.ro
 www.bucuresti.romaniachat.eu

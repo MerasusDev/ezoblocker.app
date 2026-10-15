@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Dating, Russia (ru)
-# Domains: 24 | Updated: 2026-10-15
+# Domains: 78 | Updated: 2026-10-15
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/domains/dating/countries/ru.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -9,22 +9,76 @@ apps.appfollow.io
 balashikha.fooby.ru
 camruletka.com
 chatroulette.ru
+chelyabinsk1.5intim.com
 citysex.ru
+dosug-omsk.net
+dosug.relax-kzn.top
+dosug777-go.com
+dosugbar34.org
+dosugbar72.com
+dosugbarchl.com
+dosugbarizh.com
+dosugbarnnv.info
+dosugbaroms.com
+dosugbarsam.org
 dosugcz-ru.ru
+dosugkazani.ru
+dosugkrasnoyarsk.ru
 dosugmebel.ru
+dosugnovosib1.com
+dosugomska.ru
+dosugperm.ru
+dosugrost.com
+dosugsamara.biz
+dosugsaratova.ru
+dosugtolyatti.ru
+dosugvolgograda.ru
+dosugvoronezha.ru
 filmora.wondershare.com.ru
 flirt-style.ru
 flirt.ru
+fotostrana.ru
 get.ashoo.io
+get.ashoo.me
 intimdating.ru
+kazan.artmetall26.ru
+kazan1.5intim.com
+krasnodarindividualki.com
 loveplanet.ru
+m.intimatlas.cz
 mamba.ru
+mob.badanga.org
+perm.5intim.com
+prm.inozemdesign.ru
+prm.interactive-development.ru
+prostitutki.cool
+prostitutki.cx
+prostitutki.in
+prostitutki.uk
+prostitutkiizhevskagoal.net
+prostitutkinovosibirsk.ru
+prostitutkirostovaget.com
+prostitutkisamary.me
+prostitutkivlg.com
+prostitutkivoronezh.com
 putana74.net
+putanamama-vlg.top
 randomchat.com
 ruletka.chat
+rusdosug.com
+rusdosug.su
+rusdosug.xyz
+sam.inozemdesign.ru
+sam.interactive-development.ru
+samara-chat.ru.gg
 seo.imaiko.com
+sex-znakomstva.ru
 sexchat.ru
 sexchatttttt.chatovod.com
 sexintim.ru
+tolyatti.artmetall26.ru
+tolyatti.sexysluts24.com
+tyumen.sexysluts24.com
+ufa.art-septik.ru
 videochatru.com
 znakomstva.ru
