@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling, India (in)
-# Domains: 30 | Updated: 2026-10-16
+# Domains: 28 | Updated: 2026-10-16
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/domains/gambling/countries/in.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -12,8 +12,6 @@ cricbet99.biz
 cricbet99.cool
 cricbet99.gold
 cricbet99.llc
-erp.smu.edu.in
-indiapostgdsonline.cept.gov.in
 indibetz.in
 jeetwin.org.in
 justgamblers.com

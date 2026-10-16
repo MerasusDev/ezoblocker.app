@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, ct
-# Domains: 169 | Updated: 2026-10-16
+# Domains: 198 | Updated: 2026-10-16
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/adult/ct.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -23,14 +23,20 @@
 *.alte-schlampen-gratis-porno-reifen-frauen.pages.dev
 *.ask4porn.com
 *.avsubthai.art
+*.avsubthai.org
 *.avthaisub.org
+*.baisergratuitement-be.pages.dev
 *.baisergratuitement.be
+*.blackporncams.com
 *.bloominonlyfans.com
+*.bokep13.in.net
 *.bokep88.pages.dev
 *.bokepcrotindobokep.pages.dev
+*.bokepindo.forum
 *.bokepindo.lat
 *.bokepindo.makeup
 *.bokepindo.tokyo
+*.bokepindonesialing.pages.dev
 *.bokepindotv.com.co
 *.boobies.fyi
 *.bordell.com
@@ -43,14 +49,18 @@
 *.cranesonlyfans.com
 *.cultsonlyfans.com
 *.ebonyporns.com
+*.eromanga-attack2000.net
 *.eromanga-wktk.pages.dev
+*.eromangacomic-search.com
 *.erotiquestore.com.br
 *.erotische-malbuecher.de
 *.erotischechats.com
 *.escortsexibiza.com
+*.ferventonlyfans.com
 *.filipinaladyboys.com
 *.flyonlyfans.com
 *.footfetishescort.pages.dev
+*.framesonlyfans.com
 *.freelezbianpornvideos.com
 *.freesexvedioes.com
 *.fuckme.work
@@ -62,6 +72,7 @@
 *.hanime-3d7.pages.dev
 *.hanime-dl.pages.dev
 *.hanime-v3.pages.dev
+*.hanime1.co
 *.hanimeone.lat
 *.hanimetv-b6j.pages.dev
 *.hanimetv-dgq.pages.dev
@@ -71,6 +82,7 @@
 *.heiliao80.pages.dev
 *.heiliaoal.cc
 *.heiliaobox.cc
+*.heiliaocgw3.pages.dev
 *.heiliaodaohang4.pages.dev
 *.heiliaodg.wiki
 *.heiliaomenjin.pages.dev
@@ -88,14 +100,17 @@
 *.hentainote.xyz
 *.hentaireve.com
 *.hentaistuber.com
+*.hentaitime.site
 *.hentaiwelt.com
 *.hentaiztube.com
 *.herrin-anastasia.org
 *.homemadeblackporn.com
+*.imuschi.com
 *.indianfemdom.com
 *.indobokep.in.net
 *.instacoquines-fr.com
 *.japanskandal.pages.dev
+*.joinmygruoponlyfans.pages.dev
 *.junge-herrin.net
 *.kingbokep.coupons
 *.kingbokep.in.net
@@ -104,6 +119,7 @@
 *.kingbokep.vu
 *.ladyboys.ai
 *.ladyvbizarr.ch
+*.les-membres.com
 *.loanluan.pages.dev
 *.lolitasapata.com
 *.luder48.com
@@ -113,6 +129,7 @@
 *.missavtw.wiki
 *.mycamstars.com
 *.nackte-lesbische-frauen-sitten.pages.dev
+*.nagoya-chaleur.com
 *.ngentottantetobrut-28r.pages.dev
 *.nichehentaiplace.com
 *.nuttenkartei.de
@@ -121,32 +138,42 @@
 *.official-hanime-to.pages.dev
 *.onepornsite.com
 *.onlyfans-leaks-jazminyas.pages.dev
+*.onlyfans-private-whatsapp-free1111.pages.dev
 *.onlyfansparra.pages.dev
 *.orient-herrin-kader.de
 *.paylessadultvideo.com
 *.perawansub.pages.dev
 *.phimhentai.xyz
+*.phimsexnhatban.asia
 *.pointonlyfans.com
 *.porn-fuck-me.site
 *.porn-marketing.com
+*.porn3d.org
+*.porn4days.me
 *.porno-smezzati-privato.com
 *.porno.chat
+*.pornohodl.xyz
+*.pornokings.pages.dev
 *.pornorusskoe.best
 *.pornoseks.world
 *.pornstaravatars.com
 *.pornvideo.cloud
 *.pornvideo.store
 *.pussies.jp
+*.putariadobrasil.com
 *.rameras.es
+*.reinesexdates69.com
 *.rotlicht-hamburg.com
 *.scataiporn.com
 *.serenityonlyfans.com
+*.sessoamatoriali.eu
 *.sexcammodels.com
 *.sexdolls-france.com
 *.sexfilmleriizlevip.com
 *.sexsex.sex
 *.sextoyvancouver.com
 *.sexygameruay.game
+*.sexzadarmo.pl
 *.shooting-erotique.com
 *.smoky-kino-aachen-tantramassage-essen.pages.dev
 *.stoutprivehuis.com
@@ -165,6 +192,7 @@
 *.ukgangbang.com
 *.upskirt-asian-girl.lol
 *.vallensexshop.com
+*.videooporno.com
 *.vietnam-xvideos.com
 *.vivonlyfans.com
 *.wanghongheiliao-45.pages.dev
@@ -172,4 +200,5 @@
 *.xhamster2.in
 *.xiaoyuanheiliao.pages.dev
 *.xnxx-bokep.pages.dev
+*.xvideos.ms
 *.xvideos2.wiki

@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, ct
-# Domains: 169 | Updated: 2026-10-16
+# Domains: 198 | Updated: 2026-10-16
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/ct.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -23,14 +23,20 @@
 0.0.0.0 alte-schlampen-gratis-porno-reifen-frauen.pages.dev
 0.0.0.0 ask4porn.com
 0.0.0.0 avsubthai.art
+0.0.0.0 avsubthai.org
 0.0.0.0 avthaisub.org
+0.0.0.0 baisergratuitement-be.pages.dev
 0.0.0.0 baisergratuitement.be
+0.0.0.0 blackporncams.com
 0.0.0.0 bloominonlyfans.com
+0.0.0.0 bokep13.in.net
 0.0.0.0 bokep88.pages.dev
 0.0.0.0 bokepcrotindobokep.pages.dev
+0.0.0.0 bokepindo.forum
 0.0.0.0 bokepindo.lat
 0.0.0.0 bokepindo.makeup
 0.0.0.0 bokepindo.tokyo
+0.0.0.0 bokepindonesialing.pages.dev
 0.0.0.0 bokepindotv.com.co
 0.0.0.0 boobies.fyi
 0.0.0.0 bordell.com
@@ -43,14 +49,18 @@
 0.0.0.0 cranesonlyfans.com
 0.0.0.0 cultsonlyfans.com
 0.0.0.0 ebonyporns.com
+0.0.0.0 eromanga-attack2000.net
 0.0.0.0 eromanga-wktk.pages.dev
+0.0.0.0 eromangacomic-search.com
 0.0.0.0 erotiquestore.com.br
 0.0.0.0 erotische-malbuecher.de
 0.0.0.0 erotischechats.com
 0.0.0.0 escortsexibiza.com
+0.0.0.0 ferventonlyfans.com
 0.0.0.0 filipinaladyboys.com
 0.0.0.0 flyonlyfans.com
 0.0.0.0 footfetishescort.pages.dev
+0.0.0.0 framesonlyfans.com
 0.0.0.0 freelezbianpornvideos.com
 0.0.0.0 freesexvedioes.com
 0.0.0.0 fuckme.work
@@ -62,6 +72,7 @@
 0.0.0.0 hanime-3d7.pages.dev
 0.0.0.0 hanime-dl.pages.dev
 0.0.0.0 hanime-v3.pages.dev
+0.0.0.0 hanime1.co
 0.0.0.0 hanimeone.lat
 0.0.0.0 hanimetv-b6j.pages.dev
 0.0.0.0 hanimetv-dgq.pages.dev
@@ -71,6 +82,7 @@
 0.0.0.0 heiliao80.pages.dev
 0.0.0.0 heiliaoal.cc
 0.0.0.0 heiliaobox.cc
+0.0.0.0 heiliaocgw3.pages.dev
 0.0.0.0 heiliaodaohang4.pages.dev
 0.0.0.0 heiliaodg.wiki
 0.0.0.0 heiliaomenjin.pages.dev
@@ -88,14 +100,17 @@
 0.0.0.0 hentainote.xyz
 0.0.0.0 hentaireve.com
 0.0.0.0 hentaistuber.com
+0.0.0.0 hentaitime.site
 0.0.0.0 hentaiwelt.com
 0.0.0.0 hentaiztube.com
 0.0.0.0 herrin-anastasia.org
 0.0.0.0 homemadeblackporn.com
+0.0.0.0 imuschi.com
 0.0.0.0 indianfemdom.com
 0.0.0.0 indobokep.in.net
 0.0.0.0 instacoquines-fr.com
 0.0.0.0 japanskandal.pages.dev
+0.0.0.0 joinmygruoponlyfans.pages.dev
 0.0.0.0 junge-herrin.net
 0.0.0.0 kingbokep.coupons
 0.0.0.0 kingbokep.in.net
@@ -104,6 +119,7 @@
 0.0.0.0 kingbokep.vu
 0.0.0.0 ladyboys.ai
 0.0.0.0 ladyvbizarr.ch
+0.0.0.0 les-membres.com
 0.0.0.0 loanluan.pages.dev
 0.0.0.0 lolitasapata.com
 0.0.0.0 luder48.com
@@ -113,6 +129,7 @@
 0.0.0.0 missavtw.wiki
 0.0.0.0 mycamstars.com
 0.0.0.0 nackte-lesbische-frauen-sitten.pages.dev
+0.0.0.0 nagoya-chaleur.com
 0.0.0.0 ngentottantetobrut-28r.pages.dev
 0.0.0.0 nichehentaiplace.com
 0.0.0.0 nuttenkartei.de
@@ -121,32 +138,42 @@
 0.0.0.0 official-hanime-to.pages.dev
 0.0.0.0 onepornsite.com
 0.0.0.0 onlyfans-leaks-jazminyas.pages.dev
+0.0.0.0 onlyfans-private-whatsapp-free1111.pages.dev
 0.0.0.0 onlyfansparra.pages.dev
 0.0.0.0 orient-herrin-kader.de
 0.0.0.0 paylessadultvideo.com
 0.0.0.0 perawansub.pages.dev
 0.0.0.0 phimhentai.xyz
+0.0.0.0 phimsexnhatban.asia
 0.0.0.0 pointonlyfans.com
 0.0.0.0 porn-fuck-me.site
 0.0.0.0 porn-marketing.com
+0.0.0.0 porn3d.org
+0.0.0.0 porn4days.me
 0.0.0.0 porno-smezzati-privato.com
 0.0.0.0 porno.chat
+0.0.0.0 pornohodl.xyz
+0.0.0.0 pornokings.pages.dev
 0.0.0.0 pornorusskoe.best
 0.0.0.0 pornoseks.world
 0.0.0.0 pornstaravatars.com
 0.0.0.0 pornvideo.cloud
 0.0.0.0 pornvideo.store
 0.0.0.0 pussies.jp
+0.0.0.0 putariadobrasil.com
 0.0.0.0 rameras.es
+0.0.0.0 reinesexdates69.com
 0.0.0.0 rotlicht-hamburg.com
 0.0.0.0 scataiporn.com
 0.0.0.0 serenityonlyfans.com
+0.0.0.0 sessoamatoriali.eu
 0.0.0.0 sexcammodels.com
 0.0.0.0 sexdolls-france.com
 0.0.0.0 sexfilmleriizlevip.com
 0.0.0.0 sexsex.sex
 0.0.0.0 sextoyvancouver.com
 0.0.0.0 sexygameruay.game
+0.0.0.0 sexzadarmo.pl
 0.0.0.0 shooting-erotique.com
 0.0.0.0 smoky-kino-aachen-tantramassage-essen.pages.dev
 0.0.0.0 stoutprivehuis.com
@@ -165,6 +192,7 @@
 0.0.0.0 ukgangbang.com
 0.0.0.0 upskirt-asian-girl.lol
 0.0.0.0 vallensexshop.com
+0.0.0.0 videooporno.com
 0.0.0.0 vietnam-xvideos.com
 0.0.0.0 vivonlyfans.com
 0.0.0.0 wanghongheiliao-45.pages.dev
@@ -172,4 +200,5 @@
 0.0.0.0 xhamster2.in
 0.0.0.0 xiaoyuanheiliao.pages.dev
 0.0.0.0 xnxx-bokep.pages.dev
+0.0.0.0 xvideos.ms
 0.0.0.0 xvideos2.wiki

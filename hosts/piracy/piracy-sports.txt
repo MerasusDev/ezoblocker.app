@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy, illegal sports streams
-# Domains: 268 | Updated: 2026-10-16
+# Domains: 262 | Updated: 2026-10-16
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/piracy/piracy-sports.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -16,7 +16,6 @@
 0.0.0.0 alkkoora.live
 0.0.0.0 api.sap.ce.gov.br
 0.0.0.0 ballzaa.com
-0.0.0.0 batangpinoy.psc.gov.ph
 0.0.0.0 bola365.today
 0.0.0.0 browse.tonton.com.my
 0.0.0.0 buffstreamsapp.com
@@ -47,7 +46,6 @@
 0.0.0.0 eliteboxing.com.ph
 0.0.0.0 famemma.tv
 0.0.0.0 filmora.wondershare.kr
-0.0.0.0 find-and-update.company-information.service.gov.uk
 0.0.0.0 firstrows.net
 0.0.0.0 firstrowsports.be
 0.0.0.0 footybite.com.co
@@ -87,7 +85,6 @@
 0.0.0.0 hesgoalhd.com
 0.0.0.0 hesgoals.nl
 0.0.0.0 hesgoals.rest
-0.0.0.0 home.sports.com
 0.0.0.0 icc-cricket.com
 0.0.0.0 info.rugbypass.tv
 0.0.0.0 isportsurge.ws
@@ -159,7 +156,6 @@
 0.0.0.0 nyc-dsp1.kavanga.com
 0.0.0.0 ostoralivehd7.com
 0.0.0.0 pacman.live
-0.0.0.0 page.inplayer.com
 0.0.0.0 pelotalibreenvivo.cl
 0.0.0.0 pirlotv-futbol-en-vivo-directo.apps112.com
 0.0.0.0 pirlotv.bar
@@ -243,7 +239,6 @@
 0.0.0.0 tructiep90phuttv.club
 0.0.0.0 tv.makeevka.com
 0.0.0.0 tv.sfl.ch
-0.0.0.0 tvnsports.cjenm.com
 0.0.0.0 vegasportsnetwork.com
 0.0.0.0 video.fanstream.jp
 0.0.0.0 viet.jajag.me
@@ -255,7 +250,6 @@
 0.0.0.0 vipleague.stream
 0.0.0.0 viprow.pro
 0.0.0.0 watch.onesoccer.ca
-0.0.0.0 webboard.mol.go.th
 0.0.0.0 welcome.blasttv.ph
 0.0.0.0 xoilac1.help
 0.0.0.0 xoilac3.cc

@@ -1,9 +1,10 @@
 # Title: EZOBLOCKER Piracy
-# Domains: 953 | Updated: 2026-10-16
+# Domains: 981 | Updated: 2026-10-16
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/piracy/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
+*.123-hdmovie.com
 *.123movieputlockers.com
 *.123moviesflix.me
 *.123moviestub.cc
@@ -69,6 +70,7 @@ api.sap.ce.gov.br
 app.plastiks.io
 *.arabseed.college
 *.arabseed.in
+*.arabseed.ltd
 *.arabseed.name
 *.arabseed.show
 *.arabseeds.watch
@@ -85,7 +87,6 @@ as.akwam.tube
 *.baskino.inc
 *.baskino.my
 *.baskino.website
-batangpinoy.psc.gov.ph
 *.beoutq.tv
 *.besteiptvabonnement.com
 *.bestiptv-ireland.irish
@@ -95,7 +96,6 @@ batangpinoy.psc.gov.ph
 *.betteranime.io
 *.bflix.gold
 *.bflix.mx
-biblioteca.conab.gov.br
 *.bioskop-keren.com
 *.bola365.today
 *.bolly4uz.com
@@ -114,7 +114,6 @@ browse.tonton.com.my
 *.cb01official.uno
 *.ccuevana.today
 cepi.cb.ce.gov.br
-cfcmd.sookmyung.ac.kr
 cgboard.raysworld.ch
 chunga.inpiad.co.kr
 *.cima4u-offcial.cyou
@@ -123,11 +122,18 @@ chunga.inpiad.co.kr
 cimaclub.ct.ws
 *.cimaclubsite.blogspot.com
 *.cinecalidad-0f9b.pages.dev
+*.cinecalidad-2j3b.pages.dev
+*.cinecalidad-33um.pages.dev
+*.cinecalidad-6jiz.pages.dev
+*.cinecalidad-89pu.pages.dev
+*.cinecalidad-9eyp.pages.dev
 *.cinecalidad-abf9.pages.dev
+*.cinecalidad-b3nk.pages.dev
 *.cinecalidad-cojv.pages.dev
 *.cinecalidad-es26.pages.dev
 *.cinecalidad-iyz0.pages.dev
 *.cinecalidad-mf0t.pages.dev
+*.cinecalidad-nvtw.pages.dev
 *.cinecalidad-p9qc.pages.dev
 *.cinecalidad-u0wv.pages.dev
 *.cinecalidad-xexj.pages.dev
@@ -147,7 +153,6 @@ clare.gaa.ie
 *.cricstream.mom
 *.crictime.com
 *.crictime.is
-csirt.banjarmasinkota.go.id
 *.cuevana-2y9h.pages.dev
 *.cuevana-7ap5.pages.dev
 *.cuevana-e0a9.pages.dev
@@ -156,6 +161,7 @@ csirt.banjarmasinkota.go.id
 *.cuevana-lxy4.pages.dev
 *.cuevana-rbk6.pages.dev
 *.cuevana-v793.pages.dev
+*.cuevana-z5yl.pages.dev
 *.cuevana3-06kz.pages.dev
 *.cuevana3-1g9s.pages.dev
 *.cuevana3-4h0b.pages.dev
@@ -166,7 +172,9 @@ csirt.banjarmasinkota.go.id
 *.cuevana3-9ns.pages.dev
 *.cuevana3-an8.pages.dev
 *.cuevana3-d7s5.pages.dev
+*.cuevana3-eklf.pages.dev
 *.cuevana3-grv3.pages.dev
+*.cuevana3-hi0n.pages.dev
 *.cuevana3-i8my.pages.dev
 *.cuevana3-idyx.pages.dev
 *.cuevana3-ioqy.pages.dev
@@ -182,8 +190,10 @@ csirt.banjarmasinkota.go.id
 *.cuevana3-s8z2.pages.dev
 *.cuevana3-t9qx.pages.dev
 *.cuevana3-uugr.pages.dev
+*.cuevana3-vy3.pages.dev
 *.cuevana3-yeaf.pages.dev
 *.cuevana3-yscy.pages.dev
+*.cuevana3-ziow.pages.dev
 *.cuevana3-zqrb.pages.dev
 *.cuevana3.boo
 *.cuevana3.re
@@ -265,7 +275,6 @@ filmora.wondershare.kr
 *.filmyzilla.holiday
 *.filmyzilla1.in
 *.filmyzilla76.in
-find-and-update.company-information.service.gov.uk
 *.firstrows.net
 *.firstrowsports.be
 *.flixfoxmovie.org
@@ -273,6 +282,7 @@ find-and-update.company-information.service.gov.uk
 *.fmovies-free.to
 *.fmovies.supplies
 *.fmovies11.com
+*.fmoviesz.news
 *.fmoviezs.top
 *.footybite.com.co
 *.footybite.cyou
@@ -317,6 +327,7 @@ ftp.wpc.or.kr
 *.futemax.haus
 *.futemax.hiphop
 *.futemax.med
+*.futemax.sex
 *.fzmovies-q7vj.pages.dev
 *.fzmovies.live
 *.fzmovies.ng
@@ -376,7 +387,6 @@ hdfilm-izle.website.org
 *.hesgoals.nl
 *.hesgoals.rest
 *.hintfilmizle.com
-home.sports.com
 *.icc-cricket.com
 *.icuevana3.cam
 *.ikinogo.io
@@ -405,8 +415,10 @@ iptv-portugal.youcan.store
 *.iptvpolska24.pl
 *.iptvpolska4k.pl
 *.iptvportugal.com.pt
+*.iptvservice.sbs
 *.iptvsmarter.irish
 *.iptvukservice.com
+*.irelandiptv.online
 *.irishiptv.irish
 *.isaimini.beauty
 *.isaimini.doctor
@@ -512,6 +524,7 @@ lordfilm-hd.mirfilm.net
 *.lordfilm.fi
 *.lordfilms.pub
 *.lordfilms.pw
+*.lordfilmstv.click
 m.acestream.net
 m.goalddlive.com
 m.kino-sokol.pl
@@ -545,17 +558,19 @@ mkvcinemas.com.w3snoop.com
 *.mlbbite.plus
 mobile.coivl.net
 *.monoschinos2.net
+*.motchillia.uk
 *.motchillk.now
 *.motphimchill.cam
 *.motphimchill.cc
 *.motphimchill.hair
 *.motphimchill.plus
+*.motphimchill.run
 *.motphimchilll.fun
 *.motphimmoi.org
 *.motphimtv.club
 *.motphimtv.im
+*.movie-cinema-server-fr.pages.dev
 *.movie2freehd.com
-movie44.affordability-test.css.uwb.edu
 *.movie44.com
 *.movierulz.beauty
 *.movierulz.casa
@@ -571,6 +586,7 @@ movie44.affordability-test.css.uwb.edu
 *.mycima.watch
 *.myflixer--v2.pages.dev
 *.myflixer.com.co
+*.myflixer.news
 *.myiptvtelewizja.com
 *.mynetnaija.ng
 *.myvipbox.com
@@ -610,7 +626,6 @@ online.tainiothiki.gr
 *.oyunindir.vip
 *.oziptv.com
 *.pacman.live
-page.inplayer.com
 *.pandora.net
 *.papystreaming.one
 *.pdfkitapkurdu.blogspot.com
@@ -622,6 +637,7 @@ page.inplayer.com
 *.pelisflix-9u53.pages.dev
 *.pelisflix-bmm5.pages.dev
 *.pelisflix-ea0l.pages.dev
+*.pelisflix-em35.pages.dev
 *.pelisflix-gj11.pages.dev
 *.pelisflix-k4bi.pages.dev
 *.pelisflix-nsbs.pages.dev
@@ -629,15 +645,18 @@ page.inplayer.com
 *.pelisflix-qk6u.pages.dev
 *.pelisflix-qot.pages.dev
 *.pelisflix-rhb.pages.dev
+*.pelisflix-s05.pages.dev
 *.pelisflix-t5lt.pages.dev
 *.pelisflix-ttxn.pages.dev
 *.pelisflix-u56l.pages.dev
+*.pelisflix-ypl.pages.dev
 *.pelisflix-yuv.pages.dev
 *.pelisflix-z281.pages.dev
 *.pelisflix-zcb.pages.dev
 *.pelispedia-7fkx.pages.dev
 *.pelispedia-c9cr.pages.dev
 *.pelispedia-hu2x.pages.dev
+*.pelispedia.homes
 *.pelispedia.mov
 *.pelisplus.garden
 *.pelisplus.living
@@ -652,6 +671,7 @@ page.inplayer.com
 *.pelisplusvip.com
 *.pelotalibreenvivo.cl
 *.pepelisplus-3za4.pages.dev
+*.pepelisplus-g7hj.pages.dev
 *.pepelisplus-k0vb.pages.dev
 *.pepelisplus-uhek.pages.dev
 *.pepelisplus-xd21.pages.dev
@@ -662,8 +682,10 @@ phimmoi.doraflixvn.com
 *.phimmoic.ws
 *.phimmoichill.autos
 *.phimmoii.my
+*.phimmoinet.pro
 *.phimmoiw.to
 *.phimmotchill.fun
+*.phimvietsub.club
 phutu.forumvi.com
 *.pinoyanimegroup.com
 *.pinoyanimetambayan.blogspot.com
@@ -684,12 +706,10 @@ pixpretty.tenorshare.ai
 *.planete-warez.net
 player.wholesale-iptv.nl
 *.plusfilmizle.com
-portaldecomercializacao.conab.gov.br
 *.poseidonhd2.co
 *.premierleague.com
 *.primewire-offcial.cyou
 *.primewire.gy
-*.primewirenetwork.com
 *.primewires.org
 produtor.adagri.ce.gov.br
 *.proiptvcanada.ca
@@ -697,6 +717,8 @@ produtor.adagri.ce.gov.br
 *.projectfreetvm.lol
 *.pusatfilm.id
 *.putlocker-du55.pages.dev
+*.putlocker-jmrb.pages.dev
+*.putlocker-lxyy.pages.dev
 *.quicksportstv.com
 *.rapidgators.net
 *.rarbg.bg
@@ -750,6 +772,7 @@ sismrae.sead.pi.gov.br
 *.soap2day4.me
 *.soap2days.ac
 *.soap2daytv.me
+*.socolive-affcup2026a.live
 *.socolive-bd-tv.art
 *.socolive-tv.quest
 *.socolive.fit
@@ -758,19 +781,24 @@ sismrae.sead.pi.gov.br
 *.socolive123.tv
 *.socolive18.com
 *.socolive57.ac
+*.socolive58.cc
 *.socolive75.tv
 *.socolivef.cc
 *.socoliveh.ac
 *.socolivejj.io
 *.socolivetvz.top
 *.socolivev.co
+*.socolivevd.cc
+*.socolivevg.cc
 *.socolivevq.cc
 *.socoliveza.cc
+*.socolivezac.tv
+*.socoliveze.cc
+*.socolivezg.cc
 *.socolivezl.cc
 *.socolivezq.tv
 *.solarmovie-official.site
 *.solarmovie.free
-*.solarmovie1.watch
 *.solarmovies.com.co
 *.solarmoviesz.co
 *.sonhdfilm.net
@@ -788,6 +816,7 @@ sportsclub.sports.or.kr
 *.sportstream.us
 sportstream365.com.w3snoop.com
 *.sportstribal.tv
+*.sportsurge-i01.pages.dev
 start.sportdigital.de
 *.streamcode.fit
 *.streameast.to
@@ -829,7 +858,6 @@ t.matec.kr
 *.thenetnaija.ng
 *.thoiivietsub.pages.dev
 *.tirexo.al
-tools.tracemyip.org
 *.toonitalia.space
 *.topflix.com.br
 *.topflix.ia.br
@@ -853,7 +881,6 @@ tv.sfl.ch
 *.tvmon.com.co
 *.tvmon1.com
 *.tvmons.org
-tvnsports.cjenm.com
 *.uaserials.me
 *.uaserials.my
 *.uaserials.vip
@@ -893,6 +920,7 @@ watch.onesoccer.ca
 *.watchseries-3q89.pages.dev
 *.watchseries-6t48.pages.dev
 *.watchseries-dt3j.pages.dev
+*.watchseries-mko1.pages.dev
 *.watchseries-mkqw.pages.dev
 *.watchseries-yowo.pages.dev
 *.watchseries.net
@@ -900,7 +928,6 @@ watch.onesoccer.ca
 web.greekiptv.com
 web.iptvsolutions.nl
 web.topcinema.io
-webboard.mol.go.th
 *.webteizle.buzz
 *.webteizle.info
 *.webteizle3.xyz
@@ -951,6 +978,7 @@ yallakora.misrlinks.com
 *.yallashoot-w11.pages.dev
 *.yallashoot-yacine.com
 *.yallashoot.id
+*.yallashoot09.live
 *.yallashoott.pro
 *.yesmovies-to.pages.dev
 yozm.wishket.com

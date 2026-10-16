@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Bypass
-# Domains: 145 | Updated: 2026-10-16
+# Domains: 138 | Updated: 2026-10-16
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/bypass/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -14,7 +14,6 @@
 0.0.0.0 bbs.clashhub.net
 0.0.0.0 bestproxy.com
 0.0.0.0 betternet.be
-0.0.0.0 bicto.bangsamoro.gov.ph
 0.0.0.0 blockaway.ca
 0.0.0.0 browsec.cx
 0.0.0.0 browsecvps.net
@@ -26,16 +25,13 @@
 0.0.0.0 cloudsupport.sequentum.com
 0.0.0.0 corp.omake.co.jp
 0.0.0.0 ctunnel.com
-0.0.0.0 discourse.aosus.org
 0.0.0.0 doc.alvao.com
-0.0.0.0 drive.mke.gov.tr
 0.0.0.0 dtunnel.net
 0.0.0.0 eliteproxyswitcher.com
 0.0.0.0 endian.eth0.com.br
 0.0.0.0 eservices.joburg.org.za
 0.0.0.0 express-vpn.app
 0.0.0.0 expressrefer.com
-0.0.0.0 find-and-update.company-information.service.gov.uk
 0.0.0.0 free-proxy-list.net
 0.0.0.0 freegate-release.github.io
 0.0.0.0 freegate.ee
@@ -71,7 +67,6 @@
 0.0.0.0 nsocks.com
 0.0.0.0 okeyproxy.com
 0.0.0.0 okkproxy.com
-0.0.0.0 panduan.opendesa.id
 0.0.0.0 post.malltail.com
 0.0.0.0 powertunnel.org
 0.0.0.0 prime.changngocgia.com
@@ -119,7 +114,6 @@
 0.0.0.0 softether.org
 0.0.0.0 swissvpn.co
 0.0.0.0 talk.getindico.io
-0.0.0.0 tools.tracemyip.org
 0.0.0.0 torprojectstatus.org
 0.0.0.0 tradeproxy.vn
 0.0.0.0 tunnelbear.ar.softmany.com
@@ -144,7 +138,6 @@
 0.0.0.0 websiteunblocker.io
 0.0.0.0 websiteunblocker.net
 0.0.0.0 wiki5.ispadmin.eu
-0.0.0.0 www93.juarez.gob.mx
 0.0.0.0 yasaksiteleregiris.org
 0.0.0.0 yozm.wishket.com
 0.0.0.0 zapret.vercel.app

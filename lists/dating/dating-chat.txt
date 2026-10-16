@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Dating, chat rooms and random video chat
-# Domains: 360 | Updated: 2026-10-16
+# Domains: 353 | Updated: 2026-10-16
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/dating/dating-chat.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -7,7 +7,6 @@
 *.321chat.com
 ab.211.ca
 ai.updf.com
-aipchile.dgac.gob.cl
 akordy.kytary.cz
 *.alemortam.net
 almomaiz.free-sadad.com
@@ -116,7 +115,6 @@ chatta.echat.it
 *.chatvideo.fun
 *.chatville.com
 *.chatza.co.za
-cluj-napoca.cylex.ro
 cname.minical.io
 coomeet.apkgold.ae
 *.coomeet.bitbucket.io
@@ -130,10 +128,8 @@ deai.app-liv.jp
 djdongdoes.djsch.kr
 *.dostichatroom.com
 *.dostyeri.org
-e-learning.srru.ac.th
 *.elchatcam.com
 *.elchatea.com
-elearning.uwks.ac.id
 *.elitask.com
 em.umani.cx.ua
 *.emeraldchat.com
@@ -147,7 +143,6 @@ erotik.markt.ch
 f5oob2a6yj592gqy.e-creditreform.si
 *.faceflow.com
 filmora.wondershare.com.ru
-find-and-update.company-information.service.gov.uk
 *.flingster.com
 *.flirtchat.ch
 *.flirtchat.nl
@@ -173,7 +168,6 @@ gupshupzone.chatovod.com
 hispano.orixon.org
 *.honeychat.app
 *.hossohbet.com
-indiapostgdsonline.cept.gov.in
 *.irishchat.net
 *.islamisohbet.com
 juso.2ver.com
@@ -192,7 +186,6 @@ kambichat.chatovod.com
 *.lablue.de
 *.laflamak.com
 *.lavinsta.com
-live.ajman.ac.ae
 livechat.sex-czech.cz
 m.appstory.co.kr
 m.dreamersforum.nl

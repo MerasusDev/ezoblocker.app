@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Dating, India (in)
-# Domains: 29 | Updated: 2026-10-16
+# Domains: 28 | Updated: 2026-10-16
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/dating/countries/in.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -8,7 +8,6 @@
 *.bharatmatrimony.in
 *.camsurf.tv
 *.chatrandom.net
-citizen.andamannicobar.gov.in
 delhi.idbf.in
 fruzo.apkpure.co.in
 ghaziabad.cherrygirls.net

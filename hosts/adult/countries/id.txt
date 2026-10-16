@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, Indonesia (id)
-# Domains: 15 | Updated: 2026-10-16
+# Domains: 14 | Updated: 2026-10-16
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/countries/id.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -17,5 +17,4 @@
 0.0.0.0 mooreok.govbuilt.com
 0.0.0.0 onecondoms.id
 0.0.0.0 pokoyuface.cerdenergy.it
-0.0.0.0 sdnkalisegoro.dikdas.semarangkota.go.id
 0.0.0.0 sexshoponline.com

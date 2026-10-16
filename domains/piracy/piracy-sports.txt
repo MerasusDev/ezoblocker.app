@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy, illegal sports streams
-# Domains: 268 | Updated: 2026-10-16
+# Domains: 262 | Updated: 2026-10-16
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/domains/piracy/piracy-sports.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -16,7 +16,6 @@ agenda.ipece.ce.gov.br
 alkkoora.live
 api.sap.ce.gov.br
 ballzaa.com
-batangpinoy.psc.gov.ph
 bola365.today
 browse.tonton.com.my
 buffstreamsapp.com
@@ -47,7 +46,6 @@ elbotola.com
 eliteboxing.com.ph
 famemma.tv
 filmora.wondershare.kr
-find-and-update.company-information.service.gov.uk
 firstrows.net
 firstrowsports.be
 footybite.com.co
@@ -87,7 +85,6 @@ hesgoal.zone
 hesgoalhd.com
 hesgoals.nl
 hesgoals.rest
-home.sports.com
 icc-cricket.com
 info.rugbypass.tv
 isportsurge.ws
@@ -159,7 +156,6 @@ nflbites.today
 nyc-dsp1.kavanga.com
 ostoralivehd7.com
 pacman.live
-page.inplayer.com
 pelotalibreenvivo.cl
 pirlotv-futbol-en-vivo-directo.apps112.com
 pirlotv.bar
@@ -243,7 +239,6 @@ tour.gra.uk.com
 tructiep90phuttv.club
 tv.makeevka.com
 tv.sfl.ch
-tvnsports.cjenm.com
 vegasportsnetwork.com
 video.fanstream.jp
 viet.jajag.me
@@ -255,7 +250,6 @@ vipleague.ro
 vipleague.stream
 viprow.pro
 watch.onesoccer.ca
-webboard.mol.go.th
 welcome.blasttv.ph
 xoilac1.help
 xoilac3.cc

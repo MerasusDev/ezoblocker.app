@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Adult, adult shops
-! Domains: 1,008 | Updated: 2026-10-16
+! Domains: 1,007 | Updated: 2026-10-16
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/adult/adult-shop.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -17,6 +17,7 @@
 ||aaaa.in.ua^
 |academy.sormas.org^
 ||adamandeva.shop^
+||adamandevefranchise.com^
 ||adamevehouston.com^
 ||adamevestores.com^
 ||adamtoys.com.my^
@@ -63,7 +64,6 @@
 ||ankarasexshop.net^
 ||annmarie.pl^
 ||annsummers.com^
-|annuaire-entreprises.data.gouv.fr^
 ||anoeses.com^
 ||anonimshop.com^
 ||antalyasexshop.com^
@@ -241,6 +241,7 @@
 ||erotic-med.pl^
 ||erotic-shop.ro^
 ||erotic24.ro^
+||eroticavip.ru^
 ||eroticcity.cz^
 ||eroticfeel.com^
 ||eroticke-pomucky.cz^
@@ -279,7 +280,6 @@
 ||fashionboutix.ch^
 ||fashionwalker.com^
 ||fetchshop.co.uk^
-|find-and-update.company-information.service.gov.uk^
 ||findshop.co^
 ||flagranti.cz^
 ||flagranti.sk^
@@ -288,7 +288,6 @@
 ||fleshtoys.pk^
 ||flirtadultstore.com.au^
 ||fogododesejo.pt^
-||forumnovakarolina.cz^
 ||foxietoy.com^
 ||freakyfun.in^
 ||freebody.co.kr^
@@ -299,7 +298,6 @@
 ||funsexyshop.pt^
 ||funstasy.at^
 ||gall.com.br^
-|gavle.cylex.se^
 ||ginza-soleil.com^
 ||ginza-soleil.jp^
 ||gizliyanim.com^
@@ -309,7 +307,6 @@
 ||greatstuffy.com^
 ||guiacereza.com^
 ||gunshop.vn^
-|hamburg.mitvergnuegen.com^
 ||harmonystore.co.uk^
 ||high-tide.com.au^
 ||himmelriket.se^
@@ -557,7 +554,6 @@
 ||mytreats.gr^
 ||mzakka.com^
 ||nachtkastje.nl^
-||naijablog.co.uk^
 ||naijashop.com.ng^
 ||nam18.vn^
 ||nasoloda.ua^
@@ -573,7 +569,6 @@
 ||noroz.pk^
 ||notino.be^
 ||novum-erotik.de^
-|novy-smichov.klepierre.cz^
 ||nuhoangkhoaicam.vn^
 ||o-diaries.com^
 ||obchodumotyla.cz^
@@ -589,8 +584,8 @@
 ||onenightonly.co.za^
 ||oniontoyuae.com^
 ||online-shop.at^
+||onlinesexshop.se^
 ||ontopoflove.nl^
-||openingstijden.nl^
 ||ophelialingerie.ie^
 ||oppsystore.com^
 ||orchidtoys.com^
@@ -635,6 +630,8 @@
 ||pleasist.com^
 ||pleasurechest.com.au^
 ||pleasurechestphilly.com^
+||pleasureeroticshop.se^
+||pleasuregummies.com^
 ||pleasurehub.app^
 ||pleasureplace.com.ph^
 ||pleasureshop.com.ph^
@@ -692,7 +689,6 @@
 ||savageboutique.com.ar^
 ||scandals.love^
 ||schwarzer-reiter.com^
-|sdnkalisegoro.dikdas.semarangkota.go.id^
 ||secretafterdark.com^
 ||secretdelivery.pl^
 ||secretkink.com^
@@ -733,6 +729,7 @@
 ||sexcordobashop.com.ar^
 ||sexicekshop.cz^
 ||sexlab.ro^
+||sexleksak.se^
 ||sexleksakeroutlet.se^
 ||sexmarket.ru^
 ||sexopolis.gr^
@@ -760,6 +757,7 @@
 ||sexshop.ru^
 ||sexshop18.vn^
 ||sexshop2000.uk^
+||sexshop24.pro^
 ||sexshop24hours.gr^
 ||sexshop365.co.uk^
 ||sexshop69.pl^
@@ -821,6 +819,7 @@
 ||sexyelephant.hr^
 ||sexyelephant.ro^
 ||sexyelephant.si^
+||sexyfucking.ru^
 ||sexyland.com.au^
 ||sexyliving.com^
 ||sexypet.co.kr^
@@ -852,7 +851,6 @@
 ||shopkiss.vn^
 ||shopnguoilon.com.vn^
 ||shoppie.nl^
-||shoppingguidestockholm.se^
 ||shopsexmachine.com^
 ||shopsextoy.com.vn^
 ||shoptinhai.org^
@@ -944,7 +942,6 @@
 ||trungdochoi.com^
 ||trustedshops.at^
 ||trustedshops.nl^
-||trustgate.in^
 ||tsmayorista.com.ar^
 ||tu-juguete-erotico.com^
 ||tudeseosexshop.com^
@@ -979,6 +976,7 @@
 ||vposteli.ua^
 ||vsexshopgdlalcala.com.mx^
 ||vushstimulation.com^
+||vuxen.dk^
 ||vuxen.se^
 ||vuxenkul.se^
 ||we-vibe.com^
@@ -999,6 +997,7 @@
 ||xoxostore.pk^
 ||xoxtoys.ca^
 ||xprivate.gr^
+||xsecret.my^
 ||xsecret.net^
 ||xshopkrmall.com^
 ||xshopmen.com^

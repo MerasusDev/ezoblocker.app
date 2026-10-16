@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult
-# Domains: 1,593 | Updated: 2026-10-16
+# Domains: 1,619 | Updated: 2026-10-16
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/adult/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -33,10 +33,10 @@
 *.aagmaal.video
 academy.sormas.org
 *.adamandeva.shop
+*.adamandevefranchise.com
 *.adamevehouston.com
 *.adamevestores.com
 *.adamtoys.com.my
-admission.npu.ac.th
 *.adult-superstore.com
 *.adultcamadvice.com
 *.adultcamreviewer.com
@@ -99,7 +99,6 @@ ae.gulf-5hop.com
 *.ankarasexshop.net
 *.annmarie.pl
 *.annsummers.com
-annuaire-entreprises.data.gouv.fr
 *.anoeses.com
 *.anonimshop.com
 *.antalyamood.com
@@ -136,12 +135,14 @@ app.catchtable.co.kr
 *.aventurierotice.ro
 *.avenue-privee.com
 *.avsubthai.art
+*.avsubthai.org
 *.avthai.org
 *.avthaisub.org
 *.ayay.it
 *.aysexshop.mx
 *.babylonloveshop.be
 *.babylonloveshop.com
+*.baisergratuitement-be.pages.dev
 *.baisergratuitement.be
 *.balisexstore.com
 *.ballsonline.co.uk
@@ -177,6 +178,7 @@ banyuwangi.jatimtimes.com
 *.big-toys.com.ua
 *.bitkiselshop.com.tr
 *.blackknighterotica.com.au
+*.blackporncams.com
 *.bloominonlyfans.com
 *.blueboutique.com
 *.blup.se
@@ -188,12 +190,15 @@ banyuwangi.jatimtimes.com
 *.bodrumhavadis.com
 *.bodrumtimesgirls.com
 *.bodyhouse.fr
+*.bokep13.in.net
 *.bokep88.pages.dev
 *.bokepcrotindobokep.pages.dev
 *.bokepidaman.com
+*.bokepindo.forum
 *.bokepindo.lat
 *.bokepindo.makeup
 *.bokepindo.tokyo
+*.bokepindonesialing.pages.dev
 *.bokepindotv.com.co
 *.bokepjepang.org
 *.bokepjp.com
@@ -386,7 +391,9 @@ couplestoythailand.family.blog
 *.ero315.com
 *.erocraves.com
 *.erolaif.ru
+*.eromanga-attack2000.net
 *.eromanga-wktk.pages.dev
+*.eromangacomic-search.com
 *.eromega.com
 *.eros.com.ua
 *.eros.hr
@@ -398,6 +405,7 @@ couplestoythailand.family.blog
 *.erotic-med.pl
 *.erotic-shop.ro
 *.erotic24.ro
+*.eroticavip.ru
 *.eroticcity.cz
 *.eroticfeel.com
 *.eroticke-pomucky.cz
@@ -445,7 +453,6 @@ erotik.markt.ch
 *.escortsecret.com
 *.escortsexibiza.com
 *.escortsultanbeyli.com
-*.escortws.com
 *.esenyurtcicekevi.com
 *.esenyurtrehber.com
 especiales.soho.co
@@ -469,12 +476,12 @@ fantastik-seks-hikayeleri-6.yeahh.com
 *.farmamix.com.ar
 *.fashionboutix.ch
 *.fashionwalker.com
+*.ferventonlyfans.com
 *.fetchshop.co.uk
 *.fethiyeescorts1.site
 *.filipinaladyboys.com
 *.filmkuzusu.vip
 *.filmporno5.com
-find-and-update.company-information.service.gov.uk
 *.findshop.co
 *.flagranti.cz
 *.flagranti.sk
@@ -485,8 +492,8 @@ find-and-update.company-information.service.gov.uk
 *.flyonlyfans.com
 *.fogododesejo.pt
 *.footfetishescort.pages.dev
-*.forumnovakarolina.cz
 *.foxietoy.com
+*.framesonlyfans.com
 *.freakyfun.in
 *.freebody.co.kr
 *.freefans.de
@@ -501,7 +508,6 @@ frutoproibido.pai.pt
 *.funstasy.at
 *.gall.com.br
 *.gamerotika.de
-gavle.cylex.se
 *.gaysohbet.life
 *.gayxxx.co
 *.gaziantepbayanescort.com
@@ -523,10 +529,10 @@ gavle.cylex.se
 *.gunshop.vn
 *.hackerpornfest.com
 *.haijiao999.com
-hamburg.mitvergnuegen.com
 *.hanime-3d7.pages.dev
 *.hanime-dl.pages.dev
 *.hanime-v3.pages.dev
+*.hanime1.co
 *.hanimeone.lat
 *.hanimetv-b6j.pages.dev
 *.hanimetv-dgq.pages.dev
@@ -538,6 +544,7 @@ hamburg.mitvergnuegen.com
 *.heiliao80.pages.dev
 *.heiliaoal.cc
 *.heiliaobox.cc
+*.heiliaocgw3.pages.dev
 *.heiliaodaohang4.pages.dev
 *.heiliaodg.wiki
 *.heiliaomenjin.pages.dev
@@ -556,6 +563,7 @@ hamburg.mitvergnuegen.com
 *.hentainote.xyz
 *.hentaireve.com
 *.hentaistuber.com
+*.hentaitime.site
 *.hentaiwelt.com
 *.hentaiztube.com
 *.herrin-anastasia.org
@@ -573,7 +581,6 @@ hamburg.mitvergnuegen.com
 *.hustlerhollywood.com
 *.hypnoze.fr
 i.clipviet.blog
-ictedu.snru.ac.th
 *.igume.com
 *.iloveboutique.com.au
 *.iltempiodellamore.com
@@ -581,11 +588,12 @@ ictedu.snru.ac.th
 *.imeldax31.cfd
 *.imeldax37.cfd
 *.imeldax37.lat
+*.imeldax38.cyou
+*.imuschi.com
 *.indianfemdom.com
 *.indianpornsites.net
 *.indobokep.in.net
 *.indoteknik.com
-info.uru.ac.th
 *.inserotik.ch
 *.insideshop.com.ua
 *.instacoquines-fr.com
@@ -636,6 +644,7 @@ info.uru.ac.th
 *.jenylove.cl
 *.jenylovemayorista.cl
 *.jiglyescorts.com
+*.joinmygruoponlyfans.pages.dev
 *.jokerfilmizle.org
 *.jokershop.com.tr
 *.joujou.com.au
@@ -714,6 +723,7 @@ kirov.fooby.ru
 *.lcwaikiki.de
 *.leakedzone.org
 *.lelo.com.pk
+*.les-membres.com
 *.lescapricesdalice.fr
 *.lesfoliesducoeur.com
 *.lextase.be
@@ -828,6 +838,7 @@ m.sexywoo.co.kr
 *.maheirqx31.click
 *.maheirqx54.click
 *.maheirqx65.cfd
+*.maheirqx66.cfd
 *.mahremdukkani.com
 *.maison-du-plug.fr
 *.makeup.pl
@@ -919,7 +930,7 @@ msk.ros-spravka.ru
 *.naaktfoto.nl
 *.nachtkastje.nl
 *.nackte-lesbische-frauen-sitten.pages.dev
-*.naijablog.co.uk
+*.nagoya-chaleur.com
 *.naijahomemade.com
 *.naijashop.com.ng
 *.nam18.vn
@@ -943,7 +954,6 @@ nightmall.linkstory.co.kr
 *.noroz.pk
 *.notino.be
 *.novum-erotik.de
-novy-smichov.klepierre.cz
 *.nuhoangkhoaicam.vn
 *.nuttenkartei.de
 *.nylonfetisch.com
@@ -967,7 +977,9 @@ old.spot.ph
 *.oniontoyuae.com
 *.online-shop.at
 onlineedistrict.amtron.in
+*.onlinesexshop.se
 *.onlyfans-leaks-jazminyas.pages.dev
+*.onlyfans-private-whatsapp-free1111.pages.dev
 *.onlyfansitaliane.it
 *.onlyfansmeiden.nl
 *.onlyfansnederland.nl
@@ -975,7 +987,6 @@ onlineedistrict.amtron.in
 *.onlysense.nl
 *.ontopoflove.nl
 ooh.enbrevubca.blog
-*.openingstijden.nl
 *.ophelialingerie.ie
 *.oppsystore.com
 *.orchidtoys.com
@@ -1012,6 +1023,7 @@ ooh.enbrevubca.blog
 *.phim18vn.top
 *.phimhentai.xyz
 *.phimnong.net
+*.phimsexnhatban.asia
 *.phimsexvietsubx.blog
 *.picansex.com
 *.pinayflix.blog
@@ -1034,6 +1046,8 @@ ooh.enbrevubca.blog
 *.pleasist.com
 *.pleasurechest.com.au
 *.pleasurechestphilly.com
+*.pleasureeroticshop.se
+*.pleasuregummies.com
 *.pleasurehub.app
 *.pleasureplace.com.ph
 *.pleasureshop.com.ph
@@ -1045,6 +1059,8 @@ pokoyuface.cerdenergy.it
 *.ponchik.com.ua
 *.porn-fuck-me.site
 *.porn-marketing.com
+*.porn3d.org
+*.porn4days.me
 *.porndoe.com.de
 *.porndudedeutsch.com
 *.pornflix.to
@@ -1060,7 +1076,9 @@ pokoyuface.cerdenergy.it
 *.porno900.click
 *.pornobanka.com
 *.pornocolombiano.net
+*.pornohodl.xyz
 *.pornoizlehane.com
+*.pornokings.pages.dev
 *.pornoklub.com
 *.pornolik.pl
 *.pornoload.com
@@ -1092,6 +1110,7 @@ prinz-eisenherz.buchkatalog.de
 *.purelust.com
 *.pureromance.com
 *.pussies.jp
+*.putariadobrasil.com
 *.rabattcode.de
 *.ragazzeonlyfans.it
 *.rainbowstation.nyc
@@ -1111,6 +1130,7 @@ prinz-eisenherz.buchkatalog.de
 *.refform.pl
 *.regalatelo.cl
 *.regulation.co.uk
+*.reinesexdates69.com
 *.resolver.co.uk
 *.rocks-off.com
 *.rojocherry.com
@@ -1141,7 +1161,6 @@ s1.sexheo.blog
 *.scataiporn.com
 *.schwarzer-reiter.com
 schweiz.inserate.gratis
-sdnkalisegoro.dikdas.semarangkota.go.id
 *.secretafterdark.com
 *.secretdelivery.pl
 *.secretkink.com
@@ -1179,6 +1198,7 @@ sdnkalisegoro.dikdas.semarangkota.go.id
 *.serez.co
 *.sergi-pro99.site
 *.sertturkceseks.cyou
+*.sessoamatoriali.eu
 *.setishop.com
 *.sex-chatten.nl
 *.sex-shop-g.com.ua
@@ -1201,6 +1221,7 @@ sdnkalisegoro.dikdas.semarangkota.go.id
 *.sexhotviet.com
 *.sexicekshop.cz
 *.sexlab.ro
+*.sexleksak.se
 *.sexleksakeroutlet.se
 *.sexmarket.ru
 *.sexocasual.pt
@@ -1230,6 +1251,7 @@ sdnkalisegoro.dikdas.semarangkota.go.id
 *.sexshop.ru
 *.sexshop18.vn
 *.sexshop2000.uk
+*.sexshop24.pro
 *.sexshop24hours.gr
 *.sexshop365.co.uk
 *.sexshop69.pl
@@ -1298,6 +1320,7 @@ sdnkalisegoro.dikdas.semarangkota.go.id
 *.sexyelephant.hr
 *.sexyelephant.ro
 *.sexyelephant.si
+*.sexyfucking.ru
 *.sexygameruay.game
 *.sexyland.com.au
 *.sexyliving.com
@@ -1308,6 +1331,7 @@ sdnkalisegoro.dikdas.semarangkota.go.id
 *.sexystyle.ru
 *.sexywawa.com
 *.sexyworld.gr
+*.sexzadarmo.pl
 *.sheer.ar
 *.sheio.cz
 *.shespot.co.uk
@@ -1331,7 +1355,6 @@ shhhsexshop.kyte.site
 *.shopkiss.vn
 *.shopnguoilon.com.vn
 *.shoppie.nl
-*.shoppingguidestockholm.se
 *.shopsexmachine.com
 *.shopsextoy.com.vn
 *.shoptinhai.org
@@ -1462,7 +1485,6 @@ shhhsexshop.kyte.site
 *.trungdochoi.com
 *.trustedshops.at
 *.trustedshops.nl
-*.trustgate.in
 *.tsmayorista.com.ar
 *.tu-juguete-erotico.com
 *.tubepornlist.com
@@ -1514,6 +1536,7 @@ venusexx.ueniweb.com
 *.vibrolandia.com
 *.victoriassecret.com.au
 *.videochatitaliana.com
+*.videooporno.com
 *.vidsgal.com
 *.viet69.be
 *.vietnam-xvideos.com
@@ -1531,6 +1554,7 @@ venusexx.ueniweb.com
 *.vposteli.ua
 *.vsexshopgdlalcala.com.mx
 *.vushstimulation.com
+*.vuxen.dk
 *.vuxen.se
 *.vuxenkul.se
 *.wanghongheiliao-45.pages.dev
@@ -1573,6 +1597,7 @@ www.digitalpassport.jisp.com
 *.xoxostore.pk
 *.xoxtoys.ca
 *.xprivate.gr
+*.xsecret.my
 *.xsecret.net
 *.xshopkrmall.com
 *.xshopmen.com
@@ -1580,6 +1605,7 @@ www.digitalpassport.jisp.com
 *.xtoyshub.pk
 *.xtoyvietnam.com
 *.xtremeliege.be
+*.xvideos.ms
 *.xvideos2.wiki
 *.xxvn.link
 *.xxxhindi.shop

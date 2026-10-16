@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Dating, chat rooms and random video chat
-# Domains: 360 | Updated: 2026-10-16
+# Domains: 353 | Updated: 2026-10-16
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/dating/dating-chat.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -7,7 +7,6 @@
 0.0.0.0 321chat.com
 0.0.0.0 ab.211.ca
 0.0.0.0 ai.updf.com
-0.0.0.0 aipchile.dgac.gob.cl
 0.0.0.0 akordy.kytary.cz
 0.0.0.0 alemortam.net
 0.0.0.0 almomaiz.free-sadad.com
@@ -116,7 +115,6 @@
 0.0.0.0 chatvideo.fun
 0.0.0.0 chatville.com
 0.0.0.0 chatza.co.za
-0.0.0.0 cluj-napoca.cylex.ro
 0.0.0.0 cname.minical.io
 0.0.0.0 coomeet.apkgold.ae
 0.0.0.0 coomeet.bitbucket.io
@@ -130,10 +128,8 @@
 0.0.0.0 djdongdoes.djsch.kr
 0.0.0.0 dostichatroom.com
 0.0.0.0 dostyeri.org
-0.0.0.0 e-learning.srru.ac.th
 0.0.0.0 elchatcam.com
 0.0.0.0 elchatea.com
-0.0.0.0 elearning.uwks.ac.id
 0.0.0.0 elitask.com
 0.0.0.0 em.umani.cx.ua
 0.0.0.0 emeraldchat.com
@@ -147,7 +143,6 @@
 0.0.0.0 f5oob2a6yj592gqy.e-creditreform.si
 0.0.0.0 faceflow.com
 0.0.0.0 filmora.wondershare.com.ru
-0.0.0.0 find-and-update.company-information.service.gov.uk
 0.0.0.0 flingster.com
 0.0.0.0 flirtchat.ch
 0.0.0.0 flirtchat.nl
@@ -173,7 +168,6 @@
 0.0.0.0 hispano.orixon.org
 0.0.0.0 honeychat.app
 0.0.0.0 hossohbet.com
-0.0.0.0 indiapostgdsonline.cept.gov.in
 0.0.0.0 irishchat.net
 0.0.0.0 islamisohbet.com
 0.0.0.0 juso.2ver.com
@@ -192,7 +186,6 @@
 0.0.0.0 lablue.de
 0.0.0.0 laflamak.com
 0.0.0.0 lavinsta.com
-0.0.0.0 live.ajman.ac.ae
 0.0.0.0 livechat.sex-czech.cz
 0.0.0.0 m.appstory.co.kr
 0.0.0.0 m.dreamersforum.nl

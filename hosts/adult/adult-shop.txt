@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, adult shops
-# Domains: 1,008 | Updated: 2026-10-16
+# Domains: 1,007 | Updated: 2026-10-16
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/adult-shop.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -17,6 +17,7 @@
 0.0.0.0 aaaa.in.ua
 0.0.0.0 academy.sormas.org
 0.0.0.0 adamandeva.shop
+0.0.0.0 adamandevefranchise.com
 0.0.0.0 adamevehouston.com
 0.0.0.0 adamevestores.com
 0.0.0.0 adamtoys.com.my
@@ -63,7 +64,6 @@
 0.0.0.0 ankarasexshop.net
 0.0.0.0 annmarie.pl
 0.0.0.0 annsummers.com
-0.0.0.0 annuaire-entreprises.data.gouv.fr
 0.0.0.0 anoeses.com
 0.0.0.0 anonimshop.com
 0.0.0.0 antalyasexshop.com
@@ -241,6 +241,7 @@
 0.0.0.0 erotic-med.pl
 0.0.0.0 erotic-shop.ro
 0.0.0.0 erotic24.ro
+0.0.0.0 eroticavip.ru
 0.0.0.0 eroticcity.cz
 0.0.0.0 eroticfeel.com
 0.0.0.0 eroticke-pomucky.cz
@@ -279,7 +280,6 @@
 0.0.0.0 fashionboutix.ch
 0.0.0.0 fashionwalker.com
 0.0.0.0 fetchshop.co.uk
-0.0.0.0 find-and-update.company-information.service.gov.uk
 0.0.0.0 findshop.co
 0.0.0.0 flagranti.cz
 0.0.0.0 flagranti.sk
@@ -288,7 +288,6 @@
 0.0.0.0 fleshtoys.pk
 0.0.0.0 flirtadultstore.com.au
 0.0.0.0 fogododesejo.pt
-0.0.0.0 forumnovakarolina.cz
 0.0.0.0 foxietoy.com
 0.0.0.0 freakyfun.in
 0.0.0.0 freebody.co.kr
@@ -299,7 +298,6 @@
 0.0.0.0 funsexyshop.pt
 0.0.0.0 funstasy.at
 0.0.0.0 gall.com.br
-0.0.0.0 gavle.cylex.se
 0.0.0.0 ginza-soleil.com
 0.0.0.0 ginza-soleil.jp
 0.0.0.0 gizliyanim.com
@@ -309,7 +307,6 @@
 0.0.0.0 greatstuffy.com
 0.0.0.0 guiacereza.com
 0.0.0.0 gunshop.vn
-0.0.0.0 hamburg.mitvergnuegen.com
 0.0.0.0 harmonystore.co.uk
 0.0.0.0 high-tide.com.au
 0.0.0.0 himmelriket.se
@@ -557,7 +554,6 @@
 0.0.0.0 mytreats.gr
 0.0.0.0 mzakka.com
 0.0.0.0 nachtkastje.nl
-0.0.0.0 naijablog.co.uk
 0.0.0.0 naijashop.com.ng
 0.0.0.0 nam18.vn
 0.0.0.0 nasoloda.ua
@@ -573,7 +569,6 @@
 0.0.0.0 noroz.pk
 0.0.0.0 notino.be
 0.0.0.0 novum-erotik.de
-0.0.0.0 novy-smichov.klepierre.cz
 0.0.0.0 nuhoangkhoaicam.vn
 0.0.0.0 o-diaries.com
 0.0.0.0 obchodumotyla.cz
@@ -589,8 +584,8 @@
 0.0.0.0 onenightonly.co.za
 0.0.0.0 oniontoyuae.com
 0.0.0.0 online-shop.at
+0.0.0.0 onlinesexshop.se
 0.0.0.0 ontopoflove.nl
-0.0.0.0 openingstijden.nl
 0.0.0.0 ophelialingerie.ie
 0.0.0.0 oppsystore.com
 0.0.0.0 orchidtoys.com
@@ -635,6 +630,8 @@
 0.0.0.0 pleasist.com
 0.0.0.0 pleasurechest.com.au
 0.0.0.0 pleasurechestphilly.com
+0.0.0.0 pleasureeroticshop.se
+0.0.0.0 pleasuregummies.com
 0.0.0.0 pleasurehub.app
 0.0.0.0 pleasureplace.com.ph
 0.0.0.0 pleasureshop.com.ph
@@ -692,7 +689,6 @@
 0.0.0.0 savageboutique.com.ar
 0.0.0.0 scandals.love
 0.0.0.0 schwarzer-reiter.com
-0.0.0.0 sdnkalisegoro.dikdas.semarangkota.go.id
 0.0.0.0 secretafterdark.com
 0.0.0.0 secretdelivery.pl
 0.0.0.0 secretkink.com
@@ -733,6 +729,7 @@
 0.0.0.0 sexcordobashop.com.ar
 0.0.0.0 sexicekshop.cz
 0.0.0.0 sexlab.ro
+0.0.0.0 sexleksak.se
 0.0.0.0 sexleksakeroutlet.se
 0.0.0.0 sexmarket.ru
 0.0.0.0 sexopolis.gr
@@ -760,6 +757,7 @@
 0.0.0.0 sexshop.ru
 0.0.0.0 sexshop18.vn
 0.0.0.0 sexshop2000.uk
+0.0.0.0 sexshop24.pro
 0.0.0.0 sexshop24hours.gr
 0.0.0.0 sexshop365.co.uk
 0.0.0.0 sexshop69.pl
@@ -821,6 +819,7 @@
 0.0.0.0 sexyelephant.hr
 0.0.0.0 sexyelephant.ro
 0.0.0.0 sexyelephant.si
+0.0.0.0 sexyfucking.ru
 0.0.0.0 sexyland.com.au
 0.0.0.0 sexyliving.com
 0.0.0.0 sexypet.co.kr
@@ -852,7 +851,6 @@
 0.0.0.0 shopkiss.vn
 0.0.0.0 shopnguoilon.com.vn
 0.0.0.0 shoppie.nl
-0.0.0.0 shoppingguidestockholm.se
 0.0.0.0 shopsexmachine.com
 0.0.0.0 shopsextoy.com.vn
 0.0.0.0 shoptinhai.org
@@ -944,7 +942,6 @@
 0.0.0.0 trungdochoi.com
 0.0.0.0 trustedshops.at
 0.0.0.0 trustedshops.nl
-0.0.0.0 trustgate.in
 0.0.0.0 tsmayorista.com.ar
 0.0.0.0 tu-juguete-erotico.com
 0.0.0.0 tudeseosexshop.com
@@ -979,6 +976,7 @@
 0.0.0.0 vposteli.ua
 0.0.0.0 vsexshopgdlalcala.com.mx
 0.0.0.0 vushstimulation.com
+0.0.0.0 vuxen.dk
 0.0.0.0 vuxen.se
 0.0.0.0 vuxenkul.se
 0.0.0.0 we-vibe.com
@@ -999,6 +997,7 @@
 0.0.0.0 xoxostore.pk
 0.0.0.0 xoxtoys.ca
 0.0.0.0 xprivate.gr
+0.0.0.0 xsecret.my
 0.0.0.0 xsecret.net
 0.0.0.0 xshopkrmall.com
 0.0.0.0 xshopmen.com

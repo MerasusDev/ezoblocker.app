@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling, Mexico (mx)
-# Domains: 18 | Updated: 2026-10-16
+# Domains: 16 | Updated: 2026-10-16
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/gambling/countries/mx.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -18,7 +18,5 @@
 0.0.0.0 jubilee.mx
 0.0.0.0 legalbet.mx
 0.0.0.0 mexico-melbet.mx
-0.0.0.0 premionezainfancias.cultura.gob.mx
-0.0.0.0 tramites.chihuahua.gob.mx
 0.0.0.0 vivento.mx
 0.0.0.0 zlot.mx

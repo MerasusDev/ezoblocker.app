@@ -1,17 +1,26 @@
 # Title: EZOBLOCKER Piracy, ct
-# Domains: 176 | Updated: 2026-10-16
+# Domains: 217 | Updated: 2026-10-16
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/domains/piracy/ct.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
+123-hdmovie.com
 abonnement-iptvsmarterspro.app
+arabseed.ltd
 besteiptvabonnement.com
 cinecalidad-0f9b.pages.dev
+cinecalidad-2j3b.pages.dev
+cinecalidad-33um.pages.dev
+cinecalidad-6jiz.pages.dev
+cinecalidad-89pu.pages.dev
+cinecalidad-9eyp.pages.dev
 cinecalidad-abf9.pages.dev
+cinecalidad-b3nk.pages.dev
 cinecalidad-cojv.pages.dev
 cinecalidad-es26.pages.dev
 cinecalidad-iyz0.pages.dev
 cinecalidad-mf0t.pages.dev
+cinecalidad-nvtw.pages.dev
 cinecalidad-p9qc.pages.dev
 cinecalidad-u0wv.pages.dev
 cinecalidad-xexj.pages.dev
@@ -25,6 +34,7 @@ cuevana-juh5.pages.dev
 cuevana-lxy4.pages.dev
 cuevana-rbk6.pages.dev
 cuevana-v793.pages.dev
+cuevana-z5yl.pages.dev
 cuevana3-06kz.pages.dev
 cuevana3-1g9s.pages.dev
 cuevana3-4h0b.pages.dev
@@ -35,7 +45,9 @@ cuevana3-99kc.pages.dev
 cuevana3-9ns.pages.dev
 cuevana3-an8.pages.dev
 cuevana3-d7s5.pages.dev
+cuevana3-eklf.pages.dev
 cuevana3-grv3.pages.dev
+cuevana3-hi0n.pages.dev
 cuevana3-i8my.pages.dev
 cuevana3-idyx.pages.dev
 cuevana3-ioqy.pages.dev
@@ -51,8 +63,10 @@ cuevana3-s2o.pages.dev
 cuevana3-s8z2.pages.dev
 cuevana3-t9qx.pages.dev
 cuevana3-uugr.pages.dev
+cuevana3-vy3.pages.dev
 cuevana3-yeaf.pages.dev
 cuevana3-yscy.pages.dev
+cuevana3-ziow.pages.dev
 cuevana3-zqrb.pages.dev
 cuevana8.li
 cuevana8.net
@@ -66,10 +80,12 @@ flixmovie.online
 fmovies-free.to
 fmovies.supplies
 fmovies11.com
+fmoviesz.news
 franceiptvpremium.net
 futbolgratis.com.mx
 futbollibrehd-tv.com
 futbollibretv.ink
+futemax.sex
 fzmovies-q7vj.pages.dev
 gipnozis-hdrezka.org
 gogoanime-v3.pages.dev
@@ -77,6 +93,8 @@ gogoanime.party
 iptvbrasil.com.br
 iptvcanada8k.ca
 iptvdeutschland24.com
+iptvservice.sbs
+irelandiptv.online
 jkanimes-lat.pages.dev
 kinokiste-38t3.pages.dev
 koraonline.club
@@ -84,15 +102,20 @@ kuttymovies.ai.in
 livekora360.com
 lk21.sa.com
 lordfilm-top-kino.top
+lordfilmstv.click
 magistvfutbol.com
 mangaraw.top
+motchillia.uk
 motchillk.now
 motphimchill.cam
 motphimchill.cc
 motphimchill.plus
+motphimchill.run
+movie-cinema-server-fr.pages.dev
 movierulz.beauty
 movieshd-v3.pages.dev
 myflixer--v2.pages.dev
+myflixer.news
 myiptvtelewizja.com
 mywatchseries.pages.dev
 nontonfilm.hair
@@ -106,6 +129,7 @@ pelisflix-5uof.pages.dev
 pelisflix-9u53.pages.dev
 pelisflix-bmm5.pages.dev
 pelisflix-ea0l.pages.dev
+pelisflix-em35.pages.dev
 pelisflix-gj11.pages.dev
 pelisflix-k4bi.pages.dev
 pelisflix-nsbs.pages.dev
@@ -113,37 +137,52 @@ pelisflix-q9ja.pages.dev
 pelisflix-qk6u.pages.dev
 pelisflix-qot.pages.dev
 pelisflix-rhb.pages.dev
+pelisflix-s05.pages.dev
 pelisflix-t5lt.pages.dev
 pelisflix-ttxn.pages.dev
 pelisflix-u56l.pages.dev
+pelisflix-ypl.pages.dev
 pelisflix-yuv.pages.dev
 pelisflix-z281.pages.dev
 pelisflix-zcb.pages.dev
 pelispedia-7fkx.pages.dev
 pelispedia-c9cr.pages.dev
 pelispedia-hu2x.pages.dev
+pelispedia.homes
 pepelisplus-3za4.pages.dev
+pepelisplus-g7hj.pages.dev
 pepelisplus-k0vb.pages.dev
 pepelisplus-uhek.pages.dev
 pepelisplus-xd21.pages.dev
+phimmoinet.pro
 phimmotchill.fun
-primewirenetwork.com
+phimvietsub.club
 putlocker-du55.pages.dev
+putlocker-jmrb.pages.dev
+putlocker-lxyy.pages.dev
 real-couchtuner.com
 series-subthai.xyz
 smartiptvabo.com
+socolive-affcup2026a.live
 socolive.fit
 socolive104.ac
 socolive123.tv
 socolive18.com
 socolive57.ac
+socolive58.cc
 socoliveh.ac
 socolivejj.io
+socolivevd.cc
+socolivevg.cc
 socolivevq.cc
 socoliveza.cc
+socolivezac.tv
+socoliveze.cc
+socolivezg.cc
 socolivezl.cc
 solarmovie-official.site
 solarmovie.free
+sportsurge-i01.pages.dev
 supertorrentz.ru
 themoviesflix.dev
 thoiivietsub.pages.dev
@@ -155,6 +194,7 @@ watchmoviesonlinehere.com
 watchseries-3q89.pages.dev
 watchseries-6t48.pages.dev
 watchseries-dt3j.pages.dev
+watchseries-mko1.pages.dev
 watchseries-mkqw.pages.dev
 watchseries-yowo.pages.dev
 www-cpasbien.cc
@@ -176,6 +216,7 @@ yallakorapro.com
 yallakorastar.pro
 yallashoot-w11.pages.dev
 yallashoot-yacine.com
+yallashoot09.live
 yallashoott.pro
 yesmovies-to.pages.dev
 zalukaj-plus.pl
