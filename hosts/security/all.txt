@@ -727,7 +727,6 @@
 0.0.0.0 alert-docusign.pages.dev
 0.0.0.0 alert-icloud.us.com
 0.0.0.0 alert.garant.ida.kraft-group.com
-0.0.0.0 alerta-appleid.info
 0.0.0.0 alertaciudadanatultitlan.mx
 0.0.0.0 alertadetran.pages.dev
 0.0.0.0 alerts.online.chaseonlinealerts.theuba.com.br
@@ -2598,6 +2597,7 @@
 0.0.0.0 crytpo-login-com.pages.dev
 0.0.0.0 csob-id.zarizeni-kontrola-cz.top
 0.0.0.0 csob.kontrola-prihlaseni-cz.top
+0.0.0.0 cuenta-banco-santander.com
 0.0.0.0 cuentarut-bancoestado.pages.dev
 0.0.0.0 custom-com-roblox-free-robux.pages.dev
 0.0.0.0 customer-service-appleid.ph

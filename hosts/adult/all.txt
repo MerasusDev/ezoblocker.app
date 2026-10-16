@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult
-# Domains: 1,619 | Updated: 2026-10-16
+# Domains: 1,615 | Updated: 2026-10-16
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -77,7 +77,6 @@
 0.0.0.0 all-arabs.online
 0.0.0.0 allegra-escort.com
 0.0.0.0 allowonlyfans.com
-0.0.0.0 alphafreecams.com
 0.0.0.0 alte-schlampen-gratis-porno-reifen-frauen.pages.dev
 0.0.0.0 altyzhub30.site
 0.0.0.0 amanthy.com
@@ -1065,7 +1064,6 @@
 0.0.0.0 porndudedeutsch.com
 0.0.0.0 pornflix.to
 0.0.0.0 pornmk.com
-0.0.0.0 porno-ceske.cz
 0.0.0.0 porno-movies.ch
 0.0.0.0 porno-smezzati-privato.com
 0.0.0.0 porno-turkce.com
@@ -1214,7 +1212,6 @@
 0.0.0.0 sexcordobashop.com.ar
 0.0.0.0 sexdolls-france.com
 0.0.0.0 sexfilmleriizlevip.com
-0.0.0.0 sexfilmy.org
 0.0.0.0 sexhatti.com.tr
 0.0.0.0 sexhatti.me
 0.0.0.0 sexhattiniz.com
@@ -1609,7 +1606,6 @@
 0.0.0.0 xvideos2.wiki
 0.0.0.0 xxvn.link
 0.0.0.0 xxxhindi.shop
-0.0.0.0 xxxhindi2.site
 0.0.0.0 yadongkorea.app
 0.0.0.0 yasakelmam.com
 0.0.0.0 yessir.com.br

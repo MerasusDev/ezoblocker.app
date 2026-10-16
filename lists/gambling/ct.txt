@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling, ct
-# Domains: 315,196 | Updated: 2026-10-16
+# Domains: 315,187 | Updated: 2026-10-16
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/gambling/ct.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -86983,7 +86983,6 @@
 *.casinosrilanka.com
 *.casinosrobusto.com
 *.casinosroby-fr-com.pages.dev
-*.casinosroby-fr.com
 *.casinosrocket.net
 *.casinosrocketspin.com
 *.casinosrolldorado11.de
@@ -99907,7 +99906,6 @@
 *.coroawinbet.com.br
 *.corolcasino.uk.com
 *.corona354casinobet.com
-*.corona7casino.com
 *.corona888casinobet.com
 *.coronacasinoszonehub.com
 *.coroobet.com
@@ -129218,7 +129216,6 @@
 *.glorycasino-azerbaijan.com
 *.glorycasino-bet.com
 *.glorycasino-bo.com
-*.glorycasino-br.com
 *.glorycasino-igambling.com
 *.glorycasino-ipl-com.pages.dev
 *.glorycasino-ipl.com
@@ -226237,7 +226234,6 @@
 *.pribet-casino-at.at
 *.pribet-casino-at.com
 *.pribet-casino-at.eu.com
-*.pribet-casino-italia.it
 *.pribet-casino.at
 *.pribet-casino.com
 *.pribet-casino.de
@@ -237358,7 +237354,6 @@
 *.robycasino-fr.com
 *.robycasino-fr.org
 *.robycasino-france-org.pages.dev
-*.robycasino-france.org
 *.robycasino-germany.com
 *.robycasino-gr-4085.pages.dev
 *.robycasino-info.pages.dev
@@ -237367,7 +237362,6 @@
 *.robycasino-no.com
 *.robycasino-no.eu.com
 *.robycasino-onlane-com.pages.dev
-*.robycasino-onlane.com
 *.robycasino-online.com
 *.robycasino-online.net
 *.robycasino-org-uk.pages.dev
@@ -256689,7 +256683,6 @@
 *.slotsgame.wine
 *.slotsgame365.com
 *.slotsgame777.com
-*.slotsgameapk.net
 *.slotsgameing-onlines.com
 *.slotsgames-cost.com
 *.slotsgames.co.uk
@@ -313217,7 +313210,6 @@
 *.zet-casino.bet
 *.zet-casino.casino
 *.zet-casino.ch
-*.zet-casino.click
 *.zet-casino.co
 *.zet-casino.co.com
 *.zet-casino.co.cz
@@ -314588,7 +314580,6 @@
 *.zoomakazino.co
 *.zoomascasino.online
 *.zoomcasino.com.de
-*.zoomcasino.online
 *.zoomcasinos.co.uk
 *.zoome-au-casino.com
 *.zoome-au.bet

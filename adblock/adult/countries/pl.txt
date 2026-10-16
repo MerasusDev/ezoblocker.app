@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Adult, Poland (pl)
-! Domains: 42 | Updated: 2026-10-16
+! Domains: 41 | Updated: 2026-10-16
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/adult/countries/pl.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -36,7 +36,6 @@
 ||secretplace.pl^
 ||sekrecik.pl^
 ||sensu.pl^
-||sexfilmy.org^
 ||sexshop.com.pl^
 ||sexshop69.pl^
 ||sexshoppink.pl^

@@ -727,7 +727,6 @@ aktivasi-pemulihanxakun-shopee.spexc9.my.id
 *.alert-docusign.pages.dev
 *.alert-icloud.us.com
 alert.garant.ida.kraft-group.com
-*.alerta-appleid.info
 *.alertaciudadanatultitlan.mx
 *.alertadetran.pages.dev
 alerts.online.chaseonlinealerts.theuba.com.br
@@ -2598,6 +2597,7 @@ cpcontacts.official-blockchain-wallets.events-gift.com
 *.crytpo-login-com.pages.dev
 csob-id.zarizeni-kontrola-cz.top
 csob.kontrola-prihlaseni-cz.top
+*.cuenta-banco-santander.com
 *.cuentarut-bancoestado.pages.dev
 *.custom-com-roblox-free-robux.pages.dev
 *.customer-service-appleid.ph

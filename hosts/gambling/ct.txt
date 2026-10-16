@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling, ct
-# Domains: 315,196 | Updated: 2026-10-16
+# Domains: 315,187 | Updated: 2026-10-16
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/gambling/ct.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -86983,7 +86983,6 @@
 0.0.0.0 casinosrilanka.com
 0.0.0.0 casinosrobusto.com
 0.0.0.0 casinosroby-fr-com.pages.dev
-0.0.0.0 casinosroby-fr.com
 0.0.0.0 casinosrocket.net
 0.0.0.0 casinosrocketspin.com
 0.0.0.0 casinosrolldorado11.de
@@ -99907,7 +99906,6 @@
 0.0.0.0 coroawinbet.com.br
 0.0.0.0 corolcasino.uk.com
 0.0.0.0 corona354casinobet.com
-0.0.0.0 corona7casino.com
 0.0.0.0 corona888casinobet.com
 0.0.0.0 coronacasinoszonehub.com
 0.0.0.0 coroobet.com
@@ -129218,7 +129216,6 @@
 0.0.0.0 glorycasino-azerbaijan.com
 0.0.0.0 glorycasino-bet.com
 0.0.0.0 glorycasino-bo.com
-0.0.0.0 glorycasino-br.com
 0.0.0.0 glorycasino-igambling.com
 0.0.0.0 glorycasino-ipl-com.pages.dev
 0.0.0.0 glorycasino-ipl.com
@@ -226237,7 +226234,6 @@
 0.0.0.0 pribet-casino-at.at
 0.0.0.0 pribet-casino-at.com
 0.0.0.0 pribet-casino-at.eu.com
-0.0.0.0 pribet-casino-italia.it
 0.0.0.0 pribet-casino.at
 0.0.0.0 pribet-casino.com
 0.0.0.0 pribet-casino.de
@@ -237358,7 +237354,6 @@
 0.0.0.0 robycasino-fr.com
 0.0.0.0 robycasino-fr.org
 0.0.0.0 robycasino-france-org.pages.dev
-0.0.0.0 robycasino-france.org
 0.0.0.0 robycasino-germany.com
 0.0.0.0 robycasino-gr-4085.pages.dev
 0.0.0.0 robycasino-info.pages.dev
@@ -237367,7 +237362,6 @@
 0.0.0.0 robycasino-no.com
 0.0.0.0 robycasino-no.eu.com
 0.0.0.0 robycasino-onlane-com.pages.dev
-0.0.0.0 robycasino-onlane.com
 0.0.0.0 robycasino-online.com
 0.0.0.0 robycasino-online.net
 0.0.0.0 robycasino-org-uk.pages.dev
@@ -256689,7 +256683,6 @@
 0.0.0.0 slotsgame.wine
 0.0.0.0 slotsgame365.com
 0.0.0.0 slotsgame777.com
-0.0.0.0 slotsgameapk.net
 0.0.0.0 slotsgameing-onlines.com
 0.0.0.0 slotsgames-cost.com
 0.0.0.0 slotsgames.co.uk
@@ -313217,7 +313210,6 @@
 0.0.0.0 zet-casino.bet
 0.0.0.0 zet-casino.casino
 0.0.0.0 zet-casino.ch
-0.0.0.0 zet-casino.click
 0.0.0.0 zet-casino.co
 0.0.0.0 zet-casino.co.com
 0.0.0.0 zet-casino.co.cz
@@ -314588,7 +314580,6 @@
 0.0.0.0 zoomakazino.co
 0.0.0.0 zoomascasino.online
 0.0.0.0 zoomcasino.com.de
-0.0.0.0 zoomcasino.online
 0.0.0.0 zoomcasinos.co.uk
 0.0.0.0 zoome-au-casino.com
 0.0.0.0 zoome-au.bet

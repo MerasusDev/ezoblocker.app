@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling
-# Domains: 316,113 | Updated: 2026-10-16
+# Domains: 316,104 | Updated: 2026-10-16
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/gambling/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -87270,7 +87270,6 @@ casino-max-online-casino-fre.adelaidebeanbags.com.au
 *.casinosrilanka.com
 *.casinosrobusto.com
 *.casinosroby-fr-com.pages.dev
-*.casinosroby-fr.com
 *.casinosrocket.net
 *.casinosrocketspin.com
 *.casinosrolldorado11.de
@@ -100215,7 +100214,6 @@ cleansports.kspo.or.kr
 *.coroawinbet.com.br
 *.corolcasino.uk.com
 *.corona354casinobet.com
-*.corona7casino.com
 *.corona888casinobet.com
 *.coronacasinoszonehub.com
 *.coroobet.com
@@ -129611,7 +129609,6 @@ gda.maceio.al.gov.br
 *.glorycasino-azerbaijan.com
 *.glorycasino-bet.com
 *.glorycasino-bo.com
-*.glorycasino-br.com
 *.glorycasino-igambling.com
 *.glorycasino-ipl-com.pages.dev
 *.glorycasino-ipl.com
@@ -226906,7 +226903,6 @@ portaleducacional.unisanta.br
 *.pribet-casino-at.at
 *.pribet-casino-at.com
 *.pribet-casino-at.eu.com
-*.pribet-casino-italia.it
 *.pribet-casino.at
 *.pribet-casino.com
 *.pribet-casino.de
@@ -238070,7 +238066,6 @@ portaleducacional.unisanta.br
 *.robycasino-fr.com
 *.robycasino-fr.org
 *.robycasino-france-org.pages.dev
-*.robycasino-france.org
 *.robycasino-germany.com
 *.robycasino-gr-4085.pages.dev
 *.robycasino-info.pages.dev
@@ -238079,7 +238074,6 @@ portaleducacional.unisanta.br
 *.robycasino-no.com
 *.robycasino-no.eu.com
 *.robycasino-onlane-com.pages.dev
-*.robycasino-onlane.com
 *.robycasino-online.com
 *.robycasino-online.net
 *.robycasino-org-uk.pages.dev
@@ -257440,7 +257434,6 @@ sbfplay.spa.infratest.lrworld.com
 *.slotsgame.wine
 *.slotsgame365.com
 *.slotsgame777.com
-*.slotsgameapk.net
 *.slotsgameing-onlines.com
 *.slotsgames-cost.com
 *.slotsgames.co.uk
@@ -314127,7 +314120,6 @@ zaklady-bukmacherskie-fortuna-w-trzemesznie-ulx.rozejrzyjsie.pl
 *.zet-casino.bet
 *.zet-casino.casino
 *.zet-casino.ch
-*.zet-casino.click
 *.zet-casino.co
 *.zet-casino.co.com
 *.zet-casino.co.cz
@@ -315505,7 +315497,6 @@ zaklady-bukmacherskie-fortuna-w-trzemesznie-ulx.rozejrzyjsie.pl
 *.zoomakazino.co
 *.zoomascasino.online
 *.zoomcasino.com.de
-*.zoomcasino.online
 *.zoomcasinos.co.uk
 *.zoome-au-casino.com
 *.zoome-au.bet
