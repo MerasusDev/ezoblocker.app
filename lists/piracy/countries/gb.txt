@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy, United Kingdom (gb)
-# Domains: 21 | Updated: 2026-10-16
+# Domains: 20 | Updated: 2026-10-16
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/lists/piracy/countries/gb.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -15,7 +15,6 @@
 *.footybite.com.co
 *.gogoanime.by
 *.gogoanime.or.at
-*.gogoanimepro.org
 *.gogoanimes.dk
 *.iptvukservice.com
 *.myflixer.com.co

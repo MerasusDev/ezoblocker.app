@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Piracy
-! Domains: 954 | Updated: 2026-10-16
+! Domains: 953 | Updated: 2026-10-16
 ! Homepage: https://github.com/MerasusDev/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/adblock/piracy/all.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -339,7 +339,6 @@
 ||gogoanime.co.ke^
 ||gogoanime.or.at^
 ||gogoanime.party^
-||gogoanimepro.org^
 ||gogoanimes.dk^
 ||gogoanimes.watch^
 ||gomovieshd.today^

@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Security, ct
-# Domains: 14,183 | Updated: 2026-10-16
+# Domains: 14,149 | Updated: 2026-10-16
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/hosts/security/ct.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -951,8 +951,6 @@
 0.0.0.0 appleid-support-kxz-avple.com.ph
 0.0.0.0 appleid-support-kxz-awpple.com.ph
 0.0.0.0 appleid-support-vx-apple.ph
-0.0.0.0 appleid.apple.com.internet.services.drive-icloud.com
-0.0.0.0 appleid.apple.com.legal.services.drive-icloud.com
 0.0.0.0 appleid.apple.com.sign-in-auth.secure.wbcvn.com
 0.0.0.0 appleid.apple.com.signin.skateykatey.com
 0.0.0.0 appleid.icloud-map.us
@@ -1301,7 +1299,6 @@
 0.0.0.0 autth-uphold-x-com.pages.dev
 0.0.0.0 auuth-lesdger-livve-access-us-en.pages.dev
 0.0.0.0 available-ledger-hardware-wallet.pages.dev
-0.0.0.0 avanzasupport.com
 0.0.0.0 avito.paypal-caseid986.netflixdxb.com
 0.0.0.0 avvillasbanco.ph
 0.0.0.0 aws-docusign-msonline-approve-secure.workers.dev
@@ -1500,12 +1497,9 @@
 0.0.0.0 binance-us-verify.com
 0.0.0.0 binance-verify-us.com
 0.0.0.0 binance.global-gift-to-clients-desktop.com
-0.0.0.0 binance.wallet-account.com
 0.0.0.0 binance.wallet-account.com.eds1.com
 0.0.0.0 binancetrwallet.sbs
-0.0.0.0 binanceverify.site
 0.0.0.0 binancewallet-frontend.pages.dev
-0.0.0.0 binancewallet.app
 0.0.0.0 binancewallet.pages.dev
 0.0.0.0 bing-trezorwallet.pages.dev
 0.0.0.0 bio-apples-helps.pages.dev
@@ -1543,7 +1537,6 @@
 0.0.0.0 blockchainsdapps.pages.dev
 0.0.0.0 blockchainsupport.team
 0.0.0.0 blockchainsupport.uk.com
-0.0.0.0 blockchainsupports.org
 0.0.0.0 blockchainsupportusa.com
 0.0.0.0 blockchainswallet.pages.dev
 0.0.0.0 blockchainwallet.pages.dev
@@ -1838,9 +1831,7 @@
 0.0.0.0 citi-bank.citi-supports.workers.dev
 0.0.0.0 citi-login-sign.pages.dev
 0.0.0.0 citi-sign-us-in.pages.dev
-0.0.0.0 citibank-login.xyz
 0.0.0.0 citigroup-banking.workers.dev
-0.0.0.0 citigroupsupport.help
 0.0.0.0 ck-bri-aktivasi.pages.dev
 0.0.0.0 claim-450-robux-gratis.pages.dev
 0.0.0.0 claim-astranova-world.pages.dev
@@ -2502,7 +2493,6 @@
 0.0.0.0 crypto-netcoin-login.pages.dev
 0.0.0.0 crypto-ntcoins-login.pages.dev
 0.0.0.0 crypto-recovery-en-ro.pages.dev
-0.0.0.0 crypto-recovery-platform.site
 0.0.0.0 crypto-support-en.pages.dev
 0.0.0.0 crypto-trezor-wallet-eng.pages.dev
 0.0.0.0 crypto-trezor-wallet-io.pages.dev
@@ -3046,7 +3036,6 @@
 0.0.0.0 ens-metamask-sso.pages.dev
 0.0.0.0 enter189-pintu-login-mudah.pages.dev
 0.0.0.0 epicgames-gift.top
-0.0.0.0 erste-sparkasse.com
 0.0.0.0 es-edger-wallet.pages.dev
 0.0.0.0 es-trezor-login.pages.dev
 0.0.0.0 eskom-afipsnapchat-applesupport.com.ph
@@ -3547,8 +3536,6 @@
 0.0.0.0 facebookuserreward.pages.dev
 0.0.0.0 faceit-approve.pro
 0.0.0.0 faceit-verify-account.com
-0.0.0.0 faceit-verify.xyz
-0.0.0.0 faceitverify-clubs.com
 0.0.0.0 faq---ledgerlive-en-auths.pages.dev
 0.0.0.0 faq--coinnbase-wallet-extension.pages.dev
 0.0.0.0 faq--trezor-login-en-us.pages.dev
@@ -3788,7 +3775,6 @@
 0.0.0.0 free-banking-ai-solution.pages.dev
 0.0.0.0 free-banking-technology-strategy.pages.dev
 0.0.0.0 free-crunchyroll-gift-cards-50.pages.dev
-0.0.0.0 free-deutsche-ware.world
 0.0.0.0 free-doordash-gift-cards.pages.dev
 0.0.0.0 free-fire-official-account-reward.ph
 0.0.0.0 free-fire-official-account-verification.ph
@@ -3836,7 +3822,6 @@
 0.0.0.0 gamingbet99-deposit-10000-pulsa-telkomsel.pages.dev
 0.0.0.0 gamingbet99-deposit-25-ribu-mandiri-bni.pages.dev
 0.0.0.0 gamma.springbig-wallet-3.click
-0.0.0.0 garantiabanking.com
 0.0.0.0 garantibbva-belastingdienst.ph
 0.0.0.0 garantibbva-glsgroup.com.ph
 0.0.0.0 garantibbva-incometax.ph
@@ -4022,7 +4007,6 @@
 0.0.0.0 gift-card-roblox-rewards.pages.dev
 0.0.0.0 gift-free-internet.pages.dev
 0.0.0.0 gift-free-sex-with-me-and-my-friend.pages.dev
-0.0.0.0 gioco-digitale-login.org
 0.0.0.0 glovo-ma-yqvkp.icu
 0.0.0.0 glovoapp-applesupport.com.ph
 0.0.0.0 gls.parcel-status.info
@@ -4165,7 +4149,6 @@
 0.0.0.0 hardwere-wallet-trzor.pages.dev
 0.0.0.0 haven-google-signin-test-20261010.pages.dev
 0.0.0.0 hdfcbanknetbanking.com
-0.0.0.0 hdfcbanksmartstatement.com
 0.0.0.0 hdfcbanksupports.com
 0.0.0.0 hello-exodus-wallet.pages.dev
 0.0.0.0 hello-world-green-fog-4a56.app-home365desk-actie-acerdata.workers.dev
@@ -4608,7 +4591,6 @@
 0.0.0.0 hr-sso.unicredit-platform-sk.com
 0.0.0.0 hrd-in-logn-trezr-ng-live.pages.dev
 0.0.0.0 hrdware-wallet-trezrr.pages.dev
-0.0.0.0 hsbc-bank.live
 0.0.0.0 hsbc-savings-bank-las-pinas-city-metro-manila-branch.ph
 0.0.0.0 hub-coinbase-pro-login.pages.dev
 0.0.0.0 hub-ledgrlive-auths-x.pages.dev
@@ -5306,7 +5288,6 @@
 0.0.0.0 join.microsoft-teams-meetup.workers.dev
 0.0.0.0 jos77-google-verified.pages.dev
 0.0.0.0 jpmorgan-chase-bank.ph
-0.0.0.0 jpmorgansupportchat.com
 0.0.0.0 jtexpress-fortinet-applesupport.com.ph
 0.0.0.0 julez-bryant-overdue-invoice-and-payapp-secure-portal.pages.dev
 0.0.0.0 juragan55-agir-plus-solutions-aides-conseils.pages.dev
@@ -5323,7 +5304,6 @@
 0.0.0.0 karken-login-esa.pages.dev
 0.0.0.0 karken-logn-in.pages.dev
 0.0.0.0 karnelibandi-best-gift-for-karneli-the-dick-in-a-box.pages.dev
-0.0.0.0 kasa-od-alior-banku.site
 0.0.0.0 kash-coinbse-support.pages.dev
 0.0.0.0 kash-logn-legder-en.pages.dev
 0.0.0.0 kasikornbank-applesupport.ph
@@ -6719,7 +6699,6 @@
 0.0.0.0 login-cdn-trezor-ccn.pages.dev
 0.0.0.0 login-cdn-trezor-ccnn.pages.dev
 0.0.0.0 login-cdn-trezor.pages.dev
-0.0.0.0 login-chasebank.online
 0.0.0.0 login-checkpoint.xfinity-bill.workers.dev
 0.0.0.0 login-cionbase-com.pages.dev
 0.0.0.0 login-coinbaase-pro.pages.dev
@@ -6965,7 +6944,6 @@
 0.0.0.0 login-x-coinbase.pages.dev
 0.0.0.0 login.coinbase.com.exch-verify.cfd
 0.0.0.0 login.icloud7.pro
-0.0.0.0 login.microsofft.cc
 0.0.0.0 login.microsoftonline-sharepoint.zelvantaaa.world
 0.0.0.0 login.robinhood4good.online
 0.0.0.0 login.samsung-mobile.it
@@ -7168,7 +7146,6 @@
 0.0.0.0 magyar.posta.tracking-delivery.pinkstripes.org
 0.0.0.0 mail-graph-microsoft-com.proxy.aauth.dev
 0.0.0.0 mail-mofept-gov-pk-verification2lerserverupdate84jhbhjgbhc.pages.dev
-0.0.0.0 mail.binance.wallet-account.com
 0.0.0.0 mail.fedex-delivery-tracking.aiianc.com
 0.0.0.0 mail.suivi-colis-colissimo.parfums33ml.online
 0.0.0.0 maile-sec-logn.piyiba5715.workers.dev
@@ -9442,7 +9419,6 @@
 0.0.0.0 payement-lapost-ch-secure.pages.dev
 0.0.0.0 payement.order.apple.support.peju.store
 0.0.0.0 paypai-kundenservice.com
-0.0.0.0 paypai-security.service-online-david.com
 0.0.0.0 paypal-account-info.ph
 0.0.0.0 paypal-accounts-support.ph
 0.0.0.0 paypal-banking.com.ph
@@ -9643,7 +9619,6 @@
 0.0.0.0 postfinance-britishairways-swisscom.ph
 0.0.0.0 ppaypal.com-support.workers.dev
 0.0.0.0 ppl.service-confirmation.account.webscr-login.cgi-bin-webscr-cmd-login-up.9a1.com
-0.0.0.0 premiumcitibank.com
 0.0.0.0 premiumvideos.pages.dev
 0.0.0.0 premiumwhatsapp.pages.dev
 0.0.0.0 present-wallet-coinbase.pages.dev
@@ -10753,7 +10728,6 @@
 0.0.0.0 so-trezor-secur.pages.dev
 0.0.0.0 so-trezor-secure.pages.dev
 0.0.0.0 societegeneral-caixabank.ph
-0.0.0.0 softbank-invest-japan.top
 0.0.0.0 softbank-invest-japan.website
 0.0.0.0 sonnet-blockchain-piston-policy.pages.dev
 0.0.0.0 sorteio-bonus-reinautica.pages.dev
@@ -11861,7 +11835,6 @@
 0.0.0.0 support-metmask-extension.pages.dev
 0.0.0.0 support-metmask-io-extension.pages.dev
 0.0.0.0 support-metmask-log-authd.pages.dev
-0.0.0.0 support-mondialrelay-service.com
 0.0.0.0 support-mtamask-log.pages.dev
 0.0.0.0 support-mtamask-login.pages.dev
 0.0.0.0 support-mtamask-wellet.pages.dev
@@ -12210,7 +12183,6 @@
 0.0.0.0 tipsport-official-sk.pages.dev
 0.0.0.0 tipsport-prihlasit-se.org
 0.0.0.0 tmobileclaim.com
-0.0.0.0 tmobilesupport.xyz
 0.0.0.0 tokopedia-alibaba.ph
 0.0.0.0 tokopedia-belanja-online.pages.dev
 0.0.0.0 toll-linkt-services.shop
@@ -13367,7 +13339,6 @@
 0.0.0.0 venmo-24x7-helpline-service-care-number.pages.dev
 0.0.0.0 venmo-24x7-helpline-service-care-numbers.pages.dev
 0.0.0.0 venmo-class-action-lawsuit-sign-up-online.pages.dev
-0.0.0.0 venmo.support-review.site
 0.0.0.0 venmos-live-support-service-24x7.pages.dev
 0.0.0.0 vergi-ingbank.ph
 0.0.0.0 verif-kleinanzeigen-439ff3.com
@@ -13464,7 +13435,6 @@
 0.0.0.0 viral-nova.blog
 0.0.0.0 viralesubito.online
 0.0.0.0 visit-trezrr-login-eng.pages.dev
-0.0.0.0 viva-wallet.top
 0.0.0.0 viwe-coinbasee-logn.pages.dev
 0.0.0.0 vm777-mudah-login-djt.pages.dev
 0.0.0.0 vm777-mudah-menang.pages.dev
@@ -14026,7 +13996,6 @@
 0.0.0.0 willhaben-at-id.cfd
 0.0.0.0 willhaben-at-post.info
 0.0.0.0 window--download-live-wallet.pages.dev
-0.0.0.0 wise-support.online
 0.0.0.0 with--logn-terzor-io-eng.pages.dev
 0.0.0.0 with-logn-terzor-io-eng.pages.dev
 0.0.0.0 wizinkcuenta.pages.dev
@@ -14092,7 +14061,6 @@
 0.0.0.0 www.appleid.apple.com.signin.skateykatey.com
 0.0.0.0 www.appleid.icloud-map.us
 0.0.0.0 www.bank-islami.pstd.online
-0.0.0.0 www.binance.wallet-account.com
 0.0.0.0 www.binance.wallet-account.com.eds1.com
 0.0.0.0 www.bireyselziraat.mrsistemasespeciales.com
 0.0.0.0 www.chase-account-confirmation.docie.com.mx
@@ -14115,7 +14083,6 @@
 0.0.0.0 www.metro-liquidators.metro-liquidators.site
 0.0.0.0 www.netflix.verification.ijwmpq1zbvdk.afriharvest.co.za
 0.0.0.0 www.opensea.io.verification.comercialbuza.cl
-0.0.0.0 www.paypai-security.service-online-david.com
 0.0.0.0 www.paypal-confirm-your-account.trainkook.com
 0.0.0.0 www.paypal.com-confirm-your-paypal-account.trainkook.com
 0.0.0.0 www.paypal.confirmation.account.okulus.webd.pl
@@ -14142,7 +14109,6 @@
 0.0.0.0 www.telegram.logins.help
 0.0.0.0 www.trade.grup.store
 0.0.0.0 www.update-your-payment-details-netflix-com.arvores-e-pessoas.pt
-0.0.0.0 www.venmo.support-review.site
 0.0.0.0 www.verification.grab5stareatsawards.com
 0.0.0.0 www.verify.investec-id.live
 0.0.0.0 www.verify.online-capitec.com

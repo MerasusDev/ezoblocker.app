@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Ads
-# Domains: 329 | Updated: 2026-10-16
+# Domains: 328 | Updated: 2026-10-16
 # Homepage: https://github.com/MerasusDev/ezoblocker.app
 # Source: https://raw.githubusercontent.com/MerasusDev/ezoblocker.app/main/domains/ads/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -161,7 +161,6 @@ hb.hyperbrainz.com
 hb.incrementxserv.com
 hb.jsrdn.com
 hb.justbidit2.xyz
-hb.mynativeplatform.com
 hb.stngo.com
 hb.sweetgum.io
 hmidssp.com
