@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Ads
-# Domains: 627 | Updated: 2026-10-17
+# Domains: 626 | Updated: 2026-10-17
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/ads/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -630,4 +630,3 @@
 0.0.0.0 yeahtargeter.com
 0.0.0.0 zero.aidemsrv.com
 0.0.0.0 zeus-ads.com
-0.0.0.0 zuuvicdn.com

@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Dating
-# Domains: 1,003 | Updated: 2026-10-17
+# Domains: 1,005 | Updated: 2026-10-17
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/dating/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -355,6 +355,7 @@
 0.0.0.0 faridabadcallgirl.com
 0.0.0.0 farmersonly.com
 0.0.0.0 feeld.co
+0.0.0.0 fetisch-treff.com
 0.0.0.0 filipinaloves.com
 0.0.0.0 filipinocupid.com
 0.0.0.0 filmora.wondershare.com.ru
@@ -926,6 +927,7 @@
 0.0.0.0 tryst.group
 0.0.0.0 tryst.link
 0.0.0.0 trystagency.com
+0.0.0.0 tube-arabe.org
 0.0.0.0 turkchat.com
 0.0.0.0 turkchat.tc
 0.0.0.0 turkchatfm.com

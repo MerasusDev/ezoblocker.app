@@ -1,11 +1,14 @@
 # Title: EZOBLOCKER Piracy, ct
-# Domains: 217 | Updated: 2026-10-17
+# Domains: 238 | Updated: 2026-10-17
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/domains/piracy/ct.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
 123-hdmovie.com
+123gomovies.com
+123mangaraw.org
 abonnement-iptvsmarterspro.app
+animeloads.cyou
 arabseed.ltd
 besteiptvabonnement.com
 cinecalidad-0f9b.pages.dev
@@ -39,6 +42,8 @@ cuevana3-06kz.pages.dev
 cuevana3-1g9s.pages.dev
 cuevana3-4h0b.pages.dev
 cuevana3-4kij.pages.dev
+cuevana3-4pla.pages.dev
+cuevana3-54a.pages.dev
 cuevana3-6vev.pages.dev
 cuevana3-79g.pages.dev
 cuevana3-99kc.pages.dev
@@ -82,18 +87,25 @@ fmovies.supplies
 fmovies11.com
 fmoviesz.news
 franceiptvpremium.net
+freemoviesfull.best
 futbolgratis.com.mx
 futbollibrehd-tv.com
 futbollibretv.ink
+futbollibretv.to
 futemax.sex
+futemax101.shop
 fzmovies-q7vj.pages.dev
 gipnozis-hdrezka.org
 gogoanime-v3.pages.dev
 gogoanime.party
+iptv-smarters-subscription.com
 iptvbrasil.com.br
 iptvcanada8k.ca
 iptvdeutschland24.com
+iptvpremiumfrance.net
 iptvservice.sbs
+iptvsmartersproplanos.com
+iptvsmartersproplaylist.shop
 irelandiptv.online
 jkanimes-lat.pages.dev
 kinokiste-38t3.pages.dev
@@ -113,6 +125,7 @@ motphimchill.plus
 motphimchill.run
 movie-cinema-server-fr.pages.dev
 movierulz.beauty
+movies2watch.icu
 movieshd-v3.pages.dev
 myflixer--v2.pages.dev
 myflixer.news
@@ -122,6 +135,7 @@ nontonfilm.hair
 noonootv47.store
 noonootv4k.shop
 noonootvs10.store
+paraveronline.me
 pelisflix-26m7.pages.dev
 pelisflix-2o5.pages.dev
 pelisflix-4sp8.pages.dev
@@ -157,8 +171,10 @@ pepelisplus-xd21.pages.dev
 phimmoinet.pro
 phimmotchill.fun
 phimvietsub.club
+pirataria.digital
 putlocker-du55.pages.dev
 putlocker-jmrb.pages.dev
+putlocker-k0u0.pages.dev
 putlocker-lxyy.pages.dev
 real-couchtuner.com
 series-subthai.xyz
@@ -170,8 +186,10 @@ socolive123.tv
 socolive18.com
 socolive57.ac
 socolive58.cc
+socolivefb.com
 socoliveh.ac
 socolivejj.io
+socolivetvg.cc
 socolivevd.cc
 socolivevg.cc
 socolivevq.cc
@@ -183,12 +201,14 @@ socolivezl.cc
 solarmovie-official.site
 solarmovie.free
 sportsurge-i01.pages.dev
+ssrmovies.icu
 supertorrentz.ru
 themoviesflix.dev
 thoiivietsub.pages.dev
 torrentleech.pages.dev
 totalsportek-cyou.pages.dev
 v2-sportsurge.life
+verdeportesenvivo.com
 watchmovies.info
 watchmoviesonlinehere.com
 watchseries-3q89.pages.dev
@@ -197,6 +217,7 @@ watchseries-dt3j.pages.dev
 watchseries-mko1.pages.dev
 watchseries-mkqw.pages.dev
 watchseries-yowo.pages.dev
+ww1--kissanime.pages.dev
 www-cpasbien.cc
 xemsocolive.com
 xo-movie.com

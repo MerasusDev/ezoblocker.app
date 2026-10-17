@@ -1,10 +1,12 @@
 # Title: EZOBLOCKER Piracy
-# Domains: 981 | Updated: 2026-10-17
+# Domains: 1,002 | Updated: 2026-10-17
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/domains/piracy/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
 123-hdmovie.com
+123gomovies.com
+123mangaraw.org
 123movieputlockers.com
 123moviesflix.me
 123moviestub.cc
@@ -49,6 +51,7 @@ animeflv.chatovod.com
 animeflv.my
 animeflv.one
 animeflv.or.at
+animeloads.cyou
 animepahe.ch
 animepahe.net
 animepahe.ng
@@ -166,6 +169,8 @@ cuevana3-06kz.pages.dev
 cuevana3-1g9s.pages.dev
 cuevana3-4h0b.pages.dev
 cuevana3-4kij.pages.dev
+cuevana3-4pla.pages.dev
+cuevana3-54a.pages.dev
 cuevana3-6vev.pages.dev
 cuevana3-79g.pages.dev
 cuevana3-99kc.pages.dev
@@ -297,6 +302,7 @@ footybite1.live
 footybites.biz
 footybites.click
 franceiptvpremium.net
+freemoviesfull.best
 freeshot.ch
 freeshot.it
 freesport.com
@@ -321,6 +327,7 @@ futbollibrefullhd.org
 futbollibrehd-tv.com
 futbollibreperu.org
 futbollibretv.ink
+futbollibretv.to
 futbollibretvhd.co
 futbolyconsolas.es
 futemax.at
@@ -328,6 +335,7 @@ futemax.haus
 futemax.hiphop
 futemax.med
 futemax.sex
+futemax101.shop
 fzmovies-q7vj.pages.dev
 fzmovies.live
 fzmovies.ng
@@ -394,6 +402,7 @@ info.rugbypass.tv
 inpiad60.inpiad.co.kr
 iptv-abonnement-france.youcan.store
 iptv-portugal.youcan.store
+iptv-smarters-subscription.com
 iptvaustralia.app
 iptvaustralia.com.au
 iptvbrasil.com.br
@@ -415,8 +424,11 @@ iptvnederland.nl
 iptvpolska24.pl
 iptvpolska4k.pl
 iptvportugal.com.pt
+iptvpremiumfrance.net
 iptvservice.sbs
 iptvsmarter.irish
+iptvsmartersproplanos.com
+iptvsmartersproplaylist.shop
 iptvukservice.com
 irelandiptv.online
 irishiptv.irish
@@ -576,6 +588,7 @@ movierulz.beauty
 movierulz.casa
 movierulz.center
 movierulzpk.pro
+movies2watch.icu
 moviesflixzip.xyz
 movieshd-v3.pages.dev
 mp3indirdur.com.tr
@@ -628,6 +641,7 @@ oziptv.com
 pacman.live
 pandora.net
 papystreaming.one
+paraveronline.me
 pdfkitapkurdu.blogspot.com
 pdfkitapoku.org
 pelisflix-26m7.pages.dev
@@ -693,6 +707,7 @@ pinoyflix1.su
 pinoyflixtambayan.net
 pinoymoviepedia.ru
 pinoymovieshub.org
+pirataria.digital
 piratebayproxylist.github.io
 pirlotv-futbol-en-vivo-directo.apps112.com
 pirlotv.bar
@@ -718,6 +733,7 @@ projectfreetvm.lol
 pusatfilm.id
 putlocker-du55.pages.dev
 putlocker-jmrb.pages.dev
+putlocker-k0u0.pages.dev
 putlocker-lxyy.pages.dev
 quicksportstv.com
 rapidgators.net
@@ -784,8 +800,10 @@ socolive57.ac
 socolive58.cc
 socolive75.tv
 socolivef.cc
+socolivefb.com
 socoliveh.ac
 socolivejj.io
+socolivetvg.cc
 socolivetvz.top
 socolivev.co
 socolivevd.cc
@@ -817,6 +835,7 @@ sportstream.us
 sportstream365.com.w3snoop.com
 sportstribal.tv
 sportsurge-i01.pages.dev
+ssrmovies.icu
 start.sportdigital.de
 streamcode.fit
 streameast.to
@@ -892,6 +911,7 @@ usenetreviewz.com
 v2-sportsurge.life
 vegamovies.gt.tc
 vegasportsnetwork.com
+verdeportesenvivo.com
 video.fanstream.jp
 video.mediaio.net
 video.tunefab.jp
@@ -936,6 +956,7 @@ wiflix.al
 wolfmax4k.net
 worldfree4u.events
 ww.sledujfilmy.io
+ww1--kissanime.pages.dev
 ww1.animefenix.vip
 ww1.hindimovies.to
 ww1.pelis24.blog

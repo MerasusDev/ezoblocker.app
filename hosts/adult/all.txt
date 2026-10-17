@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult
-# Domains: 1,615 | Updated: 2026-10-17
+# Domains: 1,628 | Updated: 2026-10-17
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -9,9 +9,11 @@
 0.0.0.0 11hentai.com
 0.0.0.0 121heiliao.top
 0.0.0.0 123sexo.cl
+0.0.0.0 13heiliao.com
 0.0.0.0 16heiliao.com
 0.0.0.0 18japaneseporn.com
 0.0.0.0 18plus.com.ua
+0.0.0.0 18porn.ai
 0.0.0.0 1a-erotikshops.de
 0.0.0.0 31keyifliseyirler32.shop
 0.0.0.0 31vqkticx7.cfd
@@ -29,6 +31,7 @@
 0.0.0.0 6navi.ch
 0.0.0.0 7heiliao.com
 0.0.0.0 8989usagiya.co.jp
+0.0.0.0 91gaoqingheiliao-4ddd444.click
 0.0.0.0 aaaa.in.ua
 0.0.0.0 aagmaal.video
 0.0.0.0 academy.sormas.org
@@ -139,6 +142,7 @@
 0.0.0.0 avthaisub.org
 0.0.0.0 ayay.it
 0.0.0.0 aysexshop.mx
+0.0.0.0 babestation.vote
 0.0.0.0 babylonloveshop.be
 0.0.0.0 babylonloveshop.com
 0.0.0.0 baisergratuitement-be.pages.dev
@@ -196,6 +200,7 @@
 0.0.0.0 bokepindo.forum
 0.0.0.0 bokepindo.lat
 0.0.0.0 bokepindo.makeup
+0.0.0.0 bokepindo.quest
 0.0.0.0 bokepindo.tokyo
 0.0.0.0 bokepindonesialing.pages.dev
 0.0.0.0 bokepindotv.com.co
@@ -498,6 +503,7 @@
 0.0.0.0 freefans.de
 0.0.0.0 freelezbianpornvideos.com
 0.0.0.0 freesexvedioes.com
+0.0.0.0 freshporno.bet
 0.0.0.0 frixx.pl
 0.0.0.0 frutoproibido.com
 0.0.0.0 frutoproibido.pai.pt
@@ -539,6 +545,7 @@
 0.0.0.0 hdabla.one
 0.0.0.0 heiliao-21.com
 0.0.0.0 heiliao26.pages.dev
+0.0.0.0 heiliao518.wiki
 0.0.0.0 heiliao51go.cc
 0.0.0.0 heiliao80.pages.dev
 0.0.0.0 heiliaoal.cc
@@ -665,6 +672,7 @@
 0.0.0.0 kadikoyescort9.uno
 0.0.0.0 kamababa15.com
 0.0.0.0 kamasutra.com
+0.0.0.0 kamasutraplay.com
 0.0.0.0 kamery.humlnet.cz
 0.0.0.0 kandup.jp
 0.0.0.0 katthelabel.com
@@ -838,6 +846,7 @@
 0.0.0.0 maheirqx54.click
 0.0.0.0 maheirqx65.cfd
 0.0.0.0 maheirqx66.cfd
+0.0.0.0 mahnsextoy.com
 0.0.0.0 mahremdukkani.com
 0.0.0.0 maison-du-plug.fr
 0.0.0.0 makeup.pl
@@ -964,6 +973,7 @@
 0.0.0.0 official-hanime-to.pages.dev
 0.0.0.0 officialtoys.pk
 0.0.0.0 ofpolska.pl
+0.0.0.0 ohentai-france.com
 0.0.0.0 ohmylove.cl
 0.0.0.0 oichin.net
 0.0.0.0 ola4u.gr
@@ -1104,6 +1114,7 @@
 0.0.0.0 proxy.gd
 0.0.0.0 prproxy.pro
 0.0.0.0 puntosexshop.com.ar
+0.0.0.0 purasporno.com
 0.0.0.0 pureloveshop.com.tr
 0.0.0.0 purelust.com
 0.0.0.0 pureromance.com
@@ -1262,6 +1273,7 @@
 0.0.0.0 sexshopcanada.ca
 0.0.0.0 sexshopconcepcion.cl
 0.0.0.0 sexshopcordoba.com
+0.0.0.0 sexshopdasprimas.com
 0.0.0.0 sexshopers.ru
 0.0.0.0 sexshopgallery.cl
 0.0.0.0 sexshopik.cz
@@ -1613,6 +1625,7 @@
 0.0.0.0 yetiskinsohbet.com.tr
 0.0.0.0 yoo.cz
 0.0.0.0 yoshikkeh.com
+0.0.0.0 youjizz-france.com
 0.0.0.0 yoxo.it
 0.0.0.0 zevkdolu36.com
 0.0.0.0 zevkdolu39.com
