@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Adult, Argentina (ar)
-! Domains: 28 | Updated: 2026-10-17
+! Domains: 30 | Updated: 2026-10-17
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/adult/countries/ar.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -29,6 +29,8 @@
 ||tabushop.com.ar^
 ||tiendaerotica.cl^
 ||tiendaeroticavip.com^
+||tracysdog.com^
 ||tsmayorista.com.ar^
 ||valdodubra.com^
 ||vipsexshop.cl^
+||zetasexshop.com^

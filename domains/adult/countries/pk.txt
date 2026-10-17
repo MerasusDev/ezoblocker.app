@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, PK (pk)
-# Domains: 35 | Updated: 2026-10-17
+# Domains: 38 | Updated: 2026-10-17
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/domains/adult/countries/pk.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -15,8 +15,10 @@ fleshtoys.pk
 intimate.pk
 intimatefashions.pk
 kamababa15.com
+kamababa17.com
 lelo.com.pk
 loveabletoys.com
+lovenest.pk
 lovestore.pk
 lovetolove.us
 lovetoy.com.pk
@@ -28,6 +30,7 @@ noroz.pk
 officialtoys.pk
 prproxy.pro
 saleone.pk
+sex-live.eu
 sextoypk.com
 shestore.com.pk
 stopi.pk

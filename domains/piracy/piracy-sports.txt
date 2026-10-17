@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy, illegal sports streams
-# Domains: 262 | Updated: 2026-10-17
+# Domains: 289 | Updated: 2026-10-17
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/domains/piracy/piracy-sports.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -13,11 +13,14 @@
 acestreamid.com
 admin.avalie.pi.gov.br
 agenda.ipece.ce.gov.br
+agespisa.sead.pi.gov.br
 alkkoora.live
 api.sap.ce.gov.br
 ballzaa.com
 bola365.today
 browse.tonton.com.my
+buffstreams.ch
+buffstreams24.org
 buffstreamsapp.com
 cakhia4.org
 cakhia6tv.tv
@@ -29,6 +32,7 @@ canlimacizlet.altervista.org
 cepi.cb.ce.gov.br
 clare.gaa.ie
 crackstreams.ch
+crackstreams.gdn
 crackstreams.guru
 crackstreams.in
 crackstreams.mx
@@ -50,6 +54,7 @@ firstrows.net
 firstrowsports.be
 footybite.com.co
 footybite.cyou
+footybite.dev
 footybite.forum
 footybite.im
 footybite.live
@@ -68,6 +73,7 @@ french.visitkorea.or.kr
 futbolenvivocolombia.com
 futbolete.com
 futbollibre.kim
+futbollibreenvivo.net
 futbollibrefullhd.org
 futbollibreperu.org
 futbollibretvhd.co
@@ -76,6 +82,7 @@ futemax.at
 futemax.haus
 futemax.hiphop
 futemax.med
+geoikp.operandum-project.eu
 getlive.pcb.com.pk
 hesgoal.co.uk
 hesgoal.ltd
@@ -105,6 +112,7 @@ kooora.misrlinks.com
 kooora4live.quest
 kooora4live.website
 kooora4lives.one
+koora4ever.net
 koora4live.today
 koora4stream.site
 koora4uyt.blogspot.com
@@ -116,6 +124,7 @@ kooratop.live
 kooratv.club
 kora-star.misrlinks.com
 kora4live.surf
+koraliveivo.com
 koraonline.quest
 librefutbol.vip
 live.pcb.com.pk
@@ -146,6 +155,7 @@ mecze24.pl
 methstreams.digital
 mlbbite.plus
 muayded789.com
+multicanaishdtv.com.br
 myvipbox.com
 nbabite.net
 netspor.co
@@ -159,6 +169,7 @@ pacman.live
 pelotalibreenvivo.cl
 pirlotv-futbol-en-vivo-directo.apps112.com
 pirlotv.bar
+pirlotv.dog
 pirlotv.la
 pirlotv.red
 pirlotv.shop
@@ -172,6 +183,8 @@ rojadirecta.cash
 rojadirecta.cloud
 rojadirecta.com.co
 rojadirectafullhd.net
+rojadirectafulltv.org
+rojadirectas.cc
 rojadirectatvmas.org
 s1s.designq.kr
 saas.spochak.com
@@ -183,8 +196,10 @@ socolive-bd-tv.art
 socolive-tv.quest
 socolive1.nl
 socolive18.com
+socolive74.tv
 socolive75.tv
 socolivef.cc
+socolivei.cc
 socolivetvz.top
 socolivev.co
 socolivezq.tv
@@ -207,9 +222,11 @@ streameast.to
 streameasti.site
 streameastmirror.com
 streameasttop.com
+streamed.cyou
 streamonsport.lat
 streamsport.ie
 strims.com.pl
+strimstv.pl
 suisse.moniptv.ch
 supersportbet.com
 supersportschools.com
@@ -229,16 +246,22 @@ taraftarium24turkiyetv.net
 tarjetaroja.love
 tarjetaroja.mba
 tarjetaroja.run
+tarjetarojadirecta.biz
 tarjetarojadirecta.es
 tarjetarojaonline.info
 tarjetarojaonline.pro
 tarjetarojatv.mobi
 totalsportek1.is
+totalsporteki.fit
+totalsportekl.is
 totalsportekplus.org
+totalsportsindex.com
 tour.gra.uk.com
 tructiep90phuttv.club
+ttbd-socolive.pro
 tv.makeevka.com
 tv.sfl.ch
+v2-sportsurge.buzz
 vegasportsnetwork.com
 video.fanstream.jp
 viet.jajag.me
@@ -256,11 +279,15 @@ xoilac3.cc
 xoilac5.top
 xoilaclivettbds.tv
 xoilactvbm.cc
+xoilacvn.app
 xoilacvn.net
 xoilacxbk.tv
+xoilacxbm.tv
 xoilacxbr.tv
+xoilacxbt.tv
 xoilacxxm.cc
 xoilaczcd.tv
+yallakora.cam
 yallakora.com
 yallakora.misrlinks.com
 yallalives.net

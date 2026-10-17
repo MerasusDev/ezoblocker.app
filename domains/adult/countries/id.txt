@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, Indonesia (id)
-# Domains: 14 | Updated: 2026-10-17
+# Domains: 20 | Updated: 2026-10-17
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/domains/adult/countries/id.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -10,11 +10,17 @@ banyuwangi.jatimtimes.com
 bokepidaman.com
 bokepjepang.org
 bokepjp.com
+bokeppijat.net
 botolempangan.berdesa.id
 buttplug.io
+cupxq.gautengenduro.co.za
 indoteknik.com
 javtoys.com
+mediapemersatubangsa.com
 mooreok.govbuilt.com
+nrwrza.villageplett.co.za
 onecondoms.id
 pokoyuface.cerdenergy.it
+sedangviral.shop
 sexshoponline.com
+simontok.lifestyle

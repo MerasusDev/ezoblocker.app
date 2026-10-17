@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, Switzerland (ch)
-# Domains: 36 | Updated: 2026-10-17
+# Domains: 40 | Updated: 2026-10-17
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/adult/countries/ch.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -9,6 +9,7 @@
 *.bocola.de
 *.bombshell-shop.ch
 *.bonbonrose.ch
+*.cchic-style.com
 *.cherry.ch
 *.eisen-herz.ch
 *.eisenherz.ch
@@ -27,15 +28,18 @@ erotik.markt.ch
 *.meaculpa.ch
 *.mrlove.ch
 *.orionversand.ch
+*.persoenlich.com
 *.petitfute.de
 *.play-with-me.ch
 *.porno-movies.ch
+*.prelovedcharlies.com
 prinz-eisenherz.buchkatalog.de
 *.redvelvet.ch
 *.s-world.at
 schweiz.inserate.gratis
 *.sedusia.ch
 *.sexyshopticino.ch
+*.sineros.de
 *.sinful.ch
 *.untamed.love
 *.viamax.eu

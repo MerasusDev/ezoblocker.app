@@ -1,11 +1,12 @@
 ! Title: EZOBLOCKER Bypass, Japan (jp)
-! Domains: 9 | Updated: 2026-10-17
+! Domains: 10 | Updated: 2026-10-17
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/bypass/countries/jp.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 ! App: https://ezoblocker.app
 |corp.omake.co.jp^
 |kbm.slp-contents.com^
+|koddos.startupworld.com^
 |lifestyle.assist-all.co.jp^
 |psiphon.jp.softmany.com^
 ||softether.jp^

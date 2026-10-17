@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Bypass
-# Domains: 138 | Updated: 2026-10-17
+# Domains: 140 | Updated: 2026-10-17
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/bypass/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -54,6 +54,7 @@ kb.biznetgio.com
 kb.cloudkilat.id
 kbm.slp-contents.com
 *.kiotproxy.com
+koddos.startupworld.com
 kproxy-extension.softonic.nl
 *.ktunneli.com
 learn.totem-project.org
@@ -61,6 +62,7 @@ lifestyle.assist-all.co.jp
 *.lightningproxies.net
 maturita.cermat.cz
 *.momoproxy.com
+*.muaproxyvietnam.com
 *.naijaproxy.com
 *.novada.com
 *.noxproxy.com

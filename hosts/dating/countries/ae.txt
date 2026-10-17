@@ -1,14 +1,17 @@
 # Title: EZOBLOCKER Dating, United Arab Emirates (ae)
-# Domains: 17 | Updated: 2026-10-17
+# Domains: 20 | Updated: 2026-10-17
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/dating/countries/ae.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
+0.0.0.0 ajman-freelance-call-girls.b12sites.com
 0.0.0.0 arabchat.base44.app
+0.0.0.0 brazil.escortface.com
 0.0.0.0 coomeet.apkgold.ae
 0.0.0.0 dardasha.net
 0.0.0.0 dubai.escort-modern.vip
 0.0.0.0 dubaiescortscats.com
+0.0.0.0 dubaiescortsnight.com
 0.0.0.0 dubaiescortspage.com
 0.0.0.0 dubaiescortsstars.com
 0.0.0.0 dubaiescortstars.com

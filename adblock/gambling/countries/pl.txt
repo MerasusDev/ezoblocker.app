@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Gambling, Poland (pl)
-! Domains: 40 | Updated: 2026-10-17
+! Domains: 42 | Updated: 2026-10-17
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/gambling/countries/pl.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -9,6 +9,7 @@
 ||bezweryfikacjikasyno.com^
 ||bonusy-kasynowe.com^
 ||bukmacher-legalny.pl^
+||bukmacherzy.com^
 ||casinoonline-pl.com^
 ||freespins.pl^
 ||freespiny.com^
@@ -38,6 +39,7 @@
 ||slotticasite.pl^
 ||top-bukmacherzy.net^
 ||tulsasbc.com^
+||vavadagra.pl^
 ||vulkan-spiele-casino.net.pl^
 ||vulkanbetopinie.pl^
 |ww1.e-kasyna.com^

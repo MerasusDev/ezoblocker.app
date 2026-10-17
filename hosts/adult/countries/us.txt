@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, United States (us)
-# Domains: 28 | Updated: 2026-10-17
+# Domains: 29 | Updated: 2026-10-17
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/countries/us.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -26,6 +26,7 @@
 0.0.0.0 modelcenter.lj.com
 0.0.0.0 mysterypleasurebox.com
 0.0.0.0 pinkcherry.com
+0.0.0.0 pixnext.vip
 0.0.0.0 proxy.gd
 0.0.0.0 pureromance.com
 0.0.0.0 rainbowstation.nyc

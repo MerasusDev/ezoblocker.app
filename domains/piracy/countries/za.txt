@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy, South Africa (za)
-# Domains: 36 | Updated: 2026-10-17
+# Domains: 41 | Updated: 2026-10-17
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/domains/piracy/countries/za.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -9,14 +9,17 @@ animeflv.ar
 animeflv.chatovod.com
 animeflv.my
 animeflv.one
+buffstreams24.org
 crackstreams.mx
 cricketworld.com
 daddylive.pk
 fmoviezs.top
+footybite.dev
 footybite.soccer
 footybite.vg
 freesport.com
 freesportscap.com
+gomoviesfull.com
 gomovieshd.today
 hesgoal.soccer
 icc-cricket.com
@@ -28,6 +31,7 @@ mangadex.live
 mangadex.net
 mangadex.one
 mangadex.org.uk
+mooreok.govbuilt.com
 primewire-offcial.cyou
 primewire.gy
 primewires.org
@@ -38,5 +42,6 @@ streameastmirror.com
 streameasttop.com
 supersportbet.com
 supersportschools.com
+v2-sportsurge.buzz
 vegasportsnetwork.com
 www-mangadex.org

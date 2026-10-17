@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Security, ct
-# Domains: 14,642 | Updated: 2026-10-17
+# Domains: 14,640 | Updated: 2026-10-17
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/security/ct.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -1595,7 +1595,6 @@
 0.0.0.0 blockchainsupportusa.com
 0.0.0.0 blockchainswallet.pages.dev
 0.0.0.0 blockchainwallet.pages.dev
-0.0.0.0 blockchainwallets.xyz
 0.0.0.0 blocket-confirmation.shop
 0.0.0.0 blocketbetalning.online
 0.0.0.0 blockf-en-helps.pages.dev
@@ -4851,7 +4850,6 @@
 0.0.0.0 icloud-soporte.info
 0.0.0.0 icloud-ubicacion-iphone.com
 0.0.0.0 icloud-verification.online
-0.0.0.0 icloud.com-id-support.ink
 0.0.0.0 icloudhelps.app
 0.0.0.0 icloudkredi.ph
 0.0.0.0 icloudsupport-co.com
@@ -9284,7 +9282,6 @@
 0.0.0.0 notino-sale.shop
 0.0.0.0 nova-banco.codewords.run.codewords.run
 0.0.0.0 nova-claim-portal.pages.dev
-0.0.0.0 novo-banco.warrooms.info
 0.0.0.0 now--sso-treezor-io-cdn.pages.dev
 0.0.0.0 now-login-leedger.pages.dev
 0.0.0.0 now-logn-trezrr.pages.dev
@@ -11097,6 +11094,7 @@
 0.0.0.0 spotifymodpremium.pages.dev
 0.0.0.0 spotifymodpremium.world
 0.0.0.0 spotifypremium.com.in
+0.0.0.0 spotifypremium.download
 0.0.0.0 spotifypremium2.com.in
 0.0.0.0 spotifypremiumapk.cam
 0.0.0.0 spotifypremiumapk.net.in

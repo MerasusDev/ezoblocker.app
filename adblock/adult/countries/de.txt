@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Adult, Germany (de)
-! Domains: 46 | Updated: 2026-10-17
+! Domains: 51 | Updated: 2026-10-17
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/adult/countries/de.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -23,16 +23,20 @@
 ||eufory.de^
 ||freefans.de^
 ||gorgeous-berlin.de^
+||hellonancy.com^
+||intiemcomfort.nl^
 ||jungfrauplus.de^
 ||klinikbondage.com^
 ||lilith-toys.com^
 ||loveandvibes.de^
 ||mallux.de^
+||marielove.de^
 ||mystic-store.com^
 ||novum-erotik.de^
 ||other-nature.de^
 ||peitschenhandel.de^
 ||porndudedeutsch.com^
+||rawrcave.com^
 ||salexo.de^
 ||satisfyer.com^
 ||schwarzer-reiter.com^
@@ -47,6 +51,7 @@
 ||spexter.com^
 ||spotti.net^
 ||styleplanet.com^
+||teeny29.ch^
 ||tomrockets.com^
 ||toy-versand.com^
 ||unblockmate.red^

@@ -1,10 +1,11 @@
 # Title: EZOBLOCKER Piracy, Spain (es)
-# Domains: 34 | Updated: 2026-10-17
+# Domains: 37 | Updated: 2026-10-17
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/domains/piracy/countries/es.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
 acestreamid.com
+animeflv.ba
 animeflv.or.at
 animeyt.cc
 comprariptv.com
@@ -24,6 +25,7 @@ grantorrent.foo
 grantorrent.fyi
 icuevana3.cam
 iptvespanatv.pro
+jkanime.surf
 monoschinos2.net
 pelisplus.garden
 pelisplus.living
@@ -31,6 +33,7 @@ pelisplus.one
 pelisplus4k.online
 pelisplusvip.com
 pirlotv.bar
+pirlotv.dog
 pirlotv1.live
 poseidonhd2.co
 repelis.mom

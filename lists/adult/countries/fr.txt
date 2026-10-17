@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, France (fr)
-# Domains: 25 | Updated: 2026-10-17
+# Domains: 36 | Updated: 2026-10-17
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/adult/countries/fr.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -9,23 +9,34 @@
 *.beurette.land
 *.bodyhouse.fr
 *.boutique-erotique.fr
+*.boystore.com
 chat.europnet.org
 *.concordelove.fr
 *.deboutonnees.com
 *.dorcelstore.com
 *.easytoys.fr
+*.escorts69.fr
+*.gaystore.fr
 *.hypnoze.fr
+*.ideedudesir.fr
 *.jacquieetmichel-contacts.com
 *.jacquieetmichelstore.com
 *.laboutiqueduhard.fr
 *.lafrancecoquine.net
 *.lescapricesdalice.fr
+*.luxure-miam.ch
 *.maison-du-plug.fr
 *.meilleurduporno.com
+*.meilleurs.fr
 *.passagedudesir.com
 *.plancul-gratuit.fr
+*.poulpeo.com
 *.poupee-sexuelle.fr
+*.puissante.co
 *.ruedesplaisirs.com
+*.senea.fr
 *.senkys.com
+*.sexshop.cm
 *.sexyavenue.com
 *.sinful.fr
+*.universpharmacie.fr

@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Dating, PK (pk)
-# Domains: 35 | Updated: 2026-10-17
+# Domains: 36 | Updated: 2026-10-17
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/dating/countries/pk.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -18,6 +18,7 @@
 0.0.0.0 dostichatroom.com
 0.0.0.0 escortsbabes.com
 0.0.0.0 friendschatroom.net
+0.0.0.0 goldkarachiescorts.com
 0.0.0.0 gupshupzone.chatovod.com
 0.0.0.0 hub.xcanto.com
 0.0.0.0 karachi.nightgirlservice.com

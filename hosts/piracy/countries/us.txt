@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy, United States (us)
-# Domains: 19 | Updated: 2026-10-17
+# Domains: 23 | Updated: 2026-10-17
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/piracy/countries/us.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -11,15 +11,19 @@
 0.0.0.0 animepahe.ch
 0.0.0.0 animepahe.ng
 0.0.0.0 crackstreams.ch
+0.0.0.0 crackstreams.gdn
 0.0.0.0 crackstreams.guru
+0.0.0.0 geoikp.operandum-project.eu
 0.0.0.0 isportsurge.ws
 0.0.0.0 kissanimetv.lol
 0.0.0.0 kmanga.kodansha.com
+0.0.0.0 milwaukie.govbuilt.com
 0.0.0.0 mlbbite.plus
 0.0.0.0 nbabite.net
 0.0.0.0 nflbite.is
 0.0.0.0 nflbites.today
 0.0.0.0 piratebayproxylist.github.io
 0.0.0.0 projectfreetvm.lol
+0.0.0.0 putlockerfree2.com
 0.0.0.0 viprow.pro
 0.0.0.0 warez-bb.website

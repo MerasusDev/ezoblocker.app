@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, adult shops
-# Domains: 1,007 | Updated: 2026-10-17
+# Domains: 1,092 | Updated: 2026-10-17
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/adult/adult-shop.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -38,6 +38,7 @@ academy.sormas.org
 *.adultsource.ca
 *.adultstore.ro
 *.adulttoybox.biz
+adulttoymegastore.valuecom.com
 *.adulttoys-india.com
 *.adulttoystore.com.au
 *.adultworld.ai
@@ -53,6 +54,7 @@ ae.gulf-5hop.com
 *.amorana.ch
 *.amorana.de
 *.amordeluxo.com.br
+*.amoredesejo.com
 *.amorelie.at
 *.amorelie.ch
 *.amorina.se
@@ -60,6 +62,7 @@ ae.gulf-5hop.com
 *.amorstores.myshopify.com
 *.amsterdamsexshop.ro
 *.amurchik.ua
+*.anesidora.net
 *.ankaraerotikshop.info
 *.ankarasexshop.net
 *.annmarie.pl
@@ -83,6 +86,7 @@ ae.gulf-5hop.com
 *.aysexshop.mx
 *.babylonloveshop.be
 *.babylonloveshop.com
+*.balato.shop
 *.balisexstore.com
 *.ballsonline.co.uk
 *.bananamall.co.kr
@@ -94,6 +98,8 @@ ae.gulf-5hop.com
 *.baumwollseil.de
 *.bboutique.co
 *.bdesired.nl
+*.bednerdz.com
+*.belemsexshop.com.br
 *.bellebras.com.br
 *.belove.cl
 *.belover.es
@@ -102,6 +108,7 @@ ae.gulf-5hop.com
 *.besame.com
 *.bestlovesexdoll.com
 *.bestvibe.pk
+*.beus.com.br
 *.big-toys.com.ua
 *.bitkiselshop.com.tr
 *.blackknighterotica.com.au
@@ -121,6 +128,9 @@ ae.gulf-5hop.com
 *.boutiqueerotica.com.uy
 *.boutiqueluxuria.pt
 *.boutiquetoietmoi.ca
+*.boystore.com
+br.promocodie.com
+*.brinquedossexuais.pt
 *.bronx.nl
 *.brothercho.com
 *.bunnyroom.co.kr
@@ -134,6 +144,7 @@ ae.gulf-5hop.com
 *.carlovemall.kr
 *.casanovamall.com
 catalogo.treinta.co
+*.cchic-style.com
 *.centrumerotyki.com.pl
 *.cerotabu.co
 *.chambersoflove.se
@@ -177,6 +188,7 @@ couplestoythailand.family.blog
 *.ddurazno.com
 *.deardesire.co.za
 *.deboutonnees.com
+*.deeplove.cz
 *.delighttoys.in
 *.depaarsekeizerin.nl
 *.desirel.at
@@ -204,9 +216,12 @@ couplestoythailand.family.blog
 *.dorcel-store.com
 *.dorcelstore.com
 *.doxxes.love
+*.dreamsptystore.com
 *.drloves.vn
 *.dubaiplasticfun.com
+*.dulcegatita.com.co
 *.dulceshop.cl
+*.dulcespecados.com
 *.duosexshop.cl
 *.e-marilyn.pl
 *.e-sexplanet.gr
@@ -218,9 +233,11 @@ couplestoythailand.family.blog
 *.easytoys.uk
 *.eclipsiasexshop.com
 *.edd24.de
+*.edelsa.com.pe
 *.eis.at
 *.eisen-herz.ch
 *.eisenherz.ch
+*.elartedelplacer.com
 *.elegantyou.com.pk
 *.elektro-motor.cz
 *.elite-sexshop.ru
@@ -248,6 +265,7 @@ couplestoythailand.family.blog
 *.erotickepomucky.net
 *.eroticnow.gr
 *.eroticpassion.pl
+*.eroticpoint.pl
 *.eroticpuebla.com
 *.eroticshop.ro
 *.eroticstore.cz
@@ -273,12 +291,16 @@ couplestoythailand.family.blog
 *.extasy.com.ar
 *.extasyshops.ca
 *.factormujer.com
+*.fairyloot.com
 *.fantasmesecret.be
 *.fantasylugano.ch
 *.fantezie.ro
+*.farmamia.net
 *.farmamix.com.ar
 *.fashionboutix.ch
 *.fashionwalker.com
+*.femorasexshop.com
+*.ferramentas.pt
 *.fetchshop.co.uk
 *.findshop.co
 *.flagranti.cz
@@ -298,8 +320,13 @@ frutoproibido.pai.pt
 *.funsexyshop.pt
 *.funstasy.at
 *.gall.com.br
+*.gayout.com
+*.gaystore.fr
+*.geilstore.com
+*.gemaonlinestore.com
 *.ginza-soleil.com
 *.ginza-soleil.jp
+*.girlsgetoff.com
 *.gizliyanim.com
 *.goodvibres.com.br
 *.goota.com.ar
@@ -307,23 +334,29 @@ frutoproibido.pai.pt
 *.greatstuffy.com
 *.guiacereza.com
 *.gunshop.vn
+*.gutscheincode.org
 *.harmonystore.co.uk
+hello-nancy.tenereteam.com
+*.hellonancy.com
 *.high-tide.com.au
 *.himmelriket.se
 *.honeybirdette.com
 *.hopnato.cz
 *.hotfrog.ie
 *.hotpowers.jp
+*.hotsexshop.com.br
 *.houseerotic.com
 *.hulyahalat.com
 *.hushcanada.com
 *.hustlerhollywood.com
 *.hypnoze.fr
+*.ideedudesir.fr
 *.iloveboutique.com.au
 *.iltempiodellamore.com
 *.imbesharam.com
 *.indoteknik.com
 *.insideshop.com.ua
+*.intiemcomfort.nl
 *.intim-market.ru
 *.intimate.pk
 *.intimatefashions.pk
@@ -375,6 +408,7 @@ frutoproibido.pai.pt
 kirov.fooby.ru
 *.kissers.com.tr
 *.kisskiss.ch
+*.kisskiss.eu
 *.klantcontact.nl
 *.klinikbondage.com
 *.kondomeriet.com
@@ -383,6 +417,7 @@ kirov.fooby.ru
 *.kras-sex.ru
 *.l-shop.ua
 *.laboutiqueduhard.fr
+*.ladiesnight.nl
 *.lady-mary.ch
 *.ladybox.kr
 *.ladyjane.co.za
@@ -399,6 +434,7 @@ kirov.fooby.ru
 *.lescapricesdalice.fr
 *.lesfoliesducoeur.com
 *.lextase.be
+*.librerialuces.com
 *.liebenswert.at
 *.lilaw.pl
 *.lilith-toys.com
@@ -444,12 +480,14 @@ kirov.fooby.ru
 *.lovehoneyforum.com
 *.lovehoneygroup.com
 *.loveiu.ch
+*.lovely.com.br
 *.lovelylove.shop
 *.lovelysecret.be
 *.lovelysins.com
 *.lovelytoysfactory.com
 *.lovemarket.net
 *.lovemate.com
+*.lovenest.pk
 *.lovepiececlub-shop.com
 *.lovers.rs
 *.loversshop.com.au
@@ -476,6 +514,7 @@ kirov.fooby.ru
 *.lovetoys.nu
 *.lovetoyshopper.com
 *.lovezone.ua
+*.lovingjoy.com
 *.lovita.pl
 *.lucky-bull.hr
 *.lush.com.ph
@@ -486,6 +525,8 @@ luvshop.onpay.my
 *.luxdesiredubai.com
 *.luxitoys.com.pk
 *.luxoseroticos.com
+*.luxure-miam.ch
+*.lwvofvt.org
 *.lxsexshop.pt
 m.flirtkontakt.cz
 m.sexywoo.co.kr
@@ -502,10 +543,12 @@ m.sexywoo.co.kr
 *.makeup.pl
 *.mallux.de
 *.mammothcoffee.com
+*.marielove.de
 *.mariesuelingerie.ie
 *.markamama.com.tr
 market.regroup.gr
 *.martshop.pk
+*.masturbadoreshombre.com
 *.matildas.co.za
 *.maziona.online
 *.meaculpa.ch
@@ -513,8 +556,10 @@ market.regroup.gr
 *.medusaboutiquesensual.com
 *.megasexshop.gr
 *.meibi.mx
+*.meilleurs.fr
 *.melojena.com
 *.melopasogoma.com
+*.metalshop.es
 *.mibelleza.uy
 *.midoko.ph
 *.milemocoes.com.br
@@ -546,6 +591,7 @@ msk.ros-spravka.ru
 *.mysex.com.ua
 *.mysexshop.co.za
 *.mysexshop.eu
+*.mysexshop.pt
 *.mysextoys.ru
 *.mysextoysindia.com
 *.mysterypleasurebox.com
@@ -612,6 +658,7 @@ old.spot.ph
 *.pepemio.com
 *.perchinka.ua
 *.perolasexshop.pt
+*.persoenlich.com
 *.petitfute.de
 *.picansex.com
 *.pinkboxb2b.com
@@ -636,16 +683,21 @@ old.spot.ph
 *.pleasureplace.com.ph
 *.pleasureshop.com.ph
 *.pleasurestore.ie
+*.pocztakubkowa.pl
 *.polunichka.ua
 *.ponchik.com.ua
 *.portoxxi.com
 *.positive-vibrations.hr
+*.poulpeo.com
 *.poupee-sexuelle.fr
+*.prelovedcharlies.com
 *.priape.com
 prinz-eisenherz.buchkatalog.de
 *.privypleasures.com
 *.prospektly.se
 *.proximosiglo.com.ar
+*.ptlojas.net
+*.puissante.co
 *.puntosexshop.com.ar
 *.pureloveshop.com.tr
 *.purelust.com
@@ -656,6 +708,7 @@ prinz-eisenherz.buchkatalog.de
 *.randyfox.com.au
 *.rapidinha.pt
 *.raveshop.cz
+*.rawrcave.com
 *.redarena.pl
 *.redctn.co.kr
 *.redpleasures.ca
@@ -706,6 +759,7 @@ rosetoyshop.bentoweb.com
 *.sedusia.ch
 *.sekrecik.pl
 *.seksshop.com.tr
+*.senea.fr
 *.senfantasy.com
 *.senkys.com
 *.sensations.gr
@@ -721,6 +775,7 @@ rosetoyshop.bentoweb.com
 *.sensualshop.it
 *.serez.co
 *.setishop.com
+*.sex-live.eu
 *.sex-shop-g.com.ua
 *.sex-toys.bg
 *.sex-versand.com
@@ -732,14 +787,17 @@ rosetoyshop.bentoweb.com
 *.sexleksak.se
 *.sexleksakeroutlet.se
 *.sexmarket.ru
+*.sexonic.eu
 *.sexopolis.gr
 *.sexosentido.co
 *.sexosentidoav.com
 *.sexpenditure.com
 *.sexram.cl
+*.sexrammayorista.cl
 *.sexshop-24.gr
 *.sexshop-berceni.ro
 *.sexshop-erotic.cz
+*.sexshop-mayorista.cl
 *.sexshop-mayorista.com.ar
 *.sexshop-online.cl
 *.sexshop-online.gr
@@ -749,6 +807,7 @@ rosetoyshop.bentoweb.com
 *.sexshop-xl.ru
 *.sexshop.at
 *.sexshop.cl
+*.sexshop.cm
 *.sexshop.com.ar
 *.sexshop.com.pl
 *.sexshop.cz
@@ -773,6 +832,7 @@ rosetoyshop.bentoweb.com
 *.sexshopcordoba.com
 *.sexshopers.ru
 *.sexshopgallery.cl
+*.sexshopgay.nl
 *.sexshopik.cz
 *.sexshopin.gr
 *.sexshopireland.ie
@@ -785,6 +845,7 @@ rosetoyshop.bentoweb.com
 *.sexshopofertas.cl
 *.sexshoponline.com
 *.sexshopp.cz
+*.sexshoppimenta.com.br
 *.sexshoppink.pl
 *.sexshoprating.ru
 *.sexshoprosario.net
@@ -812,9 +873,13 @@ rosetoyshop.bentoweb.com
 *.sextoysegy.com
 *.sextoysex.ca
 *.sextoysindubai.com
+*.sextoysuae.com
 *.sextoythailand.com
 *.sextoyuae.store
+*.sexuallifestyle.co.uk
+*.sexuhlala.com.br
 *.sexwell.bg
+*.sexy-shop-emmen.nl
 *.sexyavenue.com
 *.sexyelephant.hr
 *.sexyelephant.ro
@@ -856,10 +921,12 @@ shhhsexshop.kyte.site
 *.shoptinhai.org
 *.shoptraitim.com
 *.shopvochong24h.com
+*.showdang.co.kr
 *.shyman.co.kr
 *.siamsextoys.com
 *.siamtenga.com
 *.simplypleasure.com
+*.sineros.de
 *.sinful.at
 *.sinful.be
 *.sinful.ch
@@ -872,6 +939,7 @@ shhhsexshop.kyte.site
 *.sinful.se
 *.sinfulgroup.com
 *.sitereview.ro
+*.sjoyful.com
 *.sklep-intymny.pl
 *.sklep-strefaintymna.pl
 *.sklepeuforia.pl
@@ -883,6 +951,7 @@ shhhsexshop.kyte.site
 *.snooplay.in
 *.soamazing.com
 *.sohosoriginaladultstore.com
+*.speeltjes.nl
 *.spexter.com
 *.spicerack.market
 *.stagshop.com
@@ -893,18 +962,24 @@ shhhsexshop.kyte.site
 *.superlove.ro
 *.susurrosintimos.es
 *.sweetiesexshop.com.ua
+*.sweetmysterysexshop.com.br
 *.taboo.se
 *.tabushop.com.ar
 *.tabusxshop.com
+*.takeapeek.com.au
+*.takershop.com
 *.taksimsexshop.com
 *.talcasexshop.cl
 *.talla.ua
 *.tayf.ist
+*.teeny29.ch
 *.tenga.com.my
 *.tenga.my
 *.tesstesst.nl
+*.thaisextoy.com
 *.thatsassything.com
 *.thatspersonal.com
+*.thatssofetch.com
 *.thebodyshop.ng
 *.thecandyshop.com
 *.thefemalestore.com.ng
@@ -933,10 +1008,13 @@ shhhsexshop.kyte.site
 *.toy31.ru
 *.toykingdom.com.ph
 *.toypakistan.pk
+*.toys-hub.nl
 *.toyshub.pk
 *.toysinpakistan.pk
 *.toysrus.co.th
 *.toyzpakistan.com
+*.tracysdog.com
+*.tramagliadario.it
 *.travesuraseroticas69.com
 *.triplexshop.gr
 *.trungdochoi.com
@@ -949,6 +1027,7 @@ shhhsexshop.kyte.site
 *.tulipan.pl
 *.tutkusexshop.net
 *.uberkinky.com
+*.universpharmacie.fr
 *.untamed.love
 *.usagi-shop.com
 *.usagi-ya.co.jp
@@ -982,9 +1061,12 @@ venusexx.ueniweb.com
 *.we-vibe.com
 *.webac-vibro.com
 *.welcomelover.com
+*.wellnessae.com
 *.wetforher.com
 *.wham.mx
 *.whitesmoke.gr
+*.whittard.com
+*.wibratorylogopedyczne.pl
 *.wickedwandas.ca
 *.wildfantasy.com.au
 *.wildsecrets.com.au
@@ -1008,6 +1090,9 @@ venusexx.ueniweb.com
 *.yasakelmam.com
 *.yessir.com.br
 *.yoo.cz
+*.yourobsession.pl
 *.yoxo.it
+*.zetasexshop.com
+*.zolta.pl
 *.zonaerotica.com.co
 *.zonahotsexshop.cl

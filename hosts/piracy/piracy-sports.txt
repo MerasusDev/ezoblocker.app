@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy, illegal sports streams
-# Domains: 262 | Updated: 2026-10-17
+# Domains: 289 | Updated: 2026-10-17
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/piracy/piracy-sports.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -13,11 +13,14 @@
 0.0.0.0 acestreamid.com
 0.0.0.0 admin.avalie.pi.gov.br
 0.0.0.0 agenda.ipece.ce.gov.br
+0.0.0.0 agespisa.sead.pi.gov.br
 0.0.0.0 alkkoora.live
 0.0.0.0 api.sap.ce.gov.br
 0.0.0.0 ballzaa.com
 0.0.0.0 bola365.today
 0.0.0.0 browse.tonton.com.my
+0.0.0.0 buffstreams.ch
+0.0.0.0 buffstreams24.org
 0.0.0.0 buffstreamsapp.com
 0.0.0.0 cakhia4.org
 0.0.0.0 cakhia6tv.tv
@@ -29,6 +32,7 @@
 0.0.0.0 cepi.cb.ce.gov.br
 0.0.0.0 clare.gaa.ie
 0.0.0.0 crackstreams.ch
+0.0.0.0 crackstreams.gdn
 0.0.0.0 crackstreams.guru
 0.0.0.0 crackstreams.in
 0.0.0.0 crackstreams.mx
@@ -50,6 +54,7 @@
 0.0.0.0 firstrowsports.be
 0.0.0.0 footybite.com.co
 0.0.0.0 footybite.cyou
+0.0.0.0 footybite.dev
 0.0.0.0 footybite.forum
 0.0.0.0 footybite.im
 0.0.0.0 footybite.live
@@ -68,6 +73,7 @@
 0.0.0.0 futbolenvivocolombia.com
 0.0.0.0 futbolete.com
 0.0.0.0 futbollibre.kim
+0.0.0.0 futbollibreenvivo.net
 0.0.0.0 futbollibrefullhd.org
 0.0.0.0 futbollibreperu.org
 0.0.0.0 futbollibretvhd.co
@@ -76,6 +82,7 @@
 0.0.0.0 futemax.haus
 0.0.0.0 futemax.hiphop
 0.0.0.0 futemax.med
+0.0.0.0 geoikp.operandum-project.eu
 0.0.0.0 getlive.pcb.com.pk
 0.0.0.0 hesgoal.co.uk
 0.0.0.0 hesgoal.ltd
@@ -105,6 +112,7 @@
 0.0.0.0 kooora4live.quest
 0.0.0.0 kooora4live.website
 0.0.0.0 kooora4lives.one
+0.0.0.0 koora4ever.net
 0.0.0.0 koora4live.today
 0.0.0.0 koora4stream.site
 0.0.0.0 koora4uyt.blogspot.com
@@ -116,6 +124,7 @@
 0.0.0.0 kooratv.club
 0.0.0.0 kora-star.misrlinks.com
 0.0.0.0 kora4live.surf
+0.0.0.0 koraliveivo.com
 0.0.0.0 koraonline.quest
 0.0.0.0 librefutbol.vip
 0.0.0.0 live.pcb.com.pk
@@ -146,6 +155,7 @@
 0.0.0.0 methstreams.digital
 0.0.0.0 mlbbite.plus
 0.0.0.0 muayded789.com
+0.0.0.0 multicanaishdtv.com.br
 0.0.0.0 myvipbox.com
 0.0.0.0 nbabite.net
 0.0.0.0 netspor.co
@@ -159,6 +169,7 @@
 0.0.0.0 pelotalibreenvivo.cl
 0.0.0.0 pirlotv-futbol-en-vivo-directo.apps112.com
 0.0.0.0 pirlotv.bar
+0.0.0.0 pirlotv.dog
 0.0.0.0 pirlotv.la
 0.0.0.0 pirlotv.red
 0.0.0.0 pirlotv.shop
@@ -172,6 +183,8 @@
 0.0.0.0 rojadirecta.cloud
 0.0.0.0 rojadirecta.com.co
 0.0.0.0 rojadirectafullhd.net
+0.0.0.0 rojadirectafulltv.org
+0.0.0.0 rojadirectas.cc
 0.0.0.0 rojadirectatvmas.org
 0.0.0.0 s1s.designq.kr
 0.0.0.0 saas.spochak.com
@@ -183,8 +196,10 @@
 0.0.0.0 socolive-tv.quest
 0.0.0.0 socolive1.nl
 0.0.0.0 socolive18.com
+0.0.0.0 socolive74.tv
 0.0.0.0 socolive75.tv
 0.0.0.0 socolivef.cc
+0.0.0.0 socolivei.cc
 0.0.0.0 socolivetvz.top
 0.0.0.0 socolivev.co
 0.0.0.0 socolivezq.tv
@@ -207,9 +222,11 @@
 0.0.0.0 streameasti.site
 0.0.0.0 streameastmirror.com
 0.0.0.0 streameasttop.com
+0.0.0.0 streamed.cyou
 0.0.0.0 streamonsport.lat
 0.0.0.0 streamsport.ie
 0.0.0.0 strims.com.pl
+0.0.0.0 strimstv.pl
 0.0.0.0 suisse.moniptv.ch
 0.0.0.0 supersportbet.com
 0.0.0.0 supersportschools.com
@@ -229,16 +246,22 @@
 0.0.0.0 tarjetaroja.love
 0.0.0.0 tarjetaroja.mba
 0.0.0.0 tarjetaroja.run
+0.0.0.0 tarjetarojadirecta.biz
 0.0.0.0 tarjetarojadirecta.es
 0.0.0.0 tarjetarojaonline.info
 0.0.0.0 tarjetarojaonline.pro
 0.0.0.0 tarjetarojatv.mobi
 0.0.0.0 totalsportek1.is
+0.0.0.0 totalsporteki.fit
+0.0.0.0 totalsportekl.is
 0.0.0.0 totalsportekplus.org
+0.0.0.0 totalsportsindex.com
 0.0.0.0 tour.gra.uk.com
 0.0.0.0 tructiep90phuttv.club
+0.0.0.0 ttbd-socolive.pro
 0.0.0.0 tv.makeevka.com
 0.0.0.0 tv.sfl.ch
+0.0.0.0 v2-sportsurge.buzz
 0.0.0.0 vegasportsnetwork.com
 0.0.0.0 video.fanstream.jp
 0.0.0.0 viet.jajag.me
@@ -256,11 +279,15 @@
 0.0.0.0 xoilac5.top
 0.0.0.0 xoilaclivettbds.tv
 0.0.0.0 xoilactvbm.cc
+0.0.0.0 xoilacvn.app
 0.0.0.0 xoilacvn.net
 0.0.0.0 xoilacxbk.tv
+0.0.0.0 xoilacxbm.tv
 0.0.0.0 xoilacxbr.tv
+0.0.0.0 xoilacxbt.tv
 0.0.0.0 xoilacxxm.cc
 0.0.0.0 xoilaczcd.tv
+0.0.0.0 yallakora.cam
 0.0.0.0 yallakora.com
 0.0.0.0 yallakora.misrlinks.com
 0.0.0.0 yallalives.net

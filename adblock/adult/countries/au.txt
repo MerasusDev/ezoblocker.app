@@ -1,10 +1,11 @@
 ! Title: EZOBLOCKER Adult, Australia (au)
-! Domains: 31 | Updated: 2026-10-17
+! Domains: 34 | Updated: 2026-10-17
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/adult/countries/au.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 ! App: https://ezoblocker.app
 ||adultmegastore.com.au^
+|adulttoymegastore.valuecom.com^
 ||adulttoystore.com.au^
 ||aussieamateurs.com.au^
 ||aussiebabes.net.au^
@@ -15,7 +16,9 @@
 ||clubx.com.au^
 ||danishblue.com.au^
 ||dollsdownunder.com^
+||edelsa.com.pe^
 ||erosadultboutique.com^
+||fairyloot.com^
 ||high-tide.com.au^
 ||iloveboutique.com.au^
 ||itsnormal.com^

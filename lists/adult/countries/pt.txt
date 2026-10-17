@@ -1,35 +1,44 @@
 # Title: EZOBLOCKER Adult, Portugal (pt)
-# Domains: 31 | Updated: 2026-10-17
+# Domains: 40 | Updated: 2026-10-17
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/adult/countries/pt.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
 *.1001noites.com
+*.amoredesejo.com
+*.anesidora.net
+*.beus.com.br
 *.boutiqueluxuria.pt
 *.control.pt
 *.cupidosshop.com
+*.dreamsptystore.com
 *.facebelas.com
 *.fanfindportugal.com
 *.fogododesejo.pt
 *.frutoproibido.com
 frutoproibido.pai.pt
 *.funsexyshop.pt
+*.hotsexshop.com.br
 *.lojadodesejo.com.br
 *.lojadodesejo.pt
+*.lovely.com.br
 *.loveshop.pt
 *.luxoseroticos.com
 *.lxsexshop.pt
 *.milemocoes.com.br
 *.mistercock.pt
+*.mysexshop.pt
 ooh.enbrevubca.blog
 *.ousadias.pt
 *.perolasexshop.pt
 *.portoxxi.com
 *.portugal-fans.com
+*.ptlojas.net
 *.rapidinha.pt
 *.secretsexshop.pt
 *.sexocasual.pt
 *.sexshopatacadao.com.br
+*.sexshoppimenta.com.br
 *.sexshopsexy.com
 *.sotugas.net
 *.vibrolandia.com

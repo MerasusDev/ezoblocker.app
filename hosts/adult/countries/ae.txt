@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, United Arab Emirates (ae)
-# Domains: 39 | Updated: 2026-10-17
+# Domains: 42 | Updated: 2026-10-17
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/countries/ae.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -34,7 +34,9 @@
 0.0.0.0 sexshop365.co.uk
 0.0.0.0 sextoys.cloudns.be
 0.0.0.0 sextoysindubai.com
+0.0.0.0 sextoysuae.com
 0.0.0.0 sextoyuae.store
+0.0.0.0 sjoyful.com
 0.0.0.0 soamazing.com
 0.0.0.0 sohosoriginaladultstore.com
 0.0.0.0 theintimatestore.com
@@ -43,3 +45,4 @@
 0.0.0.0 totallyadult.com.au
 0.0.0.0 tubepornlist.com
 0.0.0.0 velviawellness.com
+0.0.0.0 wellnessae.com

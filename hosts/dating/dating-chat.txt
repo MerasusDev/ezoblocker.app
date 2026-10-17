@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Dating, chat rooms and random video chat
-# Domains: 353 | Updated: 2026-10-17
+# Domains: 358 | Updated: 2026-10-17
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/dating/dating-chat.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -120,6 +120,7 @@
 0.0.0.0 coomeet.bitbucket.io
 0.0.0.0 coomeet.chat
 0.0.0.0 coomeet.com
+0.0.0.0 coomeet.com.tr
 0.0.0.0 dalechatea.me
 0.0.0.0 dardasha.com
 0.0.0.0 dardasha.net
@@ -133,6 +134,7 @@
 0.0.0.0 elitask.com
 0.0.0.0 em.umani.cx.ua
 0.0.0.0 emeraldchat.com
+0.0.0.0 en-us-bazoocam.com
 0.0.0.0 eniyichat.com
 0.0.0.0 eniyiseslichat.com
 0.0.0.0 enterchatroom.com
@@ -160,6 +162,7 @@
 0.0.0.0 gevezeyeri.com
 0.0.0.0 giant-stoixima-apg.aestheticon.gr
 0.0.0.0 greekchat.com
+0.0.0.0 greekchat.eu
 0.0.0.0 greekschat.com
 0.0.0.0 gupshupzone.chatovod.com
 0.0.0.0 harbiyiz.org
@@ -218,6 +221,7 @@
 0.0.0.0 nagoya.rimokura.com
 0.0.0.0 naijachat.com
 0.0.0.0 nazfm.net
+0.0.0.0 newomegle.live
 0.0.0.0 ntu.ff.or.kr
 0.0.0.0 old.coacha.com
 0.0.0.0 omegla.chat
@@ -310,6 +314,7 @@
 0.0.0.0 subdomainfinder.c99.nl
 0.0.0.0 supermekan.com
 0.0.0.0 svenskacams.se
+0.0.0.0 swipr-make-snapchat-friends.softonic.nl
 0.0.0.0 swisschat.org
 0.0.0.0 talk2stranger.com
 0.0.0.0 talkrand.com
