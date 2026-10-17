@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Security
-# Domains: 14,522 | Updated: 2026-10-16
+# Domains: 14,547 | Updated: 2026-10-17
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/domains/security/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -1045,6 +1045,7 @@ appstore.garant.ida.kraft-group.com
 aramex-eg-hqzme.icu
 arbeitsagentur-glsgroup.com.ph
 arbeitsagentur-leboncoinauths.ph
+archer.westeurope.cloudapp.azure.com
 areariservata-subito-consegna.cyou
 areariservata-subito-indirizzo.cc
 artical-gemnii-logn-access.pages.dev
@@ -1435,11 +1436,13 @@ basisbankpremium.services
 batonrougeaidssociety-applesupport-telcel.com.ph
 bca-applesupport-cdiscount.ph
 bca-cetak-kupon.pages.dev
+bd-mainserver.herokuapp.com
 bdo-online-banking-update-account-info.pages.dev
 bdo-online-banking.com.ph
 bdo-onlinebanking.pages.dev
 bdo-support.cc
 bdv-enlinea-credsea.pages.dev
+beachvibesnow.com
 beauty-makeup-tips-4-u.xyz
 began--logn-treezor.pages.dev
 began-auth-uphold-wallet.pages.dev
@@ -2607,6 +2610,13 @@ customer-support-system-customer-help-unit.pages.dev
 customer-support-system-faq-help-center.pages.dev
 customer-support-system-feedback-help-desk.pages.dev
 cyrpto-uphld-login.pages.dev
+d147nolwbekx2b.cloudfront.net
+d19oo8r6k9oumb.cloudfront.net
+d1fzw0miu1r9rc.cloudfront.net
+d1x4e580sn23dn.cloudfront.net
+d23625plpxg1yn.cloudfront.net
+d2f4zpg1mgzwov.cloudfront.net
+d39619tdxn6mhj.cloudfront.net
 daftar-dana-bantuan.pages.dev
 daftarpaket-cara-registrasi-kartu-indosat.pages.dev
 damonbux-com-roblox-robux.pages.dev
@@ -2661,6 +2671,7 @@ davivienda-applesupport.com.ph
 davivienda-labanquepostale.ph
 daviviendadenlinea.me
 daviviendaenlinea.my
+dcv2rnj2ograe.cloudfront.net
 debloquer-icloud.com
 debloquer-icloud.net
 default-blockf-logi.pages.dev
@@ -3137,6 +3148,7 @@ enggg--coo-logiin-upholdd.pages.dev
 engie-be-xptkv.icu
 engie-remboursement.info
 enhenced-web-cloud-live-loggin.pages.dev
+enjoymultiplecats.com
 enn-trezor-wallet.pages.dev
 ens-metamask-sso.pages.dev
 enter189-pintu-login-mudah.pages.dev
@@ -3820,6 +3832,7 @@ fb-24x7-support-help-centre.pages.dev
 fb-log-acccount-center-helps-meta-verifyesxzxz.pages.dev
 fb-log-acccount-center-helps-meta-verifyxx.pages.dev
 fbservice-24x7-support-help-centre.pages.dev
+fearevolve.com
 fed-exodus-wallet.pages.dev
 fed-kucoin--login.pages.dev
 fed-robinhood-logn.pages.dev
@@ -4131,6 +4144,7 @@ gift-card-roblox-quantos-robux-vem.pages.dev
 gift-card-roblox-rewards.pages.dev
 gift-free-internet.pages.dev
 gift-free-sex-with-me-and-my-friend.pages.dev
+globaldatapoints.com
 glovo-ma-yqvkp.icu
 glovoapp-applesupport.com.ph
 gls.parcel-status.info
@@ -4769,6 +4783,7 @@ i-trustcapitl-login.pages.dev
 iao-online-kraton.pages.dev
 iban-elster.de
 ice-mints.sky99idn.uk
+icecreamtester.com
 icloud-activation-lock.com
 icloud-caseid.support
 icloud-content-sale.ph
@@ -4880,6 +4895,7 @@ info-trezrr-wallet.pages.dev
 info-trstcapital-login.pages.dev
 info-wallet-ledger.pages.dev
 info-wallet-uphold.pages.dev
+infoanalytics.live
 infoo--logiin--trezorrr.pages.dev
 infoo--logiin--trezrr.pages.dev
 inform-coinbase-sso.pages.dev
@@ -4906,6 +4922,7 @@ insert-ledgrcom-secure.pages.dev
 inside-logn---trzor-en.pages.dev
 inside-logn-trzor-en.pages.dev
 inside-logn-trzor-ex.pages.dev
+insightenterprisells.com
 insta-customer-service.pages.dev
 insta-io-trezor.pages.dev
 insta-login-front.pages.dev
@@ -5357,6 +5374,7 @@ java288-login-mudah-fleksibel.pages.dev
 jenius128jenius-cemerlang.pages.dev
 jepor987-x-samsung-indonesia-mobile-tv-home-appliances.pages.dev
 jijian-bill-admin.pages.dev
+jobmarcher.com
 join--ledgrcom.pages.dev
 join-chat-whatsapp-my1.pages.dev
 join-chat-whatsapp.pages.dev
@@ -5476,6 +5494,7 @@ keep-secure-loggin-uphold-en.pages.dev
 ketos-reward-nft-meta-airdrop-4.cloudflare1602.workers.dev
 ketos-reward-nft-meta-airdrop-5.cloudflare1602.workers.dev
 ketos-reward-nft-meta-airdrop-6.cloudflare1602.workers.dev
+keyadapter.com
 keyless-wallet-bybit.org
 kfv-29m-kleinanzeigen.info
 kilat77-google-verified.pages.dev
@@ -9570,6 +9589,7 @@ ourtime.variable-authh.workers.dev
 ourtime.zip-confirm.workers.dev
 out-access-cdxx-logins.pages.dev
 out-fi--block-access-en-logiin.pages.dev
+outdooutcome.com
 outlook-officce.coml-support.workers.dev
 overheid.cimonline.eu
 overview-ledgerliv-login.pages.dev
@@ -9751,9 +9771,11 @@ phonepe-appstore.com
 phonepe-appstore.in
 phonepe-reward-4-you.live
 phonepe-reward.live
+pickarest.com
 piggy-bank-bqw.pages.dev
 pin-ledger-wallet.pages.dev
 piraeus-green-banking.ph
+plasticbells.com
 play-compte-refund.com.ph
 play.dewi11-viral.cc
 playstation-gift-card-for-roblox.pages.dev
@@ -10889,6 +10911,7 @@ sharepoint.sa-sharepoint.com
 sharepoint.sharepoint-e13.workers.dev
 sharepoint009183.sharepoint0o393283.workers.dev
 sharepointsupport.com
+sharethere.net
 shinhan-bank.pages.dev
 shipmenticloud.ph
 shop-ledger-hd-wallet.pages.dev
@@ -10979,6 +11002,7 @@ signinvodacomph.ph
 signup-metamsk-login.pages.dev
 simit-por-placa.online
 sin-login-telmex.com.mx
+sincereaccertain.com
 sing-coinbsae-secure.pages.dev
 site-metamsk-logon-in.pages.dev
 site-robinhod-support.pages.dev
@@ -11540,6 +11564,7 @@ subitoconfermas.eu.cc
 subitoverify.shop
 sucursaliphone.lat
 suess-coinbase-secure.pages.dev
+suggestutterly.com
 suiite-trezorr-secure.pages.dev
 suipport-metamask-login.pages.dev
 suit-trzor-online.pages.dev

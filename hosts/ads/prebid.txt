@@ -1,11 +1,10 @@
 # Title: EZOBLOCKER Ads, ad exchange endpoints from Prebid.js / Prebid Server adapters
-# Domains: 290 | Updated: 2026-10-16
+# Domains: 283 | Updated: 2026-10-17
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/ads/prebid.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
 0.0.0.0 a.videoreach.com
-0.0.0.0 abs.cookieless-proxistore.com
 0.0.0.0 acd.op.hicloud.com
 0.0.0.0 ad.adopx.net
 0.0.0.0 ad.invamia.com
@@ -66,7 +65,6 @@
 0.0.0.0 bid.adswag.ai
 0.0.0.0 bid.asterio.ai
 0.0.0.0 bid.bedigitech.com
-0.0.0.0 bid.bluevoox.com
 0.0.0.0 bid.essrtb.com
 0.0.0.0 bid.realry.com
 0.0.0.0 bid.revantage.io
@@ -91,7 +89,6 @@
 0.0.0.0 cm.anyrtb.com
 0.0.0.0 content.adswag.ai
 0.0.0.0 cookie.lmgssp.com
-0.0.0.0 cs.152media-ssp.com
 0.0.0.0 cs.axis-marketplace.com
 0.0.0.0 cs.engagemedia.tv
 0.0.0.0 cs.qt.io
@@ -133,7 +130,6 @@
 0.0.0.0 hb.appush.com
 0.0.0.0 hb.hyperbrainz.com
 0.0.0.0 hb.incrementxserv.com
-0.0.0.0 hb.jsrdn.com
 0.0.0.0 hb.justbidit2.xyz
 0.0.0.0 hb.stngo.com
 0.0.0.0 hb.sweetgum.io
@@ -197,7 +193,6 @@
 0.0.0.0 prebid.melozen.com
 0.0.0.0 prebid.mes.glomex.cloud
 0.0.0.0 prebid.optinadserving.com
-0.0.0.0 prebid.optoutadserving.com
 0.0.0.0 prebid.rtb.allegro.pl
 0.0.0.0 prebidjs-bids-us1.sonar-ads.com
 0.0.0.0 prebidjs-events-us1.sonar-ads.com
@@ -233,7 +228,6 @@
 0.0.0.0 s2s.sportslocalmedia.com
 0.0.0.0 service.gnetrtb.com
 0.0.0.0 srv.adklip.net
-0.0.0.0 srv.kntxy.com
 0.0.0.0 ssp-cookie.logan.ai
 0.0.0.0 ssp.adrelevantis.com
 0.0.0.0 ssp.astraone.io
@@ -272,7 +266,6 @@
 0.0.0.0 tag-ssp.adsmovil.com
 0.0.0.0 tkprebid.aotter.net
 0.0.0.0 track.adklip.net
-0.0.0.0 track.kntxy.com
 0.0.0.0 traffic1.rocketlab.ai
 0.0.0.0 tredio-prebid.attekmi.co
 0.0.0.0 umframe.optinadserving.com

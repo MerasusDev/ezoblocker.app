@@ -1,0 +1,34 @@
+# Title: EZOBLOCKER Trackers, adint
+# Domains: 28 | Updated: 2026-10-17
+# Homepage: https://github.com/ezoblocker/ezoblocker.app
+# Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/trackers/adint.txt
+# License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
+# App: https://ezoblocker.app
+*.ads-monitor.xyz
+*.adsimp.com
+*.adtimizer.co
+*.adtimizer.com
+*.akedo.gg
+*.citymaster.io
+*.controlium.net
+*.cookie-sync.xyz
+d1fcoizt7mje85.cloudfront.net
+d2epnp0vokbtl7.cloudfront.net
+d8lmy5wyiokrq.cloudfront.net
+*.discover-tech.io
+discovertech-alb-100966113.us-east-1.elb.amazonaws.com
+discovertech.us.auth0.com
+*.intelos.io
+*.mtrtb.com
+*.mydsp.io
+*.myipinfo.io
+*.myweb3id.io
+*.platc-tester.com
+*.powerium.net
+*.remindmewhere.app
+*.sync-pixel.com
+*.tekma-dmp.ai
+*.tekma.io
+*.tracookiepixel.xyz
+*.trustlayersdk.com
+*.volasim.com

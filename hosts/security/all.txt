@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Security
-# Domains: 14,522 | Updated: 2026-10-16
+# Domains: 14,547 | Updated: 2026-10-17
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/security/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -1045,6 +1045,7 @@
 0.0.0.0 aramex-eg-hqzme.icu
 0.0.0.0 arbeitsagentur-glsgroup.com.ph
 0.0.0.0 arbeitsagentur-leboncoinauths.ph
+0.0.0.0 archer.westeurope.cloudapp.azure.com
 0.0.0.0 areariservata-subito-consegna.cyou
 0.0.0.0 areariservata-subito-indirizzo.cc
 0.0.0.0 artical-gemnii-logn-access.pages.dev
@@ -1435,11 +1436,13 @@
 0.0.0.0 batonrougeaidssociety-applesupport-telcel.com.ph
 0.0.0.0 bca-applesupport-cdiscount.ph
 0.0.0.0 bca-cetak-kupon.pages.dev
+0.0.0.0 bd-mainserver.herokuapp.com
 0.0.0.0 bdo-online-banking-update-account-info.pages.dev
 0.0.0.0 bdo-online-banking.com.ph
 0.0.0.0 bdo-onlinebanking.pages.dev
 0.0.0.0 bdo-support.cc
 0.0.0.0 bdv-enlinea-credsea.pages.dev
+0.0.0.0 beachvibesnow.com
 0.0.0.0 beauty-makeup-tips-4-u.xyz
 0.0.0.0 began--logn-treezor.pages.dev
 0.0.0.0 began-auth-uphold-wallet.pages.dev
@@ -2607,6 +2610,13 @@
 0.0.0.0 customer-support-system-faq-help-center.pages.dev
 0.0.0.0 customer-support-system-feedback-help-desk.pages.dev
 0.0.0.0 cyrpto-uphld-login.pages.dev
+0.0.0.0 d147nolwbekx2b.cloudfront.net
+0.0.0.0 d19oo8r6k9oumb.cloudfront.net
+0.0.0.0 d1fzw0miu1r9rc.cloudfront.net
+0.0.0.0 d1x4e580sn23dn.cloudfront.net
+0.0.0.0 d23625plpxg1yn.cloudfront.net
+0.0.0.0 d2f4zpg1mgzwov.cloudfront.net
+0.0.0.0 d39619tdxn6mhj.cloudfront.net
 0.0.0.0 daftar-dana-bantuan.pages.dev
 0.0.0.0 daftarpaket-cara-registrasi-kartu-indosat.pages.dev
 0.0.0.0 damonbux-com-roblox-robux.pages.dev
@@ -2661,6 +2671,7 @@
 0.0.0.0 davivienda-labanquepostale.ph
 0.0.0.0 daviviendadenlinea.me
 0.0.0.0 daviviendaenlinea.my
+0.0.0.0 dcv2rnj2ograe.cloudfront.net
 0.0.0.0 debloquer-icloud.com
 0.0.0.0 debloquer-icloud.net
 0.0.0.0 default-blockf-logi.pages.dev
@@ -3137,6 +3148,7 @@
 0.0.0.0 engie-be-xptkv.icu
 0.0.0.0 engie-remboursement.info
 0.0.0.0 enhenced-web-cloud-live-loggin.pages.dev
+0.0.0.0 enjoymultiplecats.com
 0.0.0.0 enn-trezor-wallet.pages.dev
 0.0.0.0 ens-metamask-sso.pages.dev
 0.0.0.0 enter189-pintu-login-mudah.pages.dev
@@ -3820,6 +3832,7 @@
 0.0.0.0 fb-log-acccount-center-helps-meta-verifyesxzxz.pages.dev
 0.0.0.0 fb-log-acccount-center-helps-meta-verifyxx.pages.dev
 0.0.0.0 fbservice-24x7-support-help-centre.pages.dev
+0.0.0.0 fearevolve.com
 0.0.0.0 fed-exodus-wallet.pages.dev
 0.0.0.0 fed-kucoin--login.pages.dev
 0.0.0.0 fed-robinhood-logn.pages.dev
@@ -4131,6 +4144,7 @@
 0.0.0.0 gift-card-roblox-rewards.pages.dev
 0.0.0.0 gift-free-internet.pages.dev
 0.0.0.0 gift-free-sex-with-me-and-my-friend.pages.dev
+0.0.0.0 globaldatapoints.com
 0.0.0.0 glovo-ma-yqvkp.icu
 0.0.0.0 glovoapp-applesupport.com.ph
 0.0.0.0 gls.parcel-status.info
@@ -4769,6 +4783,7 @@
 0.0.0.0 iao-online-kraton.pages.dev
 0.0.0.0 iban-elster.de
 0.0.0.0 ice-mints.sky99idn.uk
+0.0.0.0 icecreamtester.com
 0.0.0.0 icloud-activation-lock.com
 0.0.0.0 icloud-caseid.support
 0.0.0.0 icloud-content-sale.ph
@@ -4880,6 +4895,7 @@
 0.0.0.0 info-trstcapital-login.pages.dev
 0.0.0.0 info-wallet-ledger.pages.dev
 0.0.0.0 info-wallet-uphold.pages.dev
+0.0.0.0 infoanalytics.live
 0.0.0.0 infoo--logiin--trezorrr.pages.dev
 0.0.0.0 infoo--logiin--trezrr.pages.dev
 0.0.0.0 inform-coinbase-sso.pages.dev
@@ -4906,6 +4922,7 @@
 0.0.0.0 inside-logn---trzor-en.pages.dev
 0.0.0.0 inside-logn-trzor-en.pages.dev
 0.0.0.0 inside-logn-trzor-ex.pages.dev
+0.0.0.0 insightenterprisells.com
 0.0.0.0 insta-customer-service.pages.dev
 0.0.0.0 insta-io-trezor.pages.dev
 0.0.0.0 insta-login-front.pages.dev
@@ -5357,6 +5374,7 @@
 0.0.0.0 jenius128jenius-cemerlang.pages.dev
 0.0.0.0 jepor987-x-samsung-indonesia-mobile-tv-home-appliances.pages.dev
 0.0.0.0 jijian-bill-admin.pages.dev
+0.0.0.0 jobmarcher.com
 0.0.0.0 join--ledgrcom.pages.dev
 0.0.0.0 join-chat-whatsapp-my1.pages.dev
 0.0.0.0 join-chat-whatsapp.pages.dev
@@ -5476,6 +5494,7 @@
 0.0.0.0 ketos-reward-nft-meta-airdrop-4.cloudflare1602.workers.dev
 0.0.0.0 ketos-reward-nft-meta-airdrop-5.cloudflare1602.workers.dev
 0.0.0.0 ketos-reward-nft-meta-airdrop-6.cloudflare1602.workers.dev
+0.0.0.0 keyadapter.com
 0.0.0.0 keyless-wallet-bybit.org
 0.0.0.0 kfv-29m-kleinanzeigen.info
 0.0.0.0 kilat77-google-verified.pages.dev
@@ -9570,6 +9589,7 @@
 0.0.0.0 ourtime.zip-confirm.workers.dev
 0.0.0.0 out-access-cdxx-logins.pages.dev
 0.0.0.0 out-fi--block-access-en-logiin.pages.dev
+0.0.0.0 outdooutcome.com
 0.0.0.0 outlook-officce.coml-support.workers.dev
 0.0.0.0 overheid.cimonline.eu
 0.0.0.0 overview-ledgerliv-login.pages.dev
@@ -9751,9 +9771,11 @@
 0.0.0.0 phonepe-appstore.in
 0.0.0.0 phonepe-reward-4-you.live
 0.0.0.0 phonepe-reward.live
+0.0.0.0 pickarest.com
 0.0.0.0 piggy-bank-bqw.pages.dev
 0.0.0.0 pin-ledger-wallet.pages.dev
 0.0.0.0 piraeus-green-banking.ph
+0.0.0.0 plasticbells.com
 0.0.0.0 play-compte-refund.com.ph
 0.0.0.0 play.dewi11-viral.cc
 0.0.0.0 playstation-gift-card-for-roblox.pages.dev
@@ -10889,6 +10911,7 @@
 0.0.0.0 sharepoint.sharepoint-e13.workers.dev
 0.0.0.0 sharepoint009183.sharepoint0o393283.workers.dev
 0.0.0.0 sharepointsupport.com
+0.0.0.0 sharethere.net
 0.0.0.0 shinhan-bank.pages.dev
 0.0.0.0 shipmenticloud.ph
 0.0.0.0 shop-ledger-hd-wallet.pages.dev
@@ -10979,6 +11002,7 @@
 0.0.0.0 signup-metamsk-login.pages.dev
 0.0.0.0 simit-por-placa.online
 0.0.0.0 sin-login-telmex.com.mx
+0.0.0.0 sincereaccertain.com
 0.0.0.0 sing-coinbsae-secure.pages.dev
 0.0.0.0 site-metamsk-logon-in.pages.dev
 0.0.0.0 site-robinhod-support.pages.dev
@@ -11540,6 +11564,7 @@
 0.0.0.0 subitoverify.shop
 0.0.0.0 sucursaliphone.lat
 0.0.0.0 suess-coinbase-secure.pages.dev
+0.0.0.0 suggestutterly.com
 0.0.0.0 suiite-trezorr-secure.pages.dev
 0.0.0.0 suipport-metamask-login.pages.dev
 0.0.0.0 suit-trzor-online.pages.dev
